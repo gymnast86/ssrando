@@ -33,6 +33,12 @@ Upper Skyloft:
       Item from Cawlin: Knock on Toilet Door & Day
       Ghost/Pipit's Crystals: Cawlin's Letter & Day
       Fledge's Crystals: Central Skyloft - Bazaar - Endurance Potion & Night
+      Bonk Classroom Bookshelf: Nothing
+      Bonk Headmaster Gaepora's Bookshelf: Nothing
+      In Fledge's Closet: Nothing
+      In Groose's Closet: Nothing
+      In Owlan's Closet: Nothing
+      In Karane's Closet: Nothing
 
     Link's Room:
       can-sleep: true
@@ -42,6 +48,7 @@ Upper Skyloft:
         Knight Academy: Nothing
       locations:
         Crystal in Link's Room: Night
+        In Link's Closet: Nothing
 
     Zelda's Room:
       entrance:

@@ -13,6 +13,41 @@ Upper Skyloft - Fledge's Gift:
     - event/114-Friend/16
     - oarc/F001r/l3
     - oarc/F001r/l4
+Upper Skyloft - Bonk Classroom Bookshelf:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F001r/r0/l0/TgReact/0xFC5C
+Upper Skyloft - Bonk Headmaster Gaepora's Bookshelf:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F001r/r3/l0/TgReact/0xFC07
+Upper Skyloft - In Link's Closet:
+  original_item: Blue Rupee
+  type: Closets
+  Paths:
+    - stage/F001r/r1/l0/chest/0xFC08
+Upper Skyloft - In Fledge's Closet:
+  original_item: Green Rupee
+  type: Closets
+  Paths:
+    - stage/F001r/r1/l0/chest/0xFC07
+Upper Skyloft - In Groose's Closet:
+  original_item: Green Rupee
+  type: Closets
+  Paths:
+    - stage/F001r/r2/l0/chest/0xFC03
+Upper Skyloft - In Owlan's Closet:
+  original_item: Green Rupee
+  type: Closets
+  Paths:
+    - stage/F001r/r5/l0/chest/0xFC05
+Upper Skyloft - In Karane's Closet:
+  original_item: Green Rupee
+  type: Closets
+  Paths:
+    - stage/F001r/r6/l0/chest/0xFC06
 Upper Skyloft - Owlan's Gift:
   original item: Wooden Shield
   type:

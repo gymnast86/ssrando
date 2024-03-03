@@ -236,13 +236,54 @@
   ui: option_rupoor_mode
 - name: Rupeesanity
   command: rupeesanity
-  type: boolean
-  default: false
-  bits: 2
+  type: singlechoice
+  default: "Vanilla"
+  choices:
+    - Vanilla
+    - Beginner
+    - Intermediate
+    - Advanced
+  bits: 3
   help: "Shuffles freestanding rupees. When unshuffled, all freestanding rupees will remain vanilla.
         Note, it is not possible to shuffle some freestanding rupees yet (e.g. the rupees on the Lumpy Pumpkin
         chandelier)."
   ui: option_rupeesanity
+- name: Underground Rupeesanity
+  command: underground_rupeesanity
+  type: boolean
+  default: false
+  help: "Shuffles underground freestanding rupees."
+  ui: option_underground_rupeesanity
+- name: Gratitude Crystal Shuffle
+  command: gratitude_crystal_shuffle
+  type: boolean
+  default: false
+  help: "Shuffles loose crystals."
+  ui: option_gratitude_crystal_shuffle
+- name: Stamina Fruit Shuffle
+  command: stamina_fruit_shuffle
+  type: boolean
+  default: false
+  help: "Shuffles Stamina Fruit."
+  ui: option_stamina_fruit_shuffle
+- name: NPC Closet Shuffle
+  command: npc_closet_shuffle
+  type: boolean
+  default: false
+  help: "Shuffles NPC Closets."
+  ui: option_npc_closet_shuffle
+- name: Hidden Item Shuffle
+  command: hidden_item_shuffle
+  type: boolean
+  default: false
+  help: "Shuffles Hidden Items (TgReacts)."
+  ui: option_hidden_item_shuffle
+- name: Goddess Chest Shuffle
+  command: goddess_chest_shuffle
+  type: boolean
+  default: false
+  help: "Shuffles Goddess Chests."
+  ui: option_goddess_chest_shuffle
 - name: Place Scrap Shop Upgrades
   command: gondo-upgrades
   type: boolean
@@ -400,6 +441,7 @@
     - Bomb Throws
     - Long Range Skyward Strike Jumpslash
     - Advanced Lizalfos Combat
+    - Precise Beetle Flying
     ## Skyloft / Sky
     - Waterfall Cave Jump
     - Beedle's Shop With Bombs

@@ -45,6 +45,7 @@ Main:
       Corridor: Pass Spume | Deck - Freely Usable Timeshift Stone
     locations:
       Chest before 4-Door Corridor: Deck - Freely Usable Timeshift Stone
+      Blow Ceiling Lamp below Scervo Fight: Gust Bellows
 
   Ship's Bow:
     exits:
@@ -62,6 +63,8 @@ Main:
       Before Boss Door: Nothing
     locations:
       Port Rooms - Switch: Bow
+      Blow Front Ceiling Lamp in 4-Door Corridor: Gust Bellows
+      Blow Back Ceiling Lamp in 4-Door Corridor: Gust Bellows
 
   Starboard Rooms:
     exits:
@@ -71,6 +74,7 @@ Main:
     locations:
       Switch: Nothing
       Generator: Bow & Deck - Freely Usable Timeshift Stone
+      Blow Ceiling Lamp in Right Generator Room: Gust Bellows & Deck - Freely Usable Timeshift Stone
 
   Port Rooms:
     exits:
@@ -79,6 +83,7 @@ Main:
     locations:
       Switch: Bow
       Generator: Bow & Deck - Freely Usable Timeshift Stone
+      Blow Ceiling Lamp in Left Generator Room: Bow & Gust Bellows
 
   Before Boss Door:
     exits:
@@ -91,6 +96,8 @@ Main:
         Combination Lock
       Open Boss Door:
         Deck - Freely Usable Timeshift Stone & Sandship Boss Key
+      Blow Ceiling Lamp Right of Boss Door: Gust Bellows
+      Blow Ceiling Lamp Left of Boss Door: Gust Bellows
 
   Brig:
     exits:

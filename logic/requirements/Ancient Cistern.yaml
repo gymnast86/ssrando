@@ -64,6 +64,11 @@ Main:
         Rupee under Lilypad: Flip Second Lilypad 1 & Water Dragon's Scale
         Activate Water Geyser: Flip Second Lilypad 1 & Water Dragon's Scale
         Flip Second Lilypad 2: Flip First Lilypad & Activate Water Geyser & Whip
+        Slingshot East Lamp after Pipes 1: ((Water Dragon's Scale & Whip) | Clawshots) & Slingshot
+        Slingshot East Lamp after Pipes 2: ((Water Dragon's Scale & Whip) | Clawshots) & Slingshot
+        Slingshot West Lamp after Pipes 1: Water Dragon's Scale & Slingshot
+        Slingshot West Lamp after Pipes 2: Water Dragon's Scale & Slingshot
+        Slingshot West Lamp after Pipes 3: Water Dragon's Scale & Slingshot
 
       Upper Area:
         exits:
@@ -131,6 +136,8 @@ Main:
     locations:
       Stop Cursed Waterfall: Beetle
       Blow Rock: Hook Beetle | (Bomb Bag & Bomb Throws Trick)
+      Rupee in Basement Demon's Right Eye: Beetle
+      Rupee in Basement Demon's Left Eye: Beetle
 
     Rotating Vines:
       exits:

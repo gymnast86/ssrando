@@ -7,6 +7,10 @@ Main:
       Main Exit: Nothing
       Hub Room: Lower Drawbridge & Dislodge Boulder
     locations:
+      Bonk Front Left Elephant Pillar: Nothing
+      Bonk Front Right Elephant Pillar: Nothing
+      Bonk Back Left Elephant Pillar: Nothing
+      Bonk Back Right Elephant Pillar: Nothing
       Vent Chest: Digging Mitts
       Rupee above Drawbridge: Beetle
       Lower Drawbridge:
@@ -53,6 +57,8 @@ Main:
       Hub Room: Rock to Hub Room
     locations:
       Chest in West Room: Nothing
+      Bonk Left Pillar in West Room: Nothing
+      Bonk Right Pillar in West Room: Nothing
       Rock to Hub Room: Bomb Bag | Hook Beetle
 
   Room with Slopes:
@@ -71,6 +77,10 @@ Main:
       locations:
         Boss Key Chest: Nothing
         Open Boss Door: Earth Temple Boss Key
+        Stamina Fruit before Boulder Chase 1: Nothing
+        Stamina Fruit before Boulder Chase 2: Nothing
+        Stamina Fruit before Boulder Chase 3: Nothing
+        Stamina Fruit before Boulder Chase 4: Nothing
 
 Boss Room:
   Entry:

@@ -737,6 +737,11 @@ items:
 - \Ancient Cistern\Main\Main Room\After Gutters\Rupee under Lilypad
 - \Ancient Cistern\Main\Main Room\After Gutters\Activate Water Geyser
 - \Ancient Cistern\Main\Main Room\After Gutters\Flip Second Lilypad 2
+- \Ancient Cistern\Main\Main Room\After Gutters\Slingshot East Lamp after Pipes 1
+- \Ancient Cistern\Main\Main Room\After Gutters\Slingshot East Lamp after Pipes 2
+- \Ancient Cistern\Main\Main Room\After Gutters\Slingshot West Lamp after Pipes 1
+- \Ancient Cistern\Main\Main Room\After Gutters\Slingshot West Lamp after Pipes 2
+- \Ancient Cistern\Main\Main Room\After Gutters\Slingshot West Lamp after Pipes 3
 - \Ancient Cistern\Main\Main Room\After Gutters\Upper Area\Upper Lever
 - \Ancient Cistern\Main\Main Room\Spider Thread Area\Extend Platform
 - \Ancient Cistern\Main\East Part\Unlock Combination Lock Door
@@ -752,6 +757,8 @@ items:
 - \Ancient Cistern\Main\Basement Gutters\Past Skulltula\Bokoblin
 - \Ancient Cistern\Main\Basement\Stop Cursed Waterfall
 - \Ancient Cistern\Main\Basement\Blow Rock
+- \Ancient Cistern\Main\Basement\Rupee in Basement Demon's Right Eye
+- \Ancient Cistern\Main\Basement\Rupee in Basement Demon's Left Eye
 - \Ancient Cistern\Main\Basement\Spider Thread\Activate Water Geyser
 - \Ancient Cistern\Main\Basement\Under the Statue\Boss Key Chest
 - \Ancient Cistern\Main\Inside Statue\Activate Water Geysers
@@ -760,6 +767,10 @@ items:
 - \Ancient Cistern\Boss Room\Beat Koloktos
 - \Ancient Cistern\Boss Room\Heart Container
 - \Ancient Cistern\Flame Room\Farore's Flame
+- \Earth Temple\Main\First Room\Bonk Front Left Elephant Pillar
+- \Earth Temple\Main\First Room\Bonk Front Right Elephant Pillar
+- \Earth Temple\Main\First Room\Bonk Back Left Elephant Pillar
+- \Earth Temple\Main\First Room\Bonk Back Right Elephant Pillar
 - \Earth Temple\Main\First Room\Vent Chest
 - \Earth Temple\Main\First Room\Rupee above Drawbridge
 - \Earth Temple\Main\First Room\Lower Drawbridge
@@ -778,10 +789,20 @@ items:
 - \Earth Temple\Main\Hub Room\Past Lava Section\Right Peg
 - \Earth Temple\Main\East Room\Chest after Double Lizalfos Fight
 - \Earth Temple\Main\West Room\Chest in West Room
+- \Earth Temple\Main\West Room\Bonk Left Pillar in West Room
+- \Earth Temple\Main\West Room\Bonk Right Pillar in West Room
 - \Earth Temple\Main\West Room\Rock to Hub Room
 - \Earth Temple\Main\Room with Slopes\Rock in Second Slope Resting Area
 - \Earth Temple\Main\Room with Slopes\Front of Boss Door\Boss Key Chest
 - \Earth Temple\Main\Room with Slopes\Front of Boss Door\Open Boss Door
+- \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder
+  Chase 1
+- \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder
+  Chase 2
+- \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder
+  Chase 3
+- \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder
+  Chase 4
 - \Earth Temple\Boss Room\Slope\Goddess Sword Strat
 - \Earth Temple\Boss Room\Slope\Longsword Strat
 - \Earth Temple\Boss Room\Slope\Master Sword Strat
@@ -1153,6 +1174,10 @@ items:
 - \Fire Sanctuary\Main\First Room\Hit Water Plant
 - \Fire Sanctuary\Main\First Room\Past Water Plant\Defeat Last Bokoblin
 - \Fire Sanctuary\Main\First Room\Past Water Plant\Chest in First Room
+- \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Front Left Owl Statue
+- \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Front Right Owl Statue
+- \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Back Left Owl Statue
+- \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Back Right Owl Statue
 - \Fire Sanctuary\Main\Second Room\Chest in Second Room
 - \Fire Sanctuary\Main\Second Room\Open Doors to Water Fruit
 - \Fire Sanctuary\Main\Second Room\Defeat Magmanos
@@ -1160,10 +1185,29 @@ items:
 - \Fire Sanctuary\Main\First Bridge\Lizalfos Fight
 - \Fire Sanctuary\Main\Room with Water Plant\Blow up Rock
 - \Fire Sanctuary\Main\Room with Water Plant\Hit Water Plant
+- \Fire Sanctuary\Main\Room with Water Plant\Left Rupee above Blocked Lava Source
+- \Fire Sanctuary\Main\Room with Water Plant\Right Rupee above Blocked Lava Source
+- \Fire Sanctuary\Main\Room with Water Plant\Rupee in Alcove near Blocked Lava Source
+- \Fire Sanctuary\Main\Room with Water Plant\First Rupee in Alcove opposite Blocked
+  Lava Source
+- \Fire Sanctuary\Main\Room with Water Plant\Second Rupee in Alcove opposite Blocked
+  Lava Source
+- \Fire Sanctuary\Main\Room with Water Plant\Third Rupee in Alcove opposite Blocked
+  Lava Source
 - \Fire Sanctuary\Main\Room with Water Plant\Past Lava\Unlock Key Door
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Chest near First Trapped Mogma
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Rescue First Trapped Mogma
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Blow up Rock in Tunnel
+- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
+  Double Magmanos Room 1
+- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
+  Double Magmanos Room 2
+- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
+  Double Magmanos Room 3
+- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
+  Double Magmanos Room 4
+- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
+  Double Magmanos Room 5
 - \Fire Sanctuary\Main\Water Fruit Room\First Chest in Water Fruit Room
 - \Fire Sanctuary\Main\Water Fruit Room\Second Chest in Water Fruit Room
 - \Fire Sanctuary\Main\Water Fruit Room\Hydrate Frog
@@ -1179,6 +1223,8 @@ items:
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Blow up Wall
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable Wall\Chest after Bombable
   Wall
+- \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable Wall\Underground Rupee
+  behind Bombable Wall
 - \Fire Sanctuary\Main\West of Boss Door\Hit Water Plant
 - \Fire Sanctuary\Main\West of Boss Door\Catch Plats
 - \Fire Sanctuary\Main\West of Boss Door\Plats' Chest
@@ -1198,10 +1244,25 @@ items:
 - \Lanayru Mining Facility\Main\First Room\Left Lever
 - \Lanayru Mining Facility\Main\First Room\Right Lever
 - \Lanayru Mining Facility\Main\First Room\Chest behind Bars
+- \Lanayru Mining Facility\Main\First Room\Left Front Rupee behind Statue
+- \Lanayru Mining Facility\Main\First Room\Left Middle Rupee behind Statue
+- \Lanayru Mining Facility\Main\First Room\Left Back Rupee behind Statue
+- \Lanayru Mining Facility\Main\First Room\Right Front Rupee behind Statue
+- \Lanayru Mining Facility\Main\First Room\Right Middle Rupee behind Statue
+- \Lanayru Mining Facility\Main\First Room\Right Back Rupee behind Statue
+- \Lanayru Mining Facility\Main\First Room\Bonk Bomb Flower Pillar
+- \Lanayru Mining Facility\Main\First Room\Slingshot Left Robot Eye in First Room
+- \Lanayru Mining Facility\Main\First Room\Slingshot Right Robot Eye in First Room
 - \Lanayru Mining Facility\Main\First Hub\Push Box on Switch
 - \Lanayru Mining Facility\Main\Key Locked Room\Blow Up Boxes
 - \Lanayru Mining Facility\Main\Key Locked Room\Activate Timeshift Stone
 - \Lanayru Mining Facility\Main\Key Locked Room\Chest in Key Locked Room
+- \Lanayru Mining Facility\Main\Key Locked Room\Slingshot Bomb Flower Pillar in Key
+  Locked Room
+- \Lanayru Mining Facility\Main\Key Locked Room\Slingshot Left Robot Eye in Key Locked
+  Room
+- \Lanayru Mining Facility\Main\Key Locked Room\Slingshot Right Robot Eye in Key Locked
+  Room
 - \Lanayru Mining Facility\Main\Hop Across Boxes Room\Blow Up Rocks
 - \Lanayru Mining Facility\Main\Hop Across Boxes Room\Raised Chest in Hop across Boxes
   Room
@@ -1221,8 +1282,34 @@ items:
 - \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Blow Off Pile for Second Crawlspace
 - \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Open Gate
 - \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Chest behind First Crawlspace
+- \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Rupee in First Crawlspace
+- \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Blow Painting behind First
+  Clawlspace
 - \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Switch under Sand
 - \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Chest in Spike Maze
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\First Rupee in Crawlspace
+  before Spike Maze
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Second Rupee in Crawlspace
+  before Spike Maze
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 1
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 2
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 3
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 4
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze
+  1
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze
+  2
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze
+  3
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze
+  4
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Central Rupee in Spike Maze
+  1
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Central Rupee in Spike Maze
+  2
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Central Rupee in Spike Maze
+  3
+- \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Northeast Rupee in Spike Maze
 - \Lanayru Mining Facility\Main\Big Hub\Near Boss Key Room Second Exit\Push Box
 - \Lanayru Mining Facility\Main\Big Hub\Near Boss Key Room Second Exit\Shortcut Chest
   in Main Hub
@@ -1236,6 +1323,11 @@ items:
 - \Lanayru Mining Facility\Main\Near Boss Door\Open Second Wind Gate
 - \Lanayru Mining Facility\Main\Boss Key Room\Can Beat Room
 - \Lanayru Mining Facility\Main\Boss Key Room\Boss Key Chest
+- \Lanayru Mining Facility\Main\Boss Key Room\Rupee behind South Statue in Northeast
+  Room
+- \Lanayru Mining Facility\Main\Boss Key Room\Blow Robot behind Bottom Northwest Statue
+- \Lanayru Mining Facility\Main\Boss Key Room\Blow Robot behind Middle Northwest Statue
+- \Lanayru Mining Facility\Main\Boss Key Room\Blow Robot behind Top Northwest Statue
 - \Lanayru Mining Facility\Boss Room\After Sand Drain\Beat Moldarach
 - \Lanayru Mining Facility\Boss Room\After Sand Drain\Heart Container
 - \Lanayru Mining Facility\Hall of Ancient Robots\Entry\Hit Timeshift Stone
@@ -1491,14 +1583,21 @@ items:
 - \Sandship\Main\Deck\Captain's Cabin\Bars
 - \Sandship\Main\Deck\Captain's Cabin\Boss Key Chest
 - \Sandship\Main\Before Ship's Bow\Chest before 4-Door Corridor
+- \Sandship\Main\Before Ship's Bow\Blow Ceiling Lamp below Scervo Fight
 - \Sandship\Main\Ship's Bow\Chest after Scervo Fight
+- \Sandship\Main\Corridor\Blow Front Ceiling Lamp in 4-Door Corridor
+- \Sandship\Main\Corridor\Blow Back Ceiling Lamp in 4-Door Corridor
 - \Sandship\Main\Starboard Rooms\Switch
 - \Sandship\Main\Starboard Rooms\Generator
+- \Sandship\Main\Starboard Rooms\Blow Ceiling Lamp in Right Generator Room
 - \Sandship\Main\Port Rooms\Switch
 - \Sandship\Main\Port Rooms\Generator
+- \Sandship\Main\Port Rooms\Blow Ceiling Lamp in Left Generator Room
 - \Sandship\Main\Before Boss Door\Combination Lock
 - \Sandship\Main\Before Boss Door\Chest behind Combination Lock
 - \Sandship\Main\Before Boss Door\Open Boss Door
+- \Sandship\Main\Before Boss Door\Blow Ceiling Lamp Right of Boss Door
+- \Sandship\Main\Before Boss Door\Blow Ceiling Lamp Left of Boss Door
 - \Sandship\Main\Treasure Room\Treasure Room First Chest
 - \Sandship\Main\Treasure Room\Treasure Room Second Chest
 - \Sandship\Main\Treasure Room\Treasure Room Third Chest
@@ -1759,13 +1858,27 @@ items:
 - \Skyview\Can Hit High Skyview Switches
 - \Skyview\Can Cut Tree
 - \Skyview\Main\Entry\Cut Tree
+- \Skyview\Main\Entry\Slingshot Wall Eye behind First Bird Statue
+- \Skyview\Main\Entry\Bonk Tree Root after First Skulltula Web
 - \Skyview\Main\First Room\Destroy Barricade
 - \Skyview\Main\First Room\Switch to One Eye Room
 - \Skyview\Main\First Room\Goddess Wall Trigger
 - \Skyview\Main\One Eye Room\Unlock Door to First Hub
+- \Skyview\Main\One Eye Room\Slingshot Southwest Wall Eye in One Eye Room
+- \Skyview\Main\One Eye Room\Slingshot Northwest Wall Eye in One Eye Room
+- \Skyview\Main\One Eye Room\Slingshot East Wall Eye in One Eye Room
+- \Skyview\Main\One Eye Room\Slingshot Deactivated Main Eye in One Eye Room
 - \Skyview\Main\First Hub\Switch to Left Room
 - \Skyview\Main\First Hub\Switch to Right Room
 - \Skyview\Main\First Hub\One Water Raise
+- \Skyview\Main\First Hub\Bonk Tree Branch with Chest
+- \Skyview\Main\First Hub\Slingshot West Water Gate
+- \Skyview\Main\First Hub\Slingshot East Water Gate
+- \Skyview\Main\First Hub\Rupee under South Walkway before Hub Room
+- \Skyview\Main\First Hub\First Rupee under West Walkway before Hub Room
+- \Skyview\Main\First Hub\Second Rupee under West Walkway before Hub Room
+- \Skyview\Main\First Hub\Rupee on Lower Tree Branch before Hub Room
+- \Skyview\Main\First Hub\Rupee on Coiled Tree Branch before Hub Room
 - \Skyview\Main\First Hub\Left Room\Hit Vines
 - \Skyview\Main\First Hub\Left Room\Spider Roll
 - \Skyview\Main\First Hub\Left Room\Raise Water
@@ -1773,15 +1886,29 @@ items:
 - \Skyview\Main\First Hub\Right Room\After Crawlspace\Raise Water
 - \Skyview\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace
 - \Skyview\Main\First Hub\Right Room\Upper Area\Chest behind Two Eyes
-- \Skyview\Main\Second Hub\Rupee in Southeast Tunnel
-- \Skyview\Main\Second Hub\Rupee in Southwest Tunnel
-- \Skyview\Main\Second Hub\Rupee in East Tunnel
+- \Skyview\Main\First Hub\Right Room\Upper Area\Slingshot Left Deactivated Eye in
+  Two Eyes Room
+- \Skyview\Main\First Hub\Right Room\Upper Area\Slingshot Right Deactivated Eye in
+  Two Eyes Room
 - \Skyview\Main\Second Hub\Switch to Miniboss Room
 - \Skyview\Main\Second Hub\Switch for Bars
 - \Skyview\Main\Second Hub\Switch to Left Room
+- \Skyview\Main\Second Hub\Rupee on South Bird Pillar in Hub Room
+- \Skyview\Main\Second Hub\Bonk South Bird Pillar in Hub Room
+- \Skyview\Main\Second Hub\Bonk East Bird Pillar in Hub Room
+- \Skyview\Main\Second Hub\Rupee on Northeast Bird Pillar in Hub Room
+- \Skyview\Main\Second Hub\Rupee in Southeast Tunnel
+- \Skyview\Main\Second Hub\Rupee in Southwest Tunnel
+- \Skyview\Main\Second Hub\Rupee in East Tunnel
+- \Skyview\Main\Second Hub\First Rupee in Northeast Tunnel
+- \Skyview\Main\Second Hub\Second Rupee in Northeast Tunnel
+- \Skyview\Main\Second Hub\Third Rupee in Northeast Tunnel
 - \Skyview\Main\Second Hub\Item behind Bars
 - \Skyview\Main\Second Hub\Miniboss Room\Chest after Stalfos Fight
 - \Skyview\Main\Second Hub\Left Rooms\Chest behind Three Eyes
+- \Skyview\Main\Second Hub\Left Rooms\Slingshot Southwest Wall Eye in Three Eyes Room
+- \Skyview\Main\Second Hub\Left Rooms\Slingshot Deactivated Middle Eye in Three Eyes
+  Room
 - \Skyview\Main\Second Hub\Staldra Room\Can Defeat Staldra
 - \Skyview\Main\Last Room\Near East Entrance\Deal with Hanging Skulltula
 - \Skyview\Main\Last Room\Before Rope\Unlock Shortcut to Second Hub
@@ -1791,7 +1918,12 @@ items:
 - \Skyview\Main\Last Room\Near Boss Key Chest\Boss Key Chest
 - \Skyview\Boss Room\Beat Ghirahim
 - \Skyview\Boss Room\Heart Container
+- \Skyview\Spring\Slingshot top of Spring Door
+- \Skyview\Spring\Bonk Broken Left Spring Pillar
+- \Skyview\Spring\Bonk Broken Right Spring Pillar
 - \Skyview\Spring\Rupee on Spring Pillar
+- \Skyview\Spring\Slingshot Post Left of Goddess Crest
+- \Skyview\Spring\Slingshot Post Right of Goddess Crest
 - \Skyview\Spring\Strike Crest
 - \Skyview\Spring\Goddess Cube in Skyview Spring
 - \Skyview\Spring\Sacred Water
@@ -2989,6 +3121,16 @@ areas:
                     Flip Second Lilypad 2: "\\Ancient Cistern\\Main\\Main Room\\After\
                       \ Gutters\\Flip First Lilypad & \\Ancient Cistern\\Main\\Main\
                       \ Room\\After Gutters\\Activate Water Geyser & Whip"
+                    Slingshot East Lamp after Pipes 1: "((Water Dragon's Scale & Whip)\
+                      \ | Clawshots) & \\Slingshot"
+                    Slingshot East Lamp after Pipes 2: "((Water Dragon's Scale & Whip)\
+                      \ | Clawshots) & \\Slingshot"
+                    Slingshot West Lamp after Pipes 1: "Water Dragon's Scale & \\\
+                      Slingshot"
+                    Slingshot West Lamp after Pipes 2: "Water Dragon's Scale & \\\
+                      Slingshot"
+                    Slingshot West Lamp after Pipes 3: "Water Dragon's Scale & \\\
+                      Slingshot"
                   name: \Ancient Cistern\Main\Main Room\After Gutters
                   sub_areas:
                     Upper Area:
@@ -3134,6 +3276,8 @@ areas:
               locations:
                 Stop Cursed Waterfall: \Beetle
                 Blow Rock: "\\Hook Beetle | (Bomb Bag & Bomb Throws Trick)"
+                Rupee in Basement Demon's Right Eye: \Beetle
+                Rupee in Basement Demon's Left Eye: \Beetle
               name: \Ancient Cistern\Main\Basement
               sub_areas:
                 Rotating Vines:
@@ -3290,6 +3434,10 @@ areas:
                   \ Drawbridge & \\Earth Temple\\Main\\First Room\\Dislodge Boulder"
               hint_region: Earth Temple
               locations:
+                Bonk Front Left Elephant Pillar: 'True'
+                Bonk Front Right Elephant Pillar: 'True'
+                Bonk Back Left Elephant Pillar: 'True'
+                Bonk Back Right Elephant Pillar: 'True'
                 Vent Chest: \Digging Mitts
                 Rupee above Drawbridge: \Beetle
                 Lower Drawbridge: "\\Beetle | \\Bow | (\\Long Range Skyward Strike\
@@ -3380,6 +3528,8 @@ areas:
               hint_region: Earth Temple
               locations:
                 Chest in West Room: 'True'
+                Bonk Left Pillar in West Room: 'True'
+                Bonk Right Pillar in West Room: 'True'
                 Rock to Hub Room: "Bomb Bag | \\Hook Beetle"
               name: \Earth Temple\Main\West Room
               sub_areas: {}
@@ -3416,6 +3566,10 @@ areas:
                   locations:
                     Boss Key Chest: 'True'
                     Open Boss Door: Earth Temple Boss Key
+                    Stamina Fruit before Boulder Chase 1: 'True'
+                    Stamina Fruit before Boulder Chase 2: 'True'
+                    Stamina Fruit before Boulder Chase 3: 'True'
+                    Stamina Fruit before Boulder Chase 4: 'True'
                   name: \Earth Temple\Main\Room with Slopes\Front of Boss Door
                   sub_areas: {}
                   toplevel_alias: null
@@ -5080,6 +5234,10 @@ areas:
                     Defeat Last Bokoblin: \Can Defeat Bokoblins
                     Chest in First Room: \Fire Sanctuary\Main\First Room\Past Water
                       Plant\Defeat Last Bokoblin
+                    Slingshot Front Left Owl Statue: \Slingshot
+                    Slingshot Front Right Owl Statue: \Slingshot
+                    Slingshot Back Left Owl Statue: \Slingshot
+                    Slingshot Back Right Owl Statue: \Slingshot
                   name: \Fire Sanctuary\Main\First Room\Past Water Plant
                   sub_areas: {}
                   toplevel_alias: null
@@ -5168,6 +5326,12 @@ areas:
               locations:
                 Blow up Rock: \Hook Beetle
                 Hit Water Plant: "\\Distance Activator | Bomb Bag"
+                Left Rupee above Blocked Lava Source: \Beetle
+                Right Rupee above Blocked Lava Source: \Beetle
+                Rupee in Alcove near Blocked Lava Source: \Beetle
+                First Rupee in Alcove opposite Blocked Lava Source: \Beetle
+                Second Rupee in Alcove opposite Blocked Lava Source: \Beetle
+                Third Rupee in Alcove opposite Blocked Lava Source: \Beetle
               name: \Fire Sanctuary\Main\Room with Water Plant
               sub_areas:
                 Past Lava:
@@ -5222,6 +5386,11 @@ areas:
                   locations:
                     Rescue First Trapped Mogma: 'True'
                     Blow up Rock in Tunnel: \Mogma Mitts
+                    Underground Rupee beneath Double Magmanos Room 1: \Mogma Mitts
+                    Underground Rupee beneath Double Magmanos Room 2: \Mogma Mitts
+                    Underground Rupee beneath Double Magmanos Room 3: \Mogma Mitts
+                    Underground Rupee beneath Double Magmanos Room 4: \Mogma Mitts
+                    Underground Rupee beneath Double Magmanos Room 5: \Mogma Mitts
                   name: \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area
                   sub_areas: {}
                   toplevel_alias: null
@@ -5426,6 +5595,7 @@ areas:
                   hint_region: Fire Sanctuary
                   locations:
                     Chest after Bombable Wall: 'True'
+                    Underground Rupee behind Bombable Wall: 'True'
                   name: \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable
                     Wall
                   sub_areas: {}
@@ -5668,6 +5838,15 @@ areas:
                 Right Lever: 'True'
                 Chest behind Bars: \Lanayru Mining Facility\Main\First Room\Right
                   Lever
+                Left Front Rupee behind Statue: 'True'
+                Left Middle Rupee behind Statue: 'True'
+                Left Back Rupee behind Statue: \Hook Beetle
+                Right Front Rupee behind Statue: "Bomb Bag | \\Hook Beetle"
+                Right Middle Rupee behind Statue: 'True'
+                Right Back Rupee behind Statue: 'True'
+                Bonk Bomb Flower Pillar: 'True'
+                Slingshot Left Robot Eye in First Room: \Slingshot
+                Slingshot Right Robot Eye in First Room: \Slingshot
               name: \Lanayru Mining Facility\Main\First Room
               sub_areas: {}
               toplevel_alias: null
@@ -5709,6 +5888,13 @@ areas:
                   \ Keylocked Slingshot Trickshot Trick))"
                 Chest in Key Locked Room: \Lanayru Mining Facility\Main\Key Locked
                   Room\Activate Timeshift Stone
+                Slingshot Bomb Flower Pillar in Key Locked Room: \Slingshot
+                Slingshot Left Robot Eye in Key Locked Room: "\\Lanayru Mining Facility\\\
+                  Main\\Key Locked Room\\Activate Timeshift Stone & \\Slingshot &\
+                  \ \\Beetle"
+                Slingshot Right Robot Eye in Key Locked Room: "\\Lanayru Mining Facility\\\
+                  Main\\Key Locked Room\\Activate Timeshift Stone & \\Slingshot &\
+                  \ \\Beetle"
               name: \Lanayru Mining Facility\Main\Key Locked Room
               sub_areas: {}
               toplevel_alias: null
@@ -5876,6 +6062,8 @@ areas:
                     Open Gate: 'True'
                     Chest behind First Crawlspace: \Lanayru Mining Facility\Main\Big
                       Hub\Past West Gate\Blow Off Pile for First Crawlspace
+                    Rupee in First Crawlspace: Gust Bellows
+                    Blow Painting behind First Clawlspace: Gust Bellows
                   name: \Lanayru Mining Facility\Main\Big Hub\Past West Gate
                   sub_areas: {}
                   toplevel_alias: null
@@ -5894,6 +6082,20 @@ areas:
                   locations:
                     Switch under Sand: Gust Bellows
                     Chest in Spike Maze: Gust Bellows
+                    First Rupee in Crawlspace before Spike Maze: Gust Bellows
+                    Second Rupee in Crawlspace before Spike Maze: Gust Bellows
+                    West Rupee in Spike Maze 1: Gust Bellows
+                    West Rupee in Spike Maze 2: Gust Bellows
+                    West Rupee in Spike Maze 3: Gust Bellows
+                    West Rupee in Spike Maze 4: Gust Bellows
+                    Southeast Rupee in Spike Maze 1: 'True'
+                    Southeast Rupee in Spike Maze 2: 'True'
+                    Southeast Rupee in Spike Maze 3: 'True'
+                    Southeast Rupee in Spike Maze 4: 'True'
+                    Central Rupee in Spike Maze 1: Gust Bellows
+                    Central Rupee in Spike Maze 2: Gust Bellows
+                    Central Rupee in Spike Maze 3: Gust Bellows
+                    Northeast Rupee in Spike Maze: Gust Bellows
                   name: \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze
                   sub_areas: {}
                   toplevel_alias: null
@@ -6000,6 +6202,10 @@ areas:
                 Can Beat Room: "Bomb Bag & Gust Bellows & \\Sword"
                 Boss Key Chest: \Lanayru Mining Facility\Main\Boss Key Room\Can Beat
                   Room
+                Rupee behind South Statue in Northeast Room: Bomb Bag
+                Blow Robot behind Bottom Northwest Statue: "Bomb Bag & Gust Bellows"
+                Blow Robot behind Middle Northwest Statue: "Bomb Bag & Gust Bellows"
+                Blow Robot behind Top Northwest Statue: "Bomb Bag & Gust Bellows"
               name: \Lanayru Mining Facility\Main\Boss Key Room
               sub_areas: {}
               toplevel_alias: null
@@ -7406,6 +7612,7 @@ areas:
               locations:
                 Chest before 4-Door Corridor: \Sandship\Main\Deck\Freely Usable Timeshift
                   Stone
+                Blow Ceiling Lamp below Scervo Fight: Gust Bellows
               name: \Sandship\Main\Before Ship's Bow
               sub_areas: {}
               toplevel_alias: null
@@ -7439,6 +7646,8 @@ areas:
               hint_region: Sandship
               locations:
                 \Sandship\Main\Port Rooms\Switch: \Bow
+                Blow Front Ceiling Lamp in 4-Door Corridor: Gust Bellows
+                Blow Back Ceiling Lamp in 4-Door Corridor: Gust Bellows
               name: \Sandship\Main\Corridor
               sub_areas: {}
               toplevel_alias: null
@@ -7459,6 +7668,8 @@ areas:
                 Switch: 'True'
                 Generator: "\\Bow & \\Sandship\\Main\\Deck\\Freely Usable Timeshift\
                   \ Stone"
+                Blow Ceiling Lamp in Right Generator Room: "Gust Bellows & \\Sandship\\\
+                  Main\\Deck\\Freely Usable Timeshift Stone"
               name: \Sandship\Main\Starboard Rooms
               sub_areas: {}
               toplevel_alias: null
@@ -7475,6 +7686,7 @@ areas:
                 Switch: \Bow
                 Generator: "\\Bow & \\Sandship\\Main\\Deck\\Freely Usable Timeshift\
                   \ Stone"
+                Blow Ceiling Lamp in Left Generator Room: "\\Bow & Gust Bellows"
               name: \Sandship\Main\Port Rooms
               sub_areas: {}
               toplevel_alias: null
@@ -7497,6 +7709,8 @@ areas:
                   Lock
                 Open Boss Door: "\\Sandship\\Main\\Deck\\Freely Usable Timeshift Stone\
                   \ & Sandship Boss Key"
+                Blow Ceiling Lamp Right of Boss Door: Gust Bellows
+                Blow Ceiling Lamp Left of Boss Door: Gust Bellows
               name: \Sandship\Main\Before Boss Door
               sub_areas: {}
               toplevel_alias: null
@@ -9188,6 +9402,8 @@ areas:
               hint_region: Skyview
               locations:
                 Cut Tree: \Skyview\Can Cut Tree
+                Slingshot Wall Eye behind First Bird Statue: \Slingshot
+                Bonk Tree Root after First Skulltula Web: 'True'
               name: \Skyview\Main\Entry
               sub_areas: {}
               toplevel_alias: null
@@ -9225,6 +9441,10 @@ areas:
               hint_region: Skyview
               locations:
                 Unlock Door to First Hub: \Sword
+                Slingshot Southwest Wall Eye in One Eye Room: \Slingshot
+                Slingshot Northwest Wall Eye in One Eye Room: \Slingshot
+                Slingshot East Wall Eye in One Eye Room: \Slingshot
+                Slingshot Deactivated Main Eye in One Eye Room: "\\Sword & \\Slingshot"
               name: \Skyview\Main\One Eye Room
               sub_areas: {}
               toplevel_alias: null
@@ -9256,6 +9476,14 @@ areas:
                 One Water Raise: "\\Skyview\\Main\\First Hub\\Left Room\\Raise Water\
                   \ | \\Skyview\\Main\\First Hub\\Right Room\\After Crawlspace\\Raise\
                   \ Water"
+                Bonk Tree Branch with Chest: 'True'
+                Slingshot West Water Gate: "\\Slingshot & Water Dragon's Scale"
+                Slingshot East Water Gate: "\\Slingshot & Water Dragon's Scale"
+                Rupee under South Walkway before Hub Room: Water Dragon's Scale
+                First Rupee under West Walkway before Hub Room: Water Dragon's Scale
+                Second Rupee under West Walkway before Hub Room: Water Dragon's Scale
+                Rupee on Lower Tree Branch before Hub Room: Water Dragon's Scale
+                Rupee on Coiled Tree Branch before Hub Room: \Beetle
               name: \Skyview\Main\First Hub
               sub_areas:
                 Left Room:
@@ -9349,6 +9577,10 @@ areas:
                       hint_region: Skyview
                       locations:
                         Chest behind Two Eyes: \Sword
+                        Slingshot Left Deactivated Eye in Two Eyes Room: "\\Sword\
+                          \ & \\Slingshot"
+                        Slingshot Right Deactivated Eye in Two Eyes Room: "\\Sword\
+                          \ & \\Slingshot"
                       name: \Skyview\Main\First Hub\Right Room\Upper Area
                       sub_areas: {}
                       toplevel_alias: null
@@ -9371,13 +9603,20 @@ areas:
                   Rope\Unlock Shortcut to Second Hub
               hint_region: Skyview
               locations:
-                Rupee in Southeast Tunnel: \Beetle
-                Rupee in Southwest Tunnel: \Beetle
-                Rupee in East Tunnel: \Beetle
                 Switch to Miniboss Room: \Distance Activator
                 Switch for Bars: "\\Beetle | (\\Slingshot & Skyview Slingshot Shot\
                   \ Trick)"
                 Switch to Left Room: \Beetle
+                Rupee on South Bird Pillar in Hub Room: \Beetle
+                Bonk South Bird Pillar in Hub Room: 'True'
+                Bonk East Bird Pillar in Hub Room: 'True'
+                Rupee on Northeast Bird Pillar in Hub Room: \Beetle
+                Rupee in Southeast Tunnel: \Beetle
+                Rupee in Southwest Tunnel: \Beetle
+                Rupee in East Tunnel: \Beetle
+                First Rupee in Northeast Tunnel: \Beetle
+                Second Rupee in Northeast Tunnel: \Beetle
+                Third Rupee in Northeast Tunnel: \Beetle
                 Item behind Bars: "\\Skyview\\Main\\Second Hub\\Switch for Bars |\
                   \ Whip"
               name: \Skyview\Main\Second Hub
@@ -9407,6 +9646,9 @@ areas:
                   hint_region: Skyview
                   locations:
                     Chest behind Three Eyes: "\\Beetle & \\Sword"
+                    Slingshot Southwest Wall Eye in Three Eyes Room: \Slingshot
+                    Slingshot Deactivated Middle Eye in Three Eyes Room: "\\Sword\
+                      \ & \\Slingshot"
                   name: \Skyview\Main\Second Hub\Left Rooms
                   sub_areas: {}
                   toplevel_alias: null
@@ -9548,7 +9790,12 @@ areas:
             Exit: 'True'
           hint_region: Skyview
           locations:
+            Slingshot top of Spring Door: \Slingshot
+            Bonk Broken Left Spring Pillar: 'True'
+            Bonk Broken Right Spring Pillar: 'True'
             Rupee on Spring Pillar: \Beetle
+            Slingshot Post Left of Goddess Crest: \Slingshot
+            Slingshot Post Right of Goddess Crest: \Slingshot
             Strike Crest: \Goddess Sword
             Goddess Cube in Skyview Spring: \Goddess Sword
             Sacred Water: "\\Bottle & \\Skyview\\Skyview 2"
@@ -11488,6 +11735,33 @@ checks:
     original item: Semi Rare Treasure
     type: null
     short_name: Lanayru Sand Sea - Pirate Stronghold - Third Chest
+  \Skyview\Main\Entry\Slingshot Wall Eye behind First Bird Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Wall Eye behind First Bird Statue
+  \Skyview\Main\Entry\Bonk Tree Root after First Skulltula Web:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Bonk Tree Root after First Skulltula Web
+  \Skyview\Main\One Eye Room\Slingshot Southwest Wall Eye in One Eye Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Southwest Wall Eye in One Eye Room
+  \Skyview\Main\One Eye Room\Slingshot Northwest Wall Eye in One Eye Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Northwest Wall Eye in One Eye Room
+  \Skyview\Main\One Eye Room\Slingshot East Wall Eye in One Eye Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot East Wall Eye in One Eye Room
+  \Skyview\Main\One Eye Room\Slingshot Deactivated Main Eye in One Eye Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Deactivated Main Eye in One Eye Room
+  \Skyview\Main\First Hub\Bonk Tree Branch with Chest:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Bonk Tree Branch with Chest
+  \Skyview\Main\First Hub\Slingshot West Water Gate:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot West Water Gate
+  \Skyview\Main\First Hub\Slingshot East Water Gate:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot East Water Gate
   \Skyview\Main\First Hub\Left Room\Chest on Tree Branch:
     original item: Skyview Map
     type: null
@@ -11496,10 +11770,31 @@ checks:
     original item: Skyview Small Key
     type: null
     short_name: Skyview - Digging Spot in Crawlspace
+  \Skyview\Main\First Hub\Right Room\Upper Area\Slingshot Left Deactivated Eye in Two Eyes Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Left Deactivated Eye in Two Eyes Room
+  \Skyview\Main\First Hub\Right Room\Upper Area\Slingshot Right Deactivated Eye in Two Eyes Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Right Deactivated Eye in Two Eyes Room
   \Skyview\Main\First Hub\Right Room\Upper Area\Chest behind Two Eyes:
     original item: 'Skyview Small Key #0'
     type: null
     short_name: Skyview - Chest behind Two Eyes
+  \Skyview\Main\First Hub\Rupee under South Walkway before Hub Room:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Skyview - Rupee under South Walkway before Hub Room
+  \Skyview\Main\First Hub\First Rupee under West Walkway before Hub Room:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Skyview - First Rupee under West Walkway before Hub Room
+  \Skyview\Main\First Hub\Second Rupee under West Walkway before Hub Room:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Skyview - Second Rupee under West Walkway before Hub Room
+  \Skyview\Main\First Hub\Rupee on Lower Tree Branch before Hub Room:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Skyview - Rupee on Lower Tree Branch before Hub Room
+  \Skyview\Main\First Hub\Rupee on Coiled Tree Branch before Hub Room:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Skyview - Rupee on Coiled Tree Branch before Hub Room
   \Skyview\Main\Second Hub\Miniboss Room\Chest after Stalfos Fight:
     original item: Progressive Beetle
     type: null
@@ -11508,18 +11803,42 @@ checks:
     original item: Heart Piece
     type: null
     short_name: Skyview - Item behind Bars
+  \Skyview\Main\Second Hub\Rupee on South Bird Pillar in Hub Room:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Skyview - Rupee on South Bird Pillar in Hub Room
+  \Skyview\Main\Second Hub\Bonk South Bird Pillar in Hub Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Bonk South Bird Pillar in Hub Room
+  \Skyview\Main\Second Hub\Bonk East Bird Pillar in Hub Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Bonk East Bird Pillar in Hub Room
+  \Skyview\Main\Second Hub\Rupee on Northeast Bird Pillar in Hub Room:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Skyview - Rupee on Northeast Bird Pillar in Hub Room
   \Skyview\Main\Second Hub\Rupee in Southeast Tunnel:
-    original item: 'Red Rupee #35'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Skyview - Rupee in Southeast Tunnel
   \Skyview\Main\Second Hub\Rupee in Southwest Tunnel:
-    original item: 'Red Rupee #36'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Skyview - Rupee in Southwest Tunnel
   \Skyview\Main\Second Hub\Rupee in East Tunnel:
-    original item: 'Red Rupee #37'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Skyview - Rupee in East Tunnel
+  \Skyview\Main\Second Hub\First Rupee in Northeast Tunnel:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Skyview - First Rupee in Northeast Tunnel
+  \Skyview\Main\Second Hub\Second Rupee in Northeast Tunnel:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Skyview - Second Rupee in Northeast Tunnel
+  \Skyview\Main\Second Hub\Third Rupee in Northeast Tunnel:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Skyview - Third Rupee in Northeast Tunnel
+  \Skyview\Main\Second Hub\Left Rooms\Slingshot Southwest Wall Eye in Three Eyes Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Southwest Wall Eye in Three Eyes Room
+  \Skyview\Main\Second Hub\Left Rooms\Slingshot Deactivated Middle Eye in Three Eyes Room:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Deactivated Middle Eye in Three Eyes Room
   \Skyview\Main\Second Hub\Left Rooms\Chest behind Three Eyes:
     original item: 'Skyview Small Key #1'
     type: null
@@ -11536,21 +11855,46 @@ checks:
     original item: Heart Container
     type: null
     short_name: Skyview - Heart Container
+  \Skyview\Spring\Slingshot top of Spring Door:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot top of Spring Door
+  \Skyview\Spring\Bonk Broken Left Spring Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Bonk Broken Left Spring Pillar
+  \Skyview\Spring\Bonk Broken Right Spring Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Bonk Broken Right Spring Pillar
   \Skyview\Spring\Rupee on Spring Pillar:
-    original item: 'Red Rupee #38'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Skyview - Rupee on Spring Pillar
+  \Skyview\Spring\Slingshot Post Left of Goddess Crest:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Post Left of Goddess Crest
+  \Skyview\Spring\Slingshot Post Right of Goddess Crest:
+    type: Hidden Items, Custom Flag
+    short_name: Skyview - Slingshot Post Right of Goddess Crest
   \Skyview\Spring\Strike Crest:
     original item: Ruby Tablet
     type: null
     short_name: Skyview - Strike Crest
+  \Earth Temple\Main\First Room\Bonk Front Left Elephant Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Earth Temple - Bonk Front Left Elephant Pillar
+  \Earth Temple\Main\First Room\Bonk Front Right Elephant Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Earth Temple - Bonk Front Right Elephant Pillar
+  \Earth Temple\Main\First Room\Bonk Back Left Elephant Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Earth Temple - Bonk Back Left Elephant Pillar
+  \Earth Temple\Main\First Room\Bonk Back Right Elephant Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Earth Temple - Bonk Back Right Elephant Pillar
   \Earth Temple\Main\First Room\Vent Chest:
     original item: Red Rupee
     type: null
     short_name: Earth Temple - Vent Chest
   \Earth Temple\Main\First Room\Rupee above Drawbridge:
-    original item: 'Red Rupee #39'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Earth Temple - Rupee above Drawbridge
   \Earth Temple\Main\Hub Room\Chest behind Bombable Rock:
     original item: Golden Skull
@@ -11564,6 +11908,12 @@ checks:
     original item: Earth Temple Map
     type: null
     short_name: Earth Temple - Chest in West Room
+  \Earth Temple\Main\West Room\Bonk Left Pillar in West Room:
+    type: Hidden Items, Custom Flag
+    short_name: Earth Temple - Bonk Left Pillar in West Room
+  \Earth Temple\Main\West Room\Bonk Right Pillar in West Room:
+    type: Hidden Items, Custom Flag
+    short_name: Earth Temple - Bonk Right Pillar in West Room
   \Earth Temple\Main\East Room\Chest after Double Lizalfos Fight:
     original item: Bomb Bag
     type: null
@@ -11573,13 +11923,24 @@ checks:
     type: null
     short_name: Earth Temple - Ledd's Gift
   \Earth Temple\Main\Hub Room\Rupee in Lava Tunnel:
-    original item: 'Silver Rupee #18'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Earth Temple - Rupee in Lava Tunnel
   \Earth Temple\Main\Hub Room\Past Lava Section\Chest Guarded by Lizalfos:
     original item: Red Rupee
     type: null
     short_name: Earth Temple - Chest Guarded by Lizalfos
+  \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder Chase 1:
+    type: Stamina Fruits, Custom Flag
+    short_name: Earth Temple - Stamina Fruit before Boulder Chase 1
+  \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder Chase 2:
+    type: Stamina Fruits, Custom Flag
+    short_name: Earth Temple - Stamina Fruit before Boulder Chase 2
+  \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder Chase 3:
+    type: Stamina Fruits, Custom Flag
+    short_name: Earth Temple - Stamina Fruit before Boulder Chase 3
+  \Earth Temple\Main\Room with Slopes\Front of Boss Door\Stamina Fruit before Boulder Chase 4:
+    type: Stamina Fruits, Custom Flag
+    short_name: Earth Temple - Stamina Fruit before Boulder Chase 4
   \Earth Temple\Main\Room with Slopes\Front of Boss Door\Boss Key Chest:
     original item: Earth Temple Boss Key
     type: null
@@ -11596,6 +11957,33 @@ checks:
     original item: Red Rupee
     type: null
     short_name: Lanayru Mining Facility - Chest behind Bars
+  \Lanayru Mining Facility\Main\First Room\Left Front Rupee behind Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Left Front Rupee behind Statue
+  \Lanayru Mining Facility\Main\First Room\Left Middle Rupee behind Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Left Middle Rupee behind Statue
+  \Lanayru Mining Facility\Main\First Room\Left Back Rupee behind Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Left Back Rupee behind Statue
+  \Lanayru Mining Facility\Main\First Room\Right Front Rupee behind Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Right Front Rupee behind Statue
+  \Lanayru Mining Facility\Main\First Room\Right Middle Rupee behind Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Right Middle Rupee behind Statue
+  \Lanayru Mining Facility\Main\First Room\Right Back Rupee behind Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Right Back Rupee behind Statue
+  \Lanayru Mining Facility\Main\First Room\Bonk Bomb Flower Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Bonk Bomb Flower Pillar
+  \Lanayru Mining Facility\Main\First Room\Slingshot Left Robot Eye in First Room:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Slingshot Left Robot Eye in First Room
+  \Lanayru Mining Facility\Main\First Room\Slingshot Right Robot Eye in First Room:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Slingshot Right Robot Eye in First Room
   \Lanayru Mining Facility\Main\Big Hub\After Wooden Boxes\First Chest in Hub Room:
     original item: Lanayru Mining Facility Small Key
     type: null
@@ -11608,6 +11996,17 @@ checks:
     original item: Lanayru Mining Facility Map
     type: null
     short_name: Lanayru Mining Facility - Chest after Armos Fight
+  \Lanayru Mining Facility\Main\Key Locked Room\Slingshot Bomb Flower Pillar in Key Locked Room:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Slingshot Bomb Flower Pillar in Key Locked
+      Room
+  \Lanayru Mining Facility\Main\Key Locked Room\Slingshot Left Robot Eye in Key Locked Room:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Slingshot Left Robot Eye in Key Locked Room
+  \Lanayru Mining Facility\Main\Key Locked Room\Slingshot Right Robot Eye in Key Locked Room:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Slingshot Right Robot Eye in Key Locked
+      Room
   \Lanayru Mining Facility\Main\Key Locked Room\Chest in Key Locked Room:
     original item: Red Rupee
     type: null
@@ -11620,14 +12019,75 @@ checks:
     original item: Golden Skull
     type: null
     short_name: Lanayru Mining Facility - Lower Chest in Hop across Boxes Room
+  \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Rupee in First Crawlspace:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Rupee in First Crawlspace
   \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Chest behind First Crawlspace:
     original item: Golden Skull
     type: null
     short_name: Lanayru Mining Facility - Chest behind First Crawlspace
+  \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Blow Painting behind First Clawlspace:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Blow Painting behind First Clawlspace
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\First Rupee in Crawlspace before Spike Maze:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - First Rupee in Crawlspace before Spike Maze
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Second Rupee in Crawlspace before Spike Maze:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Second Rupee in Crawlspace before Spike
+      Maze
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - West Rupee in Spike Maze 1
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - West Rupee in Spike Maze 2
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 3:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - West Rupee in Spike Maze 3
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\West Rupee in Spike Maze 4:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - West Rupee in Spike Maze 4
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Southeast Rupee in Spike Maze 1
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Southeast Rupee in Spike Maze 2
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze 3:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Southeast Rupee in Spike Maze 3
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Southeast Rupee in Spike Maze 4:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Southeast Rupee in Spike Maze 4
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Central Rupee in Spike Maze 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Central Rupee in Spike Maze 1
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Central Rupee in Spike Maze 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Central Rupee in Spike Maze 2
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Central Rupee in Spike Maze 3:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Central Rupee in Spike Maze 3
+  \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Northeast Rupee in Spike Maze:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Northeast Rupee in Spike Maze
   \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Chest in Spike Maze:
     original item: Red Rupee
     type: null
     short_name: Lanayru Mining Facility - Chest in Spike Maze
+  \Lanayru Mining Facility\Main\Boss Key Room\Rupee behind South Statue in Northeast Room:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mining Facility - Rupee behind South Statue in Northeast Room
+  \Lanayru Mining Facility\Main\Boss Key Room\Blow Robot behind Bottom Northwest Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Blow Robot behind Bottom Northwest Statue
+  \Lanayru Mining Facility\Main\Boss Key Room\Blow Robot behind Middle Northwest Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Blow Robot behind Middle Northwest Statue
+  \Lanayru Mining Facility\Main\Boss Key Room\Blow Robot behind Top Northwest Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mining Facility - Blow Robot behind Top Northwest Statue
   \Lanayru Mining Facility\Main\Boss Key Room\Boss Key Chest:
     original item: Lanayru Mining Facility Boss Key
     type: null
@@ -11645,32 +12105,25 @@ checks:
     type: null
     short_name: Lanayru Mining Facility - Exit Hall of Ancient Robots
   \Ancient Cistern\Main\Main Room\Rupee in West Hand:
-    original item: 'Silver Rupee #20'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Ancient Cistern - Rupee in West Hand
   \Ancient Cistern\Main\Main Room\Rupee in East Hand:
-    original item: 'Silver Rupee #19'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Ancient Cistern - Rupee in East Hand
   \Ancient Cistern\Main\East Part\Second Room\First Rupee in East Part in Short Tunnel:
-    original item: 'Green Rupee #0'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Ancient Cistern - First Rupee in East Part in Short Tunnel
   \Ancient Cistern\Main\East Part\Second Room\Second Rupee in East Part in Short Tunnel:
-    original item: 'Green Rupee #1'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Ancient Cistern - Second Rupee in East Part in Short Tunnel
   \Ancient Cistern\Main\East Part\Second Room\Third Rupee in East Part in Short Tunnel:
-    original item: 'Green Rupee #2'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Ancient Cistern - Third Rupee in East Part in Short Tunnel
   \Ancient Cistern\Main\East Part\Second Room\Rupee in East Part in Cubby:
-    original item: 'Red Rupee #41'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Ancient Cistern - Rupee in East Part in Cubby
   \Ancient Cistern\Main\East Part\Second Room\Rupee in East Part in Main Tunnel:
-    original item: 'Red Rupee #40'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Ancient Cistern - Rupee in East Part in Main Tunnel
   \Ancient Cistern\Main\East Part\Chest Ledge\Chest in East Part:
     original item: 'Ancient Cistern Small Key #0'
@@ -11693,13 +12146,33 @@ checks:
     type: null
     short_name: Ancient Cistern - Bokoblin
   \Ancient Cistern\Main\Main Room\After Gutters\Rupee under Lilypad:
-    original item: Red Rupee
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Ancient Cistern - Rupee under Lilypad
+  \Ancient Cistern\Main\Main Room\After Gutters\Slingshot East Lamp after Pipes 1:
+    type: Hidden Items, Custom Flag
+    short_name: Ancient Cistern - Slingshot East Lamp after Pipes 1
+  \Ancient Cistern\Main\Main Room\After Gutters\Slingshot East Lamp after Pipes 2:
+    type: Hidden Items, Custom Flag
+    short_name: Ancient Cistern - Slingshot East Lamp after Pipes 2
+  \Ancient Cistern\Main\Main Room\After Gutters\Slingshot West Lamp after Pipes 1:
+    type: Hidden Items, Custom Flag
+    short_name: Ancient Cistern - Slingshot West Lamp after Pipes 1
+  \Ancient Cistern\Main\Main Room\After Gutters\Slingshot West Lamp after Pipes 2:
+    type: Hidden Items, Custom Flag
+    short_name: Ancient Cistern - Slingshot West Lamp after Pipes 2
+  \Ancient Cistern\Main\Main Room\After Gutters\Slingshot West Lamp after Pipes 3:
+    type: Hidden Items, Custom Flag
+    short_name: Ancient Cistern - Slingshot West Lamp after Pipes 3
   \Ancient Cistern\Main\Inside Statue\Key Locked Room with Chest\Chest in Key Locked Room:
     original item: Whip
     type: null
     short_name: Ancient Cistern - Chest in Key Locked Room
+  \Ancient Cistern\Main\Basement\Rupee in Basement Demon's Right Eye:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Ancient Cistern - Rupee in Basement Demon's Right Eye
+  \Ancient Cistern\Main\Basement\Rupee in Basement Demon's Left Eye:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Ancient Cistern - Rupee in Basement Demon's Left Eye
   \Ancient Cistern\Main\Basement\Under the Statue\Boss Key Chest:
     original item: Ancient Cistern Boss Key
     type: null
@@ -11716,10 +12189,31 @@ checks:
     original item: Heart Piece
     type: null
     short_name: Sandship - Chest at the Stern
+  \Sandship\Main\Before Ship's Bow\Blow Ceiling Lamp below Scervo Fight:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Ceiling Lamp below Scervo Fight
   \Sandship\Main\Before Ship's Bow\Chest before 4-Door Corridor:
     original item: Sandship Map
     type: null
     short_name: Sandship - Chest before 4-Door Corridor
+  \Sandship\Main\Corridor\Blow Front Ceiling Lamp in 4-Door Corridor:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Front Ceiling Lamp in 4-Door Corridor
+  \Sandship\Main\Corridor\Blow Back Ceiling Lamp in 4-Door Corridor:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Back Ceiling Lamp in 4-Door Corridor
+  \Sandship\Main\Starboard Rooms\Blow Ceiling Lamp in Right Generator Room:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Ceiling Lamp in Right Generator Room
+  \Sandship\Main\Port Rooms\Blow Ceiling Lamp in Left Generator Room:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Ceiling Lamp in Left Generator Room
+  \Sandship\Main\Before Boss Door\Blow Ceiling Lamp Right of Boss Door:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Ceiling Lamp Right of Boss Door
+  \Sandship\Main\Before Boss Door\Blow Ceiling Lamp Left of Boss Door:
+    type: Hidden Items, Custom Flag
+    short_name: Sandship - Blow Ceiling Lamp Left of Boss Door
   \Sandship\Main\Before Boss Door\Chest behind Combination Lock:
     original item: 'Sandship Small Key #0'
     type: null
@@ -11764,6 +12258,18 @@ checks:
     original item: Progressive Sword
     type: null
     short_name: Sandship - Nayru's Flame
+  \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Front Left Owl Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Fire Sanctuary - Slingshot Front Left Owl Statue
+  \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Front Right Owl Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Fire Sanctuary - Slingshot Front Right Owl Statue
+  \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Back Left Owl Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Fire Sanctuary - Slingshot Back Left Owl Statue
+  \Fire Sanctuary\Main\First Room\Past Water Plant\Slingshot Back Right Owl Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Fire Sanctuary - Slingshot Back Right Owl Statue
   \Fire Sanctuary\Main\First Room\Past Water Plant\Chest in First Room:
     original item: 'Fire Sanctuary Small Key #0'
     type: null
@@ -11776,6 +12282,24 @@ checks:
     original item: Bottle
     type: null
     short_name: Fire Sanctuary - Chest on Balcony
+  \Fire Sanctuary\Main\Room with Water Plant\Left Rupee above Blocked Lava Source:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Fire Sanctuary - Left Rupee above Blocked Lava Source
+  \Fire Sanctuary\Main\Room with Water Plant\Right Rupee above Blocked Lava Source:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Fire Sanctuary - Right Rupee above Blocked Lava Source
+  \Fire Sanctuary\Main\Room with Water Plant\Rupee in Alcove near Blocked Lava Source:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Fire Sanctuary - Rupee in Alcove near Blocked Lava Source
+  \Fire Sanctuary\Main\Room with Water Plant\First Rupee in Alcove opposite Blocked Lava Source:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Fire Sanctuary - First Rupee in Alcove opposite Blocked Lava Source
+  \Fire Sanctuary\Main\Room with Water Plant\Second Rupee in Alcove opposite Blocked Lava Source:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Fire Sanctuary - Second Rupee in Alcove opposite Blocked Lava Source
+  \Fire Sanctuary\Main\Room with Water Plant\Third Rupee in Alcove opposite Blocked Lava Source:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Fire Sanctuary - Third Rupee in Alcove opposite Blocked Lava Source
   \Fire Sanctuary\Main\First Trapped Mogma Room\Chest near First Trapped Mogma:
     original item: 'Fire Sanctuary Small Key #1'
     type: null
@@ -11792,10 +12316,28 @@ checks:
     original item: Progressive Mitts
     type: null
     short_name: Fire Sanctuary - Rescue First Trapped Mogma
+  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath Double Magmanos Room 1:
+    type: Underground Rupees, Custom Flag
+    short_name: Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 1
+  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath Double Magmanos Room 2:
+    type: Underground Rupees, Custom Flag
+    short_name: Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 2
+  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath Double Magmanos Room 3:
+    type: Underground Rupees, Custom Flag
+    short_name: Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 3
+  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath Double Magmanos Room 4:
+    type: Underground Rupees, Custom Flag
+    short_name: Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 4
+  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath Double Magmanos Room 5:
+    type: Underground Rupees, Custom Flag
+    short_name: Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 5
   \Fire Sanctuary\Main\Second Trapped Mogma Room\Rescue Second Trapped Mogma:
     original item: Fire Sanctuary Map
     type: null
     short_name: Fire Sanctuary - Rescue Second Trapped Mogma
+  \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable Wall\Underground Rupee behind Bombable Wall:
+    type: Underground Rupees, Custom Flag
+    short_name: Fire Sanctuary - Underground Rupee behind Bombable Wall
   \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable Wall\Chest after Bombable Wall:
     original item: 'Fire Sanctuary Small Key #2'
     type: null
@@ -11829,8 +12371,7 @@ checks:
     type: null
     short_name: Sky Keep - Chest after Dreadfuse
   \Sky Keep\Main\Fire Sanctuary Room\First Platform\Rupee in Fire Sanctuary Room in Alcove:
-    original item: 'Silver Rupee #21'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Advanced Rupees
     short_name: Sky Keep - Rupee in Fire Sanctuary Room in Alcove
   \Sky Keep\Main\Fire Sanctuary Room\Triforce Room\Sacred Power of Din:
     original item: Triforce of Power

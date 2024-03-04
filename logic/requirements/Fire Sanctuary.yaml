@@ -17,6 +17,10 @@ Main:
         First Room - Hit Water Plant: Distance Activator | Bomb Bag
         Defeat Last Bokoblin: Can Defeat Bokoblins
         Chest in First Room: Defeat Last Bokoblin
+        Slingshot Front Left Owl Statue: Slingshot
+        Slingshot Front Right Owl Statue: Slingshot
+        Slingshot Back Left Owl Statue: Slingshot
+        Slingshot Back Right Owl Statue: Slingshot
 
   Second Room:
     locations:
@@ -55,6 +59,12 @@ Main:
     locations:
       Blow up Rock: Hook Beetle
       Hit Water Plant: Distance Activator | Bomb Bag
+      Left Rupee above Blocked Lava Source: Beetle
+      Right Rupee above Blocked Lava Source: Beetle
+      Rupee in Alcove near Blocked Lava Source: Beetle
+      First Rupee in Alcove opposite Blocked Lava Source: Beetle
+      Second Rupee in Alcove opposite Blocked Lava Source: Beetle
+      Third Rupee in Alcove opposite Blocked Lava Source: Beetle
 
     Past Lava:
       exits:
@@ -79,6 +89,11 @@ Main:
       locations:
         Rescue First Trapped Mogma: Nothing
         Blow up Rock in Tunnel: Mogma Mitts
+        Underground Rupee beneath Double Magmanos Room 1: Mogma Mitts
+        Underground Rupee beneath Double Magmanos Room 2: Mogma Mitts
+        Underground Rupee beneath Double Magmanos Room 3: Mogma Mitts
+        Underground Rupee beneath Double Magmanos Room 4: Mogma Mitts
+        Underground Rupee beneath Double Magmanos Room 5: Mogma Mitts
 
   Water Fruit Room:
     exits:
@@ -156,6 +171,7 @@ Main:
         Second Trapped Mogma Room: Nothing
       locations:
         Chest after Bombable Wall: Nothing
+        Underground Rupee behind Bombable Wall: Nothing
 
   West of Boss Door:
     exits:

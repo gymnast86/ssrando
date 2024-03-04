@@ -13,6 +13,15 @@ Main:
       Left Lever: Hook Beetle | (Whip & LMF - Whip First Room Switch Trick)
       Right Lever: Nothing
       Chest behind Bars: Right Lever
+      Left Front Rupee behind Statue: Nothing
+      Left Middle Rupee behind Statue: Nothing
+      Left Back Rupee behind Statue: Hook Beetle
+      Right Front Rupee behind Statue: Bomb Bag | Hook Beetle
+      Right Middle Rupee behind Statue: Nothing
+      Right Back Rupee behind Statue: Nothing
+      Bonk Bomb Flower Pillar: Nothing
+      Slingshot Left Robot Eye in First Room: Slingshot
+      Slingshot Right Robot Eye in First Room: Slingshot
 
   First Hub:
     exits:
@@ -31,6 +40,9 @@ Main:
       Blow Up Boxes: Hook Beetle | (Bomb Bag & Bomb Throws Trick)
       Activate Timeshift Stone: Blow Up Boxes & (Bow | Beetle | (Slingshot & LMF - Keylocked Slingshot Trickshot Trick))
       Chest in Key Locked Room: Activate Timeshift Stone
+      Slingshot Bomb Flower Pillar in Key Locked Room: Slingshot
+      Slingshot Left Robot Eye in Key Locked Room: Activate Timeshift Stone & Slingshot & Beetle
+      Slingshot Right Robot Eye in Key Locked Room: Activate Timeshift Stone & Slingshot & Beetle
 
   Hop Across Boxes Room:
     exits:
@@ -102,6 +114,8 @@ Main:
         Blow Off Pile for Second Crawlspace: Gust Bellows
         Open Gate: Nothing
         Chest behind First Crawlspace: Blow Off Pile for First Crawlspace
+        Rupee in First Crawlspace: Gust Bellows
+        Blow Painting behind First Clawlspace: Gust Bellows
 
     Sand Spike Maze:
       exits:
@@ -110,6 +124,20 @@ Main:
       locations:
         Switch under Sand: Gust Bellows
         Chest in Spike Maze: Gust Bellows
+        First Rupee in Crawlspace before Spike Maze: Gust Bellows
+        Second Rupee in Crawlspace before Spike Maze: Gust Bellows
+        West Rupee in Spike Maze 1: Gust Bellows
+        West Rupee in Spike Maze 2: Gust Bellows
+        West Rupee in Spike Maze 3: Gust Bellows
+        West Rupee in Spike Maze 4: Gust Bellows
+        Southeast Rupee in Spike Maze 1: Nothing
+        Southeast Rupee in Spike Maze 2: Nothing
+        Southeast Rupee in Spike Maze 3: Nothing
+        Southeast Rupee in Spike Maze 4: Nothing
+        Central Rupee in Spike Maze 1: Gust Bellows
+        Central Rupee in Spike Maze 2: Gust Bellows
+        Central Rupee in Spike Maze 3: Gust Bellows
+        Northeast Rupee in Spike Maze: Gust Bellows
 
     Near Boss Key Room First Exit:
       exits:
@@ -150,6 +178,10 @@ Main:
     locations:
       Can Beat Room: Bomb Bag & Gust Bellows & Sword
       Boss Key Chest: Can Beat Room
+      Rupee behind South Statue in Northeast Room: Bomb Bag
+      Blow Robot behind Bottom Northwest Statue: Bomb Bag & Gust Bellows
+      Blow Robot behind Middle Northwest Statue: Bomb Bag & Gust Bellows
+      Blow Robot behind Top Northwest Statue: Bomb Bag & Gust Bellows
 
 Boss Room:
   exits:

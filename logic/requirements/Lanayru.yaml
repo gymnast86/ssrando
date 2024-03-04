@@ -327,7 +327,7 @@ Desert:
 
 Temple of Time:
   top-level-alias: Temple of Time
-  hint-region: Lanayru Desert
+  hint-region: Temple of Time
 
   exits:
     Shared Statue Exit: Impossible  # Common for all, so placed here

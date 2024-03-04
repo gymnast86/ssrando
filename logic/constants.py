@@ -562,6 +562,7 @@ BOKOBLIN_BASE = "Bokoblin Base"
 
 LANAYRU_MINE = "Lanayru Mine"
 LANAYRU_DESERT = "Lanayru Desert"
+TEMPLE_OF_TIME = "Temple of Time"
 LANAYRU_CAVES = "Lanayru Caves"
 LANAYRU_GORGE = "Lanayru Gorge"
 LANAYRU_SAND_SEA = "Lanayru Sand Sea"
@@ -585,6 +586,7 @@ ALL_HINT_REGIONS = dict.fromkeys(
         BOKOBLIN_BASE,
         LANAYRU_MINE,
         LANAYRU_DESERT,
+        TEMPLE_OF_TIME,
         LANAYRU_CAVES,
         LANAYRU_GORGE,
         LANAYRU_SAND_SEA,

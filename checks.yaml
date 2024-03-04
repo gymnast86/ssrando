@@ -3907,6 +3907,31 @@ Lanayru Silent Realm - Trial Reward:
     - stage/S300/r0/l2/WarpObj
   hint: sometimes
   text: a <r<trial of wisdom>> grants
+Lanayru Silent Realm - Stamina Fruit on East LMF Vine Wall:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S300/r0/l2/Item/0xFC2D
+Lanayru Silent Realm - Stamina Fruit on West LMF Vine Wall:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S300/r0/l2/Item/0xFC36
+Lanayru Silent Realm - Stamina Fruit near Minecart:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S300/r0/l2/Item/0xFC30
+Lanayru Silent Realm - Stamina Fruit between Watchers:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S300/r0/l2/Item/0xFC63
+Lanayru Silent Realm - Stamina Fruit near Tree:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S300/r0/l2/Item/0xFC31
 # Lanayru Silent Realm - Relic 1:
 #   original item: "Dusk Relic #21"
 #   type: lanayru, silent realm

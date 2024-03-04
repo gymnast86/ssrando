@@ -1247,29 +1247,82 @@ items:
 - \Lanayru\Mine\Entry\Goddess Cube at Lanayru Mine Entrance
 - \Lanayru\Mine\Entry\Timeshift Stone
 - \Lanayru\Mine\Entry\Chest near First Timeshift Stone
+- \Lanayru\Mine\Entry\Slingshot Left Eye of First Landing Robot
+- \Lanayru\Mine\Entry\Slingshot Right Eye of First Landing Robot
+- \Lanayru\Mine\Entry\Blow Digging Robot before Side Room near First Timeshift Stone
+- \Lanayru\Mine\Entry\Blow Left Digging Robot in Side Room near First Timeshift Stone
+- \Lanayru\Mine\Entry\Blow Right Digging Robot in Side Room near First Timeshift Stone
+- \Lanayru\Mine\Entry\Rupee on Southeast Conveyor 1
+- \Lanayru\Mine\Entry\Rupee on Southeast Conveyor 2
+- \Lanayru\Mine\Entry\Rupee on Southwest Conveyor 1
+- \Lanayru\Mine\Entry\Rupee on Southwest Conveyor 2
+- \Lanayru\Mine\Entry\Slingshot Left Robot Eye above First Minecart Doorway
+- \Lanayru\Mine\Entry\Slingshot Right Robot Eye above First Minecart Doorway
 - \Lanayru\Mine\Entry\Higher Area\Chest behind First Landing
 - \Lanayru\Mine\Statues Area\Blow Statues Down
-- \Lanayru\Mine\Statues Area\Chest behind Statue
+- \Lanayru\Mine\Statues Area\Blow Left Digging Robot after First Minecart Ride
+- \Lanayru\Mine\Statues Area\Blow Right Digging Robot after First Minecart Ride
+- \Lanayru\Mine\Statues Area\Chest behind Northeast Statue
+- \Lanayru\Mine\Statues Area\Rupee behind Northeast Statue
+- \Lanayru\Mine\Statues Area\Rupee behind Southwest Statue
+- \Lanayru\Mine\Statues Area\Stamina Fruit before Falling Statues
+- \Lanayru\Mine\Statues Area\Stamina Fruit after Falling Statues
+- \Lanayru\Mine\Statues Area\Stamina Fruit near Spumes 1
+- \Lanayru\Mine\Statues Area\Stamina Fruit near Spumes 2
+- \Lanayru\Mine\Statues Area\Stamina Fruit near Spumes 3
 - \Lanayru\Mine\End\Blow up Rock on Track
+- \Lanayru\Mine\End\Blow Digging Robot near Mine Exit
+- \Lanayru\Mine\End\Blow Digging Robot near Last Mine Timeshift Stone
 - \Lanayru\Mine\End\Chest at the End of Mine
+- \Lanayru\Mine\End\Stamina Fruit after Falling Statues
+- \Lanayru\Mine\End\Stamina Fruit near Spumes 1
+- \Lanayru\Mine\End\Stamina Fruit near Spumes 2
+- \Lanayru\Mine\End\Stamina Fruit near Spumes 3
 - \Lanayru\Desert\Entry\Unlock Statue
 - \Lanayru\Desert\Entry\Blow up Rock for Timeshift Stone
 - \Lanayru\Desert\Entry\Timeshift Stone
+- \Lanayru\Desert\Entry\Slingshot Left Robot Eye above Lanayru Mine Exit
+- \Lanayru\Desert\Entry\Stamina Fruit on Ledge to Party Wheel
 - \Lanayru\Desert\Entry\High Ledge after Vines\Retrieve Party Wheel
 - \Lanayru\Desert\Entry\High Ledge after Vines\Chest near Party Wheel
 - \Lanayru\Desert\Near Caged Robot\Chest near Caged Robot
+- \Lanayru\Desert\Near Caged Robot\Rupee above Caged Robot 1
+- \Lanayru\Desert\Near Caged Robot\Rupee above Caged Robot 2
+- \Lanayru\Desert\Near Caged Robot\Rupee behind South Statue near Caged Robot
+- \Lanayru\Desert\Near Caged Robot\Rupee behind West Statue near Caged Robot
+- \Lanayru\Desert\Near Caged Robot\Rupee behind East Statue before Sand Oasis
+- \Lanayru\Desert\Near Caged Robot\Rupee behind West Statue before Sand Oasis
 - \Lanayru\Desert\Near Caged Robot\Goddess Cube near Caged Robot
 - \Lanayru\Desert\Near Caged Robot\Blow up Rock for Timeshift Stone
 - \Lanayru\Desert\Near Caged Robot\Rescue Caged Robot
 - \Lanayru\Desert\Near Caged Robot\Blow Statues to Sand Oasis Down
 - \Lanayru\Desert\Near Caged Robot\Get Past Spume to Sand Oasis
 - \Lanayru\Desert\Sand Oasis\Goddess Cube in Sand Oasis
+- \Lanayru\Desert\Sand Oasis\Rupee behind South Statue near Caged Robot
+- \Lanayru\Desert\Sand Oasis\Rupee behind West Statue near Caged Robot
+- \Lanayru\Desert\Sand Oasis\Rupee behind East Statue before Sand Oasis
+- \Lanayru\Desert\Sand Oasis\Rupee behind West Statue before Sand Oasis
 - \Lanayru\Desert\West Part\Unlock Statue
 - \Lanayru\Desert\West Part\Push Minecart
+- \Lanayru\Desert\West Part\Stamina Fruit in South Sand Oasis 1
+- \Lanayru\Desert\West Part\Stamina Fruit in South Sand Oasis 2
+- \Lanayru\Desert\West Part\Stamina Fruit in North Sand Oasis 1
+- \Lanayru\Desert\West Part\Stamina Fruit in North Sand Oasis 2
+- \Lanayru\Desert\West Part\Slingshot Left Robot Eye near West Desert Bird Statue
 - \Lanayru\Desert\Near South Exit to Temple of Time\Push Minecart
+- \Lanayru\Desert\Near South Exit to Temple of Time\Slingshot Left Robot Eye above
+  Temple of Time Entrance
+- \Lanayru\Desert\Near South Exit to Temple of Time\Ledge to Caves\Slingshot Left
+  Robot Eye above Lanayru Caves Entrance
 - \Lanayru\Desert\Top of West Wall\Chest near Sand Oasis
 - \Lanayru\Desert\Top of West Wall\Push Minecart
 - \Lanayru\Desert\Top of LMF\Chest on top of Lanayru Mining Facility
+- \Lanayru\Desert\Top of LMF\Stamina Fruit on South LMF Ledge
+- \Lanayru\Desert\Top of LMF\Stamina Fruit on West LMF Ledge
+- \Lanayru\Desert\Top of LMF\Stamina Fruit on LMF Wall Vines
+- \Lanayru\Desert\North Part\Slingshot Right Robot Eye above Temple of Time Exit
+- \Lanayru\Desert\North Part\Bonk Water Node Generator
+- \Lanayru\Desert\North Part\Bonk Main Node Generator
 - \Lanayru\Desert\North Part\Water Node
 - \Lanayru\Desert\North Part\Blow up Main Node Timeshift Stone Rock
 - \Lanayru\Desert\North Part\Main Node Timeshift Stone
@@ -1285,6 +1338,8 @@ items:
 - \Lanayru\Desert\North Part\Lightning Node\Present\Timeshift Stone
 - \Lanayru\Desert\North Part\Lightning Node\Past\First Chest
 - \Lanayru\Desert\North Part\Lightning Node\Past\Second Chest
+- \Lanayru\Desert\North Part\Lightning Node\Past\Bonk Lightning Node Power Supply
+- \Lanayru\Desert\North Part\Lightning Node\Past\Bonk Lightning Node Generator
 - \Lanayru\Desert\North Part\Lightning Node\Past\Lightning Node
 - \Lanayru\Desert\North Part\Lightning Node\Present from afar\Raised Chest near Generator
 - \Lanayru\Desert\East\Open Wall Shortcut
@@ -1297,28 +1352,34 @@ items:
 - \Lanayru\Desert\East\Fire Node\Past\First Small Chest
 - \Lanayru\Desert\East\Fire Node\Past\Second Small Chest
 - \Lanayru\Desert\East\Fire Node\Past after Void\Open Grate
+- \Lanayru\Desert\East\Fire Node\Past after Void\Bonk Fire Node Power Supply
 - \Lanayru\Desert\East\Fire Node\Past after Grate\Left Ending Chest
 - \Lanayru\Desert\East\Fire Node\Past after Grate\Right Ending Chest
+- \Lanayru\Desert\East\Fire Node\Past after Grate\Bonk Fire Node Generator
 - \Lanayru\Desert\East\Fire Node\Past after Grate\Fire Node
 - \Lanayru\Temple of Time\South East\Unlock Statue
+- \Lanayru\Temple of Time\South East\Northwest Rupee on Tree Root
+- \Lanayru\Temple of Time\South East\Northeast Rupee on Tree Root
+- \Lanayru\Temple of Time\South East\Southeast Rupee on Tree Root
+- \Lanayru\Temple of Time\South East\East Rupee on Tree Trunk
+- \Lanayru\Temple of Time\South East\South Rupee on Tree Trunk
 - \Lanayru\Temple of Time\Front\Gossip Stone in Temple of Time Area
 - \Lanayru\Temple of Time\Front\Blow up Rock for Timeshift Stone
 - \Lanayru\Temple of Time\Front\Timeshift Stone
 - \Lanayru\Temple of Time\Front\Save Robot
 - \Lanayru\Temple of Time\Inside\Unlock Statue
+- \Lanayru\Temple of Time\Inside\Bonk Northeast Pillar
+- \Lanayru\Temple of Time\Inside\Bonk Southeast Pillar
+- \Lanayru\Temple of Time\Inside\Rupee on North Gate of Time Pillar
+- \Lanayru\Temple of Time\Inside\Rupee on Southwest Gate of Time Pillar
 - \Lanayru\Temple of Time\Near Goddess Cube\Timeshift Stone
 - \Lanayru\Temple of Time\Near Goddess Cube\Goddess Cube at Ride near Temple of Time
 - \Lanayru\Lanayru Silent Realm\Trial Reward
-- \Lanayru\Lanayru Silent Realm\Relic 1
-- \Lanayru\Lanayru Silent Realm\Relic 2
-- \Lanayru\Lanayru Silent Realm\Relic 3
-- \Lanayru\Lanayru Silent Realm\Relic 4
-- \Lanayru\Lanayru Silent Realm\Relic 5
-- \Lanayru\Lanayru Silent Realm\Relic 6
-- \Lanayru\Lanayru Silent Realm\Relic 7
-- \Lanayru\Lanayru Silent Realm\Relic 8
-- \Lanayru\Lanayru Silent Realm\Relic 9
-- \Lanayru\Lanayru Silent Realm\Relic 10
+- \Lanayru\Lanayru Silent Realm\Stamina Fruit on East LMF Vine Wall
+- \Lanayru\Lanayru Silent Realm\Stamina Fruit on West LMF Vine Wall
+- \Lanayru\Lanayru Silent Realm\Stamina Fruit near Minecart
+- \Lanayru\Lanayru Silent Realm\Stamina Fruit between Watchers
+- \Lanayru\Lanayru Silent Realm\Stamina Fruit near Tree
 - \Lanayru\Caves\Chest
 - \Lanayru\Caves\Golo's Gift
 - \Lanayru\Caves\Gossip Stone in Center
@@ -1327,11 +1388,22 @@ items:
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour\Goddess Cube in Ancient Harbour
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour\Unlock Statue
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour\Ship Timeshift Stone
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot Northeast Box Robot Eye with
+  Clawshot Target
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot North Box Robot Left Eye
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot North Box Robot Right Eye
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot Southeast Box Robot Left Eye
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot Southeast Box Robot Right Eye
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot South Box Robot Eye
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Slingshot Left Nostril
+  of Entrance Robot
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Slingshot Right Nostril
+  of Entrance Robot
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Rupee on First Pillar
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Left Rupee on Entrance
   Crown
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Right Rupee on Entrance
   Crown
-- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Rupee on First Pillar
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Unlock Statue
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Blow up Rock
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Chest after Moblin
@@ -1340,16 +1412,40 @@ items:
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Whip Peahat
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Deal with Deku Baba
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Chest on top of Cacti Pillar
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Slingshot Left Eye of Shack
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Slingshot Right Eye of Shack
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Slingshot Nose of Shack
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Chest in Shack
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Skipper's Closet
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Blow Aeroplane
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Blow Sombrero
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Blow Fish
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 1
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 2
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 3
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 4
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 5
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 6
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Skydive Platform\Skydive Chest
 - \Lanayru\Lanayru Sand Sea\Shipyard\Unlock Statue
 - \Lanayru\Lanayru Sand Sea\Shipyard\Gossip Stone in Shipyard
+- \Lanayru\Lanayru Sand Sea\Shipyard\Bonk Sign before Gortram the Rickety Coaster
+  Operator
+- \Lanayru\Lanayru Sand Sea\Shipyard\Bonk Sign before Second Minecart Track
+- \Lanayru\Lanayru Sand Sea\Shipyard\Bonk Sign after Second Minecart Track
 - \Lanayru\Lanayru Sand Sea\Shipyard\Rickety Coaster -- Heart Stopping Track in 1'05
 - \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay\Defeat Moldarach
+- \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay\Bonk Left Sign near Upper Door
+- \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay\Bonk Right Sign near Upper Door
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Unlock Statue
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Rupee on West Sea Pillar
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Rupee on East Sea Pillar
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Rupee on Bird Statue Pillar or Nose
+- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Bonk Pillar Left of Shark's Head
+- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Bonk Pillar Right of Shark's Head
+- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Left Side
+- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Upper Right Side
+- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Lower Right Side
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head\Goddess Cube in
   Pirate Stronghold
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Chest
@@ -1362,9 +1458,29 @@ items:
 - \Lanayru\Lanayru Sand Sea\Gorge\Thunder Dragon's Reward
 - \Lanayru\Lanayru Sand Sea\Gorge\Boss Rush -- 4 Bosses
 - \Lanayru\Lanayru Sand Sea\Gorge\Boss Rush -- 8 Bosses
+- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Pillar near Thunder Dragon
+- \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Left Pillar behind the Thunder Dragon
+- \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Right Pillar behind the Thunder Dragon
+- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Left of Stairs
+- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Right of Stairs
+- \Lanayru\Lanayru Sand Sea\Gorge\Blow Grass near Lone Boulder
+- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Left Machine after Locked Door
+- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Right Machine after Locked Door
 - \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Activate Timeshift Stone
 - \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Goddess Cube in Lanayru Gorge
 - \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Digging Spot
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Left Sandfall Source
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Right Sandfall Source
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
+  1
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
+  2
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
+  3
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
+  4
+- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
+  5
 - \Sandship\Pass Spume
 - \Sandship\Main\Deck\Raise Timeshift Stone
 - \Sandship\Main\Deck\Start Mast Sequence
@@ -6018,6 +6134,20 @@ areas:
                   \ Stone Trick"
                 \Ancient Flower Farming: \Lanayru\Mine\Entry\Timeshift Stone
                 Chest near First Timeshift Stone: \Lanayru\Mine\Entry\Timeshift Stone
+                Slingshot Left Eye of First Landing Robot: \Slingshot
+                Slingshot Right Eye of First Landing Robot: \Slingshot
+                Blow Digging Robot before Side Room near First Timeshift Stone: Gust
+                  Bellows
+                Blow Left Digging Robot in Side Room near First Timeshift Stone: "Gust\
+                  \ Bellows & \\Lanayru\\Mine\\Entry\\Timeshift Stone"
+                Blow Right Digging Robot in Side Room near First Timeshift Stone: "Gust\
+                  \ Bellows & \\Lanayru\\Mine\\Entry\\Timeshift Stone"
+                Rupee on Southeast Conveyor 1: \Beetle
+                Rupee on Southeast Conveyor 2: \Beetle
+                Rupee on Southwest Conveyor 1: \Beetle
+                Rupee on Southwest Conveyor 2: \Beetle
+                Slingshot Left Robot Eye above First Minecart Doorway: \Slingshot
+                Slingshot Right Robot Eye above First Minecart Doorway: \Slingshot
               name: \Lanayru\Mine\Entry
               sub_areas:
                 Higher Area:
@@ -6065,7 +6195,19 @@ areas:
               hint_region: Lanayru Mine
               locations:
                 Blow Statues Down: "Bomb Bag | \\Hook Beetle"
-                Chest behind Statue: \Lanayru\Mine\Statues Area\Blow Statues Down
+                Blow Left Digging Robot after First Minecart Ride: Gust Bellows
+                Blow Right Digging Robot after First Minecart Ride: Gust Bellows
+                Chest behind Northeast Statue: "Bomb Bag | (\\Lanayru\\Mine\\Statues\
+                  \ Area\\Blow Statues Down & \\Hook Beetle)"
+                Rupee behind Northeast Statue: "Bomb Bag | (\\Lanayru\\Mine\\Statues\
+                  \ Area\\Blow Statues Down & \\Hook Beetle)"
+                Rupee behind Southwest Statue: "Bomb Bag | (\\Lanayru\\Mine\\Statues\
+                  \ Area\\Blow Statues Down & \\Hook Beetle)"
+                Stamina Fruit before Falling Statues: 'True'
+                Stamina Fruit after Falling Statues: \Beetle
+                Stamina Fruit near Spumes 1: \Beetle
+                Stamina Fruit near Spumes 2: \Beetle
+                Stamina Fruit near Spumes 3: \Beetle
               name: \Lanayru\Mine\Statues Area
               sub_areas: {}
               toplevel_alias: null
@@ -6083,7 +6225,13 @@ areas:
               hint_region: Lanayru Mine
               locations:
                 Blow up Rock on Track: 'True'
+                Blow Digging Robot near Mine Exit: Gust Bellows
+                Blow Digging Robot near Last Mine Timeshift Stone: Gust Bellows
                 Chest at the End of Mine: 'True'
+                Stamina Fruit after Falling Statues: 'True'
+                Stamina Fruit near Spumes 1: 'True'
+                Stamina Fruit near Spumes 2: 'True'
+                Stamina Fruit near Spumes 3: 'True'
                 \Ancient Flower Farming: \Can Hit Timeshift Stone
               name: \Lanayru\Mine\End
               sub_areas:
@@ -6137,6 +6285,9 @@ areas:
                 Blow up Rock for Timeshift Stone: Bomb Bag
                 Timeshift Stone: "\\Lanayru\\Desert\\Entry\\Blow up Rock for Timeshift\
                   \ Stone & \\Can Hit Timeshift Stone"
+                Slingshot Left Robot Eye above Lanayru Mine Exit: \Slingshot
+                Stamina Fruit on Ledge to Party Wheel: "\\Lanayru\\Desert\\Entry\\\
+                  Timeshift Stone | \\Beetle"
               name: \Lanayru\Desert\Entry
               sub_areas:
                 High Ledge after Vines:
@@ -6174,6 +6325,12 @@ areas:
               hint_region: Lanayru Desert
               locations:
                 Chest near Caged Robot: 'True'
+                Rupee above Caged Robot 1: \Beetle
+                Rupee above Caged Robot 2: \Beetle
+                Rupee behind South Statue near Caged Robot: \Hook Beetle
+                Rupee behind West Statue near Caged Robot: \Hook Beetle
+                Rupee behind East Statue before Sand Oasis: \Hook Beetle
+                Rupee behind West Statue before Sand Oasis: \Hook Beetle
                 Goddess Cube near Caged Robot: \Long Range Skyward Strike
                 Blow up Rock for Timeshift Stone: "Bomb Bag | \\Hook Beetle | Lanayru\
                   \ Desert - Ampilus Bomb Toss Trick"
@@ -6203,6 +6360,14 @@ areas:
               locations:
                 Goddess Cube in Sand Oasis: "\\Lanayru\\Can Navigate in Oasis & \\\
                   Goddess Sword"
+                Rupee behind South Statue near Caged Robot: "Bomb Bag & Bomb Throws\
+                  \ Trick"
+                Rupee behind West Statue near Caged Robot: "Bomb Bag & Bomb Throws\
+                  \ Trick"
+                Rupee behind East Statue before Sand Oasis: "Bomb Bag & Bomb Throws\
+                  \ Trick"
+                Rupee behind West Statue before Sand Oasis: "Bomb Bag & Bomb Throws\
+                  \ Trick"
               name: \Lanayru\Desert\Sand Oasis
               sub_areas: {}
               toplevel_alias: null
@@ -6226,6 +6391,15 @@ areas:
                 Unlock Statue: 'True'
                 \Lanayru\Desert\Sand Oasis\Goddess Cube in Sand Oasis: \Goddess Sword
                 Push Minecart: 'True'
+                Stamina Fruit in South Sand Oasis 1: "\\Lanayru\\Can Navigate in Oasis\
+                  \ | \\Beetle"
+                Stamina Fruit in South Sand Oasis 2: "\\Lanayru\\Can Navigate in Oasis\
+                  \ | \\Beetle"
+                Stamina Fruit in North Sand Oasis 1: "\\Lanayru\\Can Navigate in Oasis\
+                  \ | \\Beetle"
+                Stamina Fruit in North Sand Oasis 2: "\\Lanayru\\Can Navigate in Oasis\
+                  \ | \\Beetle"
+                Slingshot Left Robot Eye near West Desert Bird Statue: \Slingshot
               name: \Lanayru\Desert\West Part
               sub_areas: {}
               toplevel_alias: null
@@ -6243,6 +6417,9 @@ areas:
               hint_region: Lanayru Desert
               locations:
                 Push Minecart: 'True'
+                \Lanayru\Desert\West Part\Stamina Fruit in North Sand Oasis 1: 'True'
+                \Lanayru\Desert\West Part\Stamina Fruit in North Sand Oasis 2: 'True'
+                Slingshot Left Robot Eye above Temple of Time Entrance: \Slingshot
               name: \Lanayru\Desert\Near South Exit to Temple of Time
               sub_areas:
                 Ledge to Caves:
@@ -6256,7 +6433,8 @@ areas:
                     \Lanayru\Desert\Near South Exit to Temple of Time: 'True'
                     Exit to Caves: 'True'
                   hint_region: Lanayru Desert
-                  locations: {}
+                  locations:
+                    Slingshot Left Robot Eye above Lanayru Caves Entrance: \Slingshot
                   name: \Lanayru\Desert\Near South Exit to Temple of Time\Ledge to
                     Caves
                   sub_areas: {}
@@ -6296,6 +6474,9 @@ areas:
               hint_region: Lanayru Desert
               locations:
                 Chest on top of Lanayru Mining Facility: 'True'
+                Stamina Fruit on South LMF Ledge: 'True'
+                Stamina Fruit on West LMF Ledge: 'True'
+                Stamina Fruit on LMF Wall Vines: 'True'
               name: \Lanayru\Desert\Top of LMF
               sub_areas: {}
               toplevel_alias: null
@@ -6321,6 +6502,9 @@ areas:
                   Part\Open Secret Passageway
               hint_region: Lanayru Desert
               locations:
+                Slingshot Right Robot Eye above Temple of Time Exit: \Slingshot
+                Bonk Water Node Generator: 'True'
+                Bonk Main Node Generator: 'True'
                 Water Node: "(Bomb Bag | \\Hook Beetle) & \\Sword"
                 Blow up Main Node Timeshift Stone Rock: "Bomb Bag | \\Hook Beetle"
                 Main Node Timeshift Stone: "\\Lanayru\\Desert\\North Part\\Blow up\
@@ -6400,6 +6584,8 @@ areas:
                       locations:
                         First Chest: 'True'
                         Second Chest: 'True'
+                        Bonk Lightning Node Power Supply: 'True'
+                        Bonk Lightning Node Generator: 'True'
                         Lightning Node: \Sword
                       name: \Lanayru\Desert\North Part\Lightning Node\Past
                       sub_areas: {}
@@ -6528,6 +6714,7 @@ areas:
                       hint_region: Lanayru Desert
                       locations:
                         Open Grate: \Hook Beetle
+                        Bonk Fire Node Power Supply: 'True'
                       name: \Lanayru\Desert\East\Fire Node\Past after Void
                       sub_areas: {}
                       toplevel_alias: null
@@ -6543,6 +6730,7 @@ areas:
                       locations:
                         Left Ending Chest: 'True'
                         Right Ending Chest: 'True'
+                        Bonk Fire Node Generator: 'True'
                         Fire Node: \Sword
                       name: \Lanayru\Desert\East\Fire Node\Past after Grate
                       sub_areas: {}
@@ -6558,7 +6746,7 @@ areas:
           entrances: []
           exits:
             Shared Statue Exit: 'False'
-          hint_region: null
+          hint_region: Lanayru Desert
           locations: {}
           name: \Lanayru\Temple of Time
           sub_areas:
@@ -6576,10 +6764,15 @@ areas:
                   East\Unlock Statue
                 \Lanayru\Temple of Time\Front: "\\Hook Beetle | (\\Slingshot & Temple\
                   \ of Time - Slingshot Shot Trick)"
-              hint_region: null
+              hint_region: Lanayru Desert
               locations:
                 Unlock Statue: 'True'
                 \Ancient Flower Farming: \Distance Activator
+                Northwest Rupee on Tree Root: \Beetle
+                Northeast Rupee on Tree Root: \Beetle
+                Southeast Rupee on Tree Root: \Beetle
+                East Rupee on Tree Trunk: \Beetle
+                South Rupee on Tree Trunk: \Beetle
               name: \Lanayru\Temple of Time\South East
               sub_areas: {}
               toplevel_alias: null
@@ -6593,7 +6786,7 @@ areas:
                 \Lanayru\Temple of Time\Inside: 'True'
                 \Lanayru\Temple of Time\Near Goddess Cube: \Lanayru\Temple of Time\Near
                   Goddess Cube\Timeshift Stone
-              hint_region: null
+              hint_region: Lanayru Desert
               locations:
                 Gossip Stone in Temple of Time Area: 'True'
                 Blow up Rock for Timeshift Stone: "\\Hook Beetle | (Bomb Throws Trick\
@@ -6621,9 +6814,13 @@ areas:
                   Statue
                 Exit to Lanayru Mining Facility: 'True'
                 \Lanayru\Temple of Time\Front: 'True'
-              hint_region: null
+              hint_region: Lanayru Desert
               locations:
                 Unlock Statue: 'True'
+                Bonk Northeast Pillar: 'True'
+                Bonk Southeast Pillar: 'True'
+                Rupee on North Gate of Time Pillar: \Beetle
+                Rupee on Southwest Gate of Time Pillar: \Beetle
               name: \Lanayru\Temple of Time\Inside
               sub_areas: {}
               toplevel_alias: null
@@ -6635,7 +6832,7 @@ areas:
               entrances: []
               exits:
                 \Lanayru\Temple of Time\North East: 'True'
-              hint_region: null
+              hint_region: Lanayru Desert
               locations:
                 Timeshift Stone: 'False'
                 Goddess Cube at Ride near Temple of Time: \Goddess Sword
@@ -6652,7 +6849,7 @@ areas:
               exits:
                 \Lanayru\Temple of Time\South East: \Distance Activator
                 North Exit to Desert: 'True'
-              hint_region: null
+              hint_region: Lanayru Desert
               locations:
                 \Ancient Flower Farming: \Distance Activator
               name: \Lanayru\Temple of Time\North East
@@ -6671,16 +6868,11 @@ areas:
           hint_region: Lanayru Silent Realm
           locations:
             Trial Reward: 'True'
-            Relic 1: 'True'
-            Relic 2: 'True'
-            Relic 3: 'True'
-            Relic 4: 'True'
-            Relic 5: 'True'
-            Relic 6: 'True'
-            Relic 7: 'True'
-            Relic 8: 'True'
-            Relic 9: 'True'
-            Relic 10: 'True'
+            Stamina Fruit on East LMF Vine Wall: 'True'
+            Stamina Fruit on West LMF Vine Wall: 'True'
+            Stamina Fruit near Minecart: 'True'
+            Stamina Fruit between Watchers: 'True'
+            Stamina Fruit near Tree: 'True'
           name: \Lanayru\Lanayru Silent Realm
           sub_areas: {}
           toplevel_alias: null
@@ -6778,6 +6970,12 @@ areas:
                 Goddess Cube in Ancient Harbour: "Clawshots & \\Goddess Sword"
                 Unlock Statue: 'True'
                 Ship Timeshift Stone: "\\Distance Activator | \\Sword | Bomb Bag"
+                Slingshot Northeast Box Robot Eye with Clawshot Target: \Slingshot
+                Slingshot North Box Robot Left Eye: \Slingshot
+                Slingshot North Box Robot Right Eye: \Slingshot
+                Slingshot Southeast Box Robot Left Eye: \Slingshot
+                Slingshot Southeast Box Robot Right Eye: \Slingshot
+                Slingshot South Box Robot Eye: \Slingshot
               name: \Lanayru\Lanayru Sand Sea\Ancient Harbour
               sub_areas:
                 Near Exit to Caves:
@@ -6792,9 +6990,11 @@ areas:
                     \Lanayru\Lanayru Sand Sea\Ancient Harbour: Clawshots
                   hint_region: Lanayru Sand Sea
                   locations:
+                    Slingshot Left Nostril of Entrance Robot: \Slingshot
+                    Slingshot Right Nostril of Entrance Robot: \Slingshot
+                    Rupee on First Pillar: \Beetle
                     Left Rupee on Entrance Crown: \Quick Beetle
                     Right Rupee on Entrance Crown: \Quick Beetle
-                    Rupee on First Pillar: \Beetle
                   name: \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves
                   sub_areas: {}
                   toplevel_alias: null
@@ -6855,6 +7055,9 @@ areas:
                   hint_region: Lanayru Sand Sea
                   locations:
                     Chest on top of Cacti Pillar: Clawshots
+                    Slingshot Left Eye of Shack: \Slingshot
+                    Slingshot Right Eye of Shack: \Slingshot
+                    Slingshot Nose of Shack: \Slingshot
                   name: \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part
                   sub_areas: {}
                   toplevel_alias: null
@@ -6870,6 +7073,16 @@ areas:
                   hint_region: Lanayru Sand Sea
                   locations:
                     Chest in Shack: Gust Bellows
+                    Skipper's Closet: Gust Bellows
+                    Blow Aeroplane: Gust Bellows
+                    Blow Sombrero: Gust Bellows
+                    Blow Fish: Gust Bellows
+                    Rupee under Sand 1: Gust Bellows
+                    Rupee under Sand 2: Gust Bellows
+                    Rupee under Sand 3: Gust Bellows
+                    Rupee under Sand 4: Gust Bellows
+                    Rupee under Sand 5: Gust Bellows
+                    Rupee under Sand 6: Gust Bellows
                   name: \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack
                   sub_areas: {}
                   toplevel_alias: null
@@ -6908,6 +7121,9 @@ areas:
               locations:
                 Unlock Statue: 'True'
                 Gossip Stone in Shipyard: 'True'
+                Bonk Sign before Gortram the Rickety Coaster Operator: 'True'
+                Bonk Sign before Second Minecart Track: 'True'
+                Bonk Sign after Second Minecart Track: 'True'
                 Rickety Coaster -- Heart Stopping Track in 1'05: \Lanayru\Lanayru
                   Sand Sea\Shipyard\Construction Bay\Defeat Moldarach
               name: \Lanayru\Lanayru Sand Sea\Shipyard
@@ -6927,6 +7143,8 @@ areas:
                   hint_region: Lanayru Sand Sea
                   locations:
                     Defeat Moldarach: "Gust Bellows & \\Sword"
+                    Bonk Left Sign near Upper Door: 'True'
+                    Bonk Right Sign near Upper Door: 'True'
                   name: \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay
                   sub_areas: {}
                   toplevel_alias: null
@@ -6954,6 +7172,11 @@ areas:
                 Rupee on East Sea Pillar: "(\\Beetle & Pirate Stronghold - Beetle\
                   \ Pillar Checks Trick) | \\Quick Beetle"
                 Rupee on Bird Statue Pillar or Nose: \Beetle
+                Bonk Pillar Left of Shark's Head: 'True'
+                Bonk Pillar Right of Shark's Head: 'True'
+                Stamina Fruit on Left Side: 'True'
+                Stamina Fruit on Upper Right Side: 'True'
+                Stamina Fruit on Lower Right Side: 'True'
               name: \Lanayru\Lanayru Sand Sea\Pirate Stronghold
               sub_areas:
                 Inside the Shark Head:
@@ -7026,6 +7249,18 @@ areas:
                   \ Dragon's Reward & False"
                 Boss Rush -- 8 Bosses: "\\Lanayru\\Lanayru Sand Sea\\Gorge\\Thunder\
                   \ Dragon's Reward & False"
+                Bonk Pillar near Thunder Dragon: 'True'
+                Slingshot Left Pillar behind the Thunder Dragon: "\\Slingshot & \\\
+                  Beetle"
+                Slingshot Right Pillar behind the Thunder Dragon: "\\Slingshot & \\\
+                  Beetle"
+                Bonk Wall Left of Stairs: 'True'
+                Bonk Wall Right of Stairs: 'True'
+                Blow Grass near Lone Boulder: "(\\Hook Beetle | Bomb Bag) & Gust Bellows"
+                Bonk Left Machine after Locked Door: "Clawshots & Lanayru Caves Small\
+                  \ Key"
+                Bonk Right Machine after Locked Door: "Clawshots & \\Beetle & Lanayru\
+                  \ Caves Small Key"
               name: \Lanayru\Lanayru Sand Sea\Gorge
               sub_areas:
                 Beyond Bridge:
@@ -7045,6 +7280,13 @@ areas:
                       Activate Timeshift Stone & \\Digging Mitts"
                     \Ancient Flower Farming: \Lanayru\Lanayru Sand Sea\Gorge\Beyond
                       Bridge\Activate Timeshift Stone
+                    Slingshot Left Sandfall Source: \Slingshot
+                    Slingshot Right Sandfall Source: \Slingshot
+                    Rupee in High Tunnel after Bridge 1: \Beetle
+                    Rupee in High Tunnel after Bridge 2: \Beetle
+                    Rupee in High Tunnel after Bridge 3: \Beetle
+                    Rupee in High Tunnel after Bridge 4: \Beetle
+                    Rupee in High Tunnel after Bridge 5: \Beetle
                   name: \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge
                   sub_areas: {}
                   toplevel_alias: null
@@ -10775,22 +11017,93 @@ checks:
     original item: Eldin Song of the Hero Part
     type: null
     short_name: Bokoblin Base - Fire Dragon's Reward
+  \Lanayru\Mine\Entry\Slingshot Left Eye of First Landing Robot:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Slingshot Left Eye of First Landing Robot
+  \Lanayru\Mine\Entry\Slingshot Right Eye of First Landing Robot:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Slingshot Right Eye of First Landing Robot
   \Lanayru\Mine\Entry\Higher Area\Chest behind First Landing:
     original item: Evil Crystal
     type: null
     short_name: Lanayru Mine - Chest behind First Landing
+  \Lanayru\Mine\Entry\Blow Digging Robot before Side Room near First Timeshift Stone:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Digging Robot before Side Room near First Timeshift
+      Stone
+  \Lanayru\Mine\Entry\Blow Left Digging Robot in Side Room near First Timeshift Stone:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Left Digging Robot in Side Room near First Timeshift
+      Stone
+  \Lanayru\Mine\Entry\Blow Right Digging Robot in Side Room near First Timeshift Stone:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Right Digging Robot in Side Room near First Timeshift
+      Stone
   \Lanayru\Mine\Entry\Chest near First Timeshift Stone:
     original item: Red Rupee
     type: null
     short_name: Lanayru Mine - Chest near First Timeshift Stone
-  \Lanayru\Mine\Statues Area\Chest behind Statue:
-    original item: Red Rupee
-    type: null
-    short_name: Lanayru Mine - Chest behind Statue
+  \Lanayru\Mine\Entry\Rupee on Southeast Conveyor 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mine - Rupee on Southeast Conveyor 1
+  \Lanayru\Mine\Entry\Rupee on Southeast Conveyor 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mine - Rupee on Southeast Conveyor 2
+  \Lanayru\Mine\Entry\Rupee on Southwest Conveyor 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mine - Rupee on Southwest Conveyor 1
+  \Lanayru\Mine\Entry\Rupee on Southwest Conveyor 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Mine - Rupee on Southwest Conveyor 2
+  \Lanayru\Mine\Entry\Slingshot Left Robot Eye above First Minecart Doorway:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Slingshot Left Robot Eye above First Minecart Doorway
+  \Lanayru\Mine\Entry\Slingshot Right Robot Eye above First Minecart Doorway:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Slingshot Right Robot Eye above First Minecart Doorway
+  \Lanayru\Mine\Statues Area\Blow Left Digging Robot after First Minecart Ride:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Left Digging Robot after First Minecart Ride
+  \Lanayru\Mine\Statues Area\Blow Right Digging Robot after First Minecart Ride:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Right Digging Robot after First Minecart Ride
+  \Lanayru\Mine\Statues Area\Chest behind Northeast Statue:
+    type: Chests
+    short_name: Lanayru Mine - Chest behind Northeast Statue
+  \Lanayru\Mine\Statues Area\Rupee behind Northeast Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mine - Rupee behind Northeast Statue
+  \Lanayru\Mine\Statues Area\Rupee behind Southwest Statue:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Mine - Rupee behind Southwest Statue
+  \Lanayru\Mine\End\Blow Digging Robot near Mine Exit:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Digging Robot near Mine Exit
+  \Lanayru\Mine\End\Blow Digging Robot near Last Mine Timeshift Stone:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Mine - Blow Digging Robot near Last Mine Timeshift Stone
   \Lanayru\Mine\End\Chest at the End of Mine:
     original item: Rare Treasure
     type: null
     short_name: Lanayru Mine - Chest at the End of Mine
+  \Lanayru\Mine\Statues Area\Stamina Fruit before Falling Statues:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Mine - Stamina Fruit before Falling Statues
+  \Lanayru\Mine\Statues Area\Stamina Fruit after Falling Statues:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Mine - Stamina Fruit after Falling Statues
+  \Lanayru\Mine\Statues Area\Stamina Fruit near Spumes 1:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Mine - Stamina Fruit near Spumes 1
+  \Lanayru\Mine\Statues Area\Stamina Fruit near Spumes 2:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Mine - Stamina Fruit near Spumes 2
+  \Lanayru\Mine\Statues Area\Stamina Fruit near Spumes 3:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Mine - Stamina Fruit near Spumes 3
+  \Lanayru\Desert\Entry\Slingshot Left Robot Eye above Lanayru Mine Exit:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Slingshot Left Robot Eye above Lanayru Mine Exit
   \Lanayru\Desert\Entry\High Ledge after Vines\Chest near Party Wheel:
     original item: Golden Skull
     type: null
@@ -10799,22 +11112,58 @@ checks:
     original item: Tumbleweed
     type: null
     short_name: Lanayru Desert - Chest near Caged Robot
+  \Lanayru\Desert\Near Caged Robot\Rupee above Caged Robot 1:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Desert - Rupee above Caged Robot 1
+  \Lanayru\Desert\Near Caged Robot\Rupee above Caged Robot 2:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Desert - Rupee above Caged Robot 2
   \Lanayru\Desert\Near Caged Robot\Rescue Caged Robot:
     original item: Progressive Beetle
     type: Combat
     short_name: Lanayru Desert - Rescue Caged Robot
+  \Lanayru\Desert\Near Caged Robot\Rupee behind South Statue near Caged Robot:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Desert - Rupee behind South Statue near Caged Robot
+  \Lanayru\Desert\Near Caged Robot\Rupee behind West Statue near Caged Robot:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Desert - Rupee behind West Statue near Caged Robot
+  \Lanayru\Desert\Near Caged Robot\Rupee behind East Statue before Sand Oasis:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Desert - Rupee behind East Statue before Sand Oasis
+  \Lanayru\Desert\Near Caged Robot\Rupee behind West Statue before Sand Oasis:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Desert - Rupee behind West Statue before Sand Oasis
   \Lanayru\Desert\East\Chest on Platform near Fire Node:
     original item: Red Rupee
     type: null
     short_name: Lanayru Desert - Chest on Platform near Fire Node
+  \Lanayru\Desert\North Part\Bonk Main Node Generator:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Bonk Main Node Generator
   \Lanayru\Desert\North Part\Chest on Platform near Lightning Node:
     original item: 'Dusk Relic #0'
     type: lanayru, miscellaneous
     short_name: Lanayru Desert - Chest on Platform near Lightning Node
+  \Lanayru\Desert\North Part\Slingshot Right Robot Eye above Temple of Time Exit:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Slingshot Right Robot Eye above Temple of Time Exit
+  \Lanayru\Desert\North Part\Bonk Water Node Generator:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Bonk Water Node Generator
   \Lanayru\Desert\Top of West Wall\Chest near Sand Oasis:
     original item: Red Rupee
     type: null
     short_name: Lanayru Desert - Chest near Sand Oasis
+  \Lanayru\Desert\West Part\Slingshot Left Robot Eye near West Desert Bird Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Slingshot Left Robot Eye near West Desert Bird Statue
+  \Lanayru\Desert\Near South Exit to Temple of Time\Ledge to Caves\Slingshot Left Robot Eye above Lanayru Caves Entrance:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Slingshot Left Robot Eye above Lanayru Caves Entrance
+  \Lanayru\Desert\Near South Exit to Temple of Time\Slingshot Left Robot Eye above Temple of Time Entrance:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Slingshot Left Robot Eye above Temple of Time Entrance
   \Lanayru\Desert\Top of LMF\Chest on top of Lanayru Mining Facility:
     original item: Rare Treasure
     type: null
@@ -10823,6 +11172,57 @@ checks:
     original item: Heart Piece
     type: null
     short_name: Lanayru Desert - Secret Passageway Chest
+  \Lanayru\Desert\Entry\Stamina Fruit on Ledge to Party Wheel:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit on Ledge to Party Wheel
+  \Lanayru\Desert\Top of LMF\Stamina Fruit on South LMF Ledge:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit on South LMF Ledge
+  \Lanayru\Desert\Top of LMF\Stamina Fruit on West LMF Ledge:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit on West LMF Ledge
+  \Lanayru\Desert\Top of LMF\Stamina Fruit on LMF Wall Vines:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit on LMF Wall Vines
+  \Lanayru\Desert\West Part\Stamina Fruit in South Sand Oasis 1:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit in South Sand Oasis 1
+  \Lanayru\Desert\West Part\Stamina Fruit in South Sand Oasis 2:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit in South Sand Oasis 2
+  \Lanayru\Desert\West Part\Stamina Fruit in North Sand Oasis 1:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit in North Sand Oasis 1
+  \Lanayru\Desert\West Part\Stamina Fruit in North Sand Oasis 2:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Desert - Stamina Fruit in North Sand Oasis 2
+  \Lanayru\Temple of Time\South East\Northwest Rupee on Tree Root:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Temple of Time - Northwest Rupee on Tree Root
+  \Lanayru\Temple of Time\South East\Northeast Rupee on Tree Root:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Temple of Time - Northeast Rupee on Tree Root
+  \Lanayru\Temple of Time\South East\Southeast Rupee on Tree Root:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Temple of Time - Southeast Rupee on Tree Root
+  \Lanayru\Temple of Time\South East\East Rupee on Tree Trunk:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Temple of Time - East Rupee on Tree Trunk
+  \Lanayru\Temple of Time\South East\South Rupee on Tree Trunk:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Temple of Time - South Rupee on Tree Trunk
+  \Lanayru\Temple of Time\Inside\Bonk Northeast Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Temple of Time - Bonk Northeast Pillar
+  \Lanayru\Temple of Time\Inside\Bonk Southeast Pillar:
+    type: Hidden Items, Custom Flag
+    short_name: Temple of Time - Bonk Southeast Pillar
+  \Lanayru\Temple of Time\Inside\Rupee on North Gate of Time Pillar:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Temple of Time - Rupee on North Gate of Time Pillar
+  \Lanayru\Temple of Time\Inside\Rupee on Southwest Gate of Time Pillar:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Temple of Time - Rupee on Southwest Gate of Time Pillar
   \Lanayru\Desert\East\Fire Node\Present after Sand\Shortcut Chest:
     original item: Rare Treasure
     type: null
@@ -10835,6 +11235,12 @@ checks:
     original item: Blue Rupee
     type: null
     short_name: Lanayru Desert - Fire Node - Second Small Chest
+  \Lanayru\Desert\East\Fire Node\Past after Void\Bonk Fire Node Power Supply:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Fire Node - Bonk Fire Node Power Supply
+  \Lanayru\Desert\East\Fire Node\Past after Grate\Bonk Fire Node Generator:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Fire Node - Bonk Fire Node Generator
   \Lanayru\Desert\East\Fire Node\Past after Grate\Left Ending Chest:
     original item: Golden Skull
     type: null
@@ -10851,6 +11257,12 @@ checks:
     original item: Blue Rupee
     type: null
     short_name: Lanayru Desert - Lightning Node - Second Chest
+  \Lanayru\Desert\North Part\Lightning Node\Past\Bonk Lightning Node Power Supply:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Lightning Node - Bonk Lightning Node Power Supply
+  \Lanayru\Desert\North Part\Lightning Node\Past\Bonk Lightning Node Generator:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Desert - Lightning Node - Bonk Lightning Node Generator
   \Lanayru\Desert\North Part\Lightning Node\Present from afar\Raised Chest near Generator:
     original item: Rare Treasure
     type: null
@@ -10863,30 +11275,103 @@ checks:
     original item: Lanayru Caves Small Key
     type: null
     short_name: Lanayru Caves - Golo's Gift
+  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Pillar near Thunder Dragon:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Bonk Pillar near Thunder Dragon
   \Lanayru\Lanayru Sand Sea\Gorge\Thunder Dragon's Reward:
     original item: Lanayru Song of the Hero Part
     type: null
     short_name: Lanayru Gorge - Thunder Dragon's Reward
+  \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Left Pillar behind the Thunder Dragon:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Slingshot Left Pillar behind the Thunder Dragon
+  \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Right Pillar behind the Thunder Dragon:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Slingshot Right Pillar behind the Thunder Dragon
   \Lanayru\Lanayru Sand Sea\Gorge\Item on Pillar:
     original item: Red Rupee
     type: null
     short_name: Lanayru Gorge - Item on Pillar
+  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Left of Stairs:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Bonk Wall Left of Stairs
+  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Right of Stairs:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Bonk Wall Right of Stairs
   \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Digging Spot:
     original item: Life Tree Seedling
     type: null
     short_name: Lanayru Gorge - Digging Spot
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Left Sandfall Source:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Slingshot Left Sandfall Source
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Right Sandfall Source:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Slingshot Right Sandfall Source
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 1
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 2
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 3:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 3
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 4:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 4
+  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 5:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 5
+  \Lanayru\Lanayru Sand Sea\Gorge\Blow Grass near Lone Boulder:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Blow Grass near Lone Boulder
+  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Left Machine after Locked Door:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Bonk Left Machine after Locked Door
+  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Right Machine after Locked Door:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Gorge - Bonk Right Machine after Locked Door
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Slingshot Left Nostril of Entrance Robot:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot Left Nostril of Entrance
+      Robot
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Slingshot Right Nostril of Entrance Robot:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot Right Nostril of Entrance
+      Robot
   \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Rupee on First Pillar:
-    original item: 'Red Rupee #34'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Lanayru Sand Sea - Ancient Harbour - Rupee on First Pillar
   \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Left Rupee on Entrance Crown:
-    original item: 'Silver Rupee #13'
-    type: Rupees (Quick Beetle)
+    type: Freestanding Rupees, Advanced Rupees, Allowed Unreachable
     short_name: Lanayru Sand Sea - Ancient Harbour - Left Rupee on Entrance Crown
   \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Right Rupee on Entrance Crown:
-    original item: 'Silver Rupee #14'
-    type: Rupees (Quick Beetle)
+    type: Freestanding Rupees, Advanced Rupees, Allowed Unreachable
     short_name: Lanayru Sand Sea - Ancient Harbour - Right Rupee on Entrance Crown
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot Northeast Box Robot Eye with Clawshot Target:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot Northeast Box Robot
+      Eye with Clawshot Target
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot North Box Robot Left Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot North Box Robot Left
+      Eye
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot North Box Robot Right Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot North Box Robot Right
+      Eye
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot Southeast Box Robot Left Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot Southeast Box Robot
+      Left Eye
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot Southeast Box Robot Right Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot Southeast Box Robot
+      Right Eye
+  \Lanayru\Lanayru Sand Sea\Ancient Harbour\Slingshot South Box Robot Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Ancient Harbour - Slingshot South Box Robot Eye
   \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Chest after Moblin:
     original item: Red Rupee
     type: null
@@ -10895,31 +11380,102 @@ checks:
     original item: Semi Rare Treasure
     type: null
     short_name: Lanayru Sand Sea - Skipper's Retreat - Chest on top of Cacti Pillar
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Slingshot Left Eye of Shack:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Slingshot Left Eye of Shack
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Slingshot Right Eye of Shack:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Slingshot Right Eye of Shack
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Slingshot Nose of Shack:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Slingshot Nose of Shack
   \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Chest in Shack:
     original item: Sea Chart
     type: null
     short_name: Lanayru Sand Sea - Skipper's Retreat - Chest in Shack
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Skipper's Closet:
+    type: Closets
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Skipper's Closet
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Blow Aeroplane:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Blow Aeroplane
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Blow Sombrero:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Blow Sombrero
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Blow Fish:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Blow Fish
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 1:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Rupee under Sand 1
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 2:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Rupee under Sand 2
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 3:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Rupee under Sand 3
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 4:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Rupee under Sand 4
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 5:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Rupee under Sand 5
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Shack\Rupee under Sand 6:
+    type: Freestanding Rupees, Beginner Rupees, Custom Flag
+    short_name: Lanayru Sand Sea - Skipper's Retreat - Rupee under Sand 6
   \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Skydive Platform\Skydive Chest:
     original item: Silver Rupee
     type: null
     short_name: Lanayru Sand Sea - Skipper's Retreat - Skydive Chest
+  \Lanayru\Lanayru Sand Sea\Shipyard\Bonk Sign before Gortram the Rickety Coaster Operator:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Shipyard - Bonk Sign before Gortram the Rickety
+      Coaster Operator
   \Lanayru\Lanayru Sand Sea\Shipyard\Rickety Coaster -- Heart Stopping Track in 1'05:
     original item: Heart Piece
     type: Minigames, Combat
     short_name: Lanayru Sand Sea - Rickety Coaster -- Heart Stopping Track in 1'05
+  \Lanayru\Lanayru Sand Sea\Shipyard\Bonk Sign before Second Minecart Track:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Shipyard - Bonk Sign before Second Minecart Track
+  \Lanayru\Lanayru Sand Sea\Shipyard\Bonk Sign after Second Minecart Track:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Shipyard - Bonk Sign after Second Minecart Track
+  \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay\Bonk Left Sign near Upper Door:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Construction Bay - Bonk Left Sign near Upper Door
+  \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay\Bonk Right Sign near Upper Door:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Construction Bay - Bonk Right Sign near Upper Door
   \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Rupee on East Sea Pillar:
-    original item: 'Silver Rupee #16'
-    type: Rupees (Quick Beetle)
+    type: Freestanding Rupees, Advanced Rupees, Allowed Unreachable
     short_name: Lanayru Sand Sea - Pirate Stronghold - Rupee on East Sea Pillar
   \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Rupee on West Sea Pillar:
-    original item: 'Silver Rupee #15'
-    type: Rupees (Quick Beetle)
+    type: Freestanding Rupees, Advanced Rupees, Allowed Unreachable
     short_name: Lanayru Sand Sea - Pirate Stronghold - Rupee on West Sea Pillar
   \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Rupee on Bird Statue Pillar or Nose:
-    original item: 'Silver Rupee #17'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Advanced Rupees
     short_name: Lanayru Sand Sea - Pirate Stronghold - Rupee on Bird Statue Pillar
       or Nose
+  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Bonk Pillar Left of Shark's Head:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Pirate Stronghold - Bonk Pillar Left of Shark's
+      Head
+  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Bonk Pillar Right of Shark's Head:
+    type: Hidden Items, Custom Flag
+    short_name: Lanayru Sand Sea - Pirate Stronghold - Bonk Pillar Right of Shark's
+      Head
+  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Left Side:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Sand Sea - Pirate Stronghold - Stamina Fruit on Left Side
+  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Upper Right Side:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Sand Sea - Pirate Stronghold - Stamina Fruit on Upper Right
+      Side
+  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Lower Right Side:
+    type: Stamina Fruits, Custom Flag
+    short_name: Lanayru Sand Sea - Pirate Stronghold - Stamina Fruit on Lower Right
+      Side
   \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Chest:
     original item: Silver Rupee
     type: null

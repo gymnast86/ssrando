@@ -20,6 +20,17 @@ Mine:
       # There's technically 2 different flowers here but one has the same reqs as the other only + bombs
       General - Ancient Flower Farming: Timeshift Stone
       Chest near First Timeshift Stone: Timeshift Stone
+      Slingshot Left Eye of First Landing Robot: Slingshot
+      Slingshot Right Eye of First Landing Robot: Slingshot
+      Blow Digging Robot before Side Room near First Timeshift Stone: Gust Bellows
+      Blow Left Digging Robot in Side Room near First Timeshift Stone: Gust Bellows & Timeshift Stone
+      Blow Right Digging Robot in Side Room near First Timeshift Stone: Gust Bellows & Timeshift Stone
+      Rupee on Southeast Conveyor 1: Beetle
+      Rupee on Southeast Conveyor 2: Beetle
+      Rupee on Southwest Conveyor 1: Beetle
+      Rupee on Southwest Conveyor 2: Beetle
+      Slingshot Left Robot Eye above First Minecart Doorway: Slingshot
+      Slingshot Right Robot Eye above First Minecart Doorway: Slingshot
 
     Higher Area:
       entrance: Clawshots
@@ -40,14 +51,29 @@ Mine:
       End: Blow Statues Down | Brakeslide Trick | Central Skyloft - Bazaar - Endurance Potion
     locations:
       Blow Statues Down: Bomb Bag | Hook Beetle
-      Chest behind Statue: Blow Statues Down
+      Blow Left Digging Robot after First Minecart Ride: Gust Bellows
+      Blow Right Digging Robot after First Minecart Ride: Gust Bellows
+      Chest behind Northeast Statue: Bomb Bag | (Blow Statues Down & Hook Beetle)
+      Rupee behind Northeast Statue: Bomb Bag | (Blow Statues Down & Hook Beetle)
+      Rupee behind Southwest Statue: Bomb Bag | (Blow Statues Down & Hook Beetle)
+      Stamina Fruit before Falling Statues: Nothing
+      Stamina Fruit after Falling Statues: Beetle
+      Stamina Fruit near Spumes 1: Beetle
+      Stamina Fruit near Spumes 2: Beetle
+      Stamina Fruit near Spumes 3: Beetle
 
   End:
     exits:
       Statues Area: Statues Area - Blow Statues Down | Brakeslide Trick | Central Skyloft - Bazaar - Endurance Potion
     locations:
       Blow up Rock on Track: Nothing
+      Blow Digging Robot near Mine Exit: Gust Bellows
+      Blow Digging Robot near Last Mine Timeshift Stone: Gust Bellows
       Chest at the End of Mine: Nothing # There's a baba in the way
+      Stamina Fruit after Falling Statues: Nothing
+      Stamina Fruit near Spumes 1: Nothing
+      Stamina Fruit near Spumes 2: Nothing
+      Stamina Fruit near Spumes 3: Nothing
       General - Ancient Flower Farming: Can Hit Timeshift Stone
 
     In Minecart:
@@ -75,6 +101,8 @@ Desert:
       Unlock Statue: Nothing
       Blow up Rock for Timeshift Stone: Bomb Bag
       Timeshift Stone: Blow up Rock for Timeshift Stone & Can Hit Timeshift Stone
+      Slingshot Left Robot Eye above Lanayru Mine Exit: Slingshot
+      Stamina Fruit on Ledge to Party Wheel: Timeshift Stone | Beetle
 
     High Ledge after Vines:
       entrance: Entry - Timeshift Stone
@@ -93,6 +121,12 @@ Desert:
       Sand Oasis: Get Past Spume to Sand Oasis
     locations:
       Chest near Caged Robot: Nothing
+      Rupee above Caged Robot 1: Beetle # You can (in theory) use a bomb flower to knock it down
+      Rupee above Caged Robot 2: Beetle # You can (in theory) use a bomb flower to knock it down
+      Rupee behind South Statue near Caged Robot: Hook Beetle
+      Rupee behind West Statue near Caged Robot: Hook Beetle
+      Rupee behind East Statue before Sand Oasis: Hook Beetle
+      Rupee behind West Statue before Sand Oasis: Hook Beetle
       Goddess Cube near Caged Robot: Long Range Skyward Strike # Also accessible elsewhere
       Blow up Rock for Timeshift Stone: Bomb Bag | Hook Beetle | Lanayru Desert - Ampilus Bomb Toss Trick
       Rescue Caged Robot: Blow up Rock for Timeshift Stone & Can Defeat Bokoblins
@@ -111,6 +145,10 @@ Desert:
       West Part: Can Navigate in Oasis | West Part - Push Minecart
     locations:
       Goddess Cube in Sand Oasis: Can Navigate in Oasis & Goddess Sword
+      Rupee behind South Statue near Caged Robot: Bomb Bag & Bomb Throws Trick
+      Rupee behind West Statue near Caged Robot: Bomb Bag & Bomb Throws Trick
+      Rupee behind East Statue before Sand Oasis: Bomb Bag & Bomb Throws Trick
+      Rupee behind West Statue before Sand Oasis: Bomb Bag & Bomb Throws Trick
 
   West Part:
     exits:
@@ -123,6 +161,11 @@ Desert:
       Unlock Statue: Nothing
       Sand Oasis - Goddess Cube in Sand Oasis: Goddess Sword
       Push Minecart: Nothing
+      Stamina Fruit in South Sand Oasis 1: Can Navigate in Oasis | Beetle
+      Stamina Fruit in South Sand Oasis 2: Can Navigate in Oasis | Beetle
+      Stamina Fruit in North Sand Oasis 1: Can Navigate in Oasis | Beetle
+      Stamina Fruit in North Sand Oasis 2: Can Navigate in Oasis | Beetle
+      Slingshot Left Robot Eye near West Desert Bird Statue: Slingshot
 
   Near South Exit to Temple of Time:
     exits:
@@ -130,12 +173,17 @@ Desert:
       West Part: Nothing
     locations:
       Push Minecart: Nothing
+      West Part - Stamina Fruit in North Sand Oasis 1: Nothing
+      West Part - Stamina Fruit in North Sand Oasis 2: Nothing
+      Slingshot Left Robot Eye above Temple of Time Entrance: Slingshot
 
     Ledge to Caves:
       entrance: Clawshots
       exits:
         Near South Exit to Temple of Time: Nothing
         Exit to Caves: Nothing
+      locations:
+        Slingshot Left Robot Eye above Lanayru Caves Entrance: Slingshot
 
   Top of West Wall:
     exits:
@@ -155,6 +203,9 @@ Desert:
       Exit to Lanayru Mining Facility: Nothing
     locations:
       Chest on top of Lanayru Mining Facility: Nothing
+      Stamina Fruit on South LMF Ledge: Nothing
+      Stamina Fruit on West LMF Ledge: Nothing
+      Stamina Fruit on LMF Wall Vines: Nothing
 
   North Part:
     exits:
@@ -166,6 +217,9 @@ Desert:
       Trial Gate: Open Trial Gate
       Lightning Node: Open Lightning Node
     locations:
+      Slingshot Right Robot Eye above Temple of Time Exit: Slingshot
+      Bonk Water Node Generator: Nothing
+      Bonk Main Node Generator: Nothing
       Water Node: (Bomb Bag | Hook Beetle) & Sword
       Blow up Main Node Timeshift Stone Rock: Bomb Bag | Hook Beetle
       Main Node Timeshift Stone: Blow up Main Node Timeshift Stone Rock & Can Hit Timeshift Stone
@@ -202,6 +256,8 @@ Desert:
         locations:
           First Chest: Nothing
           Second Chest: Nothing
+          Bonk Lightning Node Power Supply: Nothing
+          Bonk Lightning Node Generator: Nothing
           Lightning Node: Sword
 
       Present from afar:
@@ -258,6 +314,7 @@ Desert:
           Past after Grate: Open Grate
         locations:
           Open Grate: Hook Beetle
+          Bonk Fire Node Power Supply: Nothing
 
       Past after Grate:
         exits:
@@ -265,9 +322,13 @@ Desert:
         locations:
           Left Ending Chest: Nothing
           Right Ending Chest: Nothing
+          Bonk Fire Node Generator: Nothing
           Fire Node: Sword
 
 Temple of Time:
+  top-level-alias: Temple of Time
+  hint-region: Lanayru Desert
+
   exits:
     Shared Statue Exit: Impossible  # Common for all, so placed here
 
@@ -280,6 +341,11 @@ Temple of Time:
     locations:
       Unlock Statue: Nothing
       General - Ancient Flower Farming: Distance Activator # for timeshift stone
+      Northwest Rupee on Tree Root: Beetle
+      Northeast Rupee on Tree Root: Beetle
+      Southeast Rupee on Tree Root: Beetle
+      East Rupee on Tree Trunk: Beetle
+      South Rupee on Tree Trunk: Beetle
 
   Front:
     exits:
@@ -302,6 +368,10 @@ Temple of Time:
       Front: Nothing
     locations:
       Unlock Statue: Nothing
+      Bonk Northeast Pillar: Nothing
+      Bonk Southeast Pillar: Nothing
+      Rupee on North Gate of Time Pillar: Beetle
+      Rupee on Southwest Gate of Time Pillar: Beetle
 
   Near Goddess Cube:
     exits:
@@ -323,16 +393,21 @@ Lanayru Silent Realm:
     Exit: Nothing
   locations:
     Trial Reward: Nothing
-    Relic 1: Nothing
-    Relic 2: Nothing
-    Relic 3: Nothing
-    Relic 4: Nothing
-    Relic 5: Nothing
-    Relic 6: Nothing
-    Relic 7: Nothing
-    Relic 8: Nothing
-    Relic 9: Nothing
-    Relic 10: Nothing
+    Stamina Fruit on East LMF Vine Wall: Nothing
+    Stamina Fruit on West LMF Vine Wall: Nothing
+    Stamina Fruit near Minecart: Nothing
+    Stamina Fruit between Watchers: Nothing
+    Stamina Fruit near Tree: Nothing
+    # Relic 1: Nothing
+    # Relic 2: Nothing
+    # Relic 3: Nothing
+    # Relic 4: Nothing
+    # Relic 5: Nothing
+    # Relic 6: Nothing
+    # Relic 7: Nothing
+    # Relic 8: Nothing
+    # Relic 9: Nothing
+    # Relic 10: Nothing
 
 Caves:
   toplevel-alias: Lanayru Caves
@@ -381,6 +456,12 @@ Lanayru Sand Sea:
       Goddess Cube in Ancient Harbour: Clawshots & Goddess Sword
       Unlock Statue: Nothing
       Ship Timeshift Stone: Distance Activator | Sword | Bomb Bag
+      Slingshot Northeast Box Robot Eye with Clawshot Target: Slingshot
+      Slingshot North Box Robot Left Eye: Slingshot
+      Slingshot North Box Robot Right Eye: Slingshot
+      Slingshot Southeast Box Robot Left Eye: Slingshot
+      Slingshot Southeast Box Robot Right Eye: Slingshot
+      Slingshot South Box Robot Eye: Slingshot
 
     Near Exit to Caves:
       entrance: Clawshots
@@ -388,9 +469,11 @@ Lanayru Sand Sea:
         Exit to Caves: Nothing
         Ancient Harbour: Clawshots
       locations:
+        Slingshot Left Nostril of Entrance Robot: Slingshot
+        Slingshot Right Nostril of Entrance Robot: Slingshot
+        Rupee on First Pillar: Beetle
         Left Rupee on Entrance Crown: Quick Beetle
         Right Rupee on Entrance Crown: Quick Beetle
-        Rupee on First Pillar: Beetle
 
   Skipper's Retreat:
     exits:
@@ -418,12 +501,25 @@ Lanayru Sand Sea:
         Skydive Platform: Nothing
       locations:
         Chest on top of Cacti Pillar: Clawshots
+        Slingshot Left Eye of Shack: Slingshot
+        Slingshot Right Eye of Shack: Slingshot
+        Slingshot Nose of Shack: Slingshot
 
     Shack:
       exits:
         Exit: Nothing
       locations:
         Chest in Shack: Gust Bellows
+        Skipper's Closet: Gust Bellows
+        Blow Aeroplane: Gust Bellows
+        Blow Sombrero: Gust Bellows
+        Blow Fish: Gust Bellows
+        Rupee under Sand 1: Gust Bellows
+        Rupee under Sand 2: Gust Bellows
+        Rupee under Sand 3: Gust Bellows
+        Rupee under Sand 4: Gust Bellows
+        Rupee under Sand 5: Gust Bellows
+        Rupee under Sand 6: Gust Bellows
 
     Skydive Platform:
       exits:
@@ -440,6 +536,9 @@ Lanayru Sand Sea:
     locations:
       Unlock Statue: Nothing
       Gossip Stone in Shipyard: Nothing # Take the first cart and you've arrived
+      Bonk Sign before Gortram the Rickety Coaster Operator: Nothing
+      Bonk Sign before Second Minecart Track: Nothing
+      Bonk Sign after Second Minecart Track: Nothing
       Rickety Coaster -- Heart Stopping Track in 1'05:
         # Roller Coaster Minigame
         Construction Bay - Defeat Moldarach
@@ -450,6 +549,8 @@ Lanayru Sand Sea:
         Lower Exit: Defeat Moldarach
       locations:
         Defeat Moldarach: Gust Bellows & Sword
+        Bonk Left Sign near Upper Door: Nothing
+        Bonk Right Sign near Upper Door: Nothing
 
   Pirate Stronghold:
     exits:
@@ -462,6 +563,11 @@ Lanayru Sand Sea:
       Rupee on West Sea Pillar: (Beetle & Pirate Stronghold - Beetle Pillar Checks Trick) | Quick Beetle
       Rupee on East Sea Pillar: (Beetle & Pirate Stronghold - Beetle Pillar Checks Trick) | Quick Beetle
       Rupee on Bird Statue Pillar or Nose: Beetle
+      Bonk Pillar Left of Shark's Head: Nothing
+      Bonk Pillar Right of Shark's Head: Nothing
+      Stamina Fruit on Left Side: Nothing
+      Stamina Fruit on Upper Right Side: Nothing
+      Stamina Fruit on Lower Right Side: Nothing
 
     # Inside - Finish Minidungeon means the Shark Head is raised
     Inside the Shark Head:
@@ -499,6 +605,14 @@ Lanayru Sand Sea:
       Thunder Dragon's Reward: Activate Timeshift Stone & Life Tree Fruit
       Boss Rush -- 4 Bosses: Thunder Dragon's Reward & Impossible
       Boss Rush -- 8 Bosses: Thunder Dragon's Reward & Impossible
+      Bonk Pillar near Thunder Dragon: Nothing
+      Slingshot Left Pillar behind the Thunder Dragon: Slingshot & Beetle
+      Slingshot Right Pillar behind the Thunder Dragon: Slingshot & Beetle
+      Bonk Wall Left of Stairs: Nothing
+      Bonk Wall Right of Stairs: Nothing
+      Blow Grass near Lone Boulder: (Hook Beetle | Bomb Bag) & Gust Bellows
+      Bonk Left Machine after Locked Door: Clawshots & Lanayru Caves Small Key
+      Bonk Right Machine after Locked Door: Clawshots & Beetle & Lanayru Caves Small Key
     exits:
       Statue: Unlock Statue
       Beyond Bridge: Activate Timeshift Stone
@@ -512,3 +626,10 @@ Lanayru Sand Sea:
         Goddess Cube in Lanayru Gorge: Goddess Sword
         Digging Spot: Activate Timeshift Stone & Digging Mitts
         General - Ancient Flower Farming: Activate Timeshift Stone
+        Slingshot Left Sandfall Source: Slingshot
+        Slingshot Right Sandfall Source: Slingshot
+        Rupee in High Tunnel after Bridge 1: Beetle
+        Rupee in High Tunnel after Bridge 2: Beetle
+        Rupee in High Tunnel after Bridge 3: Beetle
+        Rupee in High Tunnel after Bridge 4: Beetle
+        Rupee in High Tunnel after Bridge 5: Beetle

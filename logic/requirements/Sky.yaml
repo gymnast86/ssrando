@@ -16,6 +16,9 @@ North East:
       Lanayru - Goddess Cube at Lanayru Mine Entrance & Bomb Bag # (Bomb Bag | Can RBM 4x01)
       # Scene Flag 4x01 is "Blow Up rocks on northeastern island"
     Northeast Island Cage Goddess Chest: Eldin - Goddess Cube East of Earth Temple Entrance
+    Form a Squirrel Ring above Volcanic Island: Nothing
+    Form a Squirrel Ring above Lumpy Pumpkin: Nothing
+    Form a Squirrel Ring above Bamboo Island: Nothing
 
   Eldin Pillar:
     entrance: Nothing
@@ -38,12 +41,19 @@ North East:
       Exit to Inside: Nothing
     locations:
       Bamboo Island Goddess Chest: Eldin - Goddess Cube West of Earth Temple Entrance
+      Slingshot Left Lantern: Slingshot
+      Slingshot Middle Lantern: Slingshot
+      Slingshot Right Lantern: Slingshot
 
     Inside:
       exits:
         Exit: Nothing
       locations:
         Clean Cut Minigame: Sword
+        Bonk Southwest Sprout: Nothing
+        Bonk West Sprout: Nothing
+        Bonk East Sprout: Nothing
+        Bonk Southeast Sprout: Nothing
         Gossip Stone on Bamboo Island: Nothing
 
   Beedle's Island:
@@ -115,6 +125,11 @@ South East:
       Kina's Crystals: Eldin - Pick up Guld & Day
       Gossip Stone on Lumpy Pumpkin: Nothing
       Pumpkin Carrying: Complete Hot Soup Delivery & Day
+      Slingshot Left Canopy Lantern: Slingshot
+      Slingshot Right Canopy Lantern: Slingshot
+      Slingshot Lantern Left of Main Door: Slingshot
+      Slingshot Lantern Right of Main Door: Slingshot
+      Slingshot Lantern next to Back Door: Slingshot
 
     Lumpy Pumpkin Building:
       can-sleep: true
@@ -267,3 +282,7 @@ Thunderhead:
       Bug Heaven -- 10 Bugs in 3 Minutes: Bug Net
       Bug Heaven Goddess Chest: Eldin - Goddess Cube in Summit Waterfall
       Gossip Stone near Bug Heaven: Nothing
+      Stamina Fruit near Start: Nothing
+      Stamina Fruit in front of Wooden Plank: Nothing
+      Stamina Fruit in Center Room: Nothing
+      Stamina Fruit on top of Slope: Nothing

@@ -1255,8 +1255,18 @@ items:
 - \Sky\North East\Goddess Chest in Cave on Island next to Bamboo Island
 - \Sky\North East\Northeast Island Goddess Chest behind Bombable Rocks
 - \Sky\North East\Northeast Island Cage Goddess Chest
+- \Sky\North East\Form a Squirrel Ring above Volcanic Island
+- \Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin
+- \Sky\North East\Form a Squirrel Ring above Bamboo Island
 - \Sky\North East\Bamboo Island\Bamboo Island Goddess Chest
+- \Sky\North East\Bamboo Island\Slingshot Left Lantern
+- \Sky\North East\Bamboo Island\Slingshot Middle Lantern
+- \Sky\North East\Bamboo Island\Slingshot Right Lantern
 - \Sky\North East\Bamboo Island\Inside\Clean Cut Minigame
+- \Sky\North East\Bamboo Island\Inside\Bonk Southwest Sprout
+- \Sky\North East\Bamboo Island\Inside\Bonk West Sprout
+- \Sky\North East\Bamboo Island\Inside\Bonk East Sprout
+- \Sky\North East\Bamboo Island\Inside\Bonk Southeast Sprout
 - \Sky\North East\Bamboo Island\Inside\Gossip Stone on Bamboo Island
 - \Sky\North East\Beedle's Island\Crystal on Beedle's Ship
 - \Sky\North East\Beedle's Island\Beedle's Crystals
@@ -1271,6 +1281,11 @@ items:
 - \Sky\South East\Lumpy Pumpkin\Kina's Crystals
 - \Sky\South East\Lumpy Pumpkin\Gossip Stone on Lumpy Pumpkin
 - \Sky\South East\Lumpy Pumpkin\Pumpkin Carrying
+- \Sky\South East\Lumpy Pumpkin\Slingshot Left Canopy Lantern
+- \Sky\South East\Lumpy Pumpkin\Slingshot Right Canopy Lantern
+- \Sky\South East\Lumpy Pumpkin\Slingshot Lantern Left of Main Door
+- \Sky\South East\Lumpy Pumpkin\Slingshot Lantern Right of Main Door
+- \Sky\South East\Lumpy Pumpkin\Slingshot Lantern next to Back Door
 - \Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Chandelier
 - \Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Crystal inside Lumpy Pumpkin
 - \Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Break the Chandelier
@@ -1308,6 +1323,10 @@ items:
 - \Sky\Thunderhead\Bug Heaven\Bug Heaven -- 10 Bugs in 3 Minutes
 - \Sky\Thunderhead\Bug Heaven\Bug Heaven Goddess Chest
 - \Sky\Thunderhead\Bug Heaven\Gossip Stone near Bug Heaven
+- \Sky\Thunderhead\Bug Heaven\Stamina Fruit near Start
+- \Sky\Thunderhead\Bug Heaven\Stamina Fruit in front of Wooden Plank
+- \Sky\Thunderhead\Bug Heaven\Stamina Fruit in Center Room
+- \Sky\Thunderhead\Bug Heaven\Stamina Fruit on top of Slope
 - \Skyloft\Upper Skyloft\Owlan's Gift
 - \Skyloft\Upper Skyloft\Chest near Goddess Statue
 - \Skyloft\Upper Skyloft\Pumpkin Archery -- 600 Points
@@ -1410,6 +1429,7 @@ items:
 - \Skyloft\Central Skyloft\Past Waterfall Cave\Crystal after Waterfall Cave
 - \Skyloft\Central Skyloft\Past Waterfall Cave\Crystal in Loftwing Prison
 - \Skyloft\Skyloft Silent Realm\Trial Reward
+- \Skyloft\Skyloft Silent Realm\Stamina Fruit on Knight Academy Ledge
 - \Skyloft\Skyloft Silent Realm\Relic 1
 - \Skyloft\Skyloft Silent Realm\Relic 2
 - \Skyloft\Skyloft Silent Realm\Relic 3
@@ -1420,12 +1440,20 @@ items:
 - \Skyloft\Skyloft Silent Realm\Relic 8
 - \Skyloft\Skyloft Silent Realm\Relic 9
 - \Skyloft\Skyloft Silent Realm\Relic 10
+- \Skyloft\Skyloft Village\Bonk Tree near River
+- \Skyloft\Skyloft Village\Stamina Fruit above Mallara's House
 - \Skyloft\Skyloft Village\Crystal near Pumpkin Patch
 - \Skyloft\Skyloft Village\Opened Shed
 - \Skyloft\Skyloft Village\Bertie's House\Bertie's Crystals
+- \Skyloft\Skyloft Village\Bertie's House\Luv and Bertie's Closet
 - \Skyloft\Skyloft Village\Sparrot's House\Start Sparrot's Quest
 - \Skyloft\Skyloft Village\Sparrot's House\Sparrot's Crystals
+- \Skyloft\Skyloft Village\Sparrot's House\Sparrot's Closet
+- \Skyloft\Skyloft Village\Sparrot's House\Bonk Sparrot's Valuables
 - \Skyloft\Skyloft Village\Mallara's House\Mallara's Crystals
+- \Skyloft\Skyloft Village\Mallara's House\Mallara's Closet
+- \Skyloft\Skyloft Village\Gondo's House\Gondo's Closet
+- \Skyloft\Skyloft Village\Rupin's House\Rupin's Closet
 - \Skyloft\Skyloft Village\Batreaux's House\5 Crystals
 - \Skyloft\Skyloft Village\Batreaux's House\10 Crystals
 - \Skyloft\Skyloft Village\Batreaux's House\30 Crystals
@@ -7377,6 +7405,9 @@ areas:
               Entry\\Goddess Cube at Lanayru Mine Entrance & Bomb Bag"
             Northeast Island Cage Goddess Chest: \Eldin\Volcano\Near Temple Entrance\Goddess
               Cube East of Earth Temple Entrance
+            Form a Squirrel Ring above Volcanic Island: 'True'
+            Form a Squirrel Ring above Lumpy Pumpkin: 'True'
+            Form a Squirrel Ring above Bamboo Island: 'True'
           name: \Sky\North East
           sub_areas:
             Eldin Pillar:
@@ -7420,6 +7451,9 @@ areas:
               locations:
                 Bamboo Island Goddess Chest: \Eldin\Volcano\Near Temple Entrance\Goddess
                   Cube West of Earth Temple Entrance
+                Slingshot Left Lantern: \Slingshot
+                Slingshot Middle Lantern: \Slingshot
+                Slingshot Right Lantern: \Slingshot
               name: \Sky\North East\Bamboo Island
               sub_areas:
                 Inside:
@@ -7434,6 +7468,10 @@ areas:
                   hint_region: Sky
                   locations:
                     Clean Cut Minigame: \Sword
+                    Bonk Southwest Sprout: 'True'
+                    Bonk West Sprout: 'True'
+                    Bonk East Sprout: 'True'
+                    Bonk Southeast Sprout: 'True'
                     Gossip Stone on Bamboo Island: 'True'
                   name: \Sky\North East\Bamboo Island\Inside
                   sub_areas: {}
@@ -7569,6 +7607,11 @@ areas:
                 Gossip Stone on Lumpy Pumpkin: 'True'
                 Pumpkin Carrying: "\\Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
                   \ Building\\Complete Hot Soup Delivery & Day"
+                Slingshot Left Canopy Lantern: \Slingshot
+                Slingshot Right Canopy Lantern: \Slingshot
+                Slingshot Lantern Left of Main Door: \Slingshot
+                Slingshot Lantern Right of Main Door: \Slingshot
+                Slingshot Lantern next to Back Door: \Slingshot
               name: \Sky\South East\Lumpy Pumpkin
               sub_areas:
                 Lumpy Pumpkin Building:
@@ -7864,6 +7907,10 @@ areas:
                 Bug Heaven Goddess Chest: \Eldin\Volcano Summit\Waterfall\Goddess
                   Cube in Summit Waterfall
                 Gossip Stone near Bug Heaven: 'True'
+                Stamina Fruit near Start: 'True'
+                Stamina Fruit in front of Wooden Plank: 'True'
+                Stamina Fruit in Center Room: 'True'
+                Stamina Fruit on top of Slope: 'True'
               name: \Sky\Thunderhead\Bug Heaven
               sub_areas: {}
               toplevel_alias: null
@@ -8339,6 +8386,7 @@ areas:
           hint_region: Skyloft Silent Realm
           locations:
             Trial Reward: 'True'
+            Stamina Fruit on Knight Academy Ledge: 'True'
             Relic 1: 'True'
             Relic 2: 'True'
             Relic 3: 'True'
@@ -8378,6 +8426,8 @@ areas:
             \Skyloft\Central Skyloft\Exit to Sky: Day
           hint_region: Skyloft Village
           locations:
+            Bonk Tree near River: 'True'
+            Stamina Fruit above Mallara's House: 'True'
             Crystal near Pumpkin Patch: Night
             Opened Shed: Night
           name: \Skyloft\Skyloft Village
@@ -8394,6 +8444,7 @@ areas:
               hint_region: Skyloft Village
               locations:
                 Bertie's Crystals: "Baby Rattle & Night"
+                Luv and Bertie's Closet: 'True'
               name: \Skyloft\Skyloft Village\Bertie's House
               sub_areas: {}
               toplevel_alias: null
@@ -8411,6 +8462,8 @@ areas:
                 Start Sparrot's Quest: 'True'
                 Sparrot's Crystals: \Eldin\Volcano\Near Temple Entrance\Retrieve Crystal
                   Ball
+                Sparrot's Closet: 'True'
+                Bonk Sparrot's Valuables: 'True'
               name: \Skyloft\Skyloft Village\Sparrot's House
               sub_areas: {}
               toplevel_alias: null
@@ -8426,6 +8479,7 @@ areas:
               hint_region: Skyloft Village
               locations:
                 Mallara's Crystals: Gust Bellows
+                Mallara's Closet: 'True'
               name: \Skyloft\Skyloft Village\Mallara's House
               sub_areas: {}
               toplevel_alias: null
@@ -8439,7 +8493,8 @@ areas:
               exits:
                 Exit: 'True'
               hint_region: Skyloft Village
-              locations: {}
+              locations:
+                Gondo's Closet: 'True'
               name: \Skyloft\Skyloft Village\Gondo's House
               sub_areas: {}
               toplevel_alias: null
@@ -8453,7 +8508,8 @@ areas:
               exits:
                 Exit: 'True'
               hint_region: Skyloft Village
-              locations: {}
+              locations:
+                Rupin's Closet: 'True'
               name: \Skyloft\Skyloft Village\Rupin's House
               sub_areas: {}
               toplevel_alias: null
@@ -9146,18 +9202,34 @@ checks:
     original item: Heart Piece
     type: goddess, Sand Sea Goddess Chests
     short_name: Central Skyloft - Waterfall Goddess Chest
+  \Skyloft\Skyloft Village\Bonk Tree near River:
+    short_name: Skyloft Village - Bonk Tree near River
   \Skyloft\Skyloft Village\Mallara's House\Mallara's Crystals:
     original item: Gratitude Crystal Pack
     type: Gratitude Crystal Sidequests
     short_name: Skyloft Village - Mallara's Crystals
+  \Skyloft\Skyloft Village\Mallara's House\Mallara's Closet:
+    short_name: Skyloft Village - Mallara's Closet
   \Skyloft\Skyloft Village\Bertie's House\Bertie's Crystals:
     original item: Gratitude Crystal Pack
     type: Gratitude Crystal Sidequests
     short_name: Skyloft Village - Bertie's Crystals
+  \Skyloft\Skyloft Village\Bertie's House\Luv and Bertie's Closet:
+    short_name: Skyloft Village - Luv and Bertie's Closet
+  \Skyloft\Skyloft Village\Gondo's House\Gondo's Closet:
+    short_name: Skyloft Village - Gondo's Closet
+  \Skyloft\Skyloft Village\Rupin's House\Rupin's Closet:
+    short_name: Skyloft Village - Rupin's Closet
   \Skyloft\Skyloft Village\Sparrot's House\Sparrot's Crystals:
     original item: Gratitude Crystal Pack
     type: Scrapper Deliveries, Gratitude Crystal Sidequests
     short_name: Skyloft Village - Sparrot's Crystals
+  \Skyloft\Skyloft Village\Sparrot's House\Sparrot's Closet:
+    short_name: Skyloft Village - Sparrot's Closet
+  \Skyloft\Skyloft Village\Sparrot's House\Bonk Sparrot's Valuables:
+    short_name: Skyloft Village - Bonk Sparrot's Valuables
+  \Skyloft\Skyloft Village\Stamina Fruit above Mallara's House:
+    short_name: Skyloft Village - Stamina Fruit above Mallara's House
   \Skyloft\Skyloft Village\Batreaux's House\5 Crystals:
     original item: Progressive Wallet
     type: Batreaux's Rewards
@@ -9294,6 +9366,30 @@ checks:
     original item: 'Gratitude Crystal #14'
     type: Loose Crystals
     short_name: Sky - Crystal on Beedle's Ship
+  \Sky\North East\Bamboo Island\Inside\Bonk Southwest Sprout:
+    short_name: Bamboo Island - Bonk Southwest Sprout
+  \Sky\North East\Bamboo Island\Inside\Bonk West Sprout:
+    short_name: Bamboo Island - Bonk West Sprout
+  \Sky\North East\Bamboo Island\Inside\Bonk East Sprout:
+    short_name: Bamboo Island - Bonk East Sprout
+  \Sky\North East\Bamboo Island\Inside\Bonk Southeast Sprout:
+    short_name: Bamboo Island - Bonk Southeast Sprout
+  \Sky\North East\Bamboo Island\Slingshot Left Lantern:
+    short_name: Bamboo Island - Slingshot Left Lantern
+  \Sky\North East\Bamboo Island\Slingshot Middle Lantern:
+    short_name: Bamboo Island - Slingshot Middle Lantern
+  \Sky\North East\Bamboo Island\Slingshot Right Lantern:
+    short_name: Bamboo Island - Slingshot Right Lantern
+  \Sky\South East\Lumpy Pumpkin\Slingshot Left Canopy Lantern:
+    short_name: Lumpy Pumpkin - Slingshot Left Canopy Lantern
+  \Sky\South East\Lumpy Pumpkin\Slingshot Right Canopy Lantern:
+    short_name: Lumpy Pumpkin - Slingshot Right Canopy Lantern
+  \Sky\South East\Lumpy Pumpkin\Slingshot Lantern Left of Main Door:
+    short_name: Lumpy Pumpkin - Slingshot Lantern Left of Main Door
+  \Sky\South East\Lumpy Pumpkin\Slingshot Lantern Right of Main Door:
+    short_name: Lumpy Pumpkin - Slingshot Lantern Right of Main Door
+  \Sky\South East\Lumpy Pumpkin\Slingshot Lantern next to Back Door:
+    short_name: Lumpy Pumpkin - Slingshot Lantern next to Back Door
   \Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Chandelier:
     original item: Heart Piece
     type: null
@@ -9330,6 +9426,12 @@ checks:
     original item: Silver Rupee
     type: null
     short_name: Sky - Chest in Breakable Boulder near Lumpy Pumpkin
+  \Sky\North East\Form a Squirrel Ring above Volcanic Island:
+    short_name: Sky - Form a Squirrel Ring above Volcanic Island
+  \Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin:
+    short_name: Sky - Form a Squirrel Ring above Lumpy Pumpkin
+  \Sky\North East\Form a Squirrel Ring above Bamboo Island:
+    short_name: Sky - Form a Squirrel Ring above Bamboo Island
   \Sky\North East\Bamboo Island\Bamboo Island Goddess Chest:
     original item: Gold Rupee
     type: goddess, Eldin Volcano Goddess Chests
@@ -9414,6 +9516,14 @@ checks:
     original item: Horned Colossus Beetle
     type: Minigames
     short_name: Thunderhead - Bug Heaven -- 10 Bugs in 3 Minutes
+  \Sky\Thunderhead\Bug Heaven\Stamina Fruit near Start:
+    short_name: Thunderhead - Bug Heaven - Stamina Fruit near Start
+  \Sky\Thunderhead\Bug Heaven\Stamina Fruit in front of Wooden Plank:
+    short_name: Thunderhead - Bug Heaven - Stamina Fruit in front of Wooden Plank
+  \Sky\Thunderhead\Bug Heaven\Stamina Fruit in Center Room:
+    short_name: Thunderhead - Bug Heaven - Stamina Fruit in Center Room
+  \Sky\Thunderhead\Bug Heaven\Stamina Fruit on top of Slope:
+    short_name: Thunderhead - Bug Heaven - Stamina Fruit on top of Slope
   \Sky\Thunderhead\East Island\East Island Chest:
     original item: Evil Crystal
     type: null
@@ -10263,6 +10373,8 @@ checks:
     original item: Stone of Trials
     type: null
     short_name: Skyloft Silent Realm - Trial Reward
+  \Skyloft\Skyloft Silent Realm\Stamina Fruit on Knight Academy Ledge:
+    short_name: Skyloft Silent Realm - Stamina Fruit on Knight Academy Ledge
   \Skyloft\Skyloft Silent Realm\Relic 1:
     original item: 'Dusk Relic #1'
     type: skyloft, silent realm

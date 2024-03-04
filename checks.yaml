@@ -700,6 +700,77 @@ Sky - Crystal on Beedle's Ship:
   type: Loose Crystals
 
 # Sky:
+Bamboo Island - Bonk Southwest Sprout:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F019r/r0/l0/TgReact/0xFC08
+
+Bamboo Island - Bonk West Sprout:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F019r/r0/l0/TgReact/0xFC09
+
+Bamboo Island - Bonk East Sprout:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F019r/r0/l0/TgReact/0xFC0A
+
+Bamboo Island - Bonk Southeast Sprout:
+  original_item: Fairy
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F019r/r0/l0/TgReact/0xFC07
+
+Bamboo Island - Slingshot Left Lantern:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA3
+
+Bamboo Island - Slingshot Middle Lantern:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA2
+
+Bamboo Island - Slingshot Right Lantern:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA4
+
+Lumpy Pumpkin - Slingshot Left Canopy Lantern:
+  original_item: Blue Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA5
+
+Lumpy Pumpkin - Slingshot Right Canopy Lantern:
+  original_item: Blue Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA6
+
+Lumpy Pumpkin - Slingshot Lantern Left of Main Door:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA8
+
+Lumpy Pumpkin - Slingshot Lantern Right of Main Door:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA7
+
+Lumpy Pumpkin - Slingshot Lantern next to Back Door:
+  original_item: Green Rupee
+  types: Hidden Items, Custom Flag
+  Paths:
+    - stage/F020/r0/l0/TgReact/0xFCA9
 Sky - Lumpy Pumpkin - Chandelier:
   original item: Heart Piece
   type:
@@ -762,7 +833,23 @@ Sky - Chest in Breakable Boulder near Lumpy Pumpkin:
   type:
   Paths:
     - stage/F020/r0/l0/TBox/69
+Sky - Form a Squirrel Ring above Volcanic Island:
+  original_item: Red Rupee
+  types: Squirrel
+  Paths:
+    - stage/F020/r0/l0/MssbTag/0xFCC8 # actor id
 
+Sky - Form a Squirrel Ring above Lumpy Pumpkin:
+  original_item: Red Rupee
+  types: Squirrel
+  Paths:
+    - stage/F020/r0/l0/MssbTag/0xFC9C # actor id
+
+Sky - Form a Squirrel Ring above Bamboo Island:
+  original_item: Red Rupee
+  types: Squirrel
+  Paths:
+    - stage/F020/r0/l0/MssbTag/0xFCA0 # actor id
 ## Goddess Chests
 Sky - Bamboo Island Goddess Chest:
   original item: Gold Rupee
@@ -899,6 +986,29 @@ Thunderhead - Bug Heaven -- 10 Bugs in 3 Minutes:
     - oarc/F023/l0
   hint: sometimes
   text: <r<true bug catchers>> can find
+Thunderhead - Bug Heaven - Stamina Fruit near Start:
+  original_item: Stamina Fruit
+  types: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F023/r0/l0/Item/0xFC87
+
+Thunderhead - Bug Heaven - Stamina Fruit in front of Wooden Plank:
+  original_item: Stamina Fruit
+  types: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F023/r0/l0/Item/0xFC1C
+
+Thunderhead - Bug Heaven - Stamina Fruit in Center Room:
+  original_item: Stamina Fruit
+  types: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F023/r0/l0/Item/0xFC86
+
+Thunderhead - Bug Heaven - Stamina Fruit on top of Slope:
+  original_item: Stamina Fruit
+  types: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F023/r0/l0/Item/0xFC10
 Thunderhead - East Island Chest:
   original item: Evil Crystal
   type:

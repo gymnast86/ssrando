@@ -26,9 +26,20 @@ Volcano:
       Entry: Nothing
       Exit to Bokoblin Base: Nothing
     locations:
+      Stamina Fruit in Rising Lava Room: Nothing
       Chest behind Bombable Wall in First Room: Nothing
       Rupee behind Bombable Wall in First Room: Nothing
       Rupee in Crawlspace in First Room: Nothing
+      Slingshot Ceiling in First Room: Slingshot
+      Underground Rupee in First Room 1: Mogma Mitts
+      Underground Rupee in First Room 2: Mogma Mitts
+      Underground Rupee in First Room 3: Mogma Mitts
+      Underground Rupee in First Room 4: Mogma Mitts
+      Underground Rupee in First Room 5: Mogma Mitts
+      Underground Rupee in First Room 6: Mogma Mitts
+      Underground Rupee in First Room 7: Mogma Mitts
+      Underground Rupee in First Room 8: Mogma Mitts
+      Underground Rupee in First Room 9: Mogma Mitts
       Blow up Rock to East: Nothing
 
   East:
@@ -46,8 +57,32 @@ Volcano:
       Unlock Statue: Nothing
       Goddess Cube near Mogma Turf Entrance: Goddess Sword
       Chest after Crawlspace: Nothing
+      Underground Rupee before Bone Bridge 1: Mogma Mitts
+      Underground Rupee before Bone Bridge 2: Mogma Mitts
       Chest behind Bombable Wall near Cliff: Nothing
+      Rupee in Old Pyrup Shell near Cliff: Nothing # Use nearby bomb flower
+      Bonk Hammer in Hut near Cliff: Nothing
+      Blow Cloth above Hut near Cliff: Gust Bellows
+      Rupee in Old Pyrup Shell on Cliff: Nothing # Use nearby bomb flower
       Item on Cliff: Nothing
+      Underground Rupee in Cliff 1: Mogma Mitts
+      Underground Rupee in Cliff 2: Mogma Mitts
+      Underground Rupee in Cliff 3: Mogma Mitts
+      Underground Rupee in Cliff 4: Mogma Mitts
+      Underground Rupee in Cliff 5: Mogma Mitts
+      Underground Rupee in Cliff 6: Mogma Mitts
+      Underground Rupee in Cliff 7: Mogma Mitts
+      Underground Rupee in Cliff 8: Mogma Mitts
+      Underground Rupee in Cliff 9: Mogma Mitts
+      Underground Rupee in Cliff 10: Mogma Mitts
+      Underground Rupee in Cliff 11: Mogma Mitts
+      Underground Rupee in Cliff 12: Mogma Mitts
+      Underground Rupee in Cliff 13: Mogma Mitts
+      Underground Rupee in Cliff 14: Mogma Mitts
+      Underground Rupee in Cliff 15: Mogma Mitts
+      Stamina Fruit near Volcano East Statue: Nothing
+      Stamina Fruit in front of Bone Bridge: Nothing
+      Stamina Fruit near Item on Cliff: Nothing
       Drain Lava: Nothing
       Southeast Rupee above Mogma Turf Entrance: Beetle
       North Rupee above Mogma Turf Entrance: Beetle
@@ -73,6 +108,9 @@ Volcano:
       Past Slide: Past Slide - Unlock Shortcut to Ascent
     locations:
       Chest behind Bombable Wall near Volcano Ascent: Nothing
+      Stamina Fruit in front of First Slope 1: Nothing
+      Stamina Fruit in front of First Slope 2: Nothing
+      Stamina Fruit in front of First Slope Shortcut: Nothing
       Unlock Statue: Nothing
       Unlock Shortcut to Entry: Nothing
       Past Slide - Unlock Shortcut to Ascent: Bomb Bag | Hook Beetle # | (Whip & Whip Bomb Trick)
@@ -87,6 +125,9 @@ Volcano:
     locations:
       Left Rupee behind Bombable Wall on First Slope: Nothing
       Right Rupee behind Bombable Wall on First Slope: Nothing
+      Stamina Fruit after First Slope: Nothing
+      Stamina Fruit next to Small Puddle: Nothing
+      Stamina Fruit on Vine Wall near Thrill Digger: Nothing
       Blow down Watchtower: Nothing
 
   Thrill Digger Cave:
@@ -95,6 +136,23 @@ Volcano:
     locations:
       Thrill Digger Minigame: Digging Mitts
       Gossip Stone in Thrill Digger Cave: Nothing
+      Slingshot Left Blue Crystal 1: Slingshot
+      Slingshot Left Green Crystal 1: Slingshot
+      Slingshot Left Blue Crystal 2: Slingshot
+      Slingshot Left Blue Crystal 3: Slingshot
+      Slingshot Left Black Crystal: Slingshot
+      Slingshot Left Green Crystal 2: Slingshot
+      Slingshot Left Pillar Blue Crystal 1: Slingshot
+      Slingshot Left Pillar Blue Crystal 2: Slingshot
+      Slingshot Left Pillar Black Crystal: Slingshot
+      Slingshot Back Blue Crystal 1: Slingshot
+      Slingshot Back Blue Crystal 2: Slingshot
+      Slingshot Back Blue Crystal 3: Slingshot
+      Slingshot Right Pillar Blue Crystal 1: Slingshot
+      Slingshot Right Pillar Blue Crystal 2: Slingshot
+      Slingshot Right Pillar Green Crystal: Slingshot
+      Slingshot Right Pillar Blue Crystal 3: Slingshot
+      Slingshot Right Pillar Blue Crystal 4: Slingshot
 
   Near Temple Entrance:
     exits:
@@ -113,6 +171,26 @@ Volcano:
       Digging Spot in front of Earth Temple: Digging Mitts
       Digging Spot below Tower: Digging Mitts
       Digging Spot behind Boulder on Sandy Slope: Digging Mitts
+      Blow Closest Torch West of Earth Temple: Gust Bellows
+      Blow Farthest Torch West of Earth Temple: Gust Bellows
+      Slingshot Red Jewel above Earth Temple Entrance: Slingshot
+      Underground Rupee West of Earth Temple 1: Mogma Mitts
+      Underground Rupee West of Earth Temple 2: Mogma Mitts
+      Underground Rupee West of Earth Temple 3: Mogma Mitts
+      Underground Rupee West of Earth Temple 4: Mogma Mitts
+      Underground Rupee West of Earth Temple 5: Mogma Mitts
+      Underground Rupee West of Earth Temple 6: Mogma Mitts
+      Underground Rupee West of Earth Temple 7: Mogma Mitts
+      Underground Rupee West of Earth Temple 8: Mogma Mitts
+      Underground Rupee West of Earth Temple 9: Mogma Mitts
+      Underground Rupee West of Earth Temple 10: Mogma Mitts
+      Stamina Fruit in front of Second Slope 1: Nothing
+      Stamina Fruit in front of Second Slope 2: Nothing
+      Stamina Fruit in front of Second Slope 3: Nothing
+      Bonk Campfire East of Earth Temple: Nothing
+      Stamina Fruit after Last Boko Camp Tower: Nothing
+      Stamina Fruit on ledge near Hot Cave: Nothing
+      Stamina Fruit on vines near Hot Cave: Nothing
   
   Upper Platform Cave:
     exits:
@@ -135,6 +213,20 @@ Volcano:
     locations:
       Goddess Cube on Sand Slide: Goddess Sword
       Digging Spot after Vents: Digging Mitts
+      Left Rupee on Sand Slide 1: Nothing
+      Left Rupee on Sand Slide 2: Nothing
+      Left Rupee on Sand Slide 3: Nothing
+      Left Rupee on Sand Slide 4: Nothing
+      Left Rupee on Sand Slide 5: Nothing
+      Left Rupee on Sand Slide 6: Nothing
+      Left Rupee on Sand Slide 7: Nothing
+      Left Rupee on Sand Slide 8: Nothing
+      Right Rupee on Sand Slide 1: Nothing
+      Right Rupee on Sand Slide 2: Nothing
+      Right Rupee on Sand Slide 3: Nothing
+      Right Rupee on Sand Slide 4: Nothing
+      Right Rupee on Sand Slide 5: Nothing
+      Right Rupee on Sand Slide 6: Nothing
 
   Past Slide:
     exits:
@@ -143,6 +235,7 @@ Volcano:
       Volcano - Lower Platform Cave: Beaten Boko Base
     locations:
       Digging Spot after Draining Lava: Digging Mitts
+      Stamina Fruit after Big Sand Slide: Nothing
       Unlock Shortcut to Ascent: Nothing
   
   Lower Platform Cave:
@@ -174,6 +267,12 @@ Mogma Turf: # when randomizing this, need to find a way to force the skydiving a
       Pre Vent: Nothing
     locations:
       Sand Slide Chest: Nothing
+      Bonk Campfire above Sand Slide: Nothing
+      Slingshot Skull on Hut above Sand Slide: Slingshot
+      Bonk Dusty Bag in Right Hut above Sand Slide: Nothing
+      Bonk Dusty Bag in Middle Hut above Sand Slide: Nothing
+      Bonk Dusty Bag in Left Hut above Sand Slide: Nothing
+      Bonk Hammer in Left Hut above Sand Slide: Nothing
 
   Past Vent:
     exits:
@@ -181,6 +280,7 @@ Mogma Turf: # when randomizing this, need to find a way to force the skydiving a
       Sand Slide Platform: Nothing
       Second Vent: Nothing
     locations:
+      Rupee in First Pyrup Hole in Fire Maze: Nothing
       Chest behind Bombable Wall in Fire Maze: Nothing
 
 Eldin Silent Realm:
@@ -189,16 +289,19 @@ Eldin Silent Realm:
     Exit: Nothing
   locations:
     Trial Reward: Nothing
-    Relic 1: Nothing
-    Relic 2: Nothing
-    Relic 3: Nothing
-    Relic 4: Nothing
-    Relic 5: Nothing
-    Relic 6: Nothing
-    Relic 7: Nothing
-    Relic 8: Nothing
-    Relic 9: Nothing
-    Relic 10: Nothing
+    Stamina Fruit on First Slope: Nothing
+    Stamina Fruit near First Bone Bridge: Nothing
+    Stamina Fruit near Tear on Vines: Nothing
+    # Relic 1: Nothing
+    # Relic 2: Nothing
+    # Relic 3: Nothing
+    # Relic 4: Nothing
+    # Relic 5: Nothing
+    # Relic 6: Nothing
+    # Relic 7: Nothing
+    # Relic 8: Nothing
+    # Relic 9: Nothing
+    # Relic 10: Nothing
 
 # VOLCANO SUMMIT
 Volcano Summit:
@@ -214,6 +317,7 @@ Volcano Summit:
     exits:
       Exit: Nothing
     locations:
+      Bonk Waterfall: Nothing
       Goddess Cube in Summit Waterfall: Goddess Sword
       General - Can Collect Water: Nothing
 
@@ -235,6 +339,9 @@ Volcano Summit:
       Goddess Cube near Fire Sanctuary Entrance: Clawshots & Goddess Sword
       Hydrate Giant Frog: Nothing
       Unlock Statue: Nothing
+      Blow Torch West of Fire Sanctuary: Gust Bellows
+      Blow Torch East of Fire Sanctuary: Gust Bellows
+      Slingshot Big Thirsty Frog above Fire Sanctuary: Slingshot
 
     Before Thirsty Frogs:
       exits:
@@ -249,6 +356,8 @@ Volcano Summit:
         Outside Fire Sanctuary: Hydrate Second Frog
       locations:
         Item behind Digging: Mogma Mitts
+        Underground Rupee 1: Mogma Mitts
+        Underground Rupee 2: Mogma Mitts
         Gossip Stone near Second Thirsty Frog: Nothing
         Hydrate Second Frog: Clawshots & Water Bottle
 
@@ -273,6 +382,8 @@ Bokoblin Base:
     locations:
       Chest near Bone Bridge: Can bypass Boko Base Watch Tower | Mogma Mitts | Gust Bellows
       Chest on Cliff: (Can bypass Boko Base Watch Tower | Mogma Mitts) & Gust Bellows
+      Bonk Hammer in Hut near Cliff: (Can bypass Boko Base Watch Tower | Mogma Mitts) & Gust Bellows
+      Blow Cloth above Hut near Cliff: (Can bypass Boko Base Watch Tower | Mogma Mitts) & Gust Bellows
       Volcano - Goddess Cube near Mogma Turf Entrance: Goddess Sword
   
   Before Drawbridge:
@@ -302,6 +413,7 @@ Bokoblin Base:
       Hot Cave: Nothing
       Bokoblin Base - Upper Platform Cave: Nothing
     locations:
+      Bonk Campfire East of Earth Temple: Nothing
       Chest East of Earth Temple Entrance: Nothing
       Volcano - Goddess Cube East of Earth Temple Entrance: Goddess Sword
       Chest West of Earth Temple Entrance: (Slingshot | Bow | Bomb Bag | Goddess Sword) & Can bypass Boko Base Watch Tower & Mogma Mitts

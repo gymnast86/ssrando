@@ -1210,37 +1210,37 @@ Sealed Grounds - Song from Impa:
   Paths:
     - event/501-Inpa/267
     - oarc/F402/l2
-Sealed Temple - Slingshot above Doors to Sealed Grounds Whirlpool:
+Sealed Grounds - Sealed Temple - Slingshot above Doors to Sealed Grounds Whirlpool:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F402/r2/l0/TgReact/0xFC43
-Sealed Temple - Slingshot above Doors to Behind the Temple:
+Sealed Grounds - Sealed Temple - Slingshot above Doors to Behind the Temple:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F402/r2/l0/TgReact/0xFC42
-Sealed Temple - Slingshot above Large Doors behind The Old One:
+Sealed Grounds - Sealed Temple - Slingshot above Large Doors behind The Old One:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F402/r2/l0/TgReact/0xFC41
-Sealed Temple - Blow Triforce Symbol on Southeast Archway behind Bird Statue:
+Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Southeast Archway behind Bird Statue:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F402/r2/l0/TgReact/0xFC44
-Sealed Temple - Blow Triforce Symbol on Northeast Archway behind Bird Statue:
+Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Northeast Archway behind Bird Statue:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F402/r2/l0/TgReact/0xFC45
-Sealed Temple - Blow Triforce Symbol on Southwest Archway behind Bird Statue:
+Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Southwest Archway behind Bird Statue:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F402/r2/l0/TgReact/0xFC47
-Sealed Temple - Blow Triforce Symbol on Northwest Archway behind Bird Statue:
+Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Northwest Archway behind Bird Statue:
   original_item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
@@ -1609,6 +1609,65 @@ Lake Floria - Waterfall - Rupee on High Ledge:
   type: Freestanding Rupees, Advanced Rupees
   Paths:
    - stage/F102_1/r0/l0/Item/64
+Lake Floria - Waterfall - North Rupee in underwater Grass:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/Item/0xFC19
+
+Lake Floria - Waterfall - South Rupee in underwater Grass:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/Item/0xFC1A
+
+Lake Floria - Waterfall - Bonk North Pillar near Bird Statue:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC3C
+
+Lake Floria - Waterfall - Bonk South Pillar near Bird Statue:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC3B
+
+Lake Floria - Waterfall - Slingshot Broken Spike on Bridge:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC3D
+
+Lake Floria - Waterfall - Slingshot Northwest Spike on Bridge:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC3E
+
+Lake Floria - Waterfall - Slingshot Left Cistern Door Frame:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC3F
+
+Lake Floria - Waterfall - Slingshot Right Cistern Door Frame:
+  original_item: Heart # actually spawns 3
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC40
+
+Lake Floria - Waterfall - Slingshot Left Cistern Eye:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC41
+
+Lake Floria - Waterfall - Slingshot Right Cistern Eye:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F102_1/r0/l0/TgReact/0xFC42
 
 # Flooded Faron Woods:
 # Flooded Faron Woods - Yellow Tadtone under Lilypad:
@@ -1708,10 +1767,15 @@ Lake Floria - Waterfall - Rupee on High Ledge:
 
 # Eldin Volcano:
 Eldin Volcano - Rupee on Ledge before First Room:
-  original item: "Red Rupee #30"
-  type: Rupees (No Quick Beetle)
+  original_item: Red Rupee
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F200/r0/l0/Item/41
+Eldin Volcano - Stamina Fruit in Rising Lava Room:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFC1B
 Eldin Volcano - Chest behind Bombable Wall in First Room:
   original item: Red Rupee
   type:
@@ -1723,51 +1787,354 @@ Eldin Volcano - Rupee behind Bombable Wall in First Room:
   Paths:
     - stage/F200/r1/l0/Item/13
 Eldin Volcano - Rupee in Crawlspace in First Room:
-  original item: "Blue Rupee #9"
-  type: Rupees (No Quick Beetle)
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F200/r1/l0/Item/19
+Eldin Volcano - Slingshot Ceiling in First Room:
+  original_item: Red Rupee # actually a rupee shower
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/TgReact/0xFC38
+Eldin Volcano - Underground Rupee in First Room 1:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF1 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 2:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF2 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 3:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF3 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 4:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF6 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 5:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF5 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 6:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF4 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 7:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF7 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 8:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF8 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in First Room 9:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r1/l0/Item/0xFFF9 # ids hardcoded in the objmove patches
+Eldin Volcano - Stamina Fruit near Volcano East Statue:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFC4D
 Eldin Volcano - Chest after Crawlspace:
   original item: Red Rupee
   type:
   Paths:
     - stage/F200/r2/l0/TBox/66
 Eldin Volcano - Southeast Rupee above Mogma Turf Entrance:
-  original item: "Blue Rupee #10"
-  type: Rupees (No Quick Beetle)
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees
   Paths:
     - stage/F200/r2/l0/Item/125
 Eldin Volcano - North Rupee above Mogma Turf Entrance:
-  original item: "Red Rupee #31"
-  type: Rupees (No Quick Beetle)
+  original_item: Red Rupee
+  type: Freestanding Rupees, Intermediate Rupees
   Paths:
     - stage/F200/r2/l0/Item/123
+Eldin Volcano - Stamina Fruit in front of Bone Bridge:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r2/l1/Item/0xFCC6
+    - stage/F200/r2/l2/Item/0xFCBE
+    - stage/F200/r2/l3/Item/0xFCCC
+    - oarc/F200/l0
+Eldin Volcano - Underground Rupee before Bone Bridge 1:
+  original_item: Red Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/152
+
+Eldin Volcano - Underground Rupee before Bone Bridge 2:
+  original_item: Red Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/173
 Eldin Volcano - Chest behind Bombable Wall near Cliff:
   original item: Red Rupee
   type:
   Paths:
     - stage/F200/r2/l0/TBox/73
+Eldin Volcano - Rupee in Old Pyrup Shell near Cliff:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/183
+Eldin Volcano - Bonk Hammer in Hut near Cliff:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/TgReact/0xFC94
+Eldin Volcano - Blow Cloth above Hut near Cliff:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/TgReact/0xFC95
+Eldin Volcano - Stamina Fruit near Item on Cliff:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFC4E
+Eldin Volcano - Rupee in Old Pyrup Shell on Cliff:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/184
 Eldin Volcano - Item on Cliff:
   original item: Heart Piece
   type:
   Paths:
     - stage/F200/r2/l0/Item/102 #sceneflagID
+Eldin Volcano - Underground Rupee in Cliff 1:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFEF # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 2:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFEE # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 3:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE4 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 4:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFED # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 5:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFEC # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 6:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFEB # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 7:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE3 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 8:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFEA # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 9:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE9 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 10:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE8 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 11:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE2 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 12:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE7 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 13:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE6 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 14:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE5 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee in Cliff 15:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFFE1 # ids hardcoded in the objmove patches
 Eldin Volcano - Chest behind Bombable Wall near Volcano Ascent:
   original item: Red Rupee
   type:
   Paths:
     - stage/F200/r2/l0/TBox/71
+Eldin Volcano - Stamina Fruit in front of First Slope 1:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC2F
+Eldin Volcano - Stamina Fruit in front of First Slope 2:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC30
+Eldin Volcano - Stamina Fruit in front of First Slope Shortcut:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r8/l0/Item/0xFC02
+Eldin Volcano - Stamina Fruit after First Slope:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC31
 Eldin Volcano - Left Rupee behind Bombable Wall on First Slope:
-  original item: "Red Rupee #32"
-  type: Rupees (No Quick Beetle)
+  original_item: Red Rupee
+  type: Freestanding Rupees, Intermediate Rupees
   Paths:
     - stage/F200/r4/l0/Item/45
 Eldin Volcano - Right Rupee behind Bombable Wall on First Slope:
-  original item: "Red Rupee #33"
-  type: Rupees (No Quick Beetle)
+  original_item: Red Rupee
+  type: Freestanding Rupees, Intermediate Rupees
   Paths:
     - stage/F200/r4/l0/Item/11
-
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Blue Crystal 1:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC68
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Green Crystal 1:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC75
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Blue Crystal 2:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC69
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Blue Crystal 3:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC6A
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Black Crystal:
+  original_item: Rupoor
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC77
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Green Crystal 2:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC76
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Pillar Blue Crystal 1:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC6C
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Pillar Blue Crystal 2:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC6B
+Eldin Volcano - Thrill Digger Cave - Slingshot Left Pillar Black Crystal:
+  original_item: Rupoor
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC78
+Eldin Volcano - Thrill Digger Cave - Slingshot Back Blue Crystal 1:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC6D
+Eldin Volcano - Thrill Digger Cave - Slingshot Back Blue Crystal 2:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC71
+Eldin Volcano - Thrill Digger Cave - Slingshot Back Blue Crystal 3:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC6E
+Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal 1:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC73
+Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal 2:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC72
+Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Green Crystal:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC74
+Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal 3:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC6F
+Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal 4:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F211/r0/l1/TgReact/0xFC70
+Eldin Volcano - Stamina Fruit next to Small Puddle:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC32
+Eldin Volcano - Stamina Fruit on Vine Wall near Thrill Digger:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC33
+Eldin Volcano - Stamina Fruit in front of Second Slope 1:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC36
+Eldin Volcano - Stamina Fruit in front of Second Slope 2:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC34
+Eldin Volcano - Stamina Fruit in front of Second Slope 3:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFC35
 ## These checks are Digging Spots
 Eldin Volcano - Digging Spot in front of Earth Temple:
   original item: Key Piece
@@ -1786,11 +2153,171 @@ Eldin Volcano - Digging Spot behind Boulder on Sandy Slope:
   text: a <r<boulder on a sandy slope>> hides
   Paths:
     - stage/F200/r4/l1/Soil/12
+Eldin Volcano - Blow Closest Torch West of Earth Temple:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/TgReact/0xFC6A
+Eldin Volcano - Blow Farthest Torch West of Earth Temple:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/TgReact/0xFC6B
+Eldin Volcano - Slingshot Red Jewel above Earth Temple Entrance:
+  original_item: Red Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/TgReact/0xFC69
+Eldin Volcano - Underground Rupee West of Earth Temple 1:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFDA # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 2:
+  original_item: Rupoor
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD1 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 3:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD3 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 4:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD2 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 5:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD7 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 6:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD9 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 7:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD4 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 8:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD5 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 9:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD6 # ids hardcoded in the objmove patches
+Eldin Volcano - Underground Rupee West of Earth Temple 10:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/Item/0xFFD8 # ids hardcoded in the objmove patches
+Eldin Volcano - Bonk Campfire East of Earth Temple:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F200/r4/l0/TgReact/0xFC68
+Eldin Volcano - Stamina Fruit after Last Boko Camp Tower:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r5/l0/Item/0xFC0B
+Eldin Volcano - Stamina Fruit on ledge near Hot Cave:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r5/l0/Item/0xFC0C
+Eldin Volcano - Stamina Fruit on vines near Hot Cave:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r5/l0/Item/0x2805
 Eldin Volcano - Digging Spot after Vents:
   original item: Key Piece
   type:
   Paths:
     - stage/F200/r6/l1/Soil/10
+Eldin Volcano - Left Rupee on Sand Slide 1:
+  original_item: Green Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C00
+Eldin Volcano - Left Rupee on Sand Slide 2:
+  original_item: Green Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C01
+Eldin Volcano - Left Rupee on Sand Slide 3:
+  original_item: Green Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C02
+Eldin Volcano - Left Rupee on Sand Slide 4:
+  original_item: Green Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C03
+Eldin Volcano - Left Rupee on Sand Slide 5:
+  original_item: Green Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C04
+Eldin Volcano - Left Rupee on Sand Slide 6:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C05
+Eldin Volcano - Left Rupee on Sand Slide 7:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C06
+Eldin Volcano - Left Rupee on Sand Slide 8:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C07
+Eldin Volcano - Right Rupee on Sand Slide 1:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C08
+Eldin Volcano - Right Rupee on Sand Slide 2:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C09
+Eldin Volcano - Right Rupee on Sand Slide 3:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r6/l0/Item/0x2C0A
+Eldin Volcano - Right Rupee on Sand Slide 4:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r7/l0/Item/0xFC00
+Eldin Volcano - Right Rupee on Sand Slide 5:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r7/l0/Item/0xFC01
+Eldin Volcano - Right Rupee on Sand Slide 6:
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F200/r7/l0/Item/0xFC02
+Eldin Volcano - Stamina Fruit after Big Sand Slide:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F200/r2/l0/Item/0xFC4F
 Eldin Volcano - Digging Spot after Draining Lava:
   original item: Key Piece
   type:
@@ -1816,12 +2343,47 @@ Mogma Turf - Defeat Bokoblins:
     - event/300-Mountain/135
     - oarc/F210/l0
   text: helping <r<reclaim the mogmas' territory>> rewards
+Mogma Turf - Bonk Campfire above Sand Slide:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/TgReact/0xFC65
+Mogma Turf - Slingshot Skull on Hut above Sand Slide:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/TgReact/0xFC66
+Mogma Turf - Bonk Dusty Bag in Right Hut above Sand Slide:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/TgReact/0xFC67
+Mogma Turf - Bonk Dusty Bag in Middle Hut above Sand Slide:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/TgReact/0xFC68
+Mogma Turf - Bonk Dusty Bag in Left Hut above Sand Slide:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/TgReact/0xFC69
+Mogma Turf - Bonk Hammer in Left Hut above Sand Slide:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/TgReact/0xFC6A
 Mogma Turf - Sand Slide Chest:
   original item: Eldin Ore
   type:
   text: <r<behind>> a slide mogmas buried
   Paths:
     - stage/F210/r0/l0/TBox/68
+Mogma Turf - Rupee in First Pyrup Hole in Fire Maze:
+  original_item: Red Rupee
+  type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+  Paths:
+    - stage/F210/r0/l0/Item/169
 Mogma Turf - Chest behind Bombable Wall in Fire Maze:
   original item: Silver Rupee
   type:
@@ -1829,6 +2391,11 @@ Mogma Turf - Chest behind Bombable Wall in Fire Maze:
     - stage/F210/r0/l0/TBox/70
 
 # Volcano Summit:
+Volcano Summit - Bonk Waterfall:
+  original_item: Fairy
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F201_4/r0/l0/TgReact/0xFC15
 Volcano Summit - Chest behind Bombable Wall in Waterfall Area:
   original item: Silver Rupee
   type:
@@ -1842,6 +2409,33 @@ Volcano Summit - Item behind Digging:
     - stage/F201_3/r0/l0/Item/104 #sceneflagID
   hint: sometimes
   text: <r<fairies at the summit>> dance with
+Volcano Summit - Underground Rupee 1:
+  original_item: Blue Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F201_3/r0/l0/Item/135 #sceneflagID
+Volcano Summit - Underground Rupee 2:
+  original_item: Green Rupee
+  type: Underground Rupees, Custom Flag
+  Paths:
+    - stage/F201_3/r0/l0/Item/136 #sceneflagID
+Volcano Summit - Blow Torch West of Fire Sanctuary:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F201_3/r0/l0/TgReact/0xFC4A
+
+Volcano Summit - Blow Torch East of Fire Sanctuary:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F201_3/r0/l0/TgReact/0xFC4B
+
+Volcano Summit - Slingshot Big Thirsty Frog above Fire Sanctuary:
+  original_item: Red Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F201_3/r0/l0/TgReact/0xFC4C
 
 # Bokoblin Base:
 Bokoblin Base - Plats' Gift:
@@ -1856,6 +2450,16 @@ Bokoblin Base - Chest near Bone Bridge:
   type:
   Paths:
    - stage/F202/r2/l1/TBox/70
+Bokoblin Base - Bonk Hammer in Hut near Cliff:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F202/r2/l0/TgReact/0x00AF
+Bokoblin Base - Blow Cloth above Hut near Cliff:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F202/r2/l0/TgReact/0x00B0
 Bokoblin Base - Chest on Cliff:
   original item: Clawshots
   type:
@@ -1866,6 +2470,11 @@ Bokoblin Base - Chest near Drawbridge:
   type:
   Paths:
    - stage/F202/r2/l1/TBox/67
+Bokoblin Base - Bonk Campfire East of Earth Temple:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F202/r4/l0/TgReact/0x005E
 Bokoblin Base - Chest East of Earth Temple Entrance:
   original item: Slingshot
   type:
@@ -2655,57 +3264,57 @@ Skyloft Silent Realm - Stamina Fruit on Knight Academy Ledge:
   type: Stamina Fruits, Custom Flag
   Paths:
     - stage/S000/r0/l2/Item/0xFC55
-Skyloft Silent Realm - Relic 1:
-  original item: "Dusk Relic #1"
-  type: skyloft, silent realm
-  Paths:
-    # fake object name to handle them better
-    - stage/S000/r0/l2/Relic/102
-Skyloft Silent Realm - Relic 2:
-  original item: "Dusk Relic #2"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/103
-Skyloft Silent Realm - Relic 3:
-  original item: "Dusk Relic #3"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/104
-Skyloft Silent Realm - Relic 4:
-  original item: "Dusk Relic #4"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/105
-Skyloft Silent Realm - Relic 5:
-  original item: "Dusk Relic #5"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/106
-Skyloft Silent Realm - Relic 6:
-  original item: "Dusk Relic #6"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/107
-Skyloft Silent Realm - Relic 7:
-  original item: "Dusk Relic #7"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/108
-Skyloft Silent Realm - Relic 8:
-  original item: "Dusk Relic #8"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/109
-Skyloft Silent Realm - Relic 9:
-  original item: "Dusk Relic #9"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/110
-Skyloft Silent Realm - Relic 10:
-  original item: "Dusk Relic #10"
-  type: skyloft, silent realm
-  Paths:
-    - stage/S000/r0/l2/Relic/111
+# Skyloft Silent Realm - Relic 1:
+#   original item: "Dusk Relic #1"
+#   type: skyloft, silent realm
+#   Paths:
+#     # fake object name to handle them better
+#     - stage/S000/r0/l2/Relic/102
+# Skyloft Silent Realm - Relic 2:
+#   original item: "Dusk Relic #2"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/103
+# Skyloft Silent Realm - Relic 3:
+#   original item: "Dusk Relic #3"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/104
+# Skyloft Silent Realm - Relic 4:
+#   original item: "Dusk Relic #4"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/105
+# Skyloft Silent Realm - Relic 5:
+#   original item: "Dusk Relic #5"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/106
+# Skyloft Silent Realm - Relic 6:
+#   original item: "Dusk Relic #6"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/107
+# Skyloft Silent Realm - Relic 7:
+#   original item: "Dusk Relic #7"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/108
+# Skyloft Silent Realm - Relic 8:
+#   original item: "Dusk Relic #8"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/109
+# Skyloft Silent Realm - Relic 9:
+#   original item: "Dusk Relic #9"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/110
+# Skyloft Silent Realm - Relic 10:
+#   original item: "Dusk Relic #10"
+#   type: skyloft, silent realm
+#   Paths:
+#     - stage/S000/r0/l2/Relic/111
 
 Faron Silent Realm - Trial Reward:
   original item: Water Dragon's Scale
@@ -2724,56 +3333,56 @@ Faron Silent Realm - Stamina Fruit on Vine Wall 2:
   type: Silent Realms, Stamina Fruits, Custom Flag
   Paths:
     - stage/S100/r0/l2/Item/0xFC9B
-Faron Silent Realm - Relic 1:
-  original item: "Dusk Relic #11"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/102
-Faron Silent Realm - Relic 2:
-  original item: "Dusk Relic #12"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/103
-Faron Silent Realm - Relic 3:
-  original item: "Dusk Relic #13"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/104
-Faron Silent Realm - Relic 4:
-  original item: "Dusk Relic #14"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/105
-Faron Silent Realm - Relic 5:
-  original item: "Dusk Relic #15"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/106
-Faron Silent Realm - Relic 6:
-  original item: "Dusk Relic #16"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/107
-Faron Silent Realm - Relic 7:
-  original item: "Dusk Relic #17"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/108
-Faron Silent Realm - Relic 8:
-  original item: "Dusk Relic #18"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/109
-Faron Silent Realm - Relic 9:
-  original item: "Dusk Relic #19"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/110
-Faron Silent Realm - Relic 10:
-  original item: "Dusk Relic #20"
-  type: faron, silent realm
-  Paths:
-    - stage/S100/r0/l2/Relic/111
+# Faron Silent Realm - Relic 1:
+#   original item: "Dusk Relic #11"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/102
+# Faron Silent Realm - Relic 2:
+#   original item: "Dusk Relic #12"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/103
+# Faron Silent Realm - Relic 3:
+#   original item: "Dusk Relic #13"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/104
+# Faron Silent Realm - Relic 4:
+#   original item: "Dusk Relic #14"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/105
+# Faron Silent Realm - Relic 5:
+#   original item: "Dusk Relic #15"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/106
+# Faron Silent Realm - Relic 6:
+#   original item: "Dusk Relic #16"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/107
+# Faron Silent Realm - Relic 7:
+#   original item: "Dusk Relic #17"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/108
+# Faron Silent Realm - Relic 8:
+#   original item: "Dusk Relic #18"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/109
+# Faron Silent Realm - Relic 9:
+#   original item: "Dusk Relic #19"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/110
+# Faron Silent Realm - Relic 10:
+#   original item: "Dusk Relic #20"
+#   type: faron, silent realm
+#   Paths:
+#     - stage/S100/r0/l2/Relic/111
 
 Lanayru Silent Realm - Trial Reward:
   original item: Clawshots
@@ -2782,56 +3391,56 @@ Lanayru Silent Realm - Trial Reward:
     - stage/S300/r0/l2/WarpObj
   hint: sometimes
   text: a <r<trial of wisdom>> grants
-Lanayru Silent Realm - Relic 1:
-  original item: "Dusk Relic #21"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/102
-Lanayru Silent Realm - Relic 2:
-  original item: "Dusk Relic #22"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/103
-Lanayru Silent Realm - Relic 3:
-  original item: "Dusk Relic #23"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/104
-Lanayru Silent Realm - Relic 4:
-  original item: "Dusk Relic #24"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/105
-Lanayru Silent Realm - Relic 5:
-  original item: "Dusk Relic #25"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/106
-Lanayru Silent Realm - Relic 6:
-  original item: "Dusk Relic #26"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/107
-Lanayru Silent Realm - Relic 7:
-  original item: "Dusk Relic #27"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/108
-Lanayru Silent Realm - Relic 8:
-  original item: "Dusk Relic #28"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/109
-Lanayru Silent Realm - Relic 9:
-  original item: "Dusk Relic #29"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/110
-Lanayru Silent Realm - Relic 10:
-  original item: "Dusk Relic #30"
-  type: lanayru, silent realm
-  Paths:
-    - stage/S300/r0/l2/Relic/111
+# Lanayru Silent Realm - Relic 1:
+#   original item: "Dusk Relic #21"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/102
+# Lanayru Silent Realm - Relic 2:
+#   original item: "Dusk Relic #22"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/103
+# Lanayru Silent Realm - Relic 3:
+#   original item: "Dusk Relic #23"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/104
+# Lanayru Silent Realm - Relic 4:
+#   original item: "Dusk Relic #24"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/105
+# Lanayru Silent Realm - Relic 5:
+#   original item: "Dusk Relic #25"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/106
+# Lanayru Silent Realm - Relic 6:
+#   original item: "Dusk Relic #26"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/107
+# Lanayru Silent Realm - Relic 7:
+#   original item: "Dusk Relic #27"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/108
+# Lanayru Silent Realm - Relic 8:
+#   original item: "Dusk Relic #28"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/109
+# Lanayru Silent Realm - Relic 9:
+#   original item: "Dusk Relic #29"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/110
+# Lanayru Silent Realm - Relic 10:
+#   original item: "Dusk Relic #30"
+#   type: lanayru, silent realm
+#   Paths:
+#     - stage/S300/r0/l2/Relic/111
 
 Eldin Silent Realm - Trial Reward:
   original item: Fireshield Earrings
@@ -2840,53 +3449,70 @@ Eldin Silent Realm - Trial Reward:
     - stage/S200/r2/l2/WarpObj
   hint: sometimes
   text: a <r<trial of power>> grants
-Eldin Silent Realm - Relic 1:
-  original item: "Dusk Relic #31"
-  type: eldin, silent realm
+Eldin Silent Realm - Stamina Fruit on First Slope:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
   Paths:
-    - stage/S200/r0/l2/Relic/102
-Eldin Silent Realm - Relic 2:
-  original item: "Dusk Relic #32"
-  type: eldin, silent realm
+    - stage/S200/r4/l2/Item/0xFC05
+
+Eldin Silent Realm - Stamina Fruit near First Bone Bridge:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
   Paths:
-    - stage/S200/r0/l2/Relic/103
-Eldin Silent Realm - Relic 3:
-  original item: "Dusk Relic #33"
-  type: eldin, silent realm
+    - stage/S200/r2/l2/Item/0xFC40
+
+Eldin Silent Realm - Stamina Fruit near Tear on Vines:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
   Paths:
-    - stage/S200/r0/l2/Relic/104
-Eldin Silent Realm - Relic 4:
-  original item: "Dusk Relic #34"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/105
-Eldin Silent Realm - Relic 5:
-  original item: "Dusk Relic #35"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/106
-Eldin Silent Realm - Relic 6:
-  original item: "Dusk Relic #36"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/107
-Eldin Silent Realm - Relic 7:
-  original item: "Dusk Relic #37"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/108
-Eldin Silent Realm - Relic 8:
-  original item: "Dusk Relic #38"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/109
-Eldin Silent Realm - Relic 9:
-  original item: "Dusk Relic #39"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/110
-Eldin Silent Realm - Relic 10:
-  original item: "Dusk Relic #40"
-  type: eldin, silent realm
-  Paths:
-    - stage/S200/r0/l2/Relic/111
+    - stage/S200/r2/l2/Item/0xFC4D
+# Eldin Silent Realm - Relic 1:
+#   original item: "Dusk Relic #31"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/102
+# Eldin Silent Realm - Relic 2:
+#   original item: "Dusk Relic #32"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/103
+# Eldin Silent Realm - Relic 3:
+#   original item: "Dusk Relic #33"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/104
+# Eldin Silent Realm - Relic 4:
+#   original item: "Dusk Relic #34"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/105
+# Eldin Silent Realm - Relic 5:
+#   original item: "Dusk Relic #35"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/106
+# Eldin Silent Realm - Relic 6:
+#   original item: "Dusk Relic #36"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/107
+# Eldin Silent Realm - Relic 7:
+#   original item: "Dusk Relic #37"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/108
+# Eldin Silent Realm - Relic 8:
+#   original item: "Dusk Relic #38"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/109
+# Eldin Silent Realm - Relic 9:
+#   original item: "Dusk Relic #39"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/110
+# Eldin Silent Realm - Relic 10:
+#   original item: "Dusk Relic #40"
+#   type: eldin, silent realm
+#   Paths:
+#     - stage/S200/r0/l2/Relic/111

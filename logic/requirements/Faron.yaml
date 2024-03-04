@@ -313,16 +313,16 @@ Faron Silent Realm:
     Trial Reward: Nothing
     Stamina Fruit on Vine Wall 1: Nothing
     Stamina Fruit on Vine Wall 2: Nothing
-    Relic 1: Nothing
-    Relic 2: Nothing
-    Relic 3: Nothing
-    Relic 4: Nothing
-    Relic 5: Nothing
-    Relic 6: Nothing
-    Relic 7: Nothing
-    Relic 8: Nothing
-    Relic 9: Nothing
-    Relic 10: Nothing
+    # Relic 1: Nothing
+    # Relic 2: Nothing
+    # Relic 3: Nothing
+    # Relic 4: Nothing
+    # Relic 5: Nothing
+    # Relic 6: Nothing
+    # Relic 7: Nothing
+    # Relic 8: Nothing
+    # Relic 9: Nothing
+    # Relic 10: Nothing
 
 # FLOODED FARON WOODS
 Flooded Faron Woods:
@@ -411,3 +411,13 @@ Lake Floria:
       Gossip Stone outside Ancient Cistern: Nothing
       Goddess Cube in Floria Waterfall: Clawshots & Goddess Sword
       Rupee on High Ledge: Beetle
+      North Rupee in underwater Grass: Water Dragon's Scale
+      South Rupee in underwater Grass: Water Dragon's Scale
+      Bonk North Pillar near Bird Statue: Nothing
+      Bonk South Pillar near Bird Statue: Nothing
+      Slingshot Broken Spike on Bridge: Slingshot
+      Slingshot Northwest Spike on Bridge: Slingshot
+      Slingshot Left Cistern Door Frame: Slingshot
+      Slingshot Right Cistern Door Frame: Slingshot
+      Slingshot Left Cistern Eye: Slingshot & Water Dragon's Scale
+      Slingshot Right Cistern Eye: Slingshot & Water Dragon's Scale

@@ -793,21 +793,59 @@ items:
 - \Eldin\Volcano\Entry\Goddess Cube at Eldin Entrance
 - \Eldin\Volcano\Entry\Unlock Statue
 - \Eldin\Volcano\Entry\Rupee on Ledge before First Room
+- \Eldin\Volcano\First Room\Stamina Fruit in Rising Lava Room
 - \Eldin\Volcano\First Room\Chest behind Bombable Wall in First Room
 - \Eldin\Volcano\First Room\Rupee behind Bombable Wall in First Room
 - \Eldin\Volcano\First Room\Rupee in Crawlspace in First Room
+- \Eldin\Volcano\First Room\Slingshot Ceiling in First Room
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 1
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 2
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 3
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 4
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 5
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 6
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 7
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 8
+- \Eldin\Volcano\First Room\Underground Rupee in First Room 9
 - \Eldin\Volcano\First Room\Blow up Rock to East
 - \Eldin\Volcano\East\Unlock Statue
 - \Eldin\Volcano\East\Goddess Cube near Mogma Turf Entrance
 - \Eldin\Volcano\East\Chest after Crawlspace
+- \Eldin\Volcano\East\Underground Rupee before Bone Bridge 1
+- \Eldin\Volcano\East\Underground Rupee before Bone Bridge 2
 - \Eldin\Volcano\East\Chest behind Bombable Wall near Cliff
+- \Eldin\Volcano\East\Rupee in Old Pyrup Shell near Cliff
+- \Eldin\Volcano\East\Bonk Hammer in Hut near Cliff
+- \Eldin\Volcano\East\Blow Cloth above Hut near Cliff
+- \Eldin\Volcano\East\Rupee in Old Pyrup Shell on Cliff
 - \Eldin\Volcano\East\Item on Cliff
+- \Eldin\Volcano\East\Underground Rupee in Cliff 1
+- \Eldin\Volcano\East\Underground Rupee in Cliff 2
+- \Eldin\Volcano\East\Underground Rupee in Cliff 3
+- \Eldin\Volcano\East\Underground Rupee in Cliff 4
+- \Eldin\Volcano\East\Underground Rupee in Cliff 5
+- \Eldin\Volcano\East\Underground Rupee in Cliff 6
+- \Eldin\Volcano\East\Underground Rupee in Cliff 7
+- \Eldin\Volcano\East\Underground Rupee in Cliff 8
+- \Eldin\Volcano\East\Underground Rupee in Cliff 9
+- \Eldin\Volcano\East\Underground Rupee in Cliff 10
+- \Eldin\Volcano\East\Underground Rupee in Cliff 11
+- \Eldin\Volcano\East\Underground Rupee in Cliff 12
+- \Eldin\Volcano\East\Underground Rupee in Cliff 13
+- \Eldin\Volcano\East\Underground Rupee in Cliff 14
+- \Eldin\Volcano\East\Underground Rupee in Cliff 15
+- \Eldin\Volcano\East\Stamina Fruit near Volcano East Statue
+- \Eldin\Volcano\East\Stamina Fruit in front of Bone Bridge
+- \Eldin\Volcano\East\Stamina Fruit near Item on Cliff
 - \Eldin\Volcano\East\Drain Lava
 - \Eldin\Volcano\East\Southeast Rupee above Mogma Turf Entrance
 - \Eldin\Volcano\East\North Rupee above Mogma Turf Entrance
 - \Eldin\Volcano\Past Mogma Turf\Unlock Shortcut to Pre Turf
 - \Eldin\Volcano\Past Mogma Turf\Watch Bridge Cutscene
 - \Eldin\Volcano\Ascent\Chest behind Bombable Wall near Volcano Ascent
+- \Eldin\Volcano\Ascent\Stamina Fruit in front of First Slope 1
+- \Eldin\Volcano\Ascent\Stamina Fruit in front of First Slope 2
+- \Eldin\Volcano\Ascent\Stamina Fruit in front of First Slope Shortcut
 - \Eldin\Volcano\Ascent\Unlock Statue
 - \Eldin\Volcano\Ascent\Unlock Shortcut to Entry
 - \Eldin\Volcano\Ascent\Defeat Slope Bokoblins
@@ -816,9 +854,29 @@ items:
   Slope
 - \Eldin\Volcano\Near Thrill Digger Cave\Right Rupee behind Bombable Wall on First
   Slope
+- \Eldin\Volcano\Near Thrill Digger Cave\Stamina Fruit after First Slope
+- \Eldin\Volcano\Near Thrill Digger Cave\Stamina Fruit next to Small Puddle
+- \Eldin\Volcano\Near Thrill Digger Cave\Stamina Fruit on Vine Wall near Thrill Digger
 - \Eldin\Volcano\Near Thrill Digger Cave\Blow down Watchtower
 - \Eldin\Volcano\Thrill Digger Cave\Thrill Digger Minigame
 - \Eldin\Volcano\Thrill Digger Cave\Gossip Stone in Thrill Digger Cave
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Blue Crystal 1
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Green Crystal 1
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Blue Crystal 2
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Blue Crystal 3
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Black Crystal
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Green Crystal 2
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Pillar Blue Crystal 1
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Pillar Blue Crystal 2
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Pillar Black Crystal
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Back Blue Crystal 1
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Back Blue Crystal 2
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Back Blue Crystal 3
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 1
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 2
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Green Crystal
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 3
+- \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 4
 - \Eldin\Volcano\Near Temple Entrance\Unlock Statue
 - \Eldin\Volcano\Near Temple Entrance\Blow down Watchtower to Hot Cave
 - \Eldin\Volcano\Near Temple Entrance\Retrieve Crystal Ball
@@ -828,10 +886,45 @@ items:
 - \Eldin\Volcano\Near Temple Entrance\Digging Spot in front of Earth Temple
 - \Eldin\Volcano\Near Temple Entrance\Digging Spot below Tower
 - \Eldin\Volcano\Near Temple Entrance\Digging Spot behind Boulder on Sandy Slope
+- \Eldin\Volcano\Near Temple Entrance\Blow Closest Torch West of Earth Temple
+- \Eldin\Volcano\Near Temple Entrance\Blow Farthest Torch West of Earth Temple
+- \Eldin\Volcano\Near Temple Entrance\Slingshot Red Jewel above Earth Temple Entrance
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 1
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 2
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 3
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 4
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 5
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 6
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 7
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 8
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 9
+- \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 10
+- \Eldin\Volcano\Near Temple Entrance\Stamina Fruit in front of Second Slope 1
+- \Eldin\Volcano\Near Temple Entrance\Stamina Fruit in front of Second Slope 2
+- \Eldin\Volcano\Near Temple Entrance\Stamina Fruit in front of Second Slope 3
+- \Eldin\Volcano\Near Temple Entrance\Bonk Campfire East of Earth Temple
+- \Eldin\Volcano\Near Temple Entrance\Stamina Fruit after Last Boko Camp Tower
+- \Eldin\Volcano\Near Temple Entrance\Stamina Fruit on ledge near Hot Cave
+- \Eldin\Volcano\Near Temple Entrance\Stamina Fruit on vines near Hot Cave
 - \Eldin\Volcano\Upper Platform Cave\Gossip Stone in Upper Platform Cave
 - \Eldin\Volcano\Sand Slide\Goddess Cube on Sand Slide
 - \Eldin\Volcano\Sand Slide\Digging Spot after Vents
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 1
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 2
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 3
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 4
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 5
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 6
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 7
+- \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 8
+- \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 1
+- \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 2
+- \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 3
+- \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 4
+- \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 5
+- \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 6
 - \Eldin\Volcano\Past Slide\Digging Spot after Draining Lava
+- \Eldin\Volcano\Past Slide\Stamina Fruit after Big Sand Slide
 - \Eldin\Volcano\Past Slide\Unlock Shortcut to Ascent
 - \Eldin\Volcano\Lower Platform Cave\Gossip Stone in Lower Platform Cave
 - \Eldin\Mogma Turf\Pre Vent\Free Fall Chest
@@ -841,19 +934,20 @@ items:
 - \Eldin\Mogma Turf\Pre Vent\Defeat Bokoblins
 - \Eldin\Mogma Turf\Pre Vent\Open Vent
 - \Eldin\Mogma Turf\Sand Slide Platform\Sand Slide Chest
+- \Eldin\Mogma Turf\Sand Slide Platform\Bonk Campfire above Sand Slide
+- \Eldin\Mogma Turf\Sand Slide Platform\Slingshot Skull on Hut above Sand Slide
+- \Eldin\Mogma Turf\Sand Slide Platform\Bonk Dusty Bag in Right Hut above Sand Slide
+- \Eldin\Mogma Turf\Sand Slide Platform\Bonk Dusty Bag in Middle Hut above Sand Slide
+- \Eldin\Mogma Turf\Sand Slide Platform\Bonk Dusty Bag in Left Hut above Sand Slide
+- \Eldin\Mogma Turf\Sand Slide Platform\Bonk Hammer in Left Hut above Sand Slide
+- \Eldin\Mogma Turf\Past Vent\Rupee in First Pyrup Hole in Fire Maze
 - \Eldin\Mogma Turf\Past Vent\Chest behind Bombable Wall in Fire Maze
 - \Eldin\Eldin Silent Realm\Trial Reward
-- \Eldin\Eldin Silent Realm\Relic 1
-- \Eldin\Eldin Silent Realm\Relic 2
-- \Eldin\Eldin Silent Realm\Relic 3
-- \Eldin\Eldin Silent Realm\Relic 4
-- \Eldin\Eldin Silent Realm\Relic 5
-- \Eldin\Eldin Silent Realm\Relic 6
-- \Eldin\Eldin Silent Realm\Relic 7
-- \Eldin\Eldin Silent Realm\Relic 8
-- \Eldin\Eldin Silent Realm\Relic 9
-- \Eldin\Eldin Silent Realm\Relic 10
+- \Eldin\Eldin Silent Realm\Stamina Fruit on First Slope
+- \Eldin\Eldin Silent Realm\Stamina Fruit near First Bone Bridge
+- \Eldin\Eldin Silent Realm\Stamina Fruit near Tear on Vines
 - \Eldin\Volcano Summit\Goddess Cube inside Volcano Summit
+- \Eldin\Volcano Summit\Waterfall\Bonk Waterfall
 - \Eldin\Volcano Summit\Waterfall\Goddess Cube in Summit Waterfall
 - \Eldin\Volcano Summit\Waterfall\Higher Area\Chest behind Bombable Wall in Waterfall
   Area
@@ -861,9 +955,17 @@ items:
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Goddess Cube near Fire Sanctuary Entrance
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Hydrate Giant Frog
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Unlock Statue
+- \Eldin\Volcano Summit\Outside Fire Sanctuary\Blow Torch West of Fire Sanctuary
+- \Eldin\Volcano Summit\Outside Fire Sanctuary\Blow Torch East of Fire Sanctuary
+- \Eldin\Volcano Summit\Outside Fire Sanctuary\Slingshot Big Thirsty Frog above Fire
+  Sanctuary
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Before Thirsty Frogs\Hydrate First
   Frog
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Item behind Digging
+- \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Underground Rupee
+  1
+- \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Underground Rupee
+  2
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Gossip Stone
   near Second Thirsty Frog
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Hydrate Second
@@ -871,7 +973,10 @@ items:
 - \Eldin\Bokoblin Base\Prison\Plats' Gift
 - \Eldin\Bokoblin Base\Volcano East\Chest near Bone Bridge
 - \Eldin\Bokoblin Base\Volcano East\Chest on Cliff
+- \Eldin\Bokoblin Base\Volcano East\Bonk Hammer in Hut near Cliff
+- \Eldin\Bokoblin Base\Volcano East\Blow Cloth above Hut near Cliff
 - \Eldin\Bokoblin Base\Before Drawbridge\Chest near Drawbridge
+- \Eldin\Bokoblin Base\Outside Earth Temple\Bonk Campfire East of Earth Temple
 - \Eldin\Bokoblin Base\Outside Earth Temple\Chest East of Earth Temple Entrance
 - \Eldin\Bokoblin Base\Outside Earth Temple\Chest West of Earth Temple Entrance
 - \Eldin\Bokoblin Base\Bokoblin Base Summit\First Chest in Volcano Summit
@@ -1020,16 +1125,6 @@ items:
 - \Faron\Faron Silent Realm\Trial Reward
 - \Faron\Faron Silent Realm\Stamina Fruit on Vine Wall 1
 - \Faron\Faron Silent Realm\Stamina Fruit on Vine Wall 2
-- \Faron\Faron Silent Realm\Relic 1
-- \Faron\Faron Silent Realm\Relic 2
-- \Faron\Faron Silent Realm\Relic 3
-- \Faron\Faron Silent Realm\Relic 4
-- \Faron\Faron Silent Realm\Relic 5
-- \Faron\Faron Silent Realm\Relic 6
-- \Faron\Faron Silent Realm\Relic 7
-- \Faron\Faron Silent Realm\Relic 8
-- \Faron\Faron Silent Realm\Relic 9
-- \Faron\Faron Silent Realm\Relic 10
 - \Faron\Lake Floria\Above Rock\Rupee behind Southwest Boulder
 - \Faron\Lake Floria\Above Rock\Left Rupee behind Northwest Boulder
 - \Faron\Lake Floria\Above Rock\Right Rupee behind Northwest Boulder
@@ -1045,6 +1140,16 @@ items:
 - \Faron\Lake Floria\Waterfall\Gossip Stone outside Ancient Cistern
 - \Faron\Lake Floria\Waterfall\Goddess Cube in Floria Waterfall
 - \Faron\Lake Floria\Waterfall\Rupee on High Ledge
+- \Faron\Lake Floria\Waterfall\North Rupee in underwater Grass
+- \Faron\Lake Floria\Waterfall\South Rupee in underwater Grass
+- \Faron\Lake Floria\Waterfall\Bonk North Pillar near Bird Statue
+- \Faron\Lake Floria\Waterfall\Bonk South Pillar near Bird Statue
+- \Faron\Lake Floria\Waterfall\Slingshot Broken Spike on Bridge
+- \Faron\Lake Floria\Waterfall\Slingshot Northwest Spike on Bridge
+- \Faron\Lake Floria\Waterfall\Slingshot Left Cistern Door Frame
+- \Faron\Lake Floria\Waterfall\Slingshot Right Cistern Door Frame
+- \Faron\Lake Floria\Waterfall\Slingshot Left Cistern Eye
+- \Faron\Lake Floria\Waterfall\Slingshot Right Cistern Eye
 - \Fire Sanctuary\Main\First Room\Hit Water Plant
 - \Fire Sanctuary\Main\First Room\Past Water Plant\Defeat Last Bokoblin
 - \Fire Sanctuary\Main\First Room\Past Water Plant\Chest in First Room
@@ -1501,16 +1606,6 @@ items:
 - \Skyloft\Central Skyloft\Past Waterfall Cave\Crystal in Loftwing Prison
 - \Skyloft\Skyloft Silent Realm\Trial Reward
 - \Skyloft\Skyloft Silent Realm\Stamina Fruit on Knight Academy Ledge
-- \Skyloft\Skyloft Silent Realm\Relic 1
-- \Skyloft\Skyloft Silent Realm\Relic 2
-- \Skyloft\Skyloft Silent Realm\Relic 3
-- \Skyloft\Skyloft Silent Realm\Relic 4
-- \Skyloft\Skyloft Silent Realm\Relic 5
-- \Skyloft\Skyloft Silent Realm\Relic 6
-- \Skyloft\Skyloft Silent Realm\Relic 7
-- \Skyloft\Skyloft Silent Realm\Relic 8
-- \Skyloft\Skyloft Silent Realm\Relic 9
-- \Skyloft\Skyloft Silent Realm\Relic 10
 - \Skyloft\Skyloft Village\Bonk Tree near River
 - \Skyloft\Skyloft Village\Stamina Fruit above Mallara's House
 - \Skyloft\Skyloft Village\Crystal near Pumpkin Patch
@@ -3334,9 +3429,20 @@ areas:
                 Exit to Bokoblin Base: 'True'
               hint_region: Eldin Volcano
               locations:
+                Stamina Fruit in Rising Lava Room: 'True'
                 Chest behind Bombable Wall in First Room: 'True'
                 Rupee behind Bombable Wall in First Room: 'True'
                 Rupee in Crawlspace in First Room: 'True'
+                Slingshot Ceiling in First Room: \Slingshot
+                Underground Rupee in First Room 1: \Mogma Mitts
+                Underground Rupee in First Room 2: \Mogma Mitts
+                Underground Rupee in First Room 3: \Mogma Mitts
+                Underground Rupee in First Room 4: \Mogma Mitts
+                Underground Rupee in First Room 5: \Mogma Mitts
+                Underground Rupee in First Room 6: \Mogma Mitts
+                Underground Rupee in First Room 7: \Mogma Mitts
+                Underground Rupee in First Room 8: \Mogma Mitts
+                Underground Rupee in First Room 9: \Mogma Mitts
                 Blow up Rock to East: 'True'
               name: \Eldin\Volcano\First Room
               sub_areas: {}
@@ -3365,8 +3471,32 @@ areas:
                 Unlock Statue: 'True'
                 Goddess Cube near Mogma Turf Entrance: \Goddess Sword
                 Chest after Crawlspace: 'True'
+                Underground Rupee before Bone Bridge 1: \Mogma Mitts
+                Underground Rupee before Bone Bridge 2: \Mogma Mitts
                 Chest behind Bombable Wall near Cliff: 'True'
+                Rupee in Old Pyrup Shell near Cliff: 'True'
+                Bonk Hammer in Hut near Cliff: 'True'
+                Blow Cloth above Hut near Cliff: Gust Bellows
+                Rupee in Old Pyrup Shell on Cliff: 'True'
                 Item on Cliff: 'True'
+                Underground Rupee in Cliff 1: \Mogma Mitts
+                Underground Rupee in Cliff 2: \Mogma Mitts
+                Underground Rupee in Cliff 3: \Mogma Mitts
+                Underground Rupee in Cliff 4: \Mogma Mitts
+                Underground Rupee in Cliff 5: \Mogma Mitts
+                Underground Rupee in Cliff 6: \Mogma Mitts
+                Underground Rupee in Cliff 7: \Mogma Mitts
+                Underground Rupee in Cliff 8: \Mogma Mitts
+                Underground Rupee in Cliff 9: \Mogma Mitts
+                Underground Rupee in Cliff 10: \Mogma Mitts
+                Underground Rupee in Cliff 11: \Mogma Mitts
+                Underground Rupee in Cliff 12: \Mogma Mitts
+                Underground Rupee in Cliff 13: \Mogma Mitts
+                Underground Rupee in Cliff 14: \Mogma Mitts
+                Underground Rupee in Cliff 15: \Mogma Mitts
+                Stamina Fruit near Volcano East Statue: 'True'
+                Stamina Fruit in front of Bone Bridge: 'True'
+                Stamina Fruit near Item on Cliff: 'True'
                 Drain Lava: 'True'
                 Southeast Rupee above Mogma Turf Entrance: \Beetle
                 North Rupee above Mogma Turf Entrance: \Beetle
@@ -3414,6 +3544,9 @@ areas:
               hint_region: Eldin Volcano
               locations:
                 Chest behind Bombable Wall near Volcano Ascent: 'True'
+                Stamina Fruit in front of First Slope 1: 'True'
+                Stamina Fruit in front of First Slope 2: 'True'
+                Stamina Fruit in front of First Slope Shortcut: 'True'
                 Unlock Statue: 'True'
                 Unlock Shortcut to Entry: 'True'
                 \Eldin\Volcano\Past Slide\Unlock Shortcut to Ascent: "Bomb Bag | \\\
@@ -3439,6 +3572,9 @@ areas:
               locations:
                 Left Rupee behind Bombable Wall on First Slope: 'True'
                 Right Rupee behind Bombable Wall on First Slope: 'True'
+                Stamina Fruit after First Slope: 'True'
+                Stamina Fruit next to Small Puddle: 'True'
+                Stamina Fruit on Vine Wall near Thrill Digger: 'True'
                 Blow down Watchtower: 'True'
               name: \Eldin\Volcano\Near Thrill Digger Cave
               sub_areas: {}
@@ -3456,6 +3592,23 @@ areas:
               locations:
                 Thrill Digger Minigame: \Digging Mitts
                 Gossip Stone in Thrill Digger Cave: 'True'
+                Slingshot Left Blue Crystal 1: \Slingshot
+                Slingshot Left Green Crystal 1: \Slingshot
+                Slingshot Left Blue Crystal 2: \Slingshot
+                Slingshot Left Blue Crystal 3: \Slingshot
+                Slingshot Left Black Crystal: \Slingshot
+                Slingshot Left Green Crystal 2: \Slingshot
+                Slingshot Left Pillar Blue Crystal 1: \Slingshot
+                Slingshot Left Pillar Blue Crystal 2: \Slingshot
+                Slingshot Left Pillar Black Crystal: \Slingshot
+                Slingshot Back Blue Crystal 1: \Slingshot
+                Slingshot Back Blue Crystal 2: \Slingshot
+                Slingshot Back Blue Crystal 3: \Slingshot
+                Slingshot Right Pillar Blue Crystal 1: \Slingshot
+                Slingshot Right Pillar Blue Crystal 2: \Slingshot
+                Slingshot Right Pillar Green Crystal: \Slingshot
+                Slingshot Right Pillar Blue Crystal 3: \Slingshot
+                Slingshot Right Pillar Blue Crystal 4: \Slingshot
               name: \Eldin\Volcano\Thrill Digger Cave
               sub_areas: {}
               toplevel_alias: null
@@ -3490,6 +3643,26 @@ areas:
                 Digging Spot in front of Earth Temple: \Digging Mitts
                 Digging Spot below Tower: \Digging Mitts
                 Digging Spot behind Boulder on Sandy Slope: \Digging Mitts
+                Blow Closest Torch West of Earth Temple: Gust Bellows
+                Blow Farthest Torch West of Earth Temple: Gust Bellows
+                Slingshot Red Jewel above Earth Temple Entrance: \Slingshot
+                Underground Rupee West of Earth Temple 1: \Mogma Mitts
+                Underground Rupee West of Earth Temple 2: \Mogma Mitts
+                Underground Rupee West of Earth Temple 3: \Mogma Mitts
+                Underground Rupee West of Earth Temple 4: \Mogma Mitts
+                Underground Rupee West of Earth Temple 5: \Mogma Mitts
+                Underground Rupee West of Earth Temple 6: \Mogma Mitts
+                Underground Rupee West of Earth Temple 7: \Mogma Mitts
+                Underground Rupee West of Earth Temple 8: \Mogma Mitts
+                Underground Rupee West of Earth Temple 9: \Mogma Mitts
+                Underground Rupee West of Earth Temple 10: \Mogma Mitts
+                Stamina Fruit in front of Second Slope 1: 'True'
+                Stamina Fruit in front of Second Slope 2: 'True'
+                Stamina Fruit in front of Second Slope 3: 'True'
+                Bonk Campfire East of Earth Temple: 'True'
+                Stamina Fruit after Last Boko Camp Tower: 'True'
+                Stamina Fruit on ledge near Hot Cave: 'True'
+                Stamina Fruit on vines near Hot Cave: 'True'
               name: \Eldin\Volcano\Near Temple Entrance
               sub_areas: {}
               toplevel_alias: null
@@ -3539,6 +3712,20 @@ areas:
               locations:
                 Goddess Cube on Sand Slide: \Goddess Sword
                 Digging Spot after Vents: \Digging Mitts
+                Left Rupee on Sand Slide 1: 'True'
+                Left Rupee on Sand Slide 2: 'True'
+                Left Rupee on Sand Slide 3: 'True'
+                Left Rupee on Sand Slide 4: 'True'
+                Left Rupee on Sand Slide 5: 'True'
+                Left Rupee on Sand Slide 6: 'True'
+                Left Rupee on Sand Slide 7: 'True'
+                Left Rupee on Sand Slide 8: 'True'
+                Right Rupee on Sand Slide 1: 'True'
+                Right Rupee on Sand Slide 2: 'True'
+                Right Rupee on Sand Slide 3: 'True'
+                Right Rupee on Sand Slide 4: 'True'
+                Right Rupee on Sand Slide 5: 'True'
+                Right Rupee on Sand Slide 6: 'True'
               name: \Eldin\Volcano\Sand Slide
               sub_areas: {}
               toplevel_alias: null
@@ -3557,6 +3744,7 @@ areas:
               hint_region: Eldin Volcano
               locations:
                 Digging Spot after Draining Lava: \Digging Mitts
+                Stamina Fruit after Big Sand Slide: 'True'
                 Unlock Shortcut to Ascent: 'True'
               name: \Eldin\Volcano\Past Slide
               sub_areas: {}
@@ -3624,6 +3812,12 @@ areas:
               hint_region: Mogma Turf
               locations:
                 Sand Slide Chest: 'True'
+                Bonk Campfire above Sand Slide: 'True'
+                Slingshot Skull on Hut above Sand Slide: \Slingshot
+                Bonk Dusty Bag in Right Hut above Sand Slide: 'True'
+                Bonk Dusty Bag in Middle Hut above Sand Slide: 'True'
+                Bonk Dusty Bag in Left Hut above Sand Slide: 'True'
+                Bonk Hammer in Left Hut above Sand Slide: 'True'
               name: \Eldin\Mogma Turf\Sand Slide Platform
               sub_areas: {}
               toplevel_alias: null
@@ -3639,6 +3833,7 @@ areas:
                 Second Vent: 'True'
               hint_region: Mogma Turf
               locations:
+                Rupee in First Pyrup Hole in Fire Maze: 'True'
                 Chest behind Bombable Wall in Fire Maze: 'True'
               name: \Eldin\Mogma Turf\Past Vent
               sub_areas: {}
@@ -3656,16 +3851,9 @@ areas:
           hint_region: Eldin Silent Realm
           locations:
             Trial Reward: 'True'
-            Relic 1: 'True'
-            Relic 2: 'True'
-            Relic 3: 'True'
-            Relic 4: 'True'
-            Relic 5: 'True'
-            Relic 6: 'True'
-            Relic 7: 'True'
-            Relic 8: 'True'
-            Relic 9: 'True'
-            Relic 10: 'True'
+            Stamina Fruit on First Slope: 'True'
+            Stamina Fruit near First Bone Bridge: 'True'
+            Stamina Fruit near Tear on Vines: 'True'
           name: \Eldin\Eldin Silent Realm
           sub_areas: {}
           toplevel_alias: null
@@ -3700,6 +3888,7 @@ areas:
                 \Eldin\Volcano Summit\Waterfall\Higher Area: Clawshots
               hint_region: Volcano Summit
               locations:
+                Bonk Waterfall: 'True'
                 Goddess Cube in Summit Waterfall: \Goddess Sword
                 \Can Collect Water: 'True'
               name: \Eldin\Volcano Summit\Waterfall
@@ -3741,6 +3930,9 @@ areas:
                   \ Sword"
                 Hydrate Giant Frog: 'True'
                 Unlock Statue: 'True'
+                Blow Torch West of Fire Sanctuary: Gust Bellows
+                Blow Torch East of Fire Sanctuary: Gust Bellows
+                Slingshot Big Thirsty Frog above Fire Sanctuary: \Slingshot
               name: \Eldin\Volcano Summit\Outside Fire Sanctuary
               sub_areas:
                 Before Thirsty Frogs:
@@ -3777,6 +3969,8 @@ areas:
                   hint_region: Volcano Summit
                   locations:
                     Item behind Digging: \Mogma Mitts
+                    Underground Rupee 1: \Mogma Mitts
+                    Underground Rupee 2: \Mogma Mitts
                     Gossip Stone near Second Thirsty Frog: 'True'
                     Hydrate Second Frog: "Clawshots & \\Water Bottle"
                   name: \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty
@@ -3828,6 +4022,10 @@ areas:
                   \ Mitts | Gust Bellows"
                 Chest on Cliff: "(\\Can bypass Boko Base Watch Tower | \\Mogma Mitts)\
                   \ & Gust Bellows"
+                Bonk Hammer in Hut near Cliff: "(\\Can bypass Boko Base Watch Tower\
+                  \ | \\Mogma Mitts) & Gust Bellows"
+                Blow Cloth above Hut near Cliff: "(\\Can bypass Boko Base Watch Tower\
+                  \ | \\Mogma Mitts) & Gust Bellows"
                 \Eldin\Volcano\East\Goddess Cube near Mogma Turf Entrance: \Goddess
                   Sword
               name: \Eldin\Bokoblin Base\Volcano East
@@ -3891,6 +4089,7 @@ areas:
                 \Eldin\Bokoblin Base\Upper Platform Cave: 'True'
               hint_region: Bokoblin Base
               locations:
+                Bonk Campfire East of Earth Temple: 'True'
                 Chest East of Earth Temple Entrance: 'True'
                 \Eldin\Volcano\Near Temple Entrance\Goddess Cube East of Earth Temple Entrance: \Goddess
                   Sword
@@ -4551,16 +4750,6 @@ areas:
             Trial Reward: 'True'
             Stamina Fruit on Vine Wall 1: 'True'
             Stamina Fruit on Vine Wall 2: 'True'
-            Relic 1: 'True'
-            Relic 2: 'True'
-            Relic 3: 'True'
-            Relic 4: 'True'
-            Relic 5: 'True'
-            Relic 6: 'True'
-            Relic 7: 'True'
-            Relic 8: 'True'
-            Relic 9: 'True'
-            Relic 10: 'True'
           name: \Faron\Faron Silent Realm
           sub_areas: {}
           toplevel_alias: null
@@ -4704,6 +4893,16 @@ areas:
                 Gossip Stone outside Ancient Cistern: 'True'
                 Goddess Cube in Floria Waterfall: "Clawshots & \\Goddess Sword"
                 Rupee on High Ledge: \Beetle
+                North Rupee in underwater Grass: Water Dragon's Scale
+                South Rupee in underwater Grass: Water Dragon's Scale
+                Bonk North Pillar near Bird Statue: 'True'
+                Bonk South Pillar near Bird Statue: 'True'
+                Slingshot Broken Spike on Bridge: \Slingshot
+                Slingshot Northwest Spike on Bridge: \Slingshot
+                Slingshot Left Cistern Door Frame: \Slingshot
+                Slingshot Right Cistern Door Frame: \Slingshot
+                Slingshot Left Cistern Eye: "\\Slingshot & Water Dragon's Scale"
+                Slingshot Right Cistern Eye: "\\Slingshot & Water Dragon's Scale"
               name: \Faron\Lake Floria\Waterfall
               sub_areas: {}
               toplevel_alias: Floria Waterfall
@@ -8525,16 +8724,6 @@ areas:
           locations:
             Trial Reward: 'True'
             Stamina Fruit on Knight Academy Ledge: 'True'
-            Relic 1: 'True'
-            Relic 2: 'True'
-            Relic 3: 'True'
-            Relic 4: 'True'
-            Relic 5: 'True'
-            Relic 6: 'True'
-            Relic 7: 'True'
-            Relic 8: 'True'
-            Relic 9: 'True'
-            Relic 10: 'True'
           name: \Skyloft\Skyloft Silent Realm
           sub_areas: {}
           toplevel_alias: null
@@ -9854,29 +10043,32 @@ checks:
     short_name: Sealed Grounds - Song from Impa
   \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Sealed Grounds Whirlpool:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Slingshot above Doors to Sealed Grounds Whirlpool
+    short_name: Sealed Grounds - Sealed Temple - Slingshot above Doors to Sealed Grounds
+      Whirlpool
   \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Behind the Temple:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Slingshot above Doors to Behind the Temple
+    short_name: Sealed Grounds - Sealed Temple - Slingshot above Doors to Behind the
+      Temple
   \Faron\Sealed Grounds\Sealed Temple\Slingshot above Large Doors behind The Old One:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Slingshot above Large Doors behind The Old One
+    short_name: Sealed Grounds - Sealed Temple - Slingshot above Large Doors behind
+      The Old One
   \Faron\Sealed Grounds\Sealed Temple\Blow Triforce Symbol on Southeast Archway behind Bird Statue:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Blow Triforce Symbol on Southeast Archway behind Bird
-      Statue
+    short_name: Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Southeast
+      Archway behind Bird Statue
   \Faron\Sealed Grounds\Sealed Temple\Blow Triforce Symbol on Northeast Archway behind Bird Statue:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Blow Triforce Symbol on Northeast Archway behind Bird
-      Statue
+    short_name: Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Northeast
+      Archway behind Bird Statue
   \Faron\Sealed Grounds\Sealed Temple\Blow Triforce Symbol on Southwest Archway behind Bird Statue:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Blow Triforce Symbol on Southwest Archway behind Bird
-      Statue
+    short_name: Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Southwest
+      Archway behind Bird Statue
   \Faron\Sealed Grounds\Sealed Temple\Blow Triforce Symbol on Northwest Archway behind Bird Statue:
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Blow Triforce Symbol on Northwest Archway behind Bird
-      Statue
+    short_name: Sealed Grounds - Sealed Temple - Blow Triforce Symbol on Northwest
+      Archway behind Bird Statue
   \Faron\Sealed Grounds\Behind the Temple\Slingshot above Doors Behind the Temple:
     type: Hidden Items, Custom Flag
     short_name: Sealed Grounds - Slingshot above Doors Behind the Temple
@@ -10087,10 +10279,42 @@ checks:
   \Faron\Lake Floria\Waterfall\Rupee on High Ledge:
     type: Freestanding Rupees, Advanced Rupees
     short_name: Lake Floria - Waterfall - Rupee on High Ledge
+  \Faron\Lake Floria\Waterfall\North Rupee in underwater Grass:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lake Floria - Waterfall - North Rupee in underwater Grass
+  \Faron\Lake Floria\Waterfall\South Rupee in underwater Grass:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Lake Floria - Waterfall - South Rupee in underwater Grass
+  \Faron\Lake Floria\Waterfall\Bonk North Pillar near Bird Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Bonk North Pillar near Bird Statue
+  \Faron\Lake Floria\Waterfall\Bonk South Pillar near Bird Statue:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Bonk South Pillar near Bird Statue
+  \Faron\Lake Floria\Waterfall\Slingshot Broken Spike on Bridge:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Slingshot Broken Spike on Bridge
+  \Faron\Lake Floria\Waterfall\Slingshot Northwest Spike on Bridge:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Slingshot Northwest Spike on Bridge
+  \Faron\Lake Floria\Waterfall\Slingshot Left Cistern Door Frame:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Slingshot Left Cistern Door Frame
+  \Faron\Lake Floria\Waterfall\Slingshot Right Cistern Door Frame:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Slingshot Right Cistern Door Frame
+  \Faron\Lake Floria\Waterfall\Slingshot Left Cistern Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Slingshot Left Cistern Eye
+  \Faron\Lake Floria\Waterfall\Slingshot Right Cistern Eye:
+    type: Hidden Items, Custom Flag
+    short_name: Lake Floria - Waterfall - Slingshot Right Cistern Eye
   \Eldin\Volcano\Entry\Rupee on Ledge before First Room:
-    original item: 'Red Rupee #30'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Eldin Volcano - Rupee on Ledge before First Room
+  \Eldin\Volcano\First Room\Stamina Fruit in Rising Lava Room:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in Rising Lava Room
   \Eldin\Volcano\First Room\Chest behind Bombable Wall in First Room:
     original item: Red Rupee
     type: null
@@ -10100,41 +10324,225 @@ checks:
     type: Rupees (No Quick Beetle)
     short_name: Eldin Volcano - Rupee behind Bombable Wall in First Room
   \Eldin\Volcano\First Room\Rupee in Crawlspace in First Room:
-    original item: 'Blue Rupee #9'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Eldin Volcano - Rupee in Crawlspace in First Room
+  \Eldin\Volcano\First Room\Slingshot Ceiling in First Room:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Slingshot Ceiling in First Room
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 1:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 1
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 2:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 2
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 3:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 3
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 4:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 4
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 5:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 5
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 6:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 6
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 7:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 7
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 8:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 8
+  \Eldin\Volcano\First Room\Underground Rupee in First Room 9:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in First Room 9
+  \Eldin\Volcano\East\Stamina Fruit near Volcano East Statue:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit near Volcano East Statue
   \Eldin\Volcano\East\Chest after Crawlspace:
     original item: Red Rupee
     type: null
     short_name: Eldin Volcano - Chest after Crawlspace
   \Eldin\Volcano\East\Southeast Rupee above Mogma Turf Entrance:
-    original item: 'Blue Rupee #10'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Eldin Volcano - Southeast Rupee above Mogma Turf Entrance
   \Eldin\Volcano\East\North Rupee above Mogma Turf Entrance:
-    original item: 'Red Rupee #31'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Eldin Volcano - North Rupee above Mogma Turf Entrance
+  \Eldin\Volcano\East\Stamina Fruit in front of Bone Bridge:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of Bone Bridge
+  \Eldin\Volcano\East\Underground Rupee before Bone Bridge 1:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee before Bone Bridge 1
+  \Eldin\Volcano\East\Underground Rupee before Bone Bridge 2:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee before Bone Bridge 2
   \Eldin\Volcano\East\Chest behind Bombable Wall near Cliff:
     original item: Red Rupee
     type: null
     short_name: Eldin Volcano - Chest behind Bombable Wall near Cliff
+  \Eldin\Volcano\East\Rupee in Old Pyrup Shell near Cliff:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Rupee in Old Pyrup Shell near Cliff
+  \Eldin\Volcano\East\Bonk Hammer in Hut near Cliff:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Bonk Hammer in Hut near Cliff
+  \Eldin\Volcano\East\Blow Cloth above Hut near Cliff:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Blow Cloth above Hut near Cliff
+  \Eldin\Volcano\East\Stamina Fruit near Item on Cliff:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit near Item on Cliff
+  \Eldin\Volcano\East\Rupee in Old Pyrup Shell on Cliff:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Rupee in Old Pyrup Shell on Cliff
   \Eldin\Volcano\East\Item on Cliff:
     original item: Heart Piece
     type: null
     short_name: Eldin Volcano - Item on Cliff
+  \Eldin\Volcano\East\Underground Rupee in Cliff 1:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 1
+  \Eldin\Volcano\East\Underground Rupee in Cliff 2:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 2
+  \Eldin\Volcano\East\Underground Rupee in Cliff 3:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 3
+  \Eldin\Volcano\East\Underground Rupee in Cliff 4:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 4
+  \Eldin\Volcano\East\Underground Rupee in Cliff 5:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 5
+  \Eldin\Volcano\East\Underground Rupee in Cliff 6:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 6
+  \Eldin\Volcano\East\Underground Rupee in Cliff 7:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 7
+  \Eldin\Volcano\East\Underground Rupee in Cliff 8:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 8
+  \Eldin\Volcano\East\Underground Rupee in Cliff 9:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 9
+  \Eldin\Volcano\East\Underground Rupee in Cliff 10:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 10
+  \Eldin\Volcano\East\Underground Rupee in Cliff 11:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 11
+  \Eldin\Volcano\East\Underground Rupee in Cliff 12:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 12
+  \Eldin\Volcano\East\Underground Rupee in Cliff 13:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 13
+  \Eldin\Volcano\East\Underground Rupee in Cliff 14:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 14
+  \Eldin\Volcano\East\Underground Rupee in Cliff 15:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee in Cliff 15
   \Eldin\Volcano\Ascent\Chest behind Bombable Wall near Volcano Ascent:
     original item: Red Rupee
     type: null
     short_name: Eldin Volcano - Chest behind Bombable Wall near Volcano Ascent
+  \Eldin\Volcano\Ascent\Stamina Fruit in front of First Slope 1:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of First Slope 1
+  \Eldin\Volcano\Ascent\Stamina Fruit in front of First Slope 2:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of First Slope 2
+  \Eldin\Volcano\Ascent\Stamina Fruit in front of First Slope Shortcut:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of First Slope Shortcut
+  \Eldin\Volcano\Near Thrill Digger Cave\Stamina Fruit after First Slope:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit after First Slope
   \Eldin\Volcano\Near Thrill Digger Cave\Left Rupee behind Bombable Wall on First Slope:
-    original item: 'Red Rupee #32'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Eldin Volcano - Left Rupee behind Bombable Wall on First Slope
   \Eldin\Volcano\Near Thrill Digger Cave\Right Rupee behind Bombable Wall on First Slope:
-    original item: 'Red Rupee #33'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Intermediate Rupees
     short_name: Eldin Volcano - Right Rupee behind Bombable Wall on First Slope
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Blue Crystal 1:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Blue Crystal 1
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Green Crystal 1:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Green Crystal
+      1
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Blue Crystal 2:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Blue Crystal 2
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Blue Crystal 3:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Blue Crystal 3
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Black Crystal:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Black Crystal
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Green Crystal 2:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Green Crystal
+      2
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Pillar Blue Crystal 1:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Pillar Blue Crystal
+      1
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Pillar Blue Crystal 2:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Pillar Blue Crystal
+      2
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Left Pillar Black Crystal:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Left Pillar Black Crystal
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Back Blue Crystal 1:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Back Blue Crystal 1
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Back Blue Crystal 2:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Back Blue Crystal 2
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Back Blue Crystal 3:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Back Blue Crystal 3
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 1:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal
+      1
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 2:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal
+      2
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Green Crystal:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Green
+      Crystal
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 3:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal
+      3
+  \Eldin\Volcano\Thrill Digger Cave\Slingshot Right Pillar Blue Crystal 4:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Thrill Digger Cave - Slingshot Right Pillar Blue Crystal
+      4
+  \Eldin\Volcano\Near Thrill Digger Cave\Stamina Fruit next to Small Puddle:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit next to Small Puddle
+  \Eldin\Volcano\Near Thrill Digger Cave\Stamina Fruit on Vine Wall near Thrill Digger:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit on Vine Wall near Thrill Digger
+  \Eldin\Volcano\Near Temple Entrance\Stamina Fruit in front of Second Slope 1:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of Second Slope 1
+  \Eldin\Volcano\Near Temple Entrance\Stamina Fruit in front of Second Slope 2:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of Second Slope 2
+  \Eldin\Volcano\Near Temple Entrance\Stamina Fruit in front of Second Slope 3:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit in front of Second Slope 3
   \Eldin\Volcano\Near Temple Entrance\Digging Spot in front of Earth Temple:
     original item: Key Piece
     type: null
@@ -10147,10 +10555,106 @@ checks:
     original item: Key Piece
     type: null
     short_name: Eldin Volcano - Digging Spot behind Boulder on Sandy Slope
+  \Eldin\Volcano\Near Temple Entrance\Blow Closest Torch West of Earth Temple:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Blow Closest Torch West of Earth Temple
+  \Eldin\Volcano\Near Temple Entrance\Blow Farthest Torch West of Earth Temple:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Blow Farthest Torch West of Earth Temple
+  \Eldin\Volcano\Near Temple Entrance\Slingshot Red Jewel above Earth Temple Entrance:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Slingshot Red Jewel above Earth Temple Entrance
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 1:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 1
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 2:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 2
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 3:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 3
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 4:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 4
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 5:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 5
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 6:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 6
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 7:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 7
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 8:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 8
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 9:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 9
+  \Eldin\Volcano\Near Temple Entrance\Underground Rupee West of Earth Temple 10:
+    type: Underground Rupees, Custom Flag
+    short_name: Eldin Volcano - Underground Rupee West of Earth Temple 10
+  \Eldin\Volcano\Near Temple Entrance\Bonk Campfire East of Earth Temple:
+    type: Hidden Items, Custom Flag
+    short_name: Eldin Volcano - Bonk Campfire East of Earth Temple
+  \Eldin\Volcano\Near Temple Entrance\Stamina Fruit after Last Boko Camp Tower:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit after Last Boko Camp Tower
+  \Eldin\Volcano\Near Temple Entrance\Stamina Fruit on ledge near Hot Cave:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit on ledge near Hot Cave
+  \Eldin\Volcano\Near Temple Entrance\Stamina Fruit on vines near Hot Cave:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit on vines near Hot Cave
   \Eldin\Volcano\Sand Slide\Digging Spot after Vents:
     original item: Key Piece
     type: null
     short_name: Eldin Volcano - Digging Spot after Vents
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 1
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 2
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 3:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 3
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 4:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 4
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 5:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 5
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 6:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 6
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 7:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 7
+  \Eldin\Volcano\Sand Slide\Left Rupee on Sand Slide 8:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Left Rupee on Sand Slide 8
+  \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 1:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Right Rupee on Sand Slide 1
+  \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 2:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Right Rupee on Sand Slide 2
+  \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 3:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Right Rupee on Sand Slide 3
+  \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 4:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Right Rupee on Sand Slide 4
+  \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 5:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Right Rupee on Sand Slide 5
+  \Eldin\Volcano\Sand Slide\Right Rupee on Sand Slide 6:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Eldin Volcano - Right Rupee on Sand Slide 6
+  \Eldin\Volcano\Past Slide\Stamina Fruit after Big Sand Slide:
+    type: Stamina Fruits, Custom Flag
+    short_name: Eldin Volcano - Stamina Fruit after Big Sand Slide
   \Eldin\Volcano\Past Slide\Digging Spot after Draining Lava:
     original item: Key Piece
     type: null
@@ -10167,14 +10671,38 @@ checks:
     original item: Progressive Mitts
     type: Combat
     short_name: Mogma Turf - Defeat Bokoblins
+  \Eldin\Mogma Turf\Sand Slide Platform\Bonk Campfire above Sand Slide:
+    type: Hidden Items, Custom Flag
+    short_name: Mogma Turf - Bonk Campfire above Sand Slide
+  \Eldin\Mogma Turf\Sand Slide Platform\Slingshot Skull on Hut above Sand Slide:
+    type: Hidden Items, Custom Flag
+    short_name: Mogma Turf - Slingshot Skull on Hut above Sand Slide
+  \Eldin\Mogma Turf\Sand Slide Platform\Bonk Dusty Bag in Right Hut above Sand Slide:
+    type: Hidden Items, Custom Flag
+    short_name: Mogma Turf - Bonk Dusty Bag in Right Hut above Sand Slide
+  \Eldin\Mogma Turf\Sand Slide Platform\Bonk Dusty Bag in Middle Hut above Sand Slide:
+    type: Hidden Items, Custom Flag
+    short_name: Mogma Turf - Bonk Dusty Bag in Middle Hut above Sand Slide
+  \Eldin\Mogma Turf\Sand Slide Platform\Bonk Dusty Bag in Left Hut above Sand Slide:
+    type: Hidden Items, Custom Flag
+    short_name: Mogma Turf - Bonk Dusty Bag in Left Hut above Sand Slide
+  \Eldin\Mogma Turf\Sand Slide Platform\Bonk Hammer in Left Hut above Sand Slide:
+    type: Hidden Items, Custom Flag
+    short_name: Mogma Turf - Bonk Hammer in Left Hut above Sand Slide
   \Eldin\Mogma Turf\Sand Slide Platform\Sand Slide Chest:
     original item: Eldin Ore
     type: null
     short_name: Mogma Turf - Sand Slide Chest
+  \Eldin\Mogma Turf\Past Vent\Rupee in First Pyrup Hole in Fire Maze:
+    type: Freestanding Rupees, Intermediate Rupees, Custom Flag
+    short_name: Mogma Turf - Rupee in First Pyrup Hole in Fire Maze
   \Eldin\Mogma Turf\Past Vent\Chest behind Bombable Wall in Fire Maze:
     original item: Silver Rupee
     type: null
     short_name: Mogma Turf - Chest behind Bombable Wall in Fire Maze
+  \Eldin\Volcano Summit\Waterfall\Bonk Waterfall:
+    type: Hidden Items, Custom Flag
+    short_name: Volcano Summit - Bonk Waterfall
   \Eldin\Volcano Summit\Waterfall\Higher Area\Chest behind Bombable Wall in Waterfall Area:
     original item: Silver Rupee
     type: null
@@ -10183,6 +10711,21 @@ checks:
     original item: Heart Piece
     type: null
     short_name: Volcano Summit - Item behind Digging
+  \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Underground Rupee 1:
+    type: Underground Rupees, Custom Flag
+    short_name: Volcano Summit - Underground Rupee 1
+  \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Underground Rupee 2:
+    type: Underground Rupees, Custom Flag
+    short_name: Volcano Summit - Underground Rupee 2
+  \Eldin\Volcano Summit\Outside Fire Sanctuary\Blow Torch West of Fire Sanctuary:
+    type: Hidden Items, Custom Flag
+    short_name: Volcano Summit - Blow Torch West of Fire Sanctuary
+  \Eldin\Volcano Summit\Outside Fire Sanctuary\Blow Torch East of Fire Sanctuary:
+    type: Hidden Items, Custom Flag
+    short_name: Volcano Summit - Blow Torch East of Fire Sanctuary
+  \Eldin\Volcano Summit\Outside Fire Sanctuary\Slingshot Big Thirsty Frog above Fire Sanctuary:
+    type: Hidden Items, Custom Flag
+    short_name: Volcano Summit - Slingshot Big Thirsty Frog above Fire Sanctuary
   \Eldin\Bokoblin Base\Prison\Plats' Gift:
     original item: Mogma Mitts
     type: null
@@ -10191,6 +10734,12 @@ checks:
     original item: Gust Bellows
     type: null
     short_name: Bokoblin Base - Chest near Bone Bridge
+  \Eldin\Bokoblin Base\Volcano East\Bonk Hammer in Hut near Cliff:
+    type: Hidden Items, Custom Flag
+    short_name: Bokoblin Base - Bonk Hammer in Hut near Cliff
+  \Eldin\Bokoblin Base\Volcano East\Blow Cloth above Hut near Cliff:
+    type: Hidden Items, Custom Flag
+    short_name: Bokoblin Base - Blow Cloth above Hut near Cliff
   \Eldin\Bokoblin Base\Volcano East\Chest on Cliff:
     original item: Clawshots
     type: null
@@ -10199,6 +10748,9 @@ checks:
     original item: Whip
     type: null
     short_name: Bokoblin Base - Chest near Drawbridge
+  \Eldin\Bokoblin Base\Outside Earth Temple\Bonk Campfire East of Earth Temple:
+    type: Hidden Items, Custom Flag
+    short_name: Bokoblin Base - Bonk Campfire East of Earth Temple
   \Eldin\Bokoblin Base\Outside Earth Temple\Chest East of Earth Temple Entrance:
     original item: Slingshot
     type: null
@@ -10743,46 +11295,6 @@ checks:
   \Skyloft\Skyloft Silent Realm\Stamina Fruit on Knight Academy Ledge:
     type: Stamina Fruits, Custom Flag
     short_name: Skyloft Silent Realm - Stamina Fruit on Knight Academy Ledge
-  \Skyloft\Skyloft Silent Realm\Relic 1:
-    original item: 'Dusk Relic #1'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 1
-  \Skyloft\Skyloft Silent Realm\Relic 2:
-    original item: 'Dusk Relic #2'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 2
-  \Skyloft\Skyloft Silent Realm\Relic 3:
-    original item: 'Dusk Relic #3'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 3
-  \Skyloft\Skyloft Silent Realm\Relic 4:
-    original item: 'Dusk Relic #4'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 4
-  \Skyloft\Skyloft Silent Realm\Relic 5:
-    original item: 'Dusk Relic #5'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 5
-  \Skyloft\Skyloft Silent Realm\Relic 6:
-    original item: 'Dusk Relic #6'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 6
-  \Skyloft\Skyloft Silent Realm\Relic 7:
-    original item: 'Dusk Relic #7'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 7
-  \Skyloft\Skyloft Silent Realm\Relic 8:
-    original item: 'Dusk Relic #8'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 8
-  \Skyloft\Skyloft Silent Realm\Relic 9:
-    original item: 'Dusk Relic #9'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 9
-  \Skyloft\Skyloft Silent Realm\Relic 10:
-    original item: 'Dusk Relic #10'
-    type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 10
   \Faron\Faron Silent Realm\Trial Reward:
     original item: Water Dragon's Scale
     type: null
@@ -10793,134 +11305,23 @@ checks:
   \Faron\Faron Silent Realm\Stamina Fruit on Vine Wall 2:
     type: Silent Realms, Stamina Fruits, Custom Flag
     short_name: Faron Silent Realm - Stamina Fruit on Vine Wall 2
-  \Faron\Faron Silent Realm\Relic 1:
-    original item: 'Dusk Relic #11'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 1
-  \Faron\Faron Silent Realm\Relic 2:
-    original item: 'Dusk Relic #12'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 2
-  \Faron\Faron Silent Realm\Relic 3:
-    original item: 'Dusk Relic #13'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 3
-  \Faron\Faron Silent Realm\Relic 4:
-    original item: 'Dusk Relic #14'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 4
-  \Faron\Faron Silent Realm\Relic 5:
-    original item: 'Dusk Relic #15'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 5
-  \Faron\Faron Silent Realm\Relic 6:
-    original item: 'Dusk Relic #16'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 6
-  \Faron\Faron Silent Realm\Relic 7:
-    original item: 'Dusk Relic #17'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 7
-  \Faron\Faron Silent Realm\Relic 8:
-    original item: 'Dusk Relic #18'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 8
-  \Faron\Faron Silent Realm\Relic 9:
-    original item: 'Dusk Relic #19'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 9
-  \Faron\Faron Silent Realm\Relic 10:
-    original item: 'Dusk Relic #20'
-    type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 10
   \Lanayru\Lanayru Silent Realm\Trial Reward:
     original item: Clawshots
     type: null
     short_name: Lanayru Silent Realm - Trial Reward
-  \Lanayru\Lanayru Silent Realm\Relic 1:
-    original item: 'Dusk Relic #21'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 1
-  \Lanayru\Lanayru Silent Realm\Relic 2:
-    original item: 'Dusk Relic #22'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 2
-  \Lanayru\Lanayru Silent Realm\Relic 3:
-    original item: 'Dusk Relic #23'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 3
-  \Lanayru\Lanayru Silent Realm\Relic 4:
-    original item: 'Dusk Relic #24'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 4
-  \Lanayru\Lanayru Silent Realm\Relic 5:
-    original item: 'Dusk Relic #25'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 5
-  \Lanayru\Lanayru Silent Realm\Relic 6:
-    original item: 'Dusk Relic #26'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 6
-  \Lanayru\Lanayru Silent Realm\Relic 7:
-    original item: 'Dusk Relic #27'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 7
-  \Lanayru\Lanayru Silent Realm\Relic 8:
-    original item: 'Dusk Relic #28'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 8
-  \Lanayru\Lanayru Silent Realm\Relic 9:
-    original item: 'Dusk Relic #29'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 9
-  \Lanayru\Lanayru Silent Realm\Relic 10:
-    original item: 'Dusk Relic #30'
-    type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 10
   \Eldin\Eldin Silent Realm\Trial Reward:
     original item: Fireshield Earrings
     type: null
     short_name: Eldin Silent Realm - Trial Reward
-  \Eldin\Eldin Silent Realm\Relic 1:
-    original item: 'Dusk Relic #31'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 1
-  \Eldin\Eldin Silent Realm\Relic 2:
-    original item: 'Dusk Relic #32'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 2
-  \Eldin\Eldin Silent Realm\Relic 3:
-    original item: 'Dusk Relic #33'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 3
-  \Eldin\Eldin Silent Realm\Relic 4:
-    original item: 'Dusk Relic #34'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 4
-  \Eldin\Eldin Silent Realm\Relic 5:
-    original item: 'Dusk Relic #35'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 5
-  \Eldin\Eldin Silent Realm\Relic 6:
-    original item: 'Dusk Relic #36'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 6
-  \Eldin\Eldin Silent Realm\Relic 7:
-    original item: 'Dusk Relic #37'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 7
-  \Eldin\Eldin Silent Realm\Relic 8:
-    original item: 'Dusk Relic #38'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 8
-  \Eldin\Eldin Silent Realm\Relic 9:
-    original item: 'Dusk Relic #39'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 9
-  \Eldin\Eldin Silent Realm\Relic 10:
-    original item: 'Dusk Relic #40'
-    type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 10
+  \Eldin\Eldin Silent Realm\Stamina Fruit on First Slope:
+    type: Silent Realms, Stamina Fruits, Custom Flag
+    short_name: Eldin Silent Realm - Stamina Fruit on First Slope
+  \Eldin\Eldin Silent Realm\Stamina Fruit near First Bone Bridge:
+    type: Silent Realms, Stamina Fruits, Custom Flag
+    short_name: Eldin Silent Realm - Stamina Fruit near First Bone Bridge
+  \Eldin\Eldin Silent Realm\Stamina Fruit near Tear on Vines:
+    type: Silent Realms, Stamina Fruits, Custom Flag
+    short_name: Eldin Silent Realm - Stamina Fruit near Tear on Vines
 gossip_stones:
   \Skyloft\Central Skyloft\Waterfall Island\Gossip Stone on Waterfall Island: Central
     Skyloft - Gossip Stone on Waterfall Island

@@ -369,6 +369,7 @@ items:
 - Bomb Throws Trick
 - Long Range Skyward Strike Jumpslash Trick
 - Advanced Lizalfos Combat Trick
+- Precise Beetle Flying Trick
 - Waterfall Cave Jump Trick
 - Beedle's Shop With Bombs Trick
 - Baby Rattle from Beedle's Shop Trick
@@ -1318,7 +1319,14 @@ items:
 - \Skyloft\Upper Skyloft\Knight Academy\Item from Cawlin
 - \Skyloft\Upper Skyloft\Knight Academy\Ghost/Pipit's Crystals
 - \Skyloft\Upper Skyloft\Knight Academy\Fledge's Crystals
+- \Skyloft\Upper Skyloft\Knight Academy\Bonk Classroom Bookshelf
+- \Skyloft\Upper Skyloft\Knight Academy\Bonk Headmaster Gaepora's Bookshelf
+- \Skyloft\Upper Skyloft\Knight Academy\In Fledge's Closet
+- \Skyloft\Upper Skyloft\Knight Academy\In Groose's Closet
+- \Skyloft\Upper Skyloft\Knight Academy\In Owlan's Closet
+- \Skyloft\Upper Skyloft\Knight Academy\In Karane's Closet
 - \Skyloft\Upper Skyloft\Knight Academy\Link's Room\Crystal in Link's Room
+- \Skyloft\Upper Skyloft\Knight Academy\Link's Room\In Link's Closet
 - \Skyloft\Upper Skyloft\Knight Academy\Zelda's Room\Unlocked Zelda's Room
 - \Skyloft\Upper Skyloft\Knight Academy\Zelda's Room\Crystal in Zelda's Room
 - \Skyloft\Upper Skyloft\Knight Academy\Zelda's Room\In Zelda's Closet
@@ -7893,6 +7901,12 @@ areas:
                 Ghost/Pipit's Crystals: "Cawlin's Letter & Day"
                 Fledge's Crystals: "\\Skyloft\\Central Skyloft\\Bazaar\\Endurance\
                   \ Potion & Night"
+                Bonk Classroom Bookshelf: 'True'
+                Bonk Headmaster Gaepora's Bookshelf: 'True'
+                In Fledge's Closet: 'True'
+                In Groose's Closet: 'True'
+                In Owlan's Closet: 'True'
+                In Karane's Closet: 'True'
               name: \Skyloft\Upper Skyloft\Knight Academy
               sub_areas:
                 Link's Room:
@@ -7907,6 +7921,7 @@ areas:
                   hint_region: Upper Skyloft
                   locations:
                     Crystal in Link's Room: Night
+                    In Link's Closet: 'True'
                   name: \Skyloft\Upper Skyloft\Knight Academy\Link's Room
                   sub_areas: {}
                   toplevel_alias: null
@@ -8838,6 +8853,27 @@ checks:
     original item: Progressive Pouch
     type: null
     short_name: Upper Skyloft - Fledge's Gift
+  \Skyloft\Upper Skyloft\Knight Academy\Bonk Classroom Bookshelf:
+    type: Hidden Items, Custom Flag
+    short_name: Upper Skyloft - Bonk Classroom Bookshelf
+  \Skyloft\Upper Skyloft\Knight Academy\Bonk Headmaster Gaepora's Bookshelf:
+    type: Hidden Items, Custom Flag
+    short_name: Upper Skyloft - Bonk Headmaster Gaepora's Bookshelf
+  \Skyloft\Upper Skyloft\Knight Academy\Link's Room\In Link's Closet:
+    type: Closets
+    short_name: Upper Skyloft - In Link's Closet
+  \Skyloft\Upper Skyloft\Knight Academy\In Fledge's Closet:
+    type: Closets
+    short_name: Upper Skyloft - In Fledge's Closet
+  \Skyloft\Upper Skyloft\Knight Academy\In Groose's Closet:
+    type: Closets
+    short_name: Upper Skyloft - In Groose's Closet
+  \Skyloft\Upper Skyloft\Knight Academy\In Owlan's Closet:
+    type: Closets
+    short_name: Upper Skyloft - In Owlan's Closet
+  \Skyloft\Upper Skyloft\Knight Academy\In Karane's Closet:
+    type: Closets
+    short_name: Upper Skyloft - In Karane's Closet
   \Skyloft\Upper Skyloft\Owlan's Gift:
     original item: Wooden Shield
     type: null

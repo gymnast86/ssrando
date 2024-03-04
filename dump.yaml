@@ -9367,29 +9367,29 @@ checks:
     type: Loose Crystals
     short_name: Sky - Crystal on Beedle's Ship
   \Sky\North East\Bamboo Island\Inside\Bonk Southwest Sprout:
-    short_name: Bamboo Island - Bonk Southwest Sprout
+    short_name: Sky - Bamboo Island - Bonk Southwest Sprout
   \Sky\North East\Bamboo Island\Inside\Bonk West Sprout:
-    short_name: Bamboo Island - Bonk West Sprout
+    short_name: Sky - Bamboo Island - Bonk West Sprout
   \Sky\North East\Bamboo Island\Inside\Bonk East Sprout:
-    short_name: Bamboo Island - Bonk East Sprout
+    short_name: Sky - Bamboo Island - Bonk East Sprout
   \Sky\North East\Bamboo Island\Inside\Bonk Southeast Sprout:
-    short_name: Bamboo Island - Bonk Southeast Sprout
+    short_name: Sky - Bamboo Island - Bonk Southeast Sprout
   \Sky\North East\Bamboo Island\Slingshot Left Lantern:
-    short_name: Bamboo Island - Slingshot Left Lantern
+    short_name: Sky - Bamboo Island - Slingshot Left Lantern
   \Sky\North East\Bamboo Island\Slingshot Middle Lantern:
-    short_name: Bamboo Island - Slingshot Middle Lantern
+    short_name: Sky - Bamboo Island - Slingshot Middle Lantern
   \Sky\North East\Bamboo Island\Slingshot Right Lantern:
-    short_name: Bamboo Island - Slingshot Right Lantern
+    short_name: Sky - Bamboo Island - Slingshot Right Lantern
   \Sky\South East\Lumpy Pumpkin\Slingshot Left Canopy Lantern:
-    short_name: Lumpy Pumpkin - Slingshot Left Canopy Lantern
+    short_name: Sky - Lumpy Pumpkin - Slingshot Left Canopy Lantern
   \Sky\South East\Lumpy Pumpkin\Slingshot Right Canopy Lantern:
-    short_name: Lumpy Pumpkin - Slingshot Right Canopy Lantern
+    short_name: Sky - Lumpy Pumpkin - Slingshot Right Canopy Lantern
   \Sky\South East\Lumpy Pumpkin\Slingshot Lantern Left of Main Door:
-    short_name: Lumpy Pumpkin - Slingshot Lantern Left of Main Door
+    short_name: Sky - Lumpy Pumpkin - Slingshot Lantern Left of Main Door
   \Sky\South East\Lumpy Pumpkin\Slingshot Lantern Right of Main Door:
-    short_name: Lumpy Pumpkin - Slingshot Lantern Right of Main Door
+    short_name: Sky - Lumpy Pumpkin - Slingshot Lantern Right of Main Door
   \Sky\South East\Lumpy Pumpkin\Slingshot Lantern next to Back Door:
-    short_name: Lumpy Pumpkin - Slingshot Lantern next to Back Door
+    short_name: Sky - Lumpy Pumpkin - Slingshot Lantern next to Back Door
   \Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Chandelier:
     original item: Heart Piece
     type: null

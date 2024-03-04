@@ -700,73 +700,73 @@ Sky - Crystal on Beedle's Ship:
   type: Loose Crystals
 
 # Sky:
-Bamboo Island - Bonk Southwest Sprout:
+Sky - Bamboo Island - Bonk Southwest Sprout:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F019r/r0/l0/TgReact/0xFC08
 
-Bamboo Island - Bonk West Sprout:
+Sky - Bamboo Island - Bonk West Sprout:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F019r/r0/l0/TgReact/0xFC09
 
-Bamboo Island - Bonk East Sprout:
+Sky - Bamboo Island - Bonk East Sprout:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F019r/r0/l0/TgReact/0xFC0A
 
-Bamboo Island - Bonk Southeast Sprout:
+Sky - Bamboo Island - Bonk Southeast Sprout:
   original_item: Fairy
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F019r/r0/l0/TgReact/0xFC07
 
-Bamboo Island - Slingshot Left Lantern:
+Sky - Bamboo Island - Slingshot Left Lantern:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA3
 
-Bamboo Island - Slingshot Middle Lantern:
+Sky - Bamboo Island - Slingshot Middle Lantern:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA2
 
-Bamboo Island - Slingshot Right Lantern:
+Sky - Bamboo Island - Slingshot Right Lantern:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA4
 
-Lumpy Pumpkin - Slingshot Left Canopy Lantern:
+Sky - Lumpy Pumpkin - Slingshot Left Canopy Lantern:
   original_item: Blue Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA5
 
-Lumpy Pumpkin - Slingshot Right Canopy Lantern:
+Sky - Lumpy Pumpkin - Slingshot Right Canopy Lantern:
   original_item: Blue Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA6
 
-Lumpy Pumpkin - Slingshot Lantern Left of Main Door:
+Sky - Lumpy Pumpkin - Slingshot Lantern Left of Main Door:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA8
 
-Lumpy Pumpkin - Slingshot Lantern Right of Main Door:
+Sky - Lumpy Pumpkin - Slingshot Lantern Right of Main Door:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:
     - stage/F020/r0/l0/TgReact/0xFCA7
 
-Lumpy Pumpkin - Slingshot Lantern next to Back Door:
+Sky - Lumpy Pumpkin - Slingshot Lantern next to Back Door:
   original_item: Green Rupee
   types: Hidden Items, Custom Flag
   Paths:

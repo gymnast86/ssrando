@@ -11,6 +11,34 @@ Sealed Grounds:
       Door: Nothing
     locations:
       Defeat Imprisoned 2: Sealed Temple - Start Imprisoned 2 & Goddess Sword
+      Bonk Wall Drawing of Hylia Raising Skyloft: Nothing
+      Slingshot Sun in Wall Drawing of Worshippers: Slingshot
+      Slingshot Mouth in Wall Drawing of Beast: Slingshot
+      Bonk Rocks below Sealed Temple Entrance: Nothing
+      Spiral Stamina Fruit 1: Nothing
+      Spiral Stamina Fruit 2: Nothing
+      Spiral Stamina Fruit 3: Nothing
+      Spiral Stamina Fruit 4: Nothing
+      Spiral Stamina Fruit 5: Nothing
+      Spiral Stamina Fruit 6: Nothing
+      Spiral Stamina Fruit 7: Nothing
+      Spiral Stamina Fruit 8: Nothing
+      Spiral Stamina Fruit 9: Nothing
+      Spiral Stamina Fruit 10: Nothing
+      Spiral Stamina Fruit 11: Nothing
+      Spiral Stamina Fruit 12: Nothing
+      Spiral Stamina Fruit 13: Nothing
+      Spiral Stamina Fruit 14: Nothing
+      Spiral Stamina Fruit 15: Nothing
+      Spiral Stamina Fruit 16: Nothing
+      Spiral Stamina Fruit 17: Nothing
+      Spiral Stamina Fruit 18: Nothing
+      Spiral Stamina Fruit 19: Nothing
+      Spiral Stamina Fruit 20: Nothing
+      Spiral Stamina Fruit 21: Nothing
+      Spiral Stamina Fruit 22: Nothing
+      Spiral Stamina Fruit 23: Nothing
+      Spiral Stamina Fruit 24: Nothing
 
     Upper Part:
       exits:
@@ -18,6 +46,7 @@ Sealed Grounds:
         Spiral: Nothing
       locations:
         Unlock Statue: Nothing
+        Bonk Wall between Pillars near Bird Statue: Nothing
 
       From Behind the Temple:
         entrance: Nothing
@@ -36,6 +65,13 @@ Sealed Grounds:
       Raise Gate of Time: GoT Raising Requirement
       Start Imprisoned 2: Raise Gate of Time & GoT Opening Requirement
       Open Gate of Time: Raise Gate of Time & GoT Opening Requirement & Spiral - Defeat Imprisoned 2
+      Slingshot above Doors to Sealed Grounds Whirlpool: Slingshot
+      Slingshot above Doors to Behind the Temple: Slingshot
+      Slingshot above Large Doors behind The Old One: Slingshot
+      Blow Triforce Symbol on Southeast Archway behind Bird Statue: Gust Bellows
+      Blow Triforce Symbol on Northeast Archway behind Bird Statue: Gust Bellows
+      Blow Triforce Symbol on Southwest Archway behind Bird Statue: Gust Bellows
+      Blow Triforce Symbol on Northwest Archway behind Bird Statue: Gust Bellows
 
   Hylia's Temple:
     exits:
@@ -54,6 +90,12 @@ Sealed Grounds:
       Unlock Statue: Nothing
       Gossip Stone behind the Temple: Nothing
       Gorko's Goddess Wall Reward: Goddess's Harp & Ballad of the Goddess & Goddess Sword
+      Slingshot above Doors Behind the Temple: Slingshot
+      Blow Bushes in Corner Left of Gossip Stone: Gust Bellows
+      Slingshot Behind the Temple Gates Southwest Side: Slingshot
+      Slingshot Behind the Temple Gates Northeast Side: Slingshot
+      Bonk Large West Rock before Faron Woods: Nothing
+      Bonk Small East Rock before Faron Woods: Nothing
 
 # FARON WOODS
 Faron Woods:
@@ -85,6 +127,26 @@ Faron Woods:
     Item on Tree: Nothing
     Item behind Lower Bombable Rock: Bomb Bag
     Chest behind Upper Bombable Rock: Bomb Bag
+    Stamina Fruit on Vines below First Log: Nothing
+    Stamina Fruit past Empty Slope: Nothing
+    Stamina Fruit past Baba Slope: Nothing
+    Stamina Fruit on Vines near Erla: Nothing
+    Stamina Fruit on Vines on Great Tree: Beetle # TODO: Check
+    Bonk Bamboo Blockade before Kikwi in Clearing: Nothing
+    Slingshot Archway after Kikwi in Clearing: Slingshot
+    Slingshot Archway before Mushroom Grove: Slingshot
+    Bonk Yellow Mushroom near In the Woods Bird Statue: Nothing
+    Bonk Tree next to Shortcut Rope to Floria Gates: Nothing
+    Bonk Bamboo Blockade before Floria Gates: Nothing
+    Slingshot Floria Gates Archway: Slingshot & (Beetle | Clawshots | Bow | Sword | Bomb Bag)
+    Bonk Raised Tree near Crooked Archway: Nothing
+    Slingshot Main Viewing Platform Archway: Slingshot
+    Blow Farore's Symbol on Viewing Platform: Gust Bellows
+    Bonk Archway before Deep Woods: Distance Activator
+    Bonk Tall Blue Northern Mushroom: Nothing
+    Slingshot Northwest Great Tree Trunk: Slingshot
+    Bonk Tree after Shortcut from Entry Bird Statue 1: Nothing
+    Bonk Tree after Shortcut from Entry Bird Statue 2: Nothing
 
   Entry:
     exits:
@@ -136,6 +198,7 @@ Faron Woods:
       Faron Woods: Nothing
     locations:
       Goddess Cube on East Great Tree with Rope: Goddess Sword
+      Blow Wooden Spiral near Goddess Cube near Rope: Gust Bellows
   
   # GREAT TREE
   Great Tree:
@@ -151,13 +214,18 @@ Faron Woods:
         Underwater Tunnel: Water Dragon's Scale
         Path to Chest: Gust Bellows
         Near Exit: Gust Bellows
+      locations:
+        Blow Small Yellow Mushroom after Vines: Gust Bellows
+        Blow Large Yellow Mushroom after Vines: Gust Bellows
 
       Path to Chest: # area around the chest
         exits:
           Lower Area: Nothing
           Near Exit: Nothing
         locations:
-          Chest inside Great Tree: Nothing # Not even something to defeat the quadri-baba ?
+          Chest inside Great Tree: Sword | Bow | Bomb Bag | Beetle | Slingshot
+          Blow Red Mushroom after Swinging Platforms West: Gust Bellows
+          Blow Tall Blue Mushroom after Swinging Platforms South: Gust Bellows
 
       Near Exit:
         exits:
@@ -170,6 +238,8 @@ Faron Woods:
         Upper Exit to Great Tree: Nothing
         Faron Woods - West Branch: Nothing
         Faron Woods: Nothing
+      locations:
+        Faron Woods - Stamina Fruit on Vines on Great Tree: Nothing
 
     Upper Area: # top with the moblin
       exits:
@@ -180,6 +250,7 @@ Faron Woods:
         Exit to Top: Nothing
       locations:
         Remove Void Plane: Can Defeat Moblins
+        Blow Tree Spiral on Highest Pathway: Gust Bellows
 
     Top:
       exits:
@@ -200,6 +271,17 @@ Faron Woods:
     hint-region: Faron Woods
     locations:
       Deep Woods Chest: Nothing
+      Stamina Fruit on Hanging Ledge: Nothing
+      Bonk Tree with Rope: Nothing
+      Bonk Tree near Gossip Stone 1: Nothing
+      Bonk Tree near Gossip Stone 2: Nothing
+      Bonk East Pillar before Temple: Nothing
+      Bonk Tree East of Temple 1: Nothing
+      Bonk Tree East of Temple 2: Nothing
+      Blow Mixed Flowers above East Temple Stairs: Gust Bellows
+      Bonk Fence West of Temple: Nothing
+      Slingshot Left Temple Door Frame: Slingshot
+      Slingshot Right Temple Door Frame: Slingshot
       Unlock Deep Woods Statue: Nothing
       Unlock Forest Temple Statue: Nothing
       Push Shortcut Logs: Nothing
@@ -220,6 +302,7 @@ Faron Woods:
         Deep Woods: Push Shortcut Logs | Distance Activator | Goddess Sword # bomb bag?
       locations:
         Hornet Larvae Farming: Nothing # Bonk the tree
+        Blow Flowers at Entrance: Gust Bellows
 
 
 Faron Silent Realm:
@@ -228,6 +311,8 @@ Faron Silent Realm:
     Exit: Nothing
   locations:
     Trial Reward: Nothing
+    Stamina Fruit on Vine Wall 1: Nothing
+    Stamina Fruit on Vine Wall 2: Nothing
     Relic 1: Nothing
     Relic 2: Nothing
     Relic 3: Nothing
@@ -246,34 +331,34 @@ Flooded Faron Woods:
   exits:
     Exit to Upper Flooded Great Tree: Nothing
     Underwater Hole: Water Dragon's Scale
-  locations:
-    Yellow Tadtone under Lilypad: Water Dragon's Scale
-    8 Light Blue Tadtones near Viewing Platform: Water Dragon's Scale
-    4 Purple Tadtones under Viewing Platform: Water Dragon's Scale
-    Red Moving Tadtone near Viewing Platform: Water Dragon's Scale
-    Light Blue Tadtone under Great Tree Root: Water Dragon's Scale
-    8 Yellow Tadtones near Kikwi Elder: Water Dragon's Scale
-    4 Light Blue Moving Tadtones under Kikwi Elder: Water Dragon's Scale
-    4 Red Moving Tadtones North West of Great Tree: Water Dragon's Scale
-    Green Tadtone behind Upper Bombable Rock: Water Dragon's Scale
-    2 Dark Blue Tadtones in Grass West of Great Tree: Water Dragon's Scale
-    8 Green Tadtones in West Tunnel: Water Dragon's Scale
-    2 Red Tadtones in Grass near Lower Bombable Rock: Water Dragon's Scale
-    16 Dark Blue Tadtones in the South West: Water Dragon's Scale
-    4 Purple Moving Tadtones near Floria Gate: Water Dragon's Scale
-    Dark Blue Moving Tadtone inside Small Hollow Tree: Water Dragon's Scale
-    4 Yellow Tadtones under Small Hollow Tree: Water Dragon's Scale
-    8 Purple Tadtones in Clearing after Small Hollow Tree: Water Dragon's Scale
-    Faron Woods - Retrieve Oolo: Scrapper & Skyloft - Knight Academy - Start Owlan's Quest
-    Can Watch Completed Tadtones Cutscene: Nothing
+  # locations:
+  #   Yellow Tadtone under Lilypad: Water Dragon's Scale
+  #   8 Light Blue Tadtones near Viewing Platform: Water Dragon's Scale
+  #   4 Purple Tadtones under Viewing Platform: Water Dragon's Scale
+  #   Red Moving Tadtone near Viewing Platform: Water Dragon's Scale
+  #   Light Blue Tadtone under Great Tree Root: Water Dragon's Scale
+  #   8 Yellow Tadtones near Kikwi Elder: Water Dragon's Scale
+  #   4 Light Blue Moving Tadtones under Kikwi Elder: Water Dragon's Scale
+  #   4 Red Moving Tadtones North West of Great Tree: Water Dragon's Scale
+  #   Green Tadtone behind Upper Bombable Rock: Water Dragon's Scale
+  #   2 Dark Blue Tadtones in Grass West of Great Tree: Water Dragon's Scale
+  #   8 Green Tadtones in West Tunnel: Water Dragon's Scale
+  #   2 Red Tadtones in Grass near Lower Bombable Rock: Water Dragon's Scale
+  #   16 Dark Blue Tadtones in the South West: Water Dragon's Scale
+  #   4 Purple Moving Tadtones near Floria Gate: Water Dragon's Scale
+  #   Dark Blue Moving Tadtone inside Small Hollow Tree: Water Dragon's Scale
+  #   4 Yellow Tadtones under Small Hollow Tree: Water Dragon's Scale
+  #   8 Purple Tadtones in Clearing after Small Hollow Tree: Water Dragon's Scale
+  #   Faron Woods - Retrieve Oolo: Scrapper & Skyloft - Knight Academy - Start Owlan's Quest
+  #   Can Watch Completed Tadtones Cutscene: Nothing
 
   Flooded Great Tree:
     exits:
       Exit to Great Tree: Nothing
       Exit to Upper Flooded Faron Woods: Nothing
       Underwater Tunnel: Water Dragon's Scale
-    locations:
-      Water Dragon's Reward: Group of Tadtones x 17 & Can Watch Completed Tadtones Cutscene
+    # locations:
+    #   Water Dragon's Reward: Group of Tadtones x 17 & Can Watch Completed Tadtones Cutscene
 
 # LAKE FLORIA
 Lake Floria:
@@ -325,4 +410,4 @@ Lake Floria:
       Unlock Statue: Nothing
       Gossip Stone outside Ancient Cistern: Nothing
       Goddess Cube in Floria Waterfall: Clawshots & Goddess Sword
-      Rupee on High Ledge outside Ancient Cistern Entrance: Beetle
+      Rupee on High Ledge: Beetle

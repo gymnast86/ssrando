@@ -1054,6 +1054,151 @@ Thunderhead - Bug Heaven Goddess Chest:
   cube_region: Volcano Summit
 
 # Sealed Grounds:
+Sealed Grounds - Bonk Wall between Pillars near Bird Statue:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F401/r1/l0/TgReact/0xFC52
+Sealed Grounds - Bonk Wall Drawing of Hylia Raising Skyloft:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F401/r1/l0/TgReact/0xFC53
+Sealed Grounds - Slingshot Sun in Wall Drawing of Worshippers:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F401/r1/l0/TgReact/0xFC55
+Sealed Grounds - Slingshot Mouth in Wall Drawing of Beast:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F401/r1/l0/TgReact/0xFC56
+Sealed Grounds - Bonk Rocks below Sealed Temple Entrance:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F401/r1/l0/TgReact/0xFC54
+Sealed Grounds - Spiral Stamina Fruit 1:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC1D
+Sealed Grounds - Spiral Stamina Fruit 2:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC2C
+Sealed Grounds - Spiral Stamina Fruit 3:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC1C
+Sealed Grounds - Spiral Stamina Fruit 4:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC2B
+Sealed Grounds - Spiral Stamina Fruit 5:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC1B
+Sealed Grounds - Spiral Stamina Fruit 6:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC2A
+Sealed Grounds - Spiral Stamina Fruit 7:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC29
+Sealed Grounds - Spiral Stamina Fruit 8:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC1A
+Sealed Grounds - Spiral Stamina Fruit 9:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC28
+Sealed Grounds - Spiral Stamina Fruit 10:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC27
+Sealed Grounds - Spiral Stamina Fruit 11:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC19
+Sealed Grounds - Spiral Stamina Fruit 12:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC26
+Sealed Grounds - Spiral Stamina Fruit 13:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC25
+Sealed Grounds - Spiral Stamina Fruit 14:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC18
+Sealed Grounds - Spiral Stamina Fruit 15:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC24
+Sealed Grounds - Spiral Stamina Fruit 16:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC23
+Sealed Grounds - Spiral Stamina Fruit 17:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC2D
+Sealed Grounds - Spiral Stamina Fruit 18:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC22
+Sealed Grounds - Spiral Stamina Fruit 19:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC17
+Sealed Grounds - Spiral Stamina Fruit 20:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC21
+Sealed Grounds - Spiral Stamina Fruit 21:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC20
+Sealed Grounds - Spiral Stamina Fruit 22:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC16
+Sealed Grounds - Spiral Stamina Fruit 23:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC1F
+Sealed Grounds - Spiral Stamina Fruit 24:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+   - stage/F401/r1/l0/Item/0xFC1E
 Sealed Grounds - Chest inside Sealed Temple:
   original item: Revitalizing Potion
   type:
@@ -1065,6 +1210,46 @@ Sealed Grounds - Song from Impa:
   Paths:
     - event/501-Inpa/267
     - oarc/F402/l2
+Sealed Temple - Slingshot above Doors to Sealed Grounds Whirlpool:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC43
+Sealed Temple - Slingshot above Doors to Behind the Temple:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC42
+Sealed Temple - Slingshot above Large Doors behind The Old One:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC41
+Sealed Temple - Blow Triforce Symbol on Southeast Archway behind Bird Statue:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC44
+Sealed Temple - Blow Triforce Symbol on Northeast Archway behind Bird Statue:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC45
+Sealed Temple - Blow Triforce Symbol on Southwest Archway behind Bird Statue:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC47
+Sealed Temple - Blow Triforce Symbol on Northwest Archway behind Bird Statue:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F402/r2/l0/TgReact/0xFC46
+Sealed Grounds - Slingshot above Doors Behind the Temple:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F400/r0/l0/TgReact/0xFC92
 Sealed Grounds - Gorko's Goddess Wall Reward:
   type:
   original item: Heart Piece
@@ -1087,8 +1272,57 @@ Sealed Grounds - Zelda's Blessing:
     - oarc/F404/l1
   hint: sometimes
   text: the <r<goddess blesses you>> with
+Sealed Grounds - Blow Bushes in Corner Left of Gossip Stone:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F400/r0/l0/TgReact/0xFC93
+
+Sealed Grounds - Slingshot Behind the Temple Gates Southwest Side:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F400/r0/l0/TgReact/0xFC90
+
+Sealed Grounds - Slingshot Behind the Temple Gates Northeast Side:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F400/r0/l0/TgReact/0xFC91
+
+Sealed Grounds - Bonk Large West Rock before Faron Woods:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F400/r0/l0/TgReact/0xFC8E
+
+Sealed Grounds - Bonk Small East Rock before Faron Woods:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F400/r0/l0/TgReact/0xFC8F
 
 # Faron Woods:
+Faron Woods - Bonk Bamboo Blockade before Kikwi in Clearing:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD5A
+Faron Woods - Slingshot Archway after Kikwi in Clearing:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD63
+Faron Woods - Slingshot Archway before Mushroom Grove:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD64
+Faron Woods - Bonk Yellow Mushroom near In the Woods Bird Statue:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD5B
 Faron Woods - Item behind Lower Bombable Rock:
   original item: Heart Piece
   type:
@@ -1117,21 +1351,170 @@ Faron Woods - Rupee on Hollow Tree Branch:
   type: Rupees (No Quick Beetle)
   Paths:
     - stage/F100/r0/l0/Item/41
+Faron Woods - Bonk Tree next to Shortcut Rope to Floria Gates:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD5F
+Faron Woods - Bonk Bamboo Blockade before Floria Gates:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD5C
+Faron Woods - Slingshot Floria Gates Archway:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD65
 Faron Woods - Rupee on Platform near Floria Door:
   original item: "Red Rupee #26"
   type: Rupees (No Quick Beetle)
   Paths:
     - stage/F100/r0/l0/Item/40
+Faron Woods - Bonk Raised Tree near Crooked Archway:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD61
+Faron Woods - Slingshot Main Viewing Platform Archway:
+  original_item: Heart # actually 3 hearts
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD67
+Faron Woods - Blow Farore's Symbol on Viewing Platform:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD68
+Faron Woods - Bonk Archway before Deep Woods:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD62
+Faron Woods - Bonk Tall Blue Northern Mushroom:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD60
+Faron Woods - Slingshot Northwest Great Tree Trunk:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD66
+Faron Woods - Deep Woods - Blow Flowers at Entrance:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCE1
+
+Faron Woods - Deep Woods - Stamina Fruit on Hanging Ledge:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/Item/0xFC61
+
+Faron Woods - Deep Woods - Bonk Tree with Rope:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCE2
 Faron Woods - Deep Woods Chest:
   original item: Red Rupee
   type:
   Paths:
     - stage/F101/r0/l0/TBox/74
+Faron Woods - Deep Woods - Bonk Tree near Gossip Stone 1:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCDE
+
+Faron Woods - Deep Woods - Bonk Tree near Gossip Stone 2:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCDF
+
+Faron Woods - Deep Woods - Bonk East Pillar before Temple:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCE3
+
+Faron Woods - Deep Woods - Bonk Tree East of Temple 1:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCDC
+
+Faron Woods - Deep Woods - Bonk Tree East of Temple 2:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCDD
+
+Faron Woods - Deep Woods - Blow Mixed Flowers above East Temple Stairs:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCE0
+
+Faron Woods - Deep Woods - Bonk Fence West of Temple:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFCE4
+
+# Actually shooting the central blue gem on the door in vanilla
+# Has been moved with a stagepatch so it can always be accessed
+Faron Woods - Deep Woods - Slingshot Left Temple Door Frame:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFDFE
+
+# Actually shooting the central, lower green gem on the door in vanilla
+# Has been moved with a stagepatch so it can always be accessed
+Faron Woods - Deep Woods - Slingshot Right Temple Door Frame:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F101/r0/l0/TgReact/0xFDFF
 Faron Woods - Chest behind Upper Bombable Rock:
   original item: Semi Rare Treasure
   type:
   Paths:
     - stage/F100/r0/l0/TBox/64
+Faron Woods - Bonk Tree after Shortcut from Entry Bird Statue 1:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD5D
+Faron Woods - Bonk Tree after Shortcut from Entry Bird Statue 2:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD5E
+Faron Woods - Great Tree - Blow Small Yellow Mushroom after Vines:
+  original_item: Green Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100_1/r0/l0/TgReact/0xFC56
+Faron Woods - Great Tree - Blow Large Yellow Mushroom after Vines:
+  original_item: 5 Deku Seeds
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100_1/r0/l0/TgReact/0xFC55
+Faron Woods - Great Tree - Blow Red Mushroom after Swinging Platforms West:
+  original_item: Heart
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100_1/r0/l0/TgReact/0xFC57
+Faron Woods - Great Tree - Blow Tall Blue Mushroom after Swinging Platforms South:
+  original_item: Blue Rupee
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100_1/r0/l0/TgReact/0xFC58
 Faron Woods - Chest inside Great Tree:
   original item: Gold Rupee
   type:
@@ -1149,28 +1532,61 @@ Faron Woods - Rupee on Great Tree West Branch:
   type: Rupees (No Quick Beetle)
   Paths:
     - stage/F100/r0/l0/Item/44
+Faron Woods - Blow Wooden Spiral near Goddess Cube near Rope:
+  original_item: Red Rupee # actually a rupee shower
+  type: Hidden Items, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/TgReact/0xFD69
+Faron Woods - Stamina Fruit on Vines below First Log:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/Item/0x60E6
+Faron Woods - Stamina Fruit past Empty Slope:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/Item/0x64E5
+Faron Woods - Stamina Fruit past Baba Slope:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/Item/0x0CE7
+Faron Woods - Stamina Fruit on Vines near Erla:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/Item/0x5CE4
+Faron Woods - Stamina Fruit on Vines on Great Tree:
+  original_item: Stamina Fruit
+  type: Stamina Fruits, Custom Flag
+  Paths:
+    - stage/F100/r0/l0/Item/0x50E3
 
 # Lake Floria:
 Lake Floria - Rupee under Central Boulder:
- original item: "Silver Rupee #12"
- type: Rupees (No Quick Beetle)
- Paths:
-  - stage/F102/r2/l0/Item/60
+  original_item: Silver Rupee
+  type: Freestanding Rupees, Advanced Rupees
+  Paths:
+    - stage/F102/r2/l0/Item/60
+
 Lake Floria - Rupee behind Southwest Boulder:
- original item: "Blue Rupee #7"
- type: Rupees (No Quick Beetle)
- Paths:
-  - stage/F102/r2/l0/Item/63
+  original_item: Blue Rupee
+  type: Freestanding Rupees, Intermediate Rupees
+  Paths:
+    - stage/F102/r2/l0/Item/63
+
 Lake Floria - Left Rupee behind Northwest Boulder:
- original item: "Red Rupee #29"
- type: Rupees (No Quick Beetle)
- Paths:
-  - stage/F102/r2/l0/Item/62
+  original_item: Red Rupee
+  type: Freestanding Rupees, Intermediate Rupees
+  Paths:
+    - stage/F102/r2/l0/Item/62
+
 Lake Floria - Right Rupee behind Northwest Boulder:
- original item: "Red Rupee #28"
- type: Rupees (No Quick Beetle)
- Paths:
-  - stage/F102/r2/l0/Item/61
+  original_item: Red Rupee
+  type: Freestanding Rupees, Intermediate Rupees
+  Paths:
+    - stage/F102/r2/l0/Item/61
 Lake Floria - Lake Floria Chest:
   original item: Goddess Plume
   type:
@@ -1188,107 +1604,107 @@ Lake Floria - Dragon Lair East Chest:
   type:
   Paths:
     - stage/F102_2/r0/l0/TBox/85
-Lake Floria - Rupee on High Ledge outside Ancient Cistern Entrance:
-  original item: "Gold Rupee #10"
-  type: Rupees (No Quick Beetle)
+Lake Floria - Waterfall - Rupee on High Ledge:
+  original_item: Gold Rupee
+  type: Freestanding Rupees, Advanced Rupees
   Paths:
    - stage/F102_1/r0/l0/Item/64
 
 # Flooded Faron Woods:
-Flooded Faron Woods - Yellow Tadtone under Lilypad:
-  original item: "Group of Tadtones #0"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/10 # group number
-Flooded Faron Woods - 8 Light Blue Tadtones near Viewing Platform:
-  original item: "Group of Tadtones #1"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/4 # group number
-Flooded Faron Woods - 4 Purple Tadtones under Viewing Platform:
-  original item: "Group of Tadtones #2"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/2 # group number
-Flooded Faron Woods - Red Moving Tadtone near Viewing Platform:
-  original item: "Group of Tadtones #3"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/1 # group number
-Flooded Faron Woods - Light Blue Tadtone under Great Tree Root:
-  original item: "Group of Tadtones #4"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/13 # group number
-Flooded Faron Woods - 8 Yellow Tadtones near Kikwi Elder:
-  original item: "Group of Tadtones #5"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/6 # group number
-Flooded Faron Woods - 4 Light Blue Moving Tadtones under Kikwi Elder:
-  original item: "Group of Tadtones #6"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/8 # group number
-Flooded Faron Woods - 4 Red Moving Tadtones North West of Great Tree:
-  original item: "Group of Tadtones #7"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/11 # group number
-Flooded Faron Woods - Green Tadtone behind Upper Bombable Rock:
-  original item: "Group of Tadtones #8"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/5 # group number
-Flooded Faron Woods - 2 Dark Blue Tadtones in Grass West of Great Tree:
-  original item: "Group of Tadtones #9"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/3 # group number
-Flooded Faron Woods - 8 Green Tadtones in West Tunnel:
-  original item: "Group of Tadtones #10"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/9 # group number
-Flooded Faron Woods - 2 Red Tadtones in Grass near Lower Bombable Rock:
-  original item: "Group of Tadtones #11"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/15 # group number
-Flooded Faron Woods - 16 Dark Blue Tadtones in the South West:
-  original item: "Group of Tadtones #12"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/17 # group number
-Flooded Faron Woods - 4 Purple Moving Tadtones near Floria Gate:
-  original item: "Group of Tadtones #13"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/16 # group number
-Flooded Faron Woods - Dark Blue Moving Tadtone inside Small Hollow Tree:
-  original item: "Group of Tadtones #14"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/7 # group number
-Flooded Faron Woods - 4 Yellow Tadtones under Small Hollow Tree:
-  original item: "Group of Tadtones #15"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/14 # group number
-Flooded Faron Woods - 8 Purple Tadtones in Clearing after Small Hollow Tree:
-  original item: "Group of Tadtones #16"
-  type: Tadtones
-  Paths:
-    - stage/F103/r0/l2/Clef/12 # group number
+# Flooded Faron Woods - Yellow Tadtone under Lilypad:
+#   original item: "Group of Tadtones #0"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/10 # group number
+# Flooded Faron Woods - 8 Light Blue Tadtones near Viewing Platform:
+#   original item: "Group of Tadtones #1"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/4 # group number
+# Flooded Faron Woods - 4 Purple Tadtones under Viewing Platform:
+#   original item: "Group of Tadtones #2"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/2 # group number
+# Flooded Faron Woods - Red Moving Tadtone near Viewing Platform:
+#   original item: "Group of Tadtones #3"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/1 # group number
+# Flooded Faron Woods - Light Blue Tadtone under Great Tree Root:
+#   original item: "Group of Tadtones #4"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/13 # group number
+# Flooded Faron Woods - 8 Yellow Tadtones near Kikwi Elder:
+#   original item: "Group of Tadtones #5"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/6 # group number
+# Flooded Faron Woods - 4 Light Blue Moving Tadtones under Kikwi Elder:
+#   original item: "Group of Tadtones #6"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/8 # group number
+# Flooded Faron Woods - 4 Red Moving Tadtones North West of Great Tree:
+#   original item: "Group of Tadtones #7"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/11 # group number
+# Flooded Faron Woods - Green Tadtone behind Upper Bombable Rock:
+#   original item: "Group of Tadtones #8"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/5 # group number
+# Flooded Faron Woods - 2 Dark Blue Tadtones in Grass West of Great Tree:
+#   original item: "Group of Tadtones #9"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/3 # group number
+# Flooded Faron Woods - 8 Green Tadtones in West Tunnel:
+#   original item: "Group of Tadtones #10"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/9 # group number
+# Flooded Faron Woods - 2 Red Tadtones in Grass near Lower Bombable Rock:
+#   original item: "Group of Tadtones #11"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/15 # group number
+# Flooded Faron Woods - 16 Dark Blue Tadtones in the South West:
+#   original item: "Group of Tadtones #12"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/17 # group number
+# Flooded Faron Woods - 4 Purple Moving Tadtones near Floria Gate:
+#   original item: "Group of Tadtones #13"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/16 # group number
+# Flooded Faron Woods - Dark Blue Moving Tadtone inside Small Hollow Tree:
+#   original item: "Group of Tadtones #14"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/7 # group number
+# Flooded Faron Woods - 4 Yellow Tadtones under Small Hollow Tree:
+#   original item: "Group of Tadtones #15"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/14 # group number
+# Flooded Faron Woods - 8 Purple Tadtones in Clearing after Small Hollow Tree:
+#   original item: "Group of Tadtones #16"
+#   type: Tadtones
+#   Paths:
+#     - stage/F103/r0/l2/Clef/12 # group number
 
-Flooded Faron Woods - Water Dragon's Reward:
-  original item: Faron Song of the Hero Part
-  type: Tadtones
-  hint: sometimes
-  text: completing a <r<watery song>> reveals
-  Paths:
-    - event/204-ForestF3/Give item after Faron SotH CS
-    - oarc/F103_1/l0
+# Flooded Faron Woods - Water Dragon's Reward:
+#   original item: Faron Song of the Hero Part
+#   type: Tadtones
+#   hint: sometimes
+#   text: completing a <r<watery song>> reveals
+#   Paths:
+#     - event/204-ForestF3/Give item after Faron SotH CS
+#     - oarc/F103_1/l0
 
 # Eldin Volcano:
 Eldin Volcano - Rupee on Ledge before First Room:
@@ -2298,6 +2714,16 @@ Faron Silent Realm - Trial Reward:
     - stage/S100/r0/l2/WarpObj
   hint: sometimes
   text: a <r<trial of courage>> grants
+Faron Silent Realm - Stamina Fruit on Vine Wall 1:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S100/r0/l2/Item/0xFC9A
+Faron Silent Realm - Stamina Fruit on Vine Wall 2:
+  original_item: Stamina Fruit
+  type: Silent Realms, Stamina Fruits, Custom Flag
+  Paths:
+    - stage/S100/r0/l2/Item/0xFC9B
 Faron Silent Realm - Relic 1:
   original item: "Dusk Relic #11"
   type: faron, silent realm

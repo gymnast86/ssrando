@@ -16,6 +16,15 @@ Upper Skyloft:
     Owlan's Gift: Day
     Chest near Goddess Statue: Nothing
     Pumpkin Archery -- 600 Points: Bow & Day
+    Rescue Remlit above Knight Academy: Day
+    Stamina Fruit near Upper Academy Gates: Nothing
+    Stamina Fruit near Lower Academy Gates: Nothing
+    Stamina Fruit near Sparring Hall: Nothing
+    Stamina Fruit near Goddess Statue: Nothing
+    Slingshot Left Lamp outside Upper Academy Doors: Slingshot
+    Slingshot Right Lamp outside Upper Academy Doors: Slingshot
+    Slingshot Left Lamp outside Sparring Hall Doors: Slingshot
+    Slingshot Right Lamp outside Sparring Hall Doors: Slingshot
 
   Knight Academy:
     can-sleep: true
@@ -60,6 +69,11 @@ Upper Skyloft:
         Unlocked Zelda's Room: Nothing
         Crystal in Zelda's Room: Night
         In Zelda's Closet: Nothing
+        Rupee in Chimney Crawlspace 1: Nothing
+        Rupee in Chimney Crawlspace 2: Nothing
+        Rupee in Chimney Crawlspace 3: Nothing
+        Rupee in Chimney Crawlspace 4: Nothing
+        Rupee in Chimney Crawlspace 5: Nothing
 
   Sparring Hall:
     exits:
@@ -116,12 +130,38 @@ Central Skyloft:
     Past Waterfall Cave - Crystal in Loftwing Prison: Night & Waterfall Cave Crystals from above
     Waterfall Island - Crystal on Waterfall Island: Night & Crystal on Waterfall Island from the ground
     Open Cave Entrance: Sword | Bomb Bag
+    Bonk Tree before Lower Academy Stairs 1: Nothing
+    Bonk Tree before Lower Academy Stairs 2: Nothing
+    Bonk Tree before Lower Academy Stairs 3: Nothing
+    Slingshot Left Lamp outside North Bazaar Entrance: Slingshot
+    Slingshot Right Lamp outside North Bazaar Entrance: Slingshot
+    Slingshot Left Lamp outside South Bazaar Entrance: Slingshot
+    Slingshot Right Lamp outside South Bazaar Entrance: Slingshot
+    Blow Red Flag North of the Bazaar: Gust Bellows
+    Blow Purple Flag North of the Bazaar: Gust Bellows
+    Bonk Tree Southeast of the Bazaar: Nothing
+    Bonk Tree Left of Sky Keep Statue: Nothing
+    Bonk Tree Right of Sky Keep Statue: Nothing
+    North Rupee in Bird's Nest: Beetle
+    South Rupee in Bird's Nest: Beetle
+    East Rupee in Bird's Nest: Beetle
+    West Rupee in Bird's Nest: Beetle
+    Stamina Fruit between Wooden Planks: Nothing
+    Stamina Fruit near Wryna's House: Nothing
+    Stamina Fruit near River: Nothing
+    Stamina Fruit near Orielle and Parrow's House: Nothing
+    Stamina Fruit near Bazaar: Nothing
+    Stamina Fruit near Plaza: Nothing
 
   Bird Nest:
     exits:
       Central Skyloft: Nothing
     locations:
       Item in Bird Nest: Gust Bellows
+      Central Skyloft - North Rupee in Bird's Nest: Nothing
+      Central Skyloft - South Rupee in Bird's Nest: Nothing
+      Central Skyloft - East Rupee in Bird's Nest: Nothing
+      Central Skyloft - West Rupee in Bird's Nest: Nothing
 
   Bazaar:
     allowed-time-of-day: DayOnly
@@ -131,7 +171,7 @@ Central Skyloft:
       South Exit: Nothing
     locations:
       Potion Lady's Gift: Nothing
-      Repair Gondo's Junk: Ancient Flower Farming
+      # Repair Gondo's Junk: Ancient Flower Farming
       Bazaar Goddess Chest: Lanayru - Goddess Cube in Ancient Harbour
       Endurance Potion: Bottle & Lanayru - Raise Lanayru Mining Facility
       Talk to Peatrice: Nothing
@@ -159,6 +199,7 @@ Central Skyloft:
       Exit: Nothing
     locations:
       Crystal in Orielle and Parrow's House: Nothing
+      Orielle and Parrow's Closet: Nothing
       Central Skyloft - Parrow's Gift: Sky - Talk to Orielle & Night
       Central Skyloft - Parrow's Crystals: Sky - Save Orielle & Night
 
@@ -168,6 +209,8 @@ Central Skyloft:
       Exit: Nothing
     locations:
       Peater/Peatrice's Crystals: Bazaar - Talk to Peatrice & Night
+      Peater's Closet: Nothing
+      Peatrice's Closet: Nothing
 
   Wryna's House:
     can-sleep: true
@@ -175,6 +218,7 @@ Central Skyloft:
       Exit: Nothing
     locations:
       Wryna's Crystals: Nothing
+      Wryna's Closet: Nothing
 
   Piper's House:
     can-sleep: true
@@ -212,7 +256,8 @@ Central Skyloft:
     locations:
       Waterfall Cave First Chest: Nothing
       Waterfall Cave Second Chest: Nothing
-      Rupee Waterfall Cave Crawlspace: Nothing
+      First Rupee in Waterfall Cave Crawlspace: Nothing
+      Second Rupee in Waterfall Cave Crawlspace: Nothing
 
   Past Waterfall Cave:
     exits:

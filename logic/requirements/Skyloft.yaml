@@ -273,6 +273,7 @@ Skyloft Silent Realm:
     Exit: Nothing
   locations:
     Trial Reward: Nothing
+    Stamina Fruit on Knight Academy Ledge: Nothing
     Relic 1: Nothing
     Relic 2: Nothing
     Relic 3: Nothing
@@ -306,6 +307,7 @@ Skyloft Village:
       Exit: Nothing
     locations:
       Bertie's Crystals: Baby Rattle & Night
+      Luv and Bertie's Closet: Nothing
 
   Sparrot's House:
     can-sleep: true
@@ -314,6 +316,8 @@ Skyloft Village:
     locations:
       Start Sparrot's Quest: Nothing
       Sparrot's Crystals: Eldin - Retrieve Crystal Ball
+      Sparrot's Closet: Nothing
+      Bonk Sparrot's Valuables: Nothing
 
   Mallara's House:
     can-sleep: true
@@ -321,16 +325,21 @@ Skyloft Village:
       Exit: Nothing
     locations:
       Mallara's Crystals: Gust Bellows
+      Mallara's Closet: Nothing
 
   Gondo's House:
     can-sleep: true
     exits:
       Exit: Nothing
+    locations:
+      Gondo's Closet: Nothing
 
   Rupin's House:
     can-sleep: true
     exits:
       Exit: Nothing
+    locations:
+      Rupin's Closet: Nothing
 
   Batreaux's House:
     hint-region: Batreaux's House

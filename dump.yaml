@@ -687,6 +687,9 @@ items:
 - \11 Gratitude Crystal Packs
 - \12 Gratitude Crystal Packs
 - \13 Gratitude Crystal Packs
+- \14 Gratitude Crystal Packs
+- \15 Gratitude Crystal Packs
+- \16 Gratitude Crystal Packs
 - \5 Gratitude Crystals
 - \10 Gratitude Crystals
 - \30 Gratitude Crystals
@@ -2928,6 +2931,9 @@ areas:
     11 Gratitude Crystal Packs: Gratitude Crystal Pack x 11
     12 Gratitude Crystal Packs: Gratitude Crystal Pack x 12
     13 Gratitude Crystal Packs: Gratitude Crystal Pack x 13
+    14 Gratitude Crystal Packs: Gratitude Crystal Pack x 14
+    15 Gratitude Crystal Packs: Gratitude Crystal Pack x 15
+    16 Gratitude Crystal Packs: Gratitude Crystal Pack x 16
     5 Gratitude Crystals: "\\5 Single Gratitude Crystals | \\1 Gratitude Crystal Pack"
     10 Gratitude Crystals: "\\10 Single Gratitude Crystals | (\\5 Single Gratitude\
       \ Crystals & \\1 Gratitude Crystal Pack) | \\2 Gratitude Crystal Packs"
@@ -2945,9 +2951,10 @@ areas:
       \ Crystal Packs"
     70 Gratitude Crystals: "(\\15 Single Gratitude Crystals & \\11 Gratitude Crystal\
       \ Packs) | (\\10 Single Gratitude Crystals & \\12 Gratitude Crystal Packs) |\
-      \ (\\5 Single Gratitude Crystals & \\13 Gratitude Crystal Packs)"
-    80 Gratitude Crystals: "\\15 Single Gratitude Crystals & \\13 Gratitude Crystal\
-      \ Packs"
+      \ (\\5 Single Gratitude Crystals & \\13 Gratitude Crystal Packs) | \\14 Gratitude\
+      \ Crystal Packs"
+    80 Gratitude Crystals: "(\\15 Single Gratitude Crystals & \\13 Gratitude Crystal\
+      \ Packs) | \\16 Gratitude Crystal Packs"
     Sword: \Practice Sword
     Long Range Skyward Strike: "(\\Goddess Sword & Upgraded Skyward Strike option)\
       \ | \\True Master Sword"

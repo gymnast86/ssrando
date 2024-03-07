@@ -263,13 +263,13 @@ Central Skyloft - Slingshot Right Lamp outside South Bazaar Entrance:
   Paths:
     - stage/F000/r0/l0/TgReact/0xFD2F
 
-Central Skyloft - Blow Red Flag North of the Bazaar:
+Central Skyloft - Blow Red Flag South of the Bazaar:
   original_item: Blue Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F000/r0/l0/TgReact/0xFD1B
 
-Central Skyloft - Blow Purple Flag North of the Bazaar:
+Central Skyloft - Blow Purple Flag South of the Bazaar:
   original_item: Blue Rupee
   type: Hidden Items, Custom Flag
   Paths:

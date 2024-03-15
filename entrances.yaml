@@ -2556,15 +2556,15 @@ Skyview Temple - Boss Room - Exit to Skyview Spring:
   vanilla: Skyview Spring - Entrance
 
 
-Skyview Spring - Entrance:
+Skyview Temple - Skyview Spring - Entrance:
   type: entrance
   province: Faron Province
   can-start-at: false
   tod: 2
 
-Skyview Spring - Exit:
+Skyview Temple - Skyview Spring - Exit:
   type: exit
-  vanilla: Skyview Temple - Boss Room - Entrance from Spring
+  vanilla: Skyview Temple - Boss Room - Entrance from Skyview Spring
 
 
 
@@ -3183,7 +3183,7 @@ Earth Temple - Boss Room - Exit to Dungeon:
 
 Earth Temple - Boss Room - Exit to Earth Spring:
   type: exit
-  vanilla: Earth Temple - Spring - Entrance
+  vanilla: Earth Temple - Earth Spring - Entrance
 
 
 Earth Temple - Earth Spring - Entrance:

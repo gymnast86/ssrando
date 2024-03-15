@@ -196,9 +196,9 @@ Spring:
     Exit: Nothing
     # Crest Hit: Ruby Tablet
   locations:
-    Slingshot top of Spring Door: Slingshot
-    Bonk Broken Left Spring Pillar: Nothing
-    Bonk Broken Right Spring Pillar: Nothing
+    Slingshot top of Door: Slingshot
+    Bonk Broken Left Pillar: Nothing
+    Bonk Broken Right Pillar: Nothing
     Rupee on Spring Pillar: Beetle
     Slingshot Post Left of Goddess Crest: Slingshot
     Slingshot Post Right of Goddess Crest: Slingshot

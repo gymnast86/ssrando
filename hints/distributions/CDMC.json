@@ -14,7 +14,7 @@
     {"location": "Skyview Temple - Rupee on Spring Pillar",                      "type": "sometimes"},
     {"location": "Earth Temple - Rupee in Lava Tunnel",                   "type": "sometimes"},
     {"location": "Ancient Cistern - Rupee under Lilypad after Pipes",                 "type": "sometimes"},
-    {"location": "Fire Sanctuary - Rescue First Trapped Mogma",           "type": "sometimes"}
+    {"location": "Fire Sanctuary - Rescue First Trapped Mogma Chest",           "type": "sometimes"}
   ],
   "removed_locations": [
     "Isle of Songs - Strike Crest with White Sword",

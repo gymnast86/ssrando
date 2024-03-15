@@ -3171,7 +3171,7 @@ Earth Temple - Boss Room - Entrance from Dungeon:
   can-start-at: false
   tod: 2
 
-Earth Temple - Boss Room - Entrance from Spring:
+Earth Temple - Boss Room - Entrance from Earth Spring:
   type: entrance
   province: Eldin Province
   can-start-at: false
@@ -3181,20 +3181,20 @@ Earth Temple - Boss Room - Exit to Dungeon:
   type: exit
   vanilla: Earth Temple - Boss Door Entrance
 
-Earth Temple - Boss Room - Exit to Spring:
+Earth Temple - Boss Room - Exit to Earth Spring:
   type: exit
   vanilla: Earth Temple - Spring - Entrance
 
 
-Earth Temple - Spring - Entrance:
+Earth Temple - Earth Spring - Entrance:
   type: entrance
   province: Eldin Province
   can-start-at: false
   tod: 2
 
-Earth Temple - Spring - Exit:
+Earth Temple - Earth Spring - Exit:
   type: exit
-  vanilla: Earth Temple - Boss Room - Entrance from Spring
+  vanilla: Earth Temple - Boss Room - Entrance from Earth Spring
 
 
 # Fire Sanctuary
@@ -4334,20 +4334,20 @@ Pirate Stronghold - Dock Exit:
 
 Pirate Stronghold - Side Exit:
   type: exit
-  vanilla: Pirate Stronghold - Inside - First Door Entrance
+  vanilla: Pirate Stronghold Interior - First Door Entrance
   stage: F301_6
   room: 0
   index: 1
 
 Pirate Stronghold - Top Exit:
   type: exit
-  vanilla: Pirate Stronghold - Inside - Second Door Entrance
+  vanilla: Pirate Stronghold Interior - Second Door Entrance
   stage: F301_6
   room: 0
   index: 2
 
 
-Pirate Stronghold - Inside - First Door Entrance:
+Pirate Stronghold Interior - First Door Entrance:
   type: entrance
   province: Lanayru Province
   stage: F301_2
@@ -4356,7 +4356,7 @@ Pirate Stronghold - Inside - First Door Entrance:
   entrance: 0
   tod: 2
 
-Pirate Stronghold - Inside - Second Door Entrance:
+Pirate Stronghold Interior - Second Door Entrance:
   type: entrance
   province: Lanayru Province
   can-start-at: false
@@ -4366,14 +4366,14 @@ Pirate Stronghold - Inside - Second Door Entrance:
   entrance: 1
   tod: 2
 
-Pirate Stronghold - Inside - First Door Exit:
+Pirate Stronghold Interior - First Door Exit:
   type: exit
   vanilla: Pirate Stronghold - Side Entrance
   stage: F301_2
   room: 1
   index: 0
 
-Pirate Stronghold - Inside - Second Door Exit:
+Pirate Stronghold Interior - Second Door Exit:
   type: exit
   vanilla: Pirate Stronghold - Top Entrance
   stage: F301_2

@@ -13,8 +13,8 @@
     {"location": "Sandship - Chest after Scervo Fight",               "type": "sometimes"},
     {"location": "Sandship - Robot in Brig's Reward",                 "type": "always"},
     {"location": "Sandship - Heart Container",                        "type": "sometimes"},
-    {"location": "Fire Sanctuary - Rescue First Trapped Mogma",       "type": "sometimes"},
-    {"location": "Fire Sanctuary - Rescue Second Trapped Mogma",      "type": "always"},
+    {"location": "Fire Sanctuary - Rescue First Trapped Mogma Chest",       "type": "sometimes"},
+    {"location": "Fire Sanctuary - Rescue Second Trapped Mogma Chest",      "type": "always"},
     {"location": "Fire Sanctuary - Plats' Chest",                     "type": "sometimes"}
   ],
   "removed_locations": [

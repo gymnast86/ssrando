@@ -90,7 +90,7 @@ Boss Room:
 
   Slope:
     exits:
-      Exit to Spring: Beat Scaldera
+      Exit to Earth Spring: Beat Scaldera
     locations:
       Goddess Sword Strat: Goddess Sword & Upgraded Skyward Strike option
       Longsword Strat: Goddess Longsword & Upgraded Skyward Strike option
@@ -104,7 +104,7 @@ Boss Room:
         (Bomb Bag & Sword) | Bomb Flower Scaldera
       Defeat Boss: Beat Scaldera
 
-Spring:
+Earth Spring:
   exits:
     Exit: Nothing
   locations:

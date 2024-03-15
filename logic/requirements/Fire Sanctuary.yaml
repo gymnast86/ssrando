@@ -87,7 +87,7 @@ Main:
         Magmanos Fight Room - Upper Part: Magmanos Fight Room - Magmanos Fight
         Magmanos Fight Room - Lower Part: Mogma Mitts & Blow up Rock in Tunnel
       locations:
-        Rescue First Trapped Mogma: Nothing
+        Rescue First Trapped Mogma Chest: Nothing
         Blow up Rock in Tunnel: Mogma Mitts
         Underground Rupee beneath Double Magmanos Room 1: Mogma Mitts
         Underground Rupee beneath Double Magmanos Room 2: Mogma Mitts
@@ -163,7 +163,7 @@ Main:
       Move Sliding Doors Correctly: Mogma Mitts
       Hydrate Frog: Move Sliding Doors Correctly & Sword
       Rescue Mogma: Hydrate Frog
-      Rescue Second Trapped Mogma: Rescue Mogma
+      Rescue Second Trapped Mogma Chest: Rescue Mogma
       Blow up Wall: Hydrate Frog & Bomb Bag # & Fire Sanctuary - Map
 
     Past Bombable Wall:

@@ -141,7 +141,7 @@ MAP_CHECKS = [
     "Lanayru Mining Facility - Chest after Armos Fight",
     "Ancient Cistern - Chest after Whip Hooks",
     "Sandship - Chest before 4-Door Corridor",
-    "Fire Sanctuary - Rescue Second Trapped Mogma",
+    "Fire Sanctuary - Rescue Second Trapped Mogma Chest",
     "Sky Keep - First Chest",
 ]
 VANILLA_MAPS_PLACEMENT = norm_restrict_vanilla(MAP_CHECKS)

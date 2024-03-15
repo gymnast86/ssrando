@@ -557,7 +557,7 @@ Lanayru Sand Sea:
       Statue: Unlock Statue
       Dock: Nothing
       Side Exit: Nothing
-      Inside the Shark Head: Inside - Finish Minidungeon
+      Inside the Shark Head: Pirate Stronghold Interior - Finish Minidungeon
     locations:
       Unlock Statue: Nothing
       Rupee on West Sea Pillar: (Beetle & Pirate Stronghold - Beetle Pillar Checks Trick) | Quick Beetle
@@ -573,7 +573,7 @@ Lanayru Sand Sea:
     Inside the Shark Head:
       exits:
         # Clawshot up and run along the Shark Head or just run out if it's been raised
-        Pirate Stronghold: Clawshots | Inside - Finish Minidungeon
+        Pirate Stronghold Interior: Clawshots | Pirate Stronghold Interior - Finish Minidungeon
         Top Exit: Nothing # Door closes behind you if not yet beaten
       locations:
         # You *just* can't make it. If the Shark Head is lowered, it's easy but we can't check for it being lowered
@@ -582,54 +582,55 @@ Lanayru Sand Sea:
         Pirate Stronghold - Rupee on Bird Statue Pillar or Nose: Beetle # Still possible
         Goddess Cube in Pirate Stronghold: Clawshots & Goddess Sword
 
-    Inside:
-      exits:
-        First Door: Nothing
-        Second Door: Finish Minidungeon
-      locations:
-        # You can run past the Beamos without killing it. You can also run past the boko baba (in logic?) #UNSURE
-        First Chest: Nothing
-        Second Chest: Nothing
-        Third Chest: Nothing
-        # Technically this is possible without beating a Beamos but it's hard
-        Finish Minidungeon: Can Defeat Beamos & Can Defeat Armos
-        General - Ancient Flower Farming: Nothing
+Pirate Stronghold Interior:
+  hint-region: Lanayru Sand Sea
+  exits:
+    First Door: Nothing
+    Second Door: Finish Minidungeon
+  locations:
+    # You can run past the Beamos without killing it. You can also run past the boko baba (in logic?) #UNSURE
+    First Chest: Nothing
+    Second Chest: Nothing
+    Third Chest: Nothing
+    # Technically this is possible without beating a Beamos but it's hard
+    Finish Minidungeon: Can Defeat Beamos & Can Defeat Armos
+    General - Ancient Flower Farming: Nothing
 
-  Gorge:
-    toplevel-alias: Lanayru Gorge
-    hint-region: Lanayru Gorge
-    locations:
-      Unlock Statue: Nothing
-      Item on Pillar: Beetle
-      Activate Timeshift Stone: Can Hit Timeshift Stone in Minecart
-      Thunder Dragon's Reward: Activate Timeshift Stone & Life Tree Fruit
-      Boss Rush -- 4 Bosses: Thunder Dragon's Reward & Impossible
-      Boss Rush -- 8 Bosses: Thunder Dragon's Reward & Impossible
-      Bonk Pillar near Thunder Dragon: Nothing
-      Slingshot Left Pillar behind the Thunder Dragon: Slingshot & Beetle
-      Slingshot Right Pillar behind the Thunder Dragon: Slingshot & Beetle
-      Bonk Wall Left of Stairs: Nothing
-      Bonk Wall Right of Stairs: Nothing
-      Blow Grass near Lone Boulder: (Hook Beetle | Bomb Bag) & Gust Bellows
-      Bonk Left Machine after Locked Door: Clawshots & Lanayru Caves Small Key
-      Bonk Right Machine after Locked Door: Clawshots & Beetle & Lanayru Caves Small Key
+Gorge:
+  toplevel-alias: Lanayru Gorge
+  hint-region: Lanayru Gorge
+  locations:
+    Unlock Statue: Nothing
+    Item on Pillar: Beetle
+    Activate Timeshift Stone: Can Hit Timeshift Stone in Minecart
+    Thunder Dragon's Reward: Activate Timeshift Stone & Life Tree Fruit
+    Boss Rush -- 4 Bosses: Thunder Dragon's Reward & Impossible
+    Boss Rush -- 8 Bosses: Thunder Dragon's Reward & Impossible
+    Bonk Pillar near Thunder Dragon: Nothing
+    Slingshot Left Pillar behind the Thunder Dragon: Slingshot & Beetle
+    Slingshot Right Pillar behind the Thunder Dragon: Slingshot & Beetle
+    Bonk Wall Left of Stairs: Nothing
+    Bonk Wall Right of Stairs: Nothing
+    Blow Grass near Lone Boulder: (Hook Beetle | Bomb Bag) & Gust Bellows
+    Bonk Left Machine after Locked Door: Clawshots & Lanayru Caves Small Key
+    Bonk Right Machine after Locked Door: Clawshots & Beetle & Lanayru Caves Small Key
+  exits:
+    Statue: Unlock Statue
+    Beyond Bridge: Activate Timeshift Stone
+    Exit: Nothing
+
+  Beyond Bridge:
     exits:
-      Statue: Unlock Statue
-      Beyond Bridge: Activate Timeshift Stone
-      Exit: Nothing
-
-    Beyond Bridge:
-      exits:
-        Gorge: Beetle | Bow # To activate the main Timeshift Stone
-      locations:
-        Activate Timeshift Stone: Gust Bellows & Can Hit Timeshift Stone
-        Goddess Cube in Lanayru Gorge: Goddess Sword
-        Digging Spot: Activate Timeshift Stone & Digging Mitts
-        General - Ancient Flower Farming: Activate Timeshift Stone
-        Slingshot Left Sandfall Source: Slingshot
-        Slingshot Right Sandfall Source: Slingshot
-        Rupee in High Tunnel after Bridge 1: Beetle
-        Rupee in High Tunnel after Bridge 2: Beetle
-        Rupee in High Tunnel after Bridge 3: Beetle
-        Rupee in High Tunnel after Bridge 4: Beetle
-        Rupee in High Tunnel after Bridge 5: Beetle
+      Gorge: Beetle | Bow # To activate the main Timeshift Stone
+    locations:
+      Activate Timeshift Stone: Gust Bellows & Can Hit Timeshift Stone
+      Goddess Cube in Lanayru Gorge: Goddess Sword
+      Digging Spot: Activate Timeshift Stone & Digging Mitts
+      General - Ancient Flower Farming: Activate Timeshift Stone
+      Slingshot Left Sandfall Source: Slingshot
+      Slingshot Right Sandfall Source: Slingshot
+      Rupee in High Tunnel after Bridge 1: Beetle
+      Rupee in High Tunnel after Bridge 2: Beetle
+      Rupee in High Tunnel after Bridge 3: Beetle
+      Rupee in High Tunnel after Bridge 4: Beetle
+      Rupee in High Tunnel after Bridge 5: Beetle

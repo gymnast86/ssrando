@@ -991,7 +991,7 @@ The Thunderhead - Song from Levias:
     - oarc/F023/l0
   hint: always
   text: the <r<ancient whale within a raging storm>> bellows out
-Bug Heaven -- 10 Bugs in 3 Minutes:
+Bug Heaven - Minigame -- 10 Bugs in 3 Minutes:
   original item: Horned Colossus Beetle
   type: Minigames
   Paths:
@@ -1223,7 +1223,7 @@ Sealed Temple - Song from The Old One:
   Paths:
     - event/501-Inpa/267
     - oarc/F402/l2
-Sealed Temple - Slingshot above Doors to Sealed Grounds Whirlpool:
+Sealed Temple - Slingshot above Doors to Sealed Grounds Spiral:
   original item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
@@ -1285,6 +1285,10 @@ Temple of Hylia - Zelda's Blessing:
     - oarc/F404/l1
   hint: sometimes
   text: the <r<goddess blesses you>> with
+Hylia's Realm - Defeat Demise:
+  original item: Green Rupee
+  type:
+  Paths:
 Sealed Grounds - Blow Bushes in Corner Left of Gossip Stone:
   original item: Green Rupee
   type: Hidden Items, Custom Flag
@@ -3254,17 +3258,17 @@ Pirate Stronghold - Stamina Fruit on Lower Right Side:
   type: Stamina Fruits, Custom Flag
   Paths:
     - stage/F301_6/r0/l0/Item/0xFC1E
-Pirate Stronghold - First Chest:
+Pirate Stronghold Interior - First Chest:
   original item: Silver Rupee
   type:
   Paths:
     - stage/F301_2/r4/l0/TBox/75
-Pirate Stronghold - Second Chest:
+Pirate Stronghold Interior - Second Chest:
   original item: Semi Rare Treasure
   type:
   Paths:
     - stage/F301_2/r5/l0/TBox/73
-Pirate Stronghold - Third Chest:
+Pirate Stronghold Interior - Third Chest:
   original item: Semi Rare Treasure
   type:
   Paths:
@@ -3471,37 +3475,37 @@ Skyview Temple - Defeat Boss:
     - stage/B100/r0/l2/HeartCo
     - stage/B100/r0/l3/HeartCo
     - stage/B100/r0/l4/HeartCo
-Skyview Temple - Slingshot top of Spring Door:
+Skyview Spring - Slingshot top of Door:
   original item: Blue Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/B100_1/r0/l0/TgReact/0xFC34
-Skyview Temple - Bonk Broken Left Spring Pillar:
+Skyview Spring - Bonk Broken Left Pillar:
   original item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/B100_1/r0/l0/TgReact/0xFC33
-Skyview Temple - Bonk Broken Right Spring Pillar:
+Skyview Spring - Bonk Broken Right Pillar:
   original item: Green Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/B100_1/r0/l0/TgReact/0xFC32
-Skyview Temple - Rupee on Spring Pillar:
+Skyview Spring - Rupee on Spring Pillar:
   original item: Red Rupee
   type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/B100_1/r0/l0/Item/109
-Skyview Temple - Slingshot Post Left of Goddess Crest:
+Skyview Spring - Slingshot Post Left of Goddess Crest:
   original item: Blue Rupee
   type: Hidden Items, Custom Flag
   Paths:
     - stage/B100_1/r0/l0/TgReact/0xFC35
-Skyview Temple - Slingshot Post Right of Goddess Crest:
+Skyview Spring - Slingshot Post Right of Goddess Crest:
   original item: Heart
   type: Hidden Items, Custom Flag
   Paths:
     - stage/B100_1/r0/l0/TgReact/0xFC36
-Skyview Temple - Strike Crest:
+Skyview Spring - Strike Crest:
   original item: Ruby Tablet
   type:
   Paths:
@@ -3624,7 +3628,7 @@ Earth Temple - Defeat Boss:
   Paths:
     - stage/B200/r10/l1/HeartCo
     - stage/B200/r10/l2/HeartCo
-Earth Temple - Strike Crest:
+Earth Spring - Strike Crest:
   original item: Amber Tablet
   type:
   Paths:
@@ -4187,7 +4191,7 @@ Fire Sanctuary - Second Chest in Water Fruit Room:
   type:
   Paths:
     - stage/D201_1/r7/l0/TBox/72
-Fire Sanctuary - Rescue First Trapped Mogma:
+Fire Sanctuary - Rescue First Trapped Mogma Chest:
   original item: Progressive Mitts
   type:
   Paths:
@@ -4218,7 +4222,7 @@ Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 5:
   type: Underground Rupees, Custom Flag
   Paths:
     - stage/D201_1/r5/l0/Item/0xFC5E
-Fire Sanctuary - Rescue Second Trapped Mogma:
+Fire Sanctuary - Rescue Second Trapped Mogma Chest:
   original item: Fire Sanctuary Map
   type:
   Paths:

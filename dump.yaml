@@ -815,7 +815,7 @@ items:
 - \Earth Temple\Boss Room\Slope\Bomb Flower Scaldera
 - \Earth Temple\Boss Room\Slope\Beat Scaldera
 - \Earth Temple\Boss Room\Slope\Defeat Boss
-- \Earth Temple\Spring\Strike Crest
+- \Earth Temple\Earth Spring\Strike Crest
 - \Eldin\Can Survive Hot Cave
 - \Eldin\Volcano\Entry\Goddess Cube at Eldin Entrance
 - \Eldin\Volcano\Entry\Unlock Statue
@@ -1047,7 +1047,7 @@ items:
 - \Faron\Sealed Grounds\Sealed Temple\Raise Gate of Time
 - \Faron\Sealed Grounds\Sealed Temple\Start Imprisoned 2
 - \Faron\Sealed Grounds\Sealed Temple\Open Gate of Time
-- \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Sealed Grounds Whirlpool
+- \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Sealed Grounds Spiral
 - \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Behind the Temple
 - \Faron\Sealed Grounds\Sealed Temple\Slingshot above Large Doors behind The Old One
 - \Faron\Sealed Grounds\Sealed Temple\Blow Triforce Symbol on Southeast Archway behind
@@ -1059,7 +1059,7 @@ items:
 - \Faron\Sealed Grounds\Sealed Temple\Blow Triforce Symbol on Northwest Archway behind
   Bird Statue
 - \Faron\Sealed Grounds\Temple of Hylia\Zelda's Blessing
-- \Faron\Sealed Grounds\Temple of Hylia\Defeat Demise
+- \Faron\Sealed Grounds\Hylia's Realm\Defeat Demise
 - \Faron\Sealed Grounds\Behind the Temple\Unlock Statue
 - \Faron\Sealed Grounds\Behind the Temple\Gossip Stone
 - \Faron\Sealed Grounds\Behind the Temple\Gorko's Goddess Wall Reward
@@ -1203,6 +1203,7 @@ items:
 - \Fire Sanctuary\Main\Room with Water Plant\Past Lava\Unlock Key Door
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Chest near First Trapped Mogma
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Rescue First Trapped Mogma
+  Chest
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Blow up Rock in Tunnel
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
   Double Magmanos Room 1
@@ -1225,7 +1226,7 @@ items:
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Move Sliding Doors Correctly
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Hydrate Frog
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Rescue Mogma
-- \Fire Sanctuary\Main\Second Trapped Mogma Room\Rescue Second Trapped Mogma
+- \Fire Sanctuary\Main\Second Trapped Mogma Room\Rescue Second Trapped Mogma Chest
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Blow up Wall
 - \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable Wall\Chest after Bombable
   Wall
@@ -1551,39 +1552,34 @@ items:
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Lower Right Side
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head\Goddess Cube in
   Pirate Stronghold
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Chest
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Second Chest
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Third Chest
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Finish Minidungeon
-- \Lanayru\Lanayru Sand Sea\Gorge\Unlock Statue
-- \Lanayru\Lanayru Sand Sea\Gorge\Item on Pillar
-- \Lanayru\Lanayru Sand Sea\Gorge\Activate Timeshift Stone
-- \Lanayru\Lanayru Sand Sea\Gorge\Thunder Dragon's Reward
-- \Lanayru\Lanayru Sand Sea\Gorge\Boss Rush -- 4 Bosses
-- \Lanayru\Lanayru Sand Sea\Gorge\Boss Rush -- 8 Bosses
-- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Pillar near Thunder Dragon
-- \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Left Pillar behind the Thunder Dragon
-- \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Right Pillar behind the Thunder Dragon
-- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Left of Stairs
-- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Right of Stairs
-- \Lanayru\Lanayru Sand Sea\Gorge\Blow Grass near Lone Boulder
-- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Left Machine after Locked Door
-- \Lanayru\Lanayru Sand Sea\Gorge\Bonk Right Machine after Locked Door
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Activate Timeshift Stone
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Goddess Cube in Lanayru Gorge
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Digging Spot
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Left Sandfall Source
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Right Sandfall Source
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
-  1
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
-  2
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
-  3
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
-  4
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge
-  5
+- \Lanayru\Pirate Stronghold Interior\First Chest
+- \Lanayru\Pirate Stronghold Interior\Second Chest
+- \Lanayru\Pirate Stronghold Interior\Third Chest
+- \Lanayru\Pirate Stronghold Interior\Finish Minidungeon
+- \Lanayru\Gorge\Unlock Statue
+- \Lanayru\Gorge\Item on Pillar
+- \Lanayru\Gorge\Activate Timeshift Stone
+- \Lanayru\Gorge\Thunder Dragon's Reward
+- \Lanayru\Gorge\Boss Rush -- 4 Bosses
+- \Lanayru\Gorge\Boss Rush -- 8 Bosses
+- \Lanayru\Gorge\Bonk Pillar near Thunder Dragon
+- \Lanayru\Gorge\Slingshot Left Pillar behind the Thunder Dragon
+- \Lanayru\Gorge\Slingshot Right Pillar behind the Thunder Dragon
+- \Lanayru\Gorge\Bonk Wall Left of Stairs
+- \Lanayru\Gorge\Bonk Wall Right of Stairs
+- \Lanayru\Gorge\Blow Grass near Lone Boulder
+- \Lanayru\Gorge\Bonk Left Machine after Locked Door
+- \Lanayru\Gorge\Bonk Right Machine after Locked Door
+- \Lanayru\Gorge\Beyond Bridge\Activate Timeshift Stone
+- \Lanayru\Gorge\Beyond Bridge\Goddess Cube in Lanayru Gorge
+- \Lanayru\Gorge\Beyond Bridge\Digging Spot
+- \Lanayru\Gorge\Beyond Bridge\Slingshot Left Sandfall Source
+- \Lanayru\Gorge\Beyond Bridge\Slingshot Right Sandfall Source
+- \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 1
+- \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 2
+- \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 3
+- \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 4
+- \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 5
 - \Sandship\Pass Spume
 - \Sandship\Main\Deck\Raise Timeshift Stone
 - \Sandship\Main\Deck\Start Mast Sequence
@@ -1855,9 +1851,9 @@ items:
 - \Skyview Temple\Main\Last Room\Near Boss Key Chest\Chest after Vines
 - \Skyview Temple\Boss Room\Beat Ghirahim
 - \Skyview Temple\Boss Room\Defeat Boss
-- \Skyview Temple\Spring\Slingshot top of Spring Door
-- \Skyview Temple\Spring\Bonk Broken Left Spring Pillar
-- \Skyview Temple\Spring\Bonk Broken Right Spring Pillar
+- \Skyview Temple\Spring\Slingshot top of Door
+- \Skyview Temple\Spring\Bonk Broken Left Pillar
+- \Skyview Temple\Spring\Bonk Broken Right Pillar
 - \Skyview Temple\Spring\Rupee on Spring Pillar
 - \Skyview Temple\Spring\Slingshot Post Left of Goddess Crest
 - \Skyview Temple\Spring\Slingshot Post Right of Goddess Crest
@@ -1934,7 +1930,7 @@ items:
 - \The Sky\Thunderhead East Island\Chest
 - \The Sky\Mogma Mitts Island\First Goddess Chest
 - \The Sky\Mogma Mitts Island\Second Goddess Chest
-- \The Sky\Bug Heaven\Bug Heaven -- 10 Bugs in 3 Minutes
+- \The Sky\Bug Heaven\Minigame -- 10 Bugs in 3 Minutes
 - \The Sky\Bug Heaven\Goddess Chest
 - \The Sky\Bug Heaven\Nearby Gossip Stone
 - \The Sky\Bug Heaven\Stamina Fruit near Start
@@ -1974,7 +1970,7 @@ items:
 - \Earth Temple\Boss Room\Entry
 - \Earth Temple\Boss Room\Slope
 - \Earth Temple\Boss Room
-- \Earth Temple\Spring
+- \Earth Temple\Earth Spring
 - \Earth Temple
 - \Eldin\Volcano\Entry
 - \Eldin\Volcano\First Room
@@ -2018,6 +2014,7 @@ items:
 - \Faron\Sealed Grounds\Spiral
 - \Faron\Sealed Grounds\Sealed Temple
 - \Faron\Sealed Grounds\Temple of Hylia
+- \Faron\Sealed Grounds\Hylia's Realm
 - \Faron\Sealed Grounds\Behind the Temple
 - \Faron\Sealed Grounds
 - \Faron\Faron Woods\Entry
@@ -2158,11 +2155,11 @@ items:
 - \Lanayru\Lanayru Sand Sea\Shipyard\Construction Bay
 - \Lanayru\Lanayru Sand Sea\Shipyard
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold
-- \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge
-- \Lanayru\Lanayru Sand Sea\Gorge
 - \Lanayru\Lanayru Sand Sea
+- \Lanayru\Pirate Stronghold Interior
+- \Lanayru\Gorge\Beyond Bridge
+- \Lanayru\Gorge
 - \Lanayru
 - \Sandship\Main\Deck\Mast
 - \Sandship\Main\Deck\Stern
@@ -2494,8 +2491,8 @@ items:
 - \Earth Temple\Main\First Room\Main Exit
 - \Earth Temple\Main\Room with Slopes\Front of Boss Door\Boss Door Exit
 - \Earth Temple\Boss Room\Entry\Exit to Dungeon
-- \Earth Temple\Boss Room\Slope\Exit to Spring
-- \Earth Temple\Spring\Exit
+- \Earth Temple\Boss Room\Slope\Exit to Earth Spring
+- \Earth Temple\Earth Spring\Exit
 - \Fire Sanctuary\Main\Front of Boss Door\Statue Exit
 - \Fire Sanctuary\Main\First Room\Main Exit
 - \Fire Sanctuary\Main\First Room\Past Water Plant\Exit to Second Room
@@ -2529,8 +2526,8 @@ items:
 - \Lanayru\Caves\Exit to Desert
 - \Lanayru\Caves\Past Door to Lanayru Sand Sea\Exit to Lanayru Sand Sea
 - \Lanayru\Caves\Past Crawlspace\Exit to Gorge
-- \Lanayru\Lanayru Sand Sea\Gorge\Exit
-- \Lanayru\Lanayru Sand Sea\Gorge\Statue Exit
+- \Lanayru\Gorge\Exit
+- \Lanayru\Gorge\Statue Exit
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour Dock Exit
 - \Lanayru\Lanayru Sand Sea\Sandship Dock Exit
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat Dock Exit
@@ -2554,8 +2551,8 @@ items:
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Dock Exit
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Side Exit
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head\Top Exit
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Door Exit
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Second Door Exit
+- \Lanayru\Pirate Stronghold Interior\First Door Exit
+- \Lanayru\Pirate Stronghold Interior\Second Door Exit
 - \Lanayru Mining Facility\Main\First Room\Main Exit
 - \Lanayru Mining Facility\Main\First Hub\Exit to Big Hub
 - \Lanayru Mining Facility\Main\Hop Across Boxes Room\Near Exit\Exit to Big Hub
@@ -2782,8 +2779,8 @@ items:
 - \Earth Temple\Main\First Room\Main Entrance
 - \Earth Temple\Main\Room with Slopes\Front of Boss Door\Boss Door Entrance
 - \Earth Temple\Boss Room\Entry\Entrance from Dungeon
-- \Earth Temple\Boss Room\Slope\Entrance from Spring
-- \Earth Temple\Spring\Entrance
+- \Earth Temple\Boss Room\Slope\Entrance from Earth Spring
+- \Earth Temple\Earth Spring\Entrance
 - \Fire Sanctuary\Main\Front of Boss Door\Statue Entrance
 - \Fire Sanctuary\Main\First Room\Main Entrance
 - \Fire Sanctuary\Main\First Room\Past Water Plant\Entrance from Second Room
@@ -2823,8 +2820,8 @@ items:
 - \Lanayru\Caves\Entrance from Desert
 - \Lanayru\Caves\Past Door to Lanayru Sand Sea\Entrance from Lanayru Sand Sea
 - \Lanayru\Caves\Past Crawlspace\Entrance from Gorge
-- \Lanayru\Lanayru Sand Sea\Gorge\Entrance
-- \Lanayru\Lanayru Sand Sea\Gorge\Statue Entrance
+- \Lanayru\Gorge\Entrance
+- \Lanayru\Gorge\Statue Entrance
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour Dock Entrance
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat Dock Entrance
 - \Lanayru\Lanayru Sand Sea\Shipyard Dock Entrance
@@ -2847,8 +2844,8 @@ items:
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Dock Entrance
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Side Entrance
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head\Top Entrance
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Door Entrance
-- \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Second Door Entrance
+- \Lanayru\Pirate Stronghold Interior\First Door Entrance
+- \Lanayru\Pirate Stronghold Interior\Second Door Entrance
 - \Lanayru Mining Facility\Main\First Room\Main Entrance
 - \Lanayru Mining Facility\Main\First Hub\Entrance from Big Hub
 - \Lanayru Mining Facility\Main\Hop Across Boxes Room\Near Exit\Entrance from Big
@@ -3628,9 +3625,9 @@ areas:
               can_save: false
               can_sleep: false
               entrances:
-              - Entrance from Spring
+              - Entrance from Earth Spring
               exits:
-                Exit to Spring: \Earth Temple\Boss Room\Slope\Beat Scaldera
+                Exit to Earth Spring: \Earth Temple\Boss Room\Slope\Beat Scaldera
               hint_region: Earth Temple
               locations:
                 Goddess Sword Strat: "\\Goddess Sword & Upgraded Skyward Strike option"
@@ -3647,7 +3644,7 @@ areas:
               sub_areas: {}
               toplevel_alias: null
           toplevel_alias: null
-        Spring:
+        Earth Spring:
           abstract: false
           allowed_time_of_day: 1
           can_save: false
@@ -3659,7 +3656,7 @@ areas:
           hint_region: Earth Temple
           locations:
             Strike Crest: \Goddess Sword
-          name: \Earth Temple\Spring
+          name: \Earth Temple\Earth Spring
           sub_areas: {}
           toplevel_alias: null
       toplevel_alias: null
@@ -4586,7 +4583,7 @@ areas:
                 Open Gate of Time: "\\Faron\\Sealed Grounds\\Sealed Temple\\Raise\
                   \ Gate of Time & GoT Opening Requirement & \\Faron\\Sealed Grounds\\\
                   Spiral\\Defeat Imprisoned 2"
-                Slingshot above Doors to Sealed Grounds Whirlpool: \Slingshot
+                Slingshot above Doors to Sealed Grounds Spiral: \Slingshot
                 Slingshot above Doors to Behind the Temple: \Slingshot
                 Slingshot above Large Doors behind The Old One: \Slingshot
                 Blow Triforce Symbol on Southeast Archway behind Bird Statue: Gust
@@ -4609,11 +4606,24 @@ areas:
               - Gate of Time Entrance
               exits:
                 Gate of Time Exit: 'True'
+                \Faron\Sealed Grounds\Hylia's Realm: Horde Door Requirement
               hint_region: Sealed Grounds
               locations:
                 Zelda's Blessing: 'True'
-                Defeat Demise: "Horde Door Requirement & \\Sword"
               name: \Faron\Sealed Grounds\Temple of Hylia
+              sub_areas: {}
+              toplevel_alias: null
+            Hylia's Realm:
+              abstract: false
+              allowed_time_of_day: 1
+              can_save: false
+              can_sleep: false
+              entrances: []
+              exits: {}
+              hint_region: Sealed Grounds
+              locations:
+                Defeat Demise: \Sword
+              name: \Faron\Sealed Grounds\Hylia's Realm
               sub_areas: {}
               toplevel_alias: null
             Behind the Temple:
@@ -5404,7 +5414,7 @@ areas:
                       Lower Area\\Blow up Rock in Tunnel"
                   hint_region: Fire Sanctuary
                   locations:
-                    Rescue First Trapped Mogma: 'True'
+                    Rescue First Trapped Mogma Chest: 'True'
                     Blow up Rock in Tunnel: \Mogma Mitts
                     Underground Rupee beneath Double Magmanos Room 1: \Mogma Mitts
                     Underground Rupee beneath Double Magmanos Room 2: \Mogma Mitts
@@ -5598,8 +5608,8 @@ areas:
                   Move Sliding Doors Correctly & \\Sword"
                 Rescue Mogma: \Fire Sanctuary\Main\Second Trapped Mogma Room\Hydrate
                   Frog
-                Rescue Second Trapped Mogma: \Fire Sanctuary\Main\Second Trapped Mogma
-                  Room\Rescue Mogma
+                Rescue Second Trapped Mogma Chest: \Fire Sanctuary\Main\Second Trapped
+                  Mogma Room\Rescue Mogma
                 Blow up Wall: "\\Fire Sanctuary\\Main\\Second Trapped Mogma Room\\\
                   Hydrate Frog & Bomb Bag"
               name: \Fire Sanctuary\Main\Second Trapped Mogma Room
@@ -7387,8 +7397,8 @@ areas:
                 Statue Exit: \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Unlock Statue
                 Dock Exit: 'True'
                 Side Exit: 'True'
-                \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head: \Lanayru\Lanayru
-                  Sand Sea\Pirate Stronghold\Inside\Finish Minidungeon
+                \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head: \Lanayru\Pirate
+                  Stronghold Interior\Finish Minidungeon
               hint_region: Lanayru Sand Sea
               locations:
                 Unlock Statue: 'True'
@@ -7412,8 +7422,8 @@ areas:
                   entrances:
                   - Top Entrance
                   exits:
-                    \Lanayru\Lanayru Sand Sea\Pirate Stronghold: "Clawshots | \\Lanayru\\\
-                      Lanayru Sand Sea\\Pirate Stronghold\\Inside\\Finish Minidungeon"
+                    \Lanayru\Pirate Stronghold Interior: "Clawshots | \\Lanayru\\\
+                      Pirate Stronghold Interior\\Finish Minidungeon"
                     Top Exit: 'True'
                   hint_region: Lanayru Sand Sea
                   locations:
@@ -7427,96 +7437,89 @@ areas:
                     Head
                   sub_areas: {}
                   toplevel_alias: null
-                Inside:
-                  abstract: false
-                  allowed_time_of_day: 1
-                  can_save: false
-                  can_sleep: false
-                  entrances:
-                  - First Door Entrance
-                  - Second Door Entrance
-                  exits:
-                    First Door Exit: 'True'
-                    Second Door Exit: \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Finish
-                      Minidungeon
-                  hint_region: Lanayru Sand Sea
-                  locations:
-                    First Chest: 'True'
-                    Second Chest: 'True'
-                    Third Chest: 'True'
-                    Finish Minidungeon: "\\Can Defeat Beamos & \\Can Defeat Armos"
-                    \Ancient Flower Farming: 'True'
-                  name: \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside
-                  sub_areas: {}
-                  toplevel_alias: null
               toplevel_alias: null
-            Gorge:
+          toplevel_alias: Lanayru Sand Sea
+        Pirate Stronghold Interior:
+          abstract: false
+          allowed_time_of_day: 1
+          can_save: false
+          can_sleep: false
+          entrances:
+          - First Door Entrance
+          - Second Door Entrance
+          exits:
+            First Door Exit: 'True'
+            Second Door Exit: \Lanayru\Pirate Stronghold Interior\Finish Minidungeon
+          hint_region: Lanayru Sand Sea
+          locations:
+            First Chest: 'True'
+            Second Chest: 'True'
+            Third Chest: 'True'
+            Finish Minidungeon: "\\Can Defeat Beamos & \\Can Defeat Armos"
+            \Ancient Flower Farming: 'True'
+          name: \Lanayru\Pirate Stronghold Interior
+          sub_areas: {}
+          toplevel_alias: null
+        Gorge:
+          abstract: false
+          allowed_time_of_day: 1
+          can_save: false
+          can_sleep: false
+          entrances:
+          - Statue Entrance
+          - Entrance
+          exits:
+            Statue Exit: \Lanayru\Gorge\Unlock Statue
+            \Lanayru\Gorge\Beyond Bridge: \Lanayru\Gorge\Activate Timeshift Stone
+            Exit: 'True'
+          hint_region: Lanayru Gorge
+          locations:
+            Unlock Statue: 'True'
+            Item on Pillar: \Beetle
+            Activate Timeshift Stone: \Can Hit Timeshift Stone in Minecart
+            Thunder Dragon's Reward: "\\Lanayru\\Gorge\\Activate Timeshift Stone &\
+              \ Life Tree Fruit"
+            Boss Rush -- 4 Bosses: "\\Lanayru\\Gorge\\Thunder Dragon's Reward & False"
+            Boss Rush -- 8 Bosses: "\\Lanayru\\Gorge\\Thunder Dragon's Reward & False"
+            Bonk Pillar near Thunder Dragon: 'True'
+            Slingshot Left Pillar behind the Thunder Dragon: "\\Slingshot & \\Beetle"
+            Slingshot Right Pillar behind the Thunder Dragon: "\\Slingshot & \\Beetle"
+            Bonk Wall Left of Stairs: 'True'
+            Bonk Wall Right of Stairs: 'True'
+            Blow Grass near Lone Boulder: "(\\Hook Beetle | Bomb Bag) & Gust Bellows"
+            Bonk Left Machine after Locked Door: "Clawshots & Lanayru Caves Small\
+              \ Key"
+            Bonk Right Machine after Locked Door: "Clawshots & \\Beetle & Lanayru\
+              \ Caves Small Key"
+          name: \Lanayru\Gorge
+          sub_areas:
+            Beyond Bridge:
               abstract: false
               allowed_time_of_day: 1
               can_save: false
               can_sleep: false
-              entrances:
-              - Statue Entrance
-              - Entrance
+              entrances: []
               exits:
-                Statue Exit: \Lanayru\Lanayru Sand Sea\Gorge\Unlock Statue
-                \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge: \Lanayru\Lanayru Sand
-                  Sea\Gorge\Activate Timeshift Stone
-                Exit: 'True'
+                \Lanayru\Gorge: "\\Beetle | \\Bow"
               hint_region: Lanayru Gorge
               locations:
-                Unlock Statue: 'True'
-                Item on Pillar: \Beetle
-                Activate Timeshift Stone: \Can Hit Timeshift Stone in Minecart
-                Thunder Dragon's Reward: "\\Lanayru\\Lanayru Sand Sea\\Gorge\\Activate\
-                  \ Timeshift Stone & Life Tree Fruit"
-                Boss Rush -- 4 Bosses: "\\Lanayru\\Lanayru Sand Sea\\Gorge\\Thunder\
-                  \ Dragon's Reward & False"
-                Boss Rush -- 8 Bosses: "\\Lanayru\\Lanayru Sand Sea\\Gorge\\Thunder\
-                  \ Dragon's Reward & False"
-                Bonk Pillar near Thunder Dragon: 'True'
-                Slingshot Left Pillar behind the Thunder Dragon: "\\Slingshot & \\\
-                  Beetle"
-                Slingshot Right Pillar behind the Thunder Dragon: "\\Slingshot & \\\
-                  Beetle"
-                Bonk Wall Left of Stairs: 'True'
-                Bonk Wall Right of Stairs: 'True'
-                Blow Grass near Lone Boulder: "(\\Hook Beetle | Bomb Bag) & Gust Bellows"
-                Bonk Left Machine after Locked Door: "Clawshots & Lanayru Caves Small\
-                  \ Key"
-                Bonk Right Machine after Locked Door: "Clawshots & \\Beetle & Lanayru\
-                  \ Caves Small Key"
-              name: \Lanayru\Lanayru Sand Sea\Gorge
-              sub_areas:
-                Beyond Bridge:
-                  abstract: false
-                  allowed_time_of_day: 1
-                  can_save: false
-                  can_sleep: false
-                  entrances: []
-                  exits:
-                    \Lanayru\Lanayru Sand Sea\Gorge: "\\Beetle | \\Bow"
-                  hint_region: Lanayru Gorge
-                  locations:
-                    Activate Timeshift Stone: "Gust Bellows & \\Can Hit Timeshift\
-                      \ Stone"
-                    Goddess Cube in Lanayru Gorge: \Goddess Sword
-                    Digging Spot: "\\Lanayru\\Lanayru Sand Sea\\Gorge\\Beyond Bridge\\\
-                      Activate Timeshift Stone & \\Digging Mitts"
-                    \Ancient Flower Farming: \Lanayru\Lanayru Sand Sea\Gorge\Beyond
-                      Bridge\Activate Timeshift Stone
-                    Slingshot Left Sandfall Source: \Slingshot
-                    Slingshot Right Sandfall Source: \Slingshot
-                    Rupee in High Tunnel after Bridge 1: \Beetle
-                    Rupee in High Tunnel after Bridge 2: \Beetle
-                    Rupee in High Tunnel after Bridge 3: \Beetle
-                    Rupee in High Tunnel after Bridge 4: \Beetle
-                    Rupee in High Tunnel after Bridge 5: \Beetle
-                  name: \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge
-                  sub_areas: {}
-                  toplevel_alias: null
-              toplevel_alias: Lanayru Gorge
-          toplevel_alias: Lanayru Sand Sea
+                Activate Timeshift Stone: "Gust Bellows & \\Can Hit Timeshift Stone"
+                Goddess Cube in Lanayru Gorge: \Goddess Sword
+                Digging Spot: "\\Lanayru\\Gorge\\Beyond Bridge\\Activate Timeshift\
+                  \ Stone & \\Digging Mitts"
+                \Ancient Flower Farming: \Lanayru\Gorge\Beyond Bridge\Activate Timeshift
+                  Stone
+                Slingshot Left Sandfall Source: \Slingshot
+                Slingshot Right Sandfall Source: \Slingshot
+                Rupee in High Tunnel after Bridge 1: \Beetle
+                Rupee in High Tunnel after Bridge 2: \Beetle
+                Rupee in High Tunnel after Bridge 3: \Beetle
+                Rupee in High Tunnel after Bridge 4: \Beetle
+                Rupee in High Tunnel after Bridge 5: \Beetle
+              name: \Lanayru\Gorge\Beyond Bridge
+              sub_areas: {}
+              toplevel_alias: null
+          toplevel_alias: Lanayru Gorge
       toplevel_alias: null
     Sandship:
       abstract: true
@@ -9266,9 +9269,9 @@ areas:
             Exit: 'True'
           hint_region: Skyview Temple
           locations:
-            Slingshot top of Spring Door: \Slingshot
-            Bonk Broken Left Spring Pillar: 'True'
-            Bonk Broken Right Spring Pillar: 'True'
+            Slingshot top of Door: \Slingshot
+            Bonk Broken Left Pillar: 'True'
+            Bonk Broken Right Pillar: 'True'
             Rupee on Spring Pillar: \Beetle
             Slingshot Post Left of Goddess Crest: \Slingshot
             Slingshot Post Right of Goddess Crest: \Slingshot
@@ -9646,8 +9649,8 @@ areas:
                   Shipyard\\Unlock Statue"
                 Pirate Stronghold Statue Dive: "Amber Tablet & \\Lanayru\\Lanayru\
                   \ Sand Sea\\Pirate Stronghold\\Unlock Statue"
-                Lanayru Gorge Statue Dive: "Amber Tablet & \\Lanayru\\Lanayru Sand\
-                  \ Sea\\Gorge\\Unlock Statue"
+                Lanayru Gorge Statue Dive: "Amber Tablet & \\Lanayru\\Gorge\\Unlock\
+                  \ Statue"
                 \The Sky\South West: 'True'
               hint_region: The Sky
               locations: {}
@@ -9830,8 +9833,8 @@ areas:
           locations:
             First Goddess Chest: "\\Eldin\\Volcano Summit\\Goddess Cube inside Volcano\
               \ Summit & \\Mogma Mitts"
-            Second Goddess Chest: "\\Lanayru\\Lanayru Sand Sea\\Gorge\\Beyond Bridge\\\
-              Goddess Cube in Lanayru Gorge & \\Mogma Mitts"
+            Second Goddess Chest: "\\Lanayru\\Gorge\\Beyond Bridge\\Goddess Cube in\
+              \ Lanayru Gorge & \\Mogma Mitts"
           name: \The Sky\Mogma Mitts Island
           sub_areas: {}
           toplevel_alias: null
@@ -9845,7 +9848,7 @@ areas:
             \The Sky\The Thunderhead: Day
           hint_region: The Thunderhead
           locations:
-            Bug Heaven -- 10 Bugs in 3 Minutes: \Bug Net
+            Minigame -- 10 Bugs in 3 Minutes: \Bug Net
             Goddess Chest: \Eldin\Volcano Summit\Waterfall\Goddess Cube in Summit
               Waterfall
             Nearby Gossip Stone: 'True'
@@ -10522,10 +10525,10 @@ checks:
     original item: Song of the Hero
     type: Scrapper Deliveries, Combat
     short_name: The Thunderhead - Song from Levias
-  \The Sky\Bug Heaven\Bug Heaven -- 10 Bugs in 3 Minutes:
+  \The Sky\Bug Heaven\Minigame -- 10 Bugs in 3 Minutes:
     original item: Horned Colossus Beetle
     type: Minigames
-    short_name: Bug Heaven -- 10 Bugs in 3 Minutes
+    short_name: Bug Heaven - Minigame -- 10 Bugs in 3 Minutes
   \The Sky\Bug Heaven\Stamina Fruit near Start:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
@@ -10694,10 +10697,10 @@ checks:
     original item: Ballad of the Goddess
     type: null
     short_name: Sealed Temple - Song from The Old One
-  \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Sealed Grounds Whirlpool:
+  \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Sealed Grounds Spiral:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
-    short_name: Sealed Temple - Slingshot above Doors to Sealed Grounds Whirlpool
+    short_name: Sealed Temple - Slingshot above Doors to Sealed Grounds Spiral
   \Faron\Sealed Grounds\Sealed Temple\Slingshot above Doors to Behind the Temple:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
@@ -10738,6 +10741,10 @@ checks:
     original item: Progressive Sword
     type: null
     short_name: Temple of Hylia - Zelda's Blessing
+  \Faron\Sealed Grounds\Hylia's Realm\Defeat Demise:
+    original item: Green Rupee
+    type: null
+    short_name: Hylia's Realm - Defeat Demise
   \Faron\Sealed Grounds\Behind the Temple\Blow Bushes in Corner Left of Gossip Stone:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
@@ -11912,75 +11919,75 @@ checks:
     original item: Lanayru Caves Small Key
     type: null
     short_name: Lanayru Caves - Golo's Gift
-  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Pillar near Thunder Dragon:
+  \Lanayru\Gorge\Bonk Pillar near Thunder Dragon:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Bonk Pillar near Thunder Dragon
-  \Lanayru\Lanayru Sand Sea\Gorge\Thunder Dragon's Reward:
+  \Lanayru\Gorge\Thunder Dragon's Reward:
     original item: Lanayru Song of the Hero Part
     type: null
     short_name: Lanayru Gorge - Thunder Dragon's Reward
-  \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Left Pillar behind the Thunder Dragon:
+  \Lanayru\Gorge\Slingshot Left Pillar behind the Thunder Dragon:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Slingshot Left Pillar behind the Thunder Dragon
-  \Lanayru\Lanayru Sand Sea\Gorge\Slingshot Right Pillar behind the Thunder Dragon:
+  \Lanayru\Gorge\Slingshot Right Pillar behind the Thunder Dragon:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Slingshot Right Pillar behind the Thunder Dragon
-  \Lanayru\Lanayru Sand Sea\Gorge\Item on Pillar:
+  \Lanayru\Gorge\Item on Pillar:
     original item: Red Rupee
     type: null
     short_name: Lanayru Gorge - Item on Pillar
-  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Left of Stairs:
+  \Lanayru\Gorge\Bonk Wall Left of Stairs:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Bonk Wall Left of Stairs
-  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Wall Right of Stairs:
+  \Lanayru\Gorge\Bonk Wall Right of Stairs:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Bonk Wall Right of Stairs
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Digging Spot:
+  \Lanayru\Gorge\Beyond Bridge\Digging Spot:
     original item: Life Tree Seedling
     type: null
     short_name: Lanayru Gorge - Digging Spot
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Left Sandfall Source:
+  \Lanayru\Gorge\Beyond Bridge\Slingshot Left Sandfall Source:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Slingshot Left Sandfall Source
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Slingshot Right Sandfall Source:
+  \Lanayru\Gorge\Beyond Bridge\Slingshot Right Sandfall Source:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Slingshot Right Sandfall Source
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 1:
+  \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 1:
     original item: Green Rupee
     type: Freestanding Rupees, Intermediate Rupees, Custom Flag
     short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 1
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 2:
+  \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 2:
     original item: Blue Rupee
     type: Freestanding Rupees, Intermediate Rupees, Custom Flag
     short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 2
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 3:
+  \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 3:
     original item: Red Rupee
     type: Freestanding Rupees, Intermediate Rupees, Custom Flag
     short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 3
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 4:
+  \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 4:
     original item: Blue Rupee
     type: Freestanding Rupees, Intermediate Rupees, Custom Flag
     short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 4
-  \Lanayru\Lanayru Sand Sea\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 5:
+  \Lanayru\Gorge\Beyond Bridge\Rupee in High Tunnel after Bridge 5:
     original item: Green Rupee
     type: Freestanding Rupees, Intermediate Rupees, Custom Flag
     short_name: Lanayru Gorge - Rupee in High Tunnel after Bridge 5
-  \Lanayru\Lanayru Sand Sea\Gorge\Blow Grass near Lone Boulder:
+  \Lanayru\Gorge\Blow Grass near Lone Boulder:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Blow Grass near Lone Boulder
-  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Left Machine after Locked Door:
+  \Lanayru\Gorge\Bonk Left Machine after Locked Door:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Bonk Left Machine after Locked Door
-  \Lanayru\Lanayru Sand Sea\Gorge\Bonk Right Machine after Locked Door:
+  \Lanayru\Gorge\Bonk Right Machine after Locked Door:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Bonk Right Machine after Locked Door
@@ -12153,18 +12160,18 @@ checks:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Pirate Stronghold - Stamina Fruit on Lower Right Side
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Chest:
+  \Lanayru\Pirate Stronghold Interior\First Chest:
     original item: Silver Rupee
     type: null
-    short_name: Pirate Stronghold - First Chest
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Second Chest:
+    short_name: Pirate Stronghold Interior - First Chest
+  \Lanayru\Pirate Stronghold Interior\Second Chest:
     original item: Semi Rare Treasure
     type: null
-    short_name: Pirate Stronghold - Second Chest
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Third Chest:
+    short_name: Pirate Stronghold Interior - Second Chest
+  \Lanayru\Pirate Stronghold Interior\Third Chest:
     original item: Semi Rare Treasure
     type: null
-    short_name: Pirate Stronghold - Third Chest
+    short_name: Pirate Stronghold Interior - Third Chest
   \Skyview Temple\Main\Entry\Slingshot Wall Eye behind First Bird Statue:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
@@ -12313,34 +12320,34 @@ checks:
     original item: Heart Container
     type: null
     short_name: Skyview Temple - Defeat Boss
-  \Skyview Temple\Spring\Slingshot top of Spring Door:
+  \Skyview Temple\Spring\Slingshot top of Door:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
-    short_name: Skyview Temple - Slingshot top of Spring Door
-  \Skyview Temple\Spring\Bonk Broken Left Spring Pillar:
+    short_name: Skyview Spring - Slingshot top of Door
+  \Skyview Temple\Spring\Bonk Broken Left Pillar:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
-    short_name: Skyview Temple - Bonk Broken Left Spring Pillar
-  \Skyview Temple\Spring\Bonk Broken Right Spring Pillar:
+    short_name: Skyview Spring - Bonk Broken Left Pillar
+  \Skyview Temple\Spring\Bonk Broken Right Pillar:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
-    short_name: Skyview Temple - Bonk Broken Right Spring Pillar
+    short_name: Skyview Spring - Bonk Broken Right Pillar
   \Skyview Temple\Spring\Rupee on Spring Pillar:
     original item: Red Rupee
     type: Freestanding Rupees, Beginner Rupees
-    short_name: Skyview Temple - Rupee on Spring Pillar
+    short_name: Skyview Spring - Rupee on Spring Pillar
   \Skyview Temple\Spring\Slingshot Post Left of Goddess Crest:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
-    short_name: Skyview Temple - Slingshot Post Left of Goddess Crest
+    short_name: Skyview Spring - Slingshot Post Left of Goddess Crest
   \Skyview Temple\Spring\Slingshot Post Right of Goddess Crest:
     original item: Heart
     type: Hidden Items, Custom Flag
-    short_name: Skyview Temple - Slingshot Post Right of Goddess Crest
+    short_name: Skyview Spring - Slingshot Post Right of Goddess Crest
   \Skyview Temple\Spring\Strike Crest:
     original item: Ruby Tablet
     type: null
-    short_name: Skyview Temple - Strike Crest
+    short_name: Skyview Spring - Strike Crest
   \Earth Temple\Main\First Room\Bonk Front Left Elephant Pillar:
     original item: Heart
     type: Hidden Items, Custom Flag
@@ -12425,10 +12432,10 @@ checks:
     original item: Heart Container
     type: null
     short_name: Earth Temple - Defeat Boss
-  \Earth Temple\Spring\Strike Crest:
+  \Earth Temple\Earth Spring\Strike Crest:
     original item: Amber Tablet
     type: null
-    short_name: Earth Temple - Strike Crest
+    short_name: Earth Spring - Strike Crest
   \Lanayru Mining Facility\Main\First Room\Chest behind Bars:
     original item: Red Rupee
     type: null
@@ -12852,10 +12859,10 @@ checks:
     original item: Semi Rare Treasure
     type: null
     short_name: Fire Sanctuary - Second Chest in Water Fruit Room
-  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Rescue First Trapped Mogma:
+  \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Rescue First Trapped Mogma Chest:
     original item: Progressive Mitts
     type: null
-    short_name: Fire Sanctuary - Rescue First Trapped Mogma
+    short_name: Fire Sanctuary - Rescue First Trapped Mogma Chest
   \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath Double Magmanos Room 1:
     original item: Blue Rupee
     type: Underground Rupees, Custom Flag
@@ -12876,10 +12883,10 @@ checks:
     original item: Red Rupee
     type: Underground Rupees, Custom Flag
     short_name: Fire Sanctuary - Underground Rupee beneath Double Magmanos Room 5
-  \Fire Sanctuary\Main\Second Trapped Mogma Room\Rescue Second Trapped Mogma:
+  \Fire Sanctuary\Main\Second Trapped Mogma Room\Rescue Second Trapped Mogma Chest:
     original item: Fire Sanctuary Map
     type: null
-    short_name: Fire Sanctuary - Rescue Second Trapped Mogma
+    short_name: Fire Sanctuary - Rescue Second Trapped Mogma Chest
   \Fire Sanctuary\Main\Second Trapped Mogma Room\Past Bombable Wall\Underground Rupee behind Bombable Wall:
     original item: Red Rupee
     type: Underground Rupees, Custom Flag
@@ -13869,14 +13876,14 @@ exits:
     type: exit
     vanilla: Earth Temple - Boss Door Entrance
     short_name: Earth Temple - Boss Room - Exit to Dungeon
-  \Earth Temple\Boss Room\Slope\Exit to Spring:
+  \Earth Temple\Boss Room\Slope\Exit to Earth Spring:
     type: exit
     vanilla: Earth Temple - Spring - Entrance
-    short_name: Earth Temple - Boss Room - Exit to Spring
-  \Earth Temple\Spring\Exit:
+    short_name: Earth Temple - Boss Room - Exit to Earth Spring
+  \Earth Temple\Earth Spring\Exit:
     type: exit
-    vanilla: Earth Temple - Boss Room - Entrance from Spring
-    short_name: Earth Temple - Spring - Exit
+    vanilla: Earth Temple - Boss Room - Entrance from Earth Spring
+    short_name: Earth Temple - Earth Spring - Exit
   \Fire Sanctuary\Main\Front of Boss Door\Statue Exit:
     type: exit
     vanilla: The Sky - Eldin Pillar - Entrance
@@ -14030,11 +14037,11 @@ exits:
     type: exit
     vanilla: Lanayru Gorge - Entrance
     short_name: Lanayru Caves - Exit to Gorge
-  \Lanayru\Lanayru Sand Sea\Gorge\Exit:
+  \Lanayru\Gorge\Exit:
     type: exit
     vanilla: Lanayru Caves - Entrance from Gorge
     short_name: Lanayru Gorge - Exit
-  \Lanayru\Lanayru Sand Sea\Gorge\Statue Exit:
+  \Lanayru\Gorge\Statue Exit:
     type: exit
     vanilla: The Sky - Lanayru Pillar - Entrance
     short_name: Lanayru Gorge - Statue Exit
@@ -14145,24 +14152,24 @@ exits:
     short_name: Pirate Stronghold - Dock Exit
   \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Side Exit:
     type: exit
-    vanilla: Pirate Stronghold - Inside - First Door Entrance
+    vanilla: Pirate Stronghold Interior - First Door Entrance
     stage: F301_6
     short_name: Pirate Stronghold - Side Exit
   \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head\Top Exit:
     type: exit
-    vanilla: Pirate Stronghold - Inside - Second Door Entrance
+    vanilla: Pirate Stronghold Interior - Second Door Entrance
     stage: F301_6
     short_name: Pirate Stronghold - Top Exit
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Door Exit:
+  \Lanayru\Pirate Stronghold Interior\First Door Exit:
     type: exit
     vanilla: Pirate Stronghold - Side Entrance
     stage: F301_2
-    short_name: Pirate Stronghold - Inside - First Door Exit
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Second Door Exit:
+    short_name: Pirate Stronghold Interior - First Door Exit
+  \Lanayru\Pirate Stronghold Interior\Second Door Exit:
     type: exit
     vanilla: Pirate Stronghold - Top Entrance
     stage: F301_2
-    short_name: Pirate Stronghold - Inside - Second Door Exit
+    short_name: Pirate Stronghold Interior - Second Door Exit
   \Lanayru Mining Facility\Main\First Room\Main Exit:
     type: exit
     vanilla: Lanayru Desert - Entrance from Lanayru Mining Facility
@@ -15193,18 +15200,18 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: Earth Temple - Boss Room - Entrance from Dungeon
-  \Earth Temple\Boss Room\Slope\Entrance from Spring:
+  \Earth Temple\Boss Room\Slope\Entrance from Earth Spring:
     type: entrance
     province: Eldin Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Earth Temple - Boss Room - Entrance from Spring
-  \Earth Temple\Spring\Entrance:
+    short_name: Earth Temple - Boss Room - Entrance from Earth Spring
+  \Earth Temple\Earth Spring\Entrance:
     type: entrance
     province: Eldin Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Earth Temple - Spring - Entrance
+    short_name: Earth Temple - Earth Spring - Entrance
   \Fire Sanctuary\Main\Front of Boss Door\Statue Entrance:
     type: entrance
     subtype: bird-statue-entrance
@@ -15449,13 +15456,13 @@ entrances:
     stage: F303
     allowed_time_of_day: 1
     short_name: Lanayru Caves - Entrance from Gorge
-  \Lanayru\Lanayru Sand Sea\Gorge\Entrance:
+  \Lanayru\Gorge\Entrance:
     type: entrance
     province: Lanayru Province
     stage: F302
     allowed_time_of_day: 1
     short_name: Lanayru Gorge - Entrance
-  \Lanayru\Lanayru Sand Sea\Gorge\Statue Entrance:
+  \Lanayru\Gorge\Statue Entrance:
     type: entrance
     subtype: bird-statue-entrance
     province: Lanayru Province
@@ -15605,19 +15612,19 @@ entrances:
     stage: F301_6
     allowed_time_of_day: 1
     short_name: Pirate Stronghold - Top Entrance
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\First Door Entrance:
+  \Lanayru\Pirate Stronghold Interior\First Door Entrance:
     type: entrance
     province: Lanayru Province
     stage: F301_2
     allowed_time_of_day: 1
-    short_name: Pirate Stronghold - Inside - First Door Entrance
-  \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside\Second Door Entrance:
+    short_name: Pirate Stronghold Interior - First Door Entrance
+  \Lanayru\Pirate Stronghold Interior\Second Door Entrance:
     type: entrance
     province: Lanayru Province
     can-start-at: false
     stage: F301_2
     allowed_time_of_day: 1
-    short_name: Pirate Stronghold - Inside - Second Door Entrance
+    short_name: Pirate Stronghold Interior - Second Door Entrance
   \Lanayru Mining Facility\Main\First Room\Main Entrance:
     type: entrance
     province: Lanayru Province
@@ -15760,7 +15767,7 @@ linked_entrances:
       exit_from_inside: \Sky Keep\Main\First Room\Bottom Exit
 dungeon_completion_requirements:
   Skyview Temple: \Skyview Temple\Spring\Strike Crest
-  Earth Temple: \Earth Temple\Spring\Strike Crest
+  Earth Temple: \Earth Temple\Earth Spring\Strike Crest
   Lanayru Mining Facility: \Lanayru Mining Facility\Hall of Ancient Robots\End\Exit
     Hall of Ancient Robots
   Ancient Cistern: \Ancient Cistern\Flame Room\Farore's Flame

@@ -1740,14 +1740,14 @@ Pirate Stronghold - Rupee on East Sea Pillar:
 Pirate Stronghold - Rupee on Bird Statue Pillar or Nose:
   Can Access Lanayru Sand Sea & Beetle
 
-Pirate Stronghold - First Chest:
+Pirate Stronghold Interior - First Chest:
   Can Access Lanayru Sand Sea
   # You can run past the Beamos without killing it. You can also run past the boko baba (in logic?) #UNSURE
 
-Pirate Stronghold - Second Chest:
+Pirate Stronghold Interior - Second Chest:
   Can Access Lanayru Sand Sea
 
-Pirate Stronghold - Third Chest:
+Pirate Stronghold Interior - Third Chest:
   Can Access Lanayru Sand Sea
 
 Pirate Stronghold - Ancient Flower Farming:
@@ -2379,7 +2379,7 @@ Can Access FS Miniboss Room and Defeat Magmanos:
   Can Get Past Second Room with Water Pod & Sword & Fire Sanctuary Small Key x2
   # Sword needed to grab a water plant
 
-Fire Sanctuary - Rescue First Trapped Mogma:
+Fire Sanctuary - Rescue First Trapped Mogma Chest:
   Can Access FS Miniboss Room and Defeat Magmanos
 
 Can Access Second FS Bridge:
@@ -2397,7 +2397,7 @@ Can Access Second Captured Mogma Room:
 Can Free Second Captured Mogma:
   Can Access Second Captured Mogma Room & Mogma Mitts & Sword
 
-Fire Sanctuary - Rescue Second Trapped Mogma:
+Fire Sanctuary - Rescue Second Trapped Mogma Chest:
   Can Free Second Captured Mogma
   # Scene Flag 3x40 is "Map Chest appears"
 

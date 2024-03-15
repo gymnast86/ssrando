@@ -65,7 +65,7 @@ Sealed Grounds:
       Raise Gate of Time: GoT Raising Requirement & Ballad of the Goddess
       Start Imprisoned 2: Raise Gate of Time & GoT Opening Requirement
       Open Gate of Time: Raise Gate of Time & GoT Opening Requirement & Spiral - Defeat Imprisoned 2
-      Slingshot above Doors to Sealed Grounds Whirlpool: Slingshot
+      Slingshot above Doors to Sealed Grounds Spiral: Slingshot
       Slingshot above Doors to Behind the Temple: Slingshot
       Slingshot above Large Doors behind The Old One: Slingshot
       Blow Triforce Symbol on Southeast Archway behind Bird Statue: Gust Bellows
@@ -76,9 +76,13 @@ Sealed Grounds:
   Temple of Hylia:
     exits:
       Gate of Time: Nothing
+      Hylia's Realm: Horde Door Requirement
     locations:
       Zelda's Blessing: Nothing
-      Defeat Demise: Horde Door Requirement & Sword
+
+  Hylia's Realm:
+    locations:
+      Defeat Demise: Sword
 
   Behind the Temple:
     exits:

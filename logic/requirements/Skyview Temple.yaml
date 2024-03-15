@@ -190,8 +190,9 @@ Boss Room:
     Beat Ghirahim: Sword
     Defeat Boss: Beat Ghirahim
 
-Spring:
+Skyview Spring:
   toplevel-alias: Skyview Spring
+  hint-region: Skyview Temple
   exits:
     Exit: Nothing
     # Crest Hit: Ruby Tablet

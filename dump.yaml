@@ -1851,15 +1851,15 @@ items:
 - \Skyview Temple\Main\Last Room\Near Boss Key Chest\Chest after Vines
 - \Skyview Temple\Boss Room\Beat Ghirahim
 - \Skyview Temple\Boss Room\Defeat Boss
-- \Skyview Temple\Spring\Slingshot top of Door
-- \Skyview Temple\Spring\Bonk Broken Left Pillar
-- \Skyview Temple\Spring\Bonk Broken Right Pillar
-- \Skyview Temple\Spring\Rupee on Spring Pillar
-- \Skyview Temple\Spring\Slingshot Post Left of Goddess Crest
-- \Skyview Temple\Spring\Slingshot Post Right of Goddess Crest
-- \Skyview Temple\Spring\Strike Crest
-- \Skyview Temple\Spring\Goddess Cube in Skyview Spring
-- \Skyview Temple\Spring\Sacred Water
+- \Skyview Temple\Skyview Spring\Slingshot top of Door
+- \Skyview Temple\Skyview Spring\Bonk Broken Left Pillar
+- \Skyview Temple\Skyview Spring\Bonk Broken Right Pillar
+- \Skyview Temple\Skyview Spring\Rupee on Spring Pillar
+- \Skyview Temple\Skyview Spring\Slingshot Post Left of Goddess Crest
+- \Skyview Temple\Skyview Spring\Slingshot Post Right of Goddess Crest
+- \Skyview Temple\Skyview Spring\Strike Crest
+- \Skyview Temple\Skyview Spring\Goddess Cube in Skyview Spring
+- \Skyview Temple\Skyview Spring\Sacred Water
 - \The Sky\North East\Form a Squirrel Ring above Volcanic Island
 - \The Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin
 - \The Sky\North East\Form a Squirrel Ring above Bamboo Island
@@ -2277,7 +2277,7 @@ items:
 - \Skyview Temple\Main\Last Room
 - \Skyview Temple\Main
 - \Skyview Temple\Boss Room
-- \Skyview Temple\Spring
+- \Skyview Temple\Skyview Spring
 - \Skyview Temple
 - \The Sky\North East\Island near Bamboo Island
 - \The Sky\North East\Northeast Island
@@ -2460,7 +2460,7 @@ items:
 - \Skyview Temple\Main\Last Room\After Rope\Boss Door Exit
 - \Skyview Temple\Boss Room\Exit to Dungeon
 - \Skyview Temple\Boss Room\Exit to Spring
-- \Skyview Temple\Spring\Exit
+- \Skyview Temple\Skyview Spring\Exit
 - \Ancient Cistern\Main\Main Room\Main Exit
 - \Ancient Cistern\Main\Inside Statue\Boss Door Exit
 - \Ancient Cistern\Boss Room\Exit to Dungeon
@@ -2745,7 +2745,7 @@ items:
 - \Skyview Temple\Main\Last Room\After Rope\Boss Door Entrance
 - \Skyview Temple\Boss Room\Entrance from Dungeon
 - \Skyview Temple\Boss Room\Entrance from Spring
-- \Skyview Temple\Spring\Entrance
+- \Skyview Temple\Skyview Spring\Entrance
 - \Ancient Cistern\Main\Main Room\Main Entrance
 - \Ancient Cistern\Main\Inside Statue\Boss Door Entrance
 - \Ancient Cistern\Boss Room\Entrance from Dungeon
@@ -9258,7 +9258,7 @@ areas:
           name: \Skyview Temple\Boss Room
           sub_areas: {}
           toplevel_alias: null
-        Spring:
+        Skyview Spring:
           abstract: false
           allowed_time_of_day: 1
           can_save: false
@@ -9278,7 +9278,7 @@ areas:
             Strike Crest: \Goddess Sword
             Goddess Cube in Skyview Spring: \Goddess Sword
             Sacred Water: "\\Bottle & \\Skyview Temple\\Skyview 2"
-          name: \Skyview Temple\Spring
+          name: \Skyview Temple\Skyview Spring
           sub_areas: {}
           toplevel_alias: Skyview Spring
       toplevel_alias: Skyview Temple
@@ -9550,8 +9550,8 @@ areas:
                 Outside Crystal: Night
                 Outside Goddess Chest: \Faron\Faron Woods\Deep Woods\Initial Goddess
                   Cube
-                Goddess Chest on Roof: "\\Skyview Temple\\Spring\\Goddess Cube in\
-                  \ Skyview Spring & Day"
+                Goddess Chest on Roof: "\\Skyview Temple\\Skyview Spring\\Goddess\
+                  \ Cube in Skyview Spring & Day"
                 Start Kina's Quest: "\\The Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
                   \ Building\\Complete Hot Soup Delivery & Day"
                 Kina's Crystals: "\\Eldin\\Mogma Turf\\Pre Vent\\Pick up Guld & Day"
@@ -12320,31 +12320,31 @@ checks:
     original item: Heart Container
     type: null
     short_name: Skyview Temple - Defeat Boss
-  \Skyview Temple\Spring\Slingshot top of Door:
+  \Skyview Temple\Skyview Spring\Slingshot top of Door:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
     short_name: Skyview Spring - Slingshot top of Door
-  \Skyview Temple\Spring\Bonk Broken Left Pillar:
+  \Skyview Temple\Skyview Spring\Bonk Broken Left Pillar:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Skyview Spring - Bonk Broken Left Pillar
-  \Skyview Temple\Spring\Bonk Broken Right Pillar:
+  \Skyview Temple\Skyview Spring\Bonk Broken Right Pillar:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Skyview Spring - Bonk Broken Right Pillar
-  \Skyview Temple\Spring\Rupee on Spring Pillar:
+  \Skyview Temple\Skyview Spring\Rupee on Spring Pillar:
     original item: Red Rupee
     type: Freestanding Rupees, Beginner Rupees
     short_name: Skyview Spring - Rupee on Spring Pillar
-  \Skyview Temple\Spring\Slingshot Post Left of Goddess Crest:
+  \Skyview Temple\Skyview Spring\Slingshot Post Left of Goddess Crest:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
     short_name: Skyview Spring - Slingshot Post Left of Goddess Crest
-  \Skyview Temple\Spring\Slingshot Post Right of Goddess Crest:
+  \Skyview Temple\Skyview Spring\Slingshot Post Right of Goddess Crest:
     original item: Heart
     type: Hidden Items, Custom Flag
     short_name: Skyview Spring - Slingshot Post Right of Goddess Crest
-  \Skyview Temple\Spring\Strike Crest:
+  \Skyview Temple\Skyview Spring\Strike Crest:
     original item: Ruby Tablet
     type: null
     short_name: Skyview Spring - Strike Crest
@@ -13733,12 +13733,12 @@ exits:
     short_name: Skyview Temple - Boss Room - Exit to Dungeon
   \Skyview Temple\Boss Room\Exit to Spring:
     type: exit
-    vanilla: Skyview Temple - Spring - Entrance
+    vanilla: Skyview Spring - Entrance
     short_name: Skyview Temple - Boss Room - Exit to Spring
-  \Skyview Temple\Spring\Exit:
+  \Skyview Temple\Skyview Spring\Exit:
     type: exit
     vanilla: Skyview Temple - Boss Room - Entrance from Spring
-    short_name: Skyview Temple - Spring - Exit
+    short_name: Skyview Spring - Exit
   \Ancient Cistern\Main\Main Room\Main Exit:
     type: exit
     vanilla: Floria Waterfall - Entrance from Ancient Cistern
@@ -14988,12 +14988,12 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: Skyview Temple - Boss Room - Entrance from Spring
-  \Skyview Temple\Spring\Entrance:
+  \Skyview Temple\Skyview Spring\Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Spring - Entrance
+    short_name: Skyview Spring - Entrance
   \Ancient Cistern\Main\Main Room\Main Entrance:
     type: entrance
     province: Faron Province
@@ -15766,7 +15766,7 @@ linked_entrances:
         Keep
       exit_from_inside: \Sky Keep\Main\First Room\Bottom Exit
 dungeon_completion_requirements:
-  Skyview Temple: \Skyview Temple\Spring\Strike Crest
+  Skyview Temple: \Skyview Temple\Skyview Spring\Strike Crest
   Earth Temple: \Earth Temple\Earth Spring\Strike Crest
   Lanayru Mining Facility: \Lanayru Mining Facility\Hall of Ancient Robots\End\Exit
     Hall of Ancient Robots

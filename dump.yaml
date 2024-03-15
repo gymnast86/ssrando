@@ -2459,7 +2459,7 @@ items:
 - \Skyview Temple\Main\Entry\Main Exit
 - \Skyview Temple\Main\Last Room\After Rope\Boss Door Exit
 - \Skyview Temple\Boss Room\Exit to Dungeon
-- \Skyview Temple\Boss Room\Exit to Spring
+- \Skyview Temple\Boss Room\Exit to Skyview Spring
 - \Skyview Temple\Skyview Spring\Exit
 - \Ancient Cistern\Main\Main Room\Main Exit
 - \Ancient Cistern\Main\Inside Statue\Boss Door Exit
@@ -2744,7 +2744,7 @@ items:
 - \Skyview Temple\Main\Entry\Main Entrance
 - \Skyview Temple\Main\Last Room\After Rope\Boss Door Entrance
 - \Skyview Temple\Boss Room\Entrance from Dungeon
-- \Skyview Temple\Boss Room\Entrance from Spring
+- \Skyview Temple\Boss Room\Entrance from Skyview Spring
 - \Skyview Temple\Skyview Spring\Entrance
 - \Ancient Cistern\Main\Main Room\Main Entrance
 - \Ancient Cistern\Main\Inside Statue\Boss Door Entrance
@@ -9247,10 +9247,10 @@ areas:
           can_sleep: false
           entrances:
           - Entrance from Dungeon
-          - Entrance from Spring
+          - Entrance from Skyview Spring
           exits:
             Exit to Dungeon: \Skyview Temple\Boss Room\Beat Ghirahim
-            Exit to Spring: \Skyview Temple\Boss Room\Beat Ghirahim
+            Exit to Skyview Spring: \Skyview Temple\Boss Room\Beat Ghirahim
           hint_region: Skyview Temple
           locations:
             Beat Ghirahim: \Sword
@@ -13731,10 +13731,10 @@ exits:
     type: exit
     vanilla: Skyview Temple - Boss Door Entrance
     short_name: Skyview Temple - Boss Room - Exit to Dungeon
-  \Skyview Temple\Boss Room\Exit to Spring:
+  \Skyview Temple\Boss Room\Exit to Skyview Spring:
     type: exit
     vanilla: Skyview Spring - Entrance
-    short_name: Skyview Temple - Boss Room - Exit to Spring
+    short_name: Skyview Temple - Boss Room - Exit to Skyview Spring
   \Skyview Temple\Skyview Spring\Exit:
     type: exit
     vanilla: Skyview Temple - Boss Room - Entrance from Spring
@@ -14982,12 +14982,12 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: Skyview Temple - Boss Room - Entrance from Dungeon
-  \Skyview Temple\Boss Room\Entrance from Spring:
+  \Skyview Temple\Boss Room\Entrance from Skyview Spring:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Boss Room - Entrance from Spring
+    short_name: Skyview Temple - Boss Room - Entrance from Skyview Spring
   \Skyview Temple\Skyview Spring\Entrance:
     type: entrance
     province: Faron Province

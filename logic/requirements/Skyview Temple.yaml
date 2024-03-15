@@ -185,7 +185,7 @@ Main:
 Boss Room:
   exits:
     Exit to Dungeon: Beat Ghirahim
-    Exit to Spring: Beat Ghirahim
+    Exit to Skyview Spring: Beat Ghirahim
   locations:
     Beat Ghirahim: Sword
     Defeat Boss: Beat Ghirahim

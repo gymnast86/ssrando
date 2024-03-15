@@ -1146,7 +1146,7 @@ items:
 - \Faron\Faron Woods\Deep Woods\Gossip Stone
 - \Faron\Faron Woods\Deep Woods\Initial Goddess Cube
 - \Faron\Faron Woods\Deep Woods\Goddess Cube in Deep Woods
-- \Faron\Faron Woods\Deep Woods\Goddess Cube on top of Skyview
+- \Faron\Faron Woods\Deep Woods\Goddess Cube on top of Skyview Temple
 - \Faron\Faron Woods\Deep Woods\Entry\Hornet Larvae Farming
 - \Faron\Faron Woods\Deep Woods\Entry\Blow Flowers at Entrance
 - \Faron\Farore's Silent Realm\Collect all Tears Reward
@@ -5013,7 +5013,7 @@ areas:
                 Gossip Stone: 'True'
                 Initial Goddess Cube: \Goddess Sword
                 Goddess Cube in Deep Woods: \Goddess Sword
-                Goddess Cube on top of Skyview: "\\Goddess Sword & Clawshots"
+                Goddess Cube on top of Skyview Temple: "\\Goddess Sword & Clawshots"
               name: \Faron\Faron Woods\Deep Woods
               sub_areas:
                 Entry:
@@ -9460,7 +9460,7 @@ areas:
               hint_region: The Sky
               locations:
                 Cage Goddess Chest: \Faron\Faron Woods\Deep Woods\Goddess Cube on
-                  top of Skyview
+                  top of Skyview Temple
               name: \The Sky\Beedle's Island\Cage
               sub_areas: {}
               toplevel_alias: null

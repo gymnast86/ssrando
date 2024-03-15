@@ -2,7 +2,7 @@ allowed-time-of-day: DayOnly
 macros:
   All Three Nodes: LMF Nodes On option | (North Part - Water Node & Lightning Node - Lightning Node & East - Fire Node - Fire Node)
   Raise Lanayru Mining Facility: Open LMF option | Desert - North Part - Activate Main Node
-  Can Navigate in Oasis: Can Defeat Ampilus | Hook Beetle | Central Skyloft - Bazaar - Endurance Potion | Brakeslide Trick | Stuttersprint Trick
+  Can Navigate in Oasis: Can Defeat Ampilus | Hook Beetle | Bazaar - Endurance Potion | Brakeslide Trick | Stuttersprint Trick
 
 Mine:
   toplevel-alias: Lanayru Mine
@@ -19,7 +19,7 @@ Mine:
       Timeshift Stone: Can Hit Timeshift Stone | Itemless First Timeshift Stone Trick
       # There's technically 2 different flowers here but one has the same reqs as the other only + bombs
       General - Ancient Flower Farming: Timeshift Stone
-      Chest near First Timeshift Stone: Timeshift Stone
+      Chest in Side Room near First Timeshift Stone: Timeshift Stone
       Slingshot Left Eye of First Landing Robot: Slingshot
       Slingshot Right Eye of First Landing Robot: Slingshot
       Blow Digging Robot before Side Room near First Timeshift Stone: Gust Bellows
@@ -48,7 +48,7 @@ Mine:
   Statues Area:
     exits:
       Entry: Nothing
-      End: Blow Statues Down | Brakeslide Trick | Central Skyloft - Bazaar - Endurance Potion
+      End: Blow Statues Down | Brakeslide Trick | Bazaar - Endurance Potion
     locations:
       Blow Statues Down: Bomb Bag | Hook Beetle
       Blow Left Digging Robot after First Minecart Ride: Gust Bellows
@@ -64,7 +64,7 @@ Mine:
 
   End:
     exits:
-      Statues Area: Statues Area - Blow Statues Down | Brakeslide Trick | Central Skyloft - Bazaar - Endurance Potion
+      Statues Area: Statues Area - Blow Statues Down | Brakeslide Trick | Bazaar - Endurance Potion
     locations:
       Blow up Rock on Track: Nothing
       Blow Digging Robot near Mine Exit: Gust Bellows
@@ -108,7 +108,7 @@ Desert:
       entrance: Entry - Timeshift Stone
       exit: { Entry: Nothing }
       locations:
-        Retrieve Party Wheel: Scrapper & Sky - Fun Fun Island - Start Dodoh's Quest
+        Retrieve Party Wheel: Scrapper & The Sky - Fun Fun Island - Start Dodoh's Quest
         Chest near Party Wheel: Nothing
         General - Ancient Flower Farming: Nothing
 
@@ -117,7 +117,7 @@ Desert:
       Entry: Nothing
       Top of West Wall: Clawshots
       Top of LMF: Raise Lanayru Mining Facility
-      East: Temple of Time Skip - Brakeslide Trick | East - Open Wall Shortcut | Clawshots | Central Skyloft - Bazaar - Endurance Potion
+      East: Temple of Time Skip - Brakeslide Trick | East - Open Wall Shortcut | Clawshots | Bazaar - Endurance Potion
       Sand Oasis: Get Past Spume to Sand Oasis
     locations:
       Chest near Caged Robot: Nothing
@@ -135,7 +135,7 @@ Desert:
       # Blow down statue or stamina potion or defeat spume and brakeslide through
       Get Past Spume to Sand Oasis:
         Blow Statues to Sand Oasis Down |
-        Central Skyloft - Bazaar - Endurance Potion |
+        Bazaar - Endurance Potion |
         (Brakeslide Trick & Stuttersprint Trick & (Bomb Bag | Bow | Long Range Skyward Strike))
 
   Sand Oasis: # Before
@@ -352,7 +352,7 @@ Temple of Time:
       Inside: Nothing
       Near Goddess Cube: Near Goddess Cube - Timeshift Stone
     locations:
-      Gossip Stone in Temple of Time Area: Nothing
+      Gossip Stone: Nothing
       Blow up Rock for Timeshift Stone:
         Hook Beetle | Bomb Throws Trick & (Bomb Bag | (Cactus Bomb Whip Trick & Whip))
       Timeshift Stone: Blow up Rock for Timeshift Stone & Distance Activator
@@ -387,12 +387,12 @@ Temple of Time:
     locations:
       General - Ancient Flower Farming: Distance Activator # for timeshift stone
 
-Lanayru Silent Realm:
-  hint-region: Lanayru Silent Realm
+Nayru's Silent Realm:
+  hint-region: Nayru's Silent Realm
   exits:
     Exit: Nothing
   locations:
-    Trial Reward: Nothing
+    Collect all Tears Reward: Nothing
     Stamina Fruit on East LMF Vine Wall: Nothing
     Stamina Fruit on West LMF Vine Wall: Nothing
     Stamina Fruit near Minecart: Nothing
@@ -496,7 +496,7 @@ Lanayru Sand Sea:
 
     Top Part:
       exits:
-        Shack: Nothing
+        Skipper's Retreat Shack: Nothing
         Past Rock: Nothing
         Skydive Platform: Nothing
       locations:
@@ -505,11 +505,11 @@ Lanayru Sand Sea:
         Slingshot Right Eye of Shack: Slingshot
         Slingshot Nose of Shack: Slingshot
 
-    Shack:
+    Skipper's Retreat Shack:
       exits:
         Exit: Nothing
       locations:
-        Chest in Shack: Gust Bellows
+        Chest under Sand: Gust Bellows
         Skipper's Closet: Gust Bellows
         Blow Aeroplane: Gust Bellows
         Blow Sombrero: Gust Bellows
@@ -535,7 +535,7 @@ Lanayru Sand Sea:
       Construction Bay Lower Exit: Construction Bay - Defeat Moldarach
     locations:
       Unlock Statue: Nothing
-      Gossip Stone in Shipyard: Nothing # Take the first cart and you've arrived
+      Gossip Stone: Nothing # Take the first cart and you've arrived
       Bonk Sign before Gortram the Rickety Coaster Operator: Nothing
       Bonk Sign before Second Minecart Track: Nothing
       Bonk Sign after Second Minecart Track: Nothing

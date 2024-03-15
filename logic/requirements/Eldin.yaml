@@ -135,7 +135,7 @@ Volcano:
       Exit: Nothing
     locations:
       Thrill Digger Minigame: Digging Mitts
-      Gossip Stone in Thrill Digger Cave: Nothing
+      Gossip Stone: Nothing
       Slingshot Left Blue Crystal 1: Slingshot
       Slingshot Left Green Crystal 1: Slingshot
       Slingshot Left Blue Crystal 2: Slingshot
@@ -159,7 +159,7 @@ Volcano:
       Temple Entrance Statue: Unlock Statue
       Near Thrill Digger Cave: Near Thrill Digger Cave - Blow down Watchtower
       Exit to Earth Temple: Open ET option | Key Piece x5
-      Volcano - Upper Platform Cave: Beaten Boko Base
+      Volcano - Upper Eldin Cave: Beaten Boko Base
       Hot Cave: Blow down Watchtower to Hot Cave
     locations:
       Unlock Statue: Nothing
@@ -192,11 +192,11 @@ Volcano:
       Stamina Fruit on ledge near Hot Cave: Nothing
       Stamina Fruit on vines near Hot Cave: Nothing
   
-  Upper Platform Cave:
+  Upper Eldin Cave:
     exits:
       Near Temple Entrance: Beaten Boko Base | Clawshots
     locations:
-      Gossip Stone in Upper Platform Cave: Nothing
+      Gossip Stone: Nothing
 
   Hot Cave:
     exits:
@@ -232,19 +232,19 @@ Volcano:
     exits:
       Ascent: Unlock Shortcut to Ascent
       Vent Exit near Ascent: Nothing
-      Volcano - Lower Platform Cave: Beaten Boko Base
+      Volcano - Lower Eldin Cave: Beaten Boko Base
     locations:
       Digging Spot after Draining Lava: Digging Mitts
       Stamina Fruit after Big Sand Slide: Nothing
       Unlock Shortcut to Ascent: Nothing
   
-  Lower Platform Cave:
+  Lower Eldin Cave:
     exits:
       Past Slide: Clawshots
       Past Mogma Turf: Beaten Boko Base
       East: Beaten Boko Base
     locations:
-      Gossip Stone in Lower Platform Cave: Nothing
+      Gossip Stone: Nothing
 
 Mogma Turf: # when randomizing this, need to find a way to force the skydiving animation
   hint-region: Mogma Turf
@@ -258,7 +258,7 @@ Mogma Turf: # when randomizing this, need to find a way to force the skydiving a
       Free Fall Chest: Nothing
       Goddess Cube in Mogma Turf: Goddess Sword
       Chest behind Bombable Wall at Entrance: Nothing
-      Pick up Guld: Sky - Lumpy Pumpkin - Start Kina's Quest & Scrapper
+      Pick up Guld: Lumpy Pumpkin - Start Kina's Quest & Scrapper
       Defeat Bokoblins: Can Defeat Bokoblins
       Open Vent: Digging Mitts
 
@@ -283,12 +283,12 @@ Mogma Turf: # when randomizing this, need to find a way to force the skydiving a
       Rupee in First Pyrup Hole in Fire Maze: Nothing
       Chest behind Bombable Wall in Fire Maze: Nothing
 
-Eldin Silent Realm:
-  hint-region: Eldin Silent Realm
+Din's Silent Realm:
+  hint-region: Din's Silent Realm
   exits:
     Exit: Nothing
   locations:
-    Trial Reward: Nothing
+    Collect all Tears Reward: Nothing
     Stamina Fruit on First Slope: Nothing
     Stamina Fruit near First Bone Bridge: Nothing
     Stamina Fruit near Tear on Vines: Nothing
@@ -396,22 +396,22 @@ Bokoblin Base:
   After Drawbridge:
     exits:
       Before Drawbridge: Clawshots
-      Bokoblin Base - Lower Platform Cave: Nothing
+      Bokoblin Base - Lower Eldin Cave: Nothing
       Volcano East: Nothing
       Outside Earth Temple: Nothing
   
-  Lower Platform Cave:
+  Lower Eldin Cave:
     exits:
       After Drawbridge: Clawshots
       Before Drawbridge: Nothing
       Volcano East: Nothing
     locations:
-      Volcano - Gossip Stone in Lower Platform Cave: Nothing
+      Volcano - Gossip Stone: Nothing
   
   Outside Earth Temple:
     exits:
       Hot Cave: Nothing
-      Bokoblin Base - Upper Platform Cave: Nothing
+      Bokoblin Base - Upper Eldin Cave: Nothing
     locations:
       Bonk Campfire East of Earth Temple: Nothing
       Chest East of Earth Temple Entrance: Nothing
@@ -419,11 +419,11 @@ Bokoblin Base:
       Chest West of Earth Temple Entrance: (Slingshot | Bow | Bomb Bag | Goddess Sword) & Can bypass Boko Base Watch Tower & Mogma Mitts
       Volcano - Goddess Cube West of Earth Temple Entrance: Goddess Sword & Can bypass Boko Base Watch Tower & Mogma Mitts
   
-  Upper Platform Cave:
+  Upper Eldin Cave:
     exits:
       Outside Earth Temple: Nothing
     locations:
-      Volcano - Gossip Stone in Upper Platform Cave: Nothing
+      Volcano - Gossip Stone: Nothing
   
   Hot Cave:
     exits:

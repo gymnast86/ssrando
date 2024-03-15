@@ -26,7 +26,7 @@ Fixes bug preventing the use of the Dungeon Entrance Rando (DER) option
 
 ## 2.1.0
 ### Additions
-- Ancient Cistern - Rupee under Lilypad is now a randomized check in the room after the gutters
+- Ancient Cistern - Rupee under Lilypad after Pipes is now a randomized check in the room after the gutters
 - Adds a startflag to have the log leading to Faron Woods already pushed
 - Adds the Strong Dowsing All Dungeons hint distribution
 ### Changes
@@ -424,12 +424,12 @@ Fixes bug preventing the use of the Dungeon Entrance Rando (DER) option
     - SSH - Boss Key Chest
     - SSH - Tentalus Heart Container
     - SSH - Bow
-    - Thunderhead - Isle of Songs - Din's Power
-    - Sealed Grounds - Zelda's Blessing
-    - Sand Sea - Skipper's Retreat - Chest in Shack
+    - Isle of Songs - Din's Power
+    - Temple of Hylia - Zelda's Blessing
+    - Sand Sea - Skipper's Retreat Shack - Chest under Sand
     - Volcano Summit - Item behind Digging
     - Faron Woods - Kikwi Elder's Reward
-    - Sky - Beedle's Crystals
+    - Beedle's Island - Beedle's Crystals
     - Sealed Grounds - Gorko's Goddess Wall Reward
   - The Sea Chart can now be hinted when Sandship is a required dungeon
   - Improved how the randomizer categorizes regions as barren

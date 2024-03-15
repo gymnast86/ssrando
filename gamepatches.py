@@ -376,7 +376,7 @@ HEIGHT_OFFSETS = {
     26: -36.0,  # Fire Sanctuary Boss Key
     27: -29.0,  # Sandship Boss Key
     28: -35.0,  # Key Piece
-    29: -28.0,  # Skyview Boss Key
+    29: -28.0,  # Skyview Temple Boss Key
     30: -28.0,  # Earth Temple Boss Key
     31: -32.0,  # Lanayru Mining Facility Boss Key
     49: -42.0,  # Gust Bellows
@@ -424,7 +424,7 @@ HEIGHT_OFFSETS = {
     192: -28.0,  # Lanayru Song of the Hero Part
     193: -28.0,  # Song of the Hero (unused)
     198: -30.0,  # Life Tree Fruit
-    200: -35.0,  # Skyview Small Key
+    200: -35.0,  # Skyview Temple Small Key
     201: -35.0,  # Lanayru Mining Facility Small Key
     202: -35.0,  # Ancient Cistern Small Key
     203: -35.0,  # Fire Sanctuary Small Key
@@ -457,7 +457,7 @@ SHOP_BUY_DECIDE_SCALE = {
     26: 0.8,  # Fire Sanctuary Boss Key
     27: 0.8,  # Sandship Boss Key
     28: 1.2,  # Key Piece
-    29: 0.8,  # Skyview Boss Key
+    29: 0.8,  # Skyview Temple Boss Key
     30: 0.8,  # Earth Temple Boss Key
     31: 0.8,  # Lanayru Mining Facility Boss Key
     49: 1.0,  # Gust Bellows
@@ -496,7 +496,7 @@ SHOP_BUY_DECIDE_SCALE = {
     192: 1.2,  # Lanayru Song of the Hero Part
     193: 1.2,  # Song of the Hero (unused)
     198: 1.2,  # Life Tree Fruit
-    200: 1.2,  # Skyview Small Key
+    200: 1.2,  # Skyview Temple Small Key
     201: 1.2,  # Lanayru Mining Facility Small Key
     202: 1.2,  # Ancient Cistern Small Key
     203: 1.2,  # Fire Sanctuary Small Key
@@ -523,7 +523,7 @@ SHOP_PUT_SCALE = {
     26: 1.2,  # Fire Sanctuary Boss Key
     27: 1.2,  # Sandship Boss Key
     28: 1.5,  # Key Piece
-    29: 1.2,  # Skyview Boss Key
+    29: 1.2,  # Skyview Temple Boss Key
     30: 1.2,  # Earth Temple Boss Key
     31: 1.2,  # Lanayru Mining Facility Boss Key
     49: 1.5,  # Gust Bellows
@@ -560,7 +560,7 @@ SHOP_PUT_SCALE = {
     191: 1.5,  # Eldin Song of the Hero Part
     192: 1.5,  # Lanayru Song of the Hero Part
     193: 1.5,  # Song of the Hero (unused)
-    200: 1.5,  # Skyview Small Key
+    200: 1.5,  # Skyview Temple Small Key
     201: 1.5,  # Lanayru Mining Facility Small Key
     202: 1.5,  # Ancient Cistern Small Key
     203: 1.5,  # Fire Sanctuary Small Key
@@ -875,10 +875,10 @@ FLAGINDEX_NAMES = [
     "-Unused-",
     "Sky Keep",
     "The Sky",
-    "Faron Silent Realm",
-    "Eldin Silent Realm",
-    "Lanayru Silent Realm",
-    "Skyloft Silent Realm",
+    "Farore's Silent Realm",
+    "Din's Silent Realm",
+    "Nayru's Silent Realm",
+    "The Goddess's Silent Realm",
 ]
 
 
@@ -2215,25 +2215,25 @@ class GamePatcher:
         # Trial Hints
         trial_checks = {
             # (getting it text patch, line, inventory text line, hintname)
-            "Skyloft Silent Realm - Trial Reward": (
+            "The Goddess's Silent Realm - Collect all Tears Reward": (
                 "Full SotH text",
                 659,
                 "The song that leads you to the final trial.",
                 "Song of the Hero - Trial Hint",
             ),
-            "Faron Silent Realm - Trial Reward": (
+            "Farore's Silent Realm - Collect all Tears Reward": (
                 "Farore's Courage Text",
                 653,
                 "This song opens the trial located in Faron\nWoods.",
                 "Farore's Courage - Trial Hint",
             ),
-            "Lanayru Silent Realm - Trial Reward": (
+            "Nayru's Silent Realm - Collect all Tears Reward": (
                 "Nayru's Wisdom Text",
                 654,
                 "This song opens the trial located in\nLanayru Desert.",
                 "Nayru's Wisdom - Trial Hint",
             ),
-            "Eldin Silent Realm - Trial Reward": (
+            "Din's Silent Realm - Collect all Tears Reward": (
                 "Din's Power Text",
                 655,
                 "This song opens the trial located on\nEldin Volcano.",

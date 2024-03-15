@@ -68,7 +68,7 @@ if __name__ == "__main__":
     print(
         break_and_make_multiple_textboxes(
             [
-                "<y<Progressive Sword>> can be found at <r<Sealed Grounds - Chest inside Sealed Temple>> at Noon in the after noon at 1235 <y<Progressive Sword>> can be found somewhere",
+                "<y<Progressive Sword>> can be found at <r<Sealed Temple - Chest>> at Noon in the after noon at 1235 <y<Progressive Sword>> can be found somewhere",
                 "<r<Sandship - Bow>> has <y<Sandship Map>>",
             ]
         )

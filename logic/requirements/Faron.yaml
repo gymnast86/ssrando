@@ -60,8 +60,8 @@ Sealed Grounds:
       Side Exit: Nothing
       Gate of Time: Open Gate of Time
     locations:
-      Chest inside Sealed Temple: Nothing
-      Song from Impa: Goddess's Harp
+      Chest: Nothing
+      Song from The Old One: Goddess's Harp
       Raise Gate of Time: GoT Raising Requirement & Ballad of the Goddess
       Start Imprisoned 2: Raise Gate of Time & GoT Opening Requirement
       Open Gate of Time: Raise Gate of Time & GoT Opening Requirement & Spiral - Defeat Imprisoned 2
@@ -73,7 +73,7 @@ Sealed Grounds:
       Blow Triforce Symbol on Southwest Archway behind Bird Statue: Gust Bellows
       Blow Triforce Symbol on Northwest Archway behind Bird Statue: Gust Bellows
 
-  Hylia's Temple:
+  Temple of Hylia:
     exits:
       Gate of Time: Nothing
     locations:
@@ -88,7 +88,7 @@ Sealed Grounds:
       Shortcut Exit to Spiral: Nothing
     locations:
       Unlock Statue: Nothing
-      Gossip Stone behind the Temple: Nothing
+      Gossip Stone: Nothing
       Gorko's Goddess Wall Reward: Goddess's Harp & Ballad of the Goddess & Goddess Sword
       Slingshot above Doors Behind the Temple: Slingshot
       Blow Bushes in Corner Left of Gossip Stone: Gust Bellows
@@ -125,8 +125,8 @@ Faron Woods:
     All Kikwis Saved: (Sword | Beetle) & Can Defeat Bokoblins
     Kikwi Elder's Reward: All Kikwis Saved
     Item on Tree: Nothing
-    Item behind Lower Bombable Rock: Bomb Bag
-    Chest behind Upper Bombable Rock: Bomb Bag
+    Item behind Bombable Rock: Bomb Bag
+    Chest behind Bombable Rocks near Erla: Bomb Bag
     Stamina Fruit on Vines below First Log: Nothing
     Stamina Fruit past Empty Slope: Nothing
     Stamina Fruit past Baba Slope: Nothing
@@ -223,7 +223,7 @@ Faron Woods:
           Lower Area: Nothing
           Near Exit: Nothing
         locations:
-          Chest inside Great Tree: Sword | Bow | Bomb Bag | Beetle | Slingshot
+          Chest: Sword | Bow | Bomb Bag | Beetle | Slingshot
           Blow Red Mushroom after Swinging Platforms West: Gust Bellows
           Blow Tall Blue Mushroom after Swinging Platforms South: Gust Bellows
 
@@ -270,7 +270,7 @@ Faron Woods:
   Deep Woods:
     hint-region: Faron Woods
     locations:
-      Deep Woods Chest: Nothing
+      Chest: Nothing
       Stamina Fruit on Hanging Ledge: Nothing
       Bonk Tree with Rope: Nothing
       Bonk Tree near Gossip Stone 1: Nothing
@@ -285,7 +285,7 @@ Faron Woods:
       Unlock Deep Woods Statue: Nothing
       Unlock Forest Temple Statue: Nothing
       Push Shortcut Logs: Nothing
-      Gossip Stone in Deep Woods: Nothing
+      Gossip Stone: Nothing
       Initial Goddess Cube: Goddess Sword
       Goddess Cube in Deep Woods: Goddess Sword
       Goddess Cube on top of Skyview: Goddess Sword & Clawshots
@@ -305,12 +305,12 @@ Faron Woods:
         Blow Flowers at Entrance: Gust Bellows
 
 
-Faron Silent Realm:
-  hint-region: Faron Silent Realm
+Farore's Silent Realm:
+  hint-region: Farore's Silent Realm
   exits:
     Exit: Nothing
   locations:
-    Trial Reward: Nothing
+    Collect all Tears Reward: Nothing
     Stamina Fruit on Vine Wall 1: Nothing
     Stamina Fruit on Vine Wall 2: Nothing
     # Relic 1: Nothing
@@ -386,7 +386,7 @@ Lake Floria:
         Statue: Unlock Statue
         Below Rock: Water Dragon's Scale
       locations:
-        Lake Floria Chest: Nothing
+        Chest: Nothing
         Goddess Cube in Lake Floria: Goddess Sword
         Unlock Statue: Nothing
 
@@ -399,25 +399,26 @@ Lake Floria:
       Dragon Lair East Chest: Nothing
       Talk to Farore: Nothing
 
-  Waterfall:
-    toplevel-alias: Floria Waterfall
-    exits:
-      Statue: Unlock Statue
-      Exit to Farore's Lair: Nothing
-      Exit to Faron Woods: Nothing
-      Exit to Ancient Cistern: Water Dragon's Scale
-    locations:
-      Unlock Statue: Nothing
-      Gossip Stone outside Ancient Cistern: Nothing
-      Goddess Cube in Floria Waterfall: Clawshots & Goddess Sword
-      Rupee on High Ledge: Beetle
-      North Rupee in underwater Grass: Water Dragon's Scale
-      South Rupee in underwater Grass: Water Dragon's Scale
-      Bonk North Pillar near Bird Statue: Nothing
-      Bonk South Pillar near Bird Statue: Nothing
-      Slingshot Broken Spike on Bridge: Slingshot
-      Slingshot Northwest Spike on Bridge: Slingshot
-      Slingshot Left Cistern Door Frame: Slingshot
-      Slingshot Right Cistern Door Frame: Slingshot
-      Slingshot Left Cistern Eye: Slingshot & Water Dragon's Scale
-      Slingshot Right Cistern Eye: Slingshot & Water Dragon's Scale
+Floria Waterfall:
+  hint-region: Lake Floria
+  toplevel-alias: Floria Waterfall
+  exits:
+    Statue: Unlock Statue
+    Exit to Farore's Lair: Nothing
+    Exit to Faron Woods: Nothing
+    Exit to Ancient Cistern: Water Dragon's Scale
+  locations:
+    Unlock Statue: Nothing
+    Gossip Stone: Nothing
+    Goddess Cube in Floria Waterfall: Clawshots & Goddess Sword
+    Rupee on High Ledge: Beetle
+    North Rupee in underwater Grass: Water Dragon's Scale
+    South Rupee in underwater Grass: Water Dragon's Scale
+    Bonk North Pillar near Bird Statue: Nothing
+    Bonk South Pillar near Bird Statue: Nothing
+    Slingshot Broken Spike on Bridge: Slingshot
+    Slingshot Northwest Spike on Bridge: Slingshot
+    Slingshot Left Cistern Door Frame: Slingshot
+    Slingshot Right Cistern Door Frame: Slingshot
+    Slingshot Left Cistern Eye: Slingshot & Water Dragon's Scale
+    Slingshot Right Cistern Eye: Slingshot & Water Dragon's Scale

@@ -257,7 +257,7 @@ Skyloft - Sparring Hall Right Door Exit:
 
 ## Goddess Statue
 
-Goddess Statue - Entrance:
+Inside the Statue of the Goddess - Entrance:
   type: entrance
   province: The Sky
   stage: F008r
@@ -266,14 +266,14 @@ Goddess Statue - Entrance:
   entrance: 0
   tod: 2
 
-Goddess Statue - Exit:
+Inside the Statue of the Goddess - Exit:
   type: exit
-  vanilla: Goddess Statue Entrance
+  vanilla: Inside the Statue of the Goddess Entrance
   stage: F008r
   room: 0
   index: 0
 
-Goddess Statue Entrance:
+Inside the Statue of the Goddess Entrance:
   type: entrance
   province: The Sky
   stage: F000
@@ -282,9 +282,9 @@ Goddess Statue Entrance:
   entrance: 6
   tod: 2
 
-Goddess Statue Exit:
+Inside the Statue of the Goddess Exit:
   type: exit
-  vanilla: Goddess Statue - Entrance
+  vanilla: Inside the Statue of the Goddess - Entrance
   stage: F000
   room: 0
   index: 5
@@ -502,7 +502,7 @@ Beedle's Shop - Trapdoor Exit:
 
 Beedle's Shop - Night Exit:
   type: exit
-  vanilla: Sky - Beedle's Island - Beedle's Ship Entrance
+  vanilla: The Sky - Beedle's Island - Beedle's Ship Entrance
   allowed-time-of-day: NightOnly
   stage: F002r
   room: 0
@@ -527,13 +527,13 @@ Skyloft - Exit to Beedle's Shop:
 
 ## Trial
 
-Skyloft Silent Realm - Entrance:
+The Goddess's Silent Realm - Entrance:
   type: entrance
   province: The Sky
   can-start-at: false
   tod: 0
 
-Skyloft Silent Realm - Exit:
+The Goddess's Silent Realm - Exit:
   type: exit
   vanilla: Skyloft - Trial Gate Entrance
 
@@ -545,7 +545,7 @@ Skyloft - Trial Gate Entrance:
 
 Skyloft - Trial Gate Exit:
   type: exit
-  vanilla: Skyloft Silent Realm - Entrance
+  vanilla: The Goddess's Silent Realm - Entrance
 
 ## Sky Keep
 
@@ -752,7 +752,7 @@ Sparrot's House - Delivery Cutscene Entrance:
   entrance: 0
   tod: 2
 
-Sky - Sparrot Delivery Cutscene Exit:
+The Sky - Sparrot Delivery Cutscene Exit:
   type: exit
   vanilla: Sparrot's House - Delivery Cutscene Entrance
   disabled: true
@@ -806,7 +806,7 @@ Mallara's House - Exit:
 
 ## Batreaux's House
 
-Batreaux's House - Entrance:
+Batreaux - Entrance:
   type: entrance
   province: The Sky
   stage: F012r
@@ -815,7 +815,7 @@ Batreaux's House - Entrance:
   entrance: 0
   tod: 2
 
-Batreaux's House - Exit:
+Batreaux - Exit:
   type: exit
   vanilla: Batreaux's House Entrance
   stage: F012r
@@ -833,7 +833,7 @@ Batreaux's House Entrance:
 
 Batreaux's House Exit:
   type: exit
-  vanilla: Batreaux's House - Entrance
+  vanilla: Batreaux - Entrance
   stage: F000
   room: 0
   index: 30
@@ -954,7 +954,7 @@ Piper's <<Other>> House Exit:
 
 Skyloft - Exit to Sky:
   type: exit
-  vanilla: Sky - Entrance from Skyloft
+  vanilla: The Sky - Entrance from Skyloft
 
 Skyloft - Entrance from Sky:
   type: entrance
@@ -964,11 +964,11 @@ Skyloft - Entrance from Sky:
 
 # Sky
 
-Sky - Exit to Skyloft:
+The Sky - Exit to Skyloft:
   type: exit
   vanilla: Skyloft - Entrance from Sky
 
-Sky - Entrance from Skyloft:
+The Sky - Entrance from Skyloft:
   type: entrance
   province: The Sky
   can-start-at: false
@@ -976,7 +976,7 @@ Sky - Entrance from Skyloft:
 
 ## North East
 
-Bamboo Island - Inside - Entrance:
+Bamboo Island Interior - Entrance:
   type: entrance
   province: The Sky
   stage: F019r
@@ -985,15 +985,15 @@ Bamboo Island - Inside - Entrance:
   entrance: 0
   tod: 2
 
-Bamboo Island - Inside - Exit:
+Bamboo Island Interior - Exit:
   type: exit
-  vanilla: Bamboo Island - Entrance from Inside
+  vanilla: Bamboo Island - Entrance from Bamboo Island Interior
   stage: F019r
   room: 0
   index: 2
 
 
-Bamboo Island - Entrance from Inside:
+Bamboo Island - Entrance from Bamboo Island Interior:
   type: entrance
   province: The Sky
   stage: F020
@@ -1002,15 +1002,15 @@ Bamboo Island - Entrance from Inside:
   entrance: 11
   tod: 2
 
-Bamboo Island - Exit to Inside:
+Bamboo Island - Exit to Bamboo Island Interior:
   type: exit
-  vanilla: Bamboo Island - Inside - Entrance
+  vanilla: Bamboo Island - Bamboo Island Interior - Entrance
   stage: F020
   room: 0
   index: 13
 
 
-Sky - Beedle's Island - Beedle's Ship Entrance:
+The Sky - Beedle's Island - Beedle's Ship Entrance:
   type: entrance
   province: The Sky
   allowed-time-of-day: NightOnly
@@ -1021,7 +1021,7 @@ Sky - Beedle's Island - Beedle's Ship Entrance:
   tod: 1
 
 # night only so prevent problems here
-Sky - Beedle's Island - Beedle's Ship Exit:
+The Sky - Beedle's Island - Beedle's Ship Exit:
   type: exit
   vanilla: Beedle's Shop - Night Entrance
   allowed-time-of-day: NightOnly
@@ -1030,7 +1030,7 @@ Sky - Beedle's Island - Beedle's Ship Exit:
   index: 14
 
 
-Sky - Eldin Pillar - Entrance:
+The Sky - Eldin Pillar - Entrance:
   type: entrance
   province: The Sky
   statue-name: Volcano Entry
@@ -1041,7 +1041,7 @@ Sky - Eldin Pillar - Entrance:
   tod: 2
 
 
-Sky - Eldin Pillar - First Time Dive:
+The Sky - Eldin Pillar - First Time Dive:
   type: exit
   vanilla: Eldin Volcano - First Time Entrance
   stage: F020
@@ -1049,14 +1049,14 @@ Sky - Eldin Pillar - First Time Dive:
   index: 1
   pillar-province: Eldin Province
 
-Sky - Eldin Pillar - Temple Entrance Statue Dive:
+The Sky - Eldin Pillar - Temple Entrance Statue Dive:
   type: exit
   vanilla: Eldin Volcano - Temple Entrance Statue Entrance
   stage: F020
   room: 0
   index: 29
 
-Sky - Eldin Pillar - Temple Entrance <<Alternate>> Statue Dive:
+The Sky - Eldin Pillar - Temple Entrance <<Alternate>> Statue Dive:
   type: exit
   vanilla: Eldin Volcano - Temple Entrance Statue Entrance
   disabled: true
@@ -1064,14 +1064,14 @@ Sky - Eldin Pillar - Temple Entrance <<Alternate>> Statue Dive:
   room: 0
   index: 53
 
-Sky - Eldin Pillar - Inside the Volcano Statue Dive:
+The Sky - Eldin Pillar - Inside the Volcano Statue Dive:
   type: exit
   vanilla: Outside Fire Sanctuary - Statue Entrance
   stage: F020
   room: 0
   index: 30
 
-Sky - Eldin Pillar - Inside the Volcano <<Alternate>> Statue Dive:
+The Sky - Eldin Pillar - Inside the Volcano <<Alternate>> Statue Dive:
   type: exit
   vanilla: Outside Fire Sanctuary - Statue Entrance
   disabled: true
@@ -1079,28 +1079,28 @@ Sky - Eldin Pillar - Inside the Volcano <<Alternate>> Statue Dive:
   room: 0
   index: 54
 
-Sky - Eldin Pillar - Volcano Entrance Statue Dive:
+The Sky - Eldin Pillar - Volcano Entrance Statue Dive:
   type: exit
   vanilla: Eldin Volcano - Volcano Entrance Statue Entrance
   stage: F020
   room: 0
   index: 50
 
-Sky - Eldin Pillar - Volcano East Statue Dive:
+The Sky - Eldin Pillar - Volcano East Statue Dive:
   type: exit
   vanilla: Eldin Volcano - Volcano East Statue Entrance
   stage: F020
   room: 0
   index: 51
 
-Sky - Eldin Pillar - Volcano Ascent Statue Dive:
+The Sky - Eldin Pillar - Volcano Ascent Statue Dive:
   type: exit
   vanilla: Eldin Volcano - Volcano Ascent Statue Entrance
   stage: F020
   room: 0
   index: 52
 
-Sky - Eldin Pillar - Fire Sanctuary Statue Dive:
+The Sky - Eldin Pillar - Fire Sanctuary Statue Dive:
   type: exit
   vanilla: Fire Sanctuary - Statue Entrance
   stage: F020
@@ -1212,7 +1212,7 @@ Lumpy Pumpkin - Back Door Exit:
   room: 0
   index: 20
 
-Sky - Faron Pillar - Entrance:
+The Sky - Faron Pillar - Entrance:
   type: entrance
   province: The Sky
   statue-name: Sealed Grounds
@@ -1225,7 +1225,7 @@ Sky - Faron Pillar - Entrance:
 
 
 
-Sky - Faron Pillar - First Time Dive:
+The Sky - Faron Pillar - First Time Dive:
   type: exit
   vanilla: Sealed Grounds Spiral - Statue Entrance
   stage: F020
@@ -1233,21 +1233,21 @@ Sky - Faron Pillar - First Time Dive:
   index: 0
   pillar-province: Faron Province
 
-Sky - Faron Pillar - Sealed Grounds Statue Dive:
+The Sky - Faron Pillar - Sealed Grounds Statue Dive:
   type: exit
   vanilla: Sealed Grounds Spiral - Statue Entrance
   stage: F020
   room: 0
   index: 68
 
-Sky - Faron Pillar - Forest Temple Statue Dive:
+The Sky - Faron Pillar - Forest Temple Statue Dive:
   type: exit
   vanilla: Deep Woods - Forest Temple Statue Entrance
   stage: F020
   room: 0
   index: 27
 
-Sky - Faron Pillar - Forest Temple Statue Dive <<bis>>:
+The Sky - Faron Pillar - Forest Temple Statue Dive <<bis>>:
   type: exit
   vanilla: Deep Woods - Forest Temple Statue Entrance
   disabled: true
@@ -1255,7 +1255,7 @@ Sky - Faron Pillar - Forest Temple Statue Dive <<bis>>:
   room: 0
   index: 45
 
-Sky - Faron Pillar - Floria Waterfall <<Alternate>> Statue Dive:
+The Sky - Faron Pillar - Floria Waterfall <<Alternate>> Statue Dive:
   type: exit
   vanilla: Lake Floria - Floria Waterfall <<Alternate>> Statue Entrance
   disabled: true
@@ -1263,56 +1263,56 @@ Sky - Faron Pillar - Floria Waterfall <<Alternate>> Statue Dive:
   room: 0
   index: 28
 
-Sky - Faron Pillar - Behind the Temple Statue Dive:
+The Sky - Faron Pillar - Behind the Temple Statue Dive:
   type: exit
   vanilla: Behind the Temple - Statue Entrance
   stage: F020
   room: 0
   index: 40
 
-Sky - Faron Pillar - Faron Woods Entry Statue Dive:
+The Sky - Faron Pillar - Faron Woods Entry Statue Dive:
   type: exit
   vanilla: Faron Woods - Faron Woods Entry Statue Entrance
   stage: F020
   room: 0
   index: 41
 
-Sky - Faron Pillar - In the Woods Statue Dive:
+The Sky - Faron Pillar - In the Woods Statue Dive:
   type: exit
   vanilla: Faron Woods - In the Woods Statue Entrance
   stage: F020
   room: 0
   index: 42
 
-Sky - Faron Pillar - Viewing Platform Statue Dive:
+The Sky - Faron Pillar - Viewing Platform Statue Dive:
   type: exit
   vanilla: Faron Woods - Viewing Platform Statue Entrance
   stage: F020
   room: 0
   index: 43
 
-Sky - Faron Pillar - The Great Tree Statue Dive:
+The Sky - Faron Pillar - The Great Tree Statue Dive:
   type: exit
   vanilla: Great Tree - The Great Tree Statue Entrance
   stage: F020
   room: 0
   index: 44
 
-Sky - Faron Pillar - Deep Woods Statue Dive:
+The Sky - Faron Pillar - Deep Woods Statue Dive:
   type: exit
   vanilla: Deep Woods - Deep Woods Statue Entrance
   stage: F020
   room: 0
   index: 46
 
-Sky - Faron Pillar - Lake Floria Statue Dive:
+The Sky - Faron Pillar - Lake Floria Statue Dive:
   type: exit
   vanilla: Lake Floria - Below Rock - Statue Entrance
   stage: F020
   room: 0
   index: 47
 
-Sky - Faron Pillar - Floria Waterfall Statue Dive:
+The Sky - Faron Pillar - Floria Waterfall Statue Dive:
   type: exit
   vanilla: Floria Waterfall - Statue Entrance
   stage: F020
@@ -1323,7 +1323,7 @@ Sky - Faron Pillar - Floria Waterfall Statue Dive:
 
 ## South West
 
-Sky - Lanayru Pillar - First Time Dive:
+The Sky - Lanayru Pillar - First Time Dive:
   type: exit
   vanilla: Lanayru Mine - First Time Entrance
   stage: F020
@@ -1331,7 +1331,7 @@ Sky - Lanayru Pillar - First Time Dive:
   index: 2
   pillar-province: Lanayru Province
 
-Sky - Lanayru Pillar - <<?? Statue Dive>>:
+The Sky - Lanayru Pillar - <<?? Statue Dive>>:
   type: exit
   vanilla: Lanayru Desert - <<?? Statue Entrance>>
   disabled: true
@@ -1339,7 +1339,7 @@ Sky - Lanayru Pillar - <<?? Statue Dive>>:
   room: 0
   index: 31
 
-Sky - Lanayru Pillar - Ancient Harbour <<Alternate>> Statue Dive:
+The Sky - Lanayru Pillar - Ancient Harbour <<Alternate>> Statue Dive:
   type: exit
   vanilla: Lanayru Sand Sea Docks - <<Alternate>> Statue Entrance
   disabled: true
@@ -1347,89 +1347,89 @@ Sky - Lanayru Pillar - Ancient Harbour <<Alternate>> Statue Dive:
   room: 0
   index: 32
 
-Sky - Lanayru Pillar - Lanayru Mine Entry Statue Dive:
+The Sky - Lanayru Pillar - Lanayru Mine Entry Statue Dive:
   type: exit
   vanilla: Lanayru Mine - Statue Entrance
   stage: F020
   room: 0
   index: 56
 
-Sky - Lanayru Pillar - Desert Entrance Statue Dive:
+The Sky - Lanayru Pillar - Desert Entrance Statue Dive:
   type: exit
   vanilla: Lanayru Desert - Desert Entrance Statue Entrance
   stage: F020
   room: 0
   index: 57
 
-Sky - Lanayru Pillar - West Desert Statue Dive:
+The Sky - Lanayru Pillar - West Desert Statue Dive:
   type: exit
   vanilla: Lanayru Desert - West Desert Statue Entrance
   stage: F020
   room: 0
   index: 58
 
-Sky - Lanayru Pillar - North Desert Statue Dive:
+The Sky - Lanayru Pillar - North Desert Statue Dive:
   type: exit
   vanilla: Lanayru Desert - North Desert Statue Entrance
   stage: F020
   room: 0
   index: 59
 
-Sky - Lanayru Pillar - Stone Cache Statue Dive:
+The Sky - Lanayru Pillar - Stone Cache Statue Dive:
   type: exit
   vanilla: Lanayru Desert - Stone Cache Statue Entrance
   stage: F020
   room: 0
   index: 60
 
-Sky - Lanayru Pillar - Desert Gorge Statue Dive:
+The Sky - Lanayru Pillar - Desert Gorge Statue Dive:
   type: exit
   vanilla: Temple of Time - Desert Gorge Statue Entrance
   stage: F020
   room: 0
   index: 61
 
-Sky - Lanayru Pillar - Temple of Time Statue Dive:
+The Sky - Lanayru Pillar - Temple of Time Statue Dive:
   type: exit
   vanilla: Temple of Time - Temple of Time Statue Entrance
   stage: F020
   room: 0
   index: 62
 
-Sky - Lanayru Pillar - Ancient Harbour Statue Dive:
+The Sky - Lanayru Pillar - Ancient Harbour Statue Dive:
   type: exit
   vanilla: Lanayru Sand Sea Docks - Statue Entrance
   stage: F020
   room: 0
   index: 63
 
-Sky - Lanayru Pillar - Skipper's Retreat Statue Dive:
+The Sky - Lanayru Pillar - Skipper's Retreat Statue Dive:
   type: exit
   vanilla: Skipper's Retreat - Statue Entrance
   stage: F020
   room: 0
   index: 64
 
-Sky - Lanayru Pillar - Shipyard Statue Dive:
+The Sky - Lanayru Pillar - Shipyard Statue Dive:
   type: exit
   vanilla: Shipyard - Statue Entrance
   stage: F020
   room: 0
   index: 65
 
-Sky - Lanayru Pillar - Pirate Stronghold Statue Dive:
+The Sky - Lanayru Pillar - Pirate Stronghold Statue Dive:
   type: exit
   vanilla: Pirate Stronghold - Statue Entrance
   stage: F020
   room: 0
   index: 66
 
-Sky - Lanayru Pillar - Lanayru Gorge Statue Dive:
+The Sky - Lanayru Pillar - Lanayru Gorge Statue Dive:
   type: exit
   vanilla: Lanayru Gorge - Statue Entrance
 
 
-Sky - Lanayru Pillar - Entrance:
+The Sky - Lanayru Pillar - Entrance:
   type: entrance
   province: The Sky
   stage: F020
@@ -1441,7 +1441,7 @@ Sky - Lanayru Pillar - Entrance:
 
 
 
-Sky - Groosenator <<F020/15>> Entrance:
+The Sky - Groosenator <<F020/15>> Entrance:
   type: entrance
   subtype: groosenator
   province: The Sky
@@ -1456,7 +1456,7 @@ Sky - Groosenator <<F020/15>> Entrance:
 
 
 
-Sky - Groosenator <<F020/30>> Entrance:
+The Sky - Groosenator <<F020/30>> Entrance:
   type: entrance
   subtype: groosenator
   province: The Sky
@@ -1473,7 +1473,7 @@ Sky - Groosenator <<F020/30>> Entrance:
 
 ## Thunderhead
 
-Sky - Entrance from Thunderhead:
+The Sky - Entrance from The Thunderhead:
   type: entrance
   province: The Sky
   can-start-at: false
@@ -1483,15 +1483,15 @@ Sky - Entrance from Thunderhead:
   entrance: 28
   tod: 2
 
-Sky - Exit to Thunderhead:
+The Sky - Exit to The Thunderhead:
   type: exit
-  vanilla: Thunderhead - Entrance
+  vanilla: The Thunderhead - Entrance
   stage: F020
   room: 0
   index: 25
 
 
-Thunderhead - Entrance:
+The Thunderhead - Entrance:
   type: entrance
   province: The Sky
   can-start-at: false
@@ -1501,9 +1501,9 @@ Thunderhead - Entrance:
   entrance: 1
   tod: 2
 
-Thunderhead - Exit:
+The Thunderhead - Exit:
   type: exit
-  vanilla: Sky - Entrance from Thunderhead
+  vanilla: The Sky - Entrance from The Thunderhead
   stage: F023
   room: 0
   index: 1
@@ -1580,7 +1580,7 @@ Sealed Grounds Spiral - Statue Entrance:
 
 Sealed Grounds Spiral - Statue Exit:
   type: exit
-  vanilla: Sky - Faron Pillar - Entrance
+  vanilla: The Sky - Faron Pillar - Entrance
   stage: F401
   room: 1
   index: 19
@@ -1589,7 +1589,7 @@ Sealed Grounds Spiral - Statue Exit:
 Sealed Grounds Spiral - Groosenator <<F020/15>> Exit:
   type: exit
   subtype: groosenator
-  vanilla: Sky - Groosenator <<F020/15>> Entrance
+  vanilla: The Sky - Groosenator <<F020/15>> Entrance
   disabled: true
   stage: F401
   room: 1
@@ -1607,7 +1607,7 @@ Sealed Grounds Spiral - Groosenator Bug Heaven Exit:
 Sealed Grounds Spiral - Groosenator <<F020/30>> Exit:
   type: exit
   subtype: groosenator
-  vanilla: Sky - Groosenator <<F020/30>> Entrance
+  vanilla: The Sky - Groosenator <<F020/30>> Entrance
   disabled: true
   stage: F401
   room: 1
@@ -1721,15 +1721,15 @@ Sealed Temple - Side Exit:
 
 Sealed Temple - Gate of Time Exit:
   type: exit
-  vanilla: Hylia's Temple - Gate of Time Entrance
+  vanilla: Temple of Hylia - Gate of Time Entrance
   stage: F402
   room: 2
   index: 5
 
 
-## Hylia's Temple
+## Temple of Hylia
 
-Hylia's Temple - Gate of Time Entrance:
+Temple of Hylia - Gate of Time Entrance:
   type: entrance
   province: Faron Province
   can-start-at: false
@@ -1739,7 +1739,7 @@ Hylia's Temple - Gate of Time Entrance:
   entrance: 1
   tod: 2
 
-Hylia's Temple - Gate of Time Exit:
+Temple of Hylia - Gate of Time Exit:
   type: exit
   vanilla: Sealed Temple - Gate of Time Entrance
   stage: F404
@@ -1764,7 +1764,7 @@ Behind the Temple - Statue Entrance:
 
 Behind the Temple - Statue Exit:
   type: exit
-  vanilla: Sky - Faron Pillar - Entrance
+  vanilla: The Sky - Faron Pillar - Entrance
   stage: F400
   room: 0
   index: 5
@@ -1878,7 +1878,7 @@ Great Tree - The Great Tree Statue Entrance:
 
 Faron Woods - Shared Statue Exit:
   type: exit
-  vanilla: Sky - Faron Pillar - Entrance
+  vanilla: The Sky - Faron Pillar - Entrance
   stage: F100
   room: 0
   index: 10
@@ -1966,17 +1966,17 @@ Faron Woods - Trial Gate Entrance:
 
 Faron Woods - Trial Gate Exit:
   type: exit
-  vanilla: Faron Silent Realm - Entrance
+  vanilla: Farore's Silent Realm - Entrance
 
 ## Trial
 
-Faron Silent Realm - Entrance:
+Farore's Silent Realm - Entrance:
   type: entrance
   province: Faron Province
   can-start-at: false
   tod: 2
 
-Faron Silent Realm - Exit:
+Farore's Silent Realm - Exit:
   type: exit
   vanilla: Faron Woods - Trial Gate Entrance
 
@@ -2233,7 +2233,7 @@ Deep Woods - Deep Woods Statue Entrance:
 
 Deep Woods - Shared Statue Exit:
   type: exit
-  vanilla: Sky - Faron Pillar - Entrance
+  vanilla: The Sky - Faron Pillar - Entrance
   stage: F101
   room: 0
   index: 2
@@ -2303,7 +2303,7 @@ Lake Floria - Floria Waterfall <<Alternate>> Statue Entrance:
 
 Lake Floria - Below Rock - Statue Exit:
   type: exit
-  vanilla: Sky - Faron Pillar - Entrance
+  vanilla: The Sky - Faron Pillar - Entrance
   stage: F102
   room: 3
   index: 0
@@ -2392,7 +2392,7 @@ Floria Waterfall - Statue Entrance:
 
 Floria Waterfall - Statue Exit:
   type: exit
-  vanilla: Sky - Faron Pillar - Entrance
+  vanilla: The Sky - Faron Pillar - Entrance
   stage: F102_1
   room: 0
   index: 3
@@ -2745,21 +2745,21 @@ Eldin Volcano - Temple Entrance Statue Entrance:
 
 Eldin Volcano - Volcano Entrance Statue Exit:
   type: exit
-  vanilla: Sky - Eldin Pillar - Entrance
+  vanilla: The Sky - Eldin Pillar - Entrance
   stage: F200
   room: 0
   index: 0
 
 Eldin Volcano - Volcano East / Volcano Ascent Statue Exit:
   type: exit
-  vanilla: Sky - Eldin Pillar - Entrance
+  vanilla: The Sky - Eldin Pillar - Entrance
   stage: F200
   room: 2
   index: 2
 
 Eldin Volcano - Temple Entrance Statue Exit:
   type: exit
-  vanilla: Sky - Eldin Pillar - Entrance
+  vanilla: The Sky - Eldin Pillar - Entrance
   stage: F200
   room: 4
   index: 2
@@ -2875,7 +2875,7 @@ Eldin Volcano - Exit to Summit:
 
 Eldin Volcano - Trial Gate Exit:
   type: exit
-  vanilla: Eldin Silent Realm - Entrance
+  vanilla: Din's Silent Realm - Entrance
 
 Eldin Volcano - Vent Exit near Ascent:
   type: exit
@@ -2957,13 +2957,13 @@ Thrill Digger Cave - Exit:
 
 ## Trial
 
-Eldin Silent Realm - Entrance:
+Din's Silent Realm - Entrance:
   type: entrance
   province: Eldin Province
   can-start-at: false
   tod: 2
 
-Eldin Silent Realm - Exit:
+Din's Silent Realm - Exit:
   type: exit
   vanilla: Eldin Volcano - Trial Gate Entrance
 
@@ -3056,7 +3056,7 @@ Outside Fire Sanctuary - Statue Entrance:
 
 Outside Fire Sanctuary - Statue Exit:
   type: exit
-  vanilla: Sky - Eldin Pillar - Entrance
+  vanilla: The Sky - Eldin Pillar - Entrance
   stage: F201_3
   room: 0
   index: 2
@@ -3213,7 +3213,7 @@ Fire Sanctuary - Statue Entrance:
 
 Fire Sanctuary - Inner Map Statue Exit:
   type: exit
-  vanilla: Sky - Eldin Pillar - Entrance
+  vanilla: The Sky - Eldin Pillar - Entrance
   disabled: true
   stage: D201_1
   room: 10
@@ -3221,7 +3221,7 @@ Fire Sanctuary - Inner Map Statue Exit:
 
 Fire Sanctuary - Statue Exit:
   type: exit
-  vanilla: Sky - Eldin Pillar - Entrance
+  vanilla: The Sky - Eldin Pillar - Entrance
   stage: D201
   room: 10
   index: 3
@@ -3466,7 +3466,7 @@ Lanayru Mine - Entrance from Desert:
 
 Lanayru Mine - Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F300_1
   room: 0
   index: 0
@@ -3618,7 +3618,7 @@ Lanayru Desert - Lightning Node Entrance:
 
 Lanayru Desert - Shared Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F300
   room: 0
   index: 6
@@ -3681,17 +3681,17 @@ Lanayru Desert - Trial Gate Entrance:
 
 Lanayru Desert - Trial Gate Exit:
   type: exit
-  vanilla: Lanayru Silent Realm - Entrance
+  vanilla: Nayru's Silent Realm - Entrance
 
 ## Trial
 
-Lanayru Silent Realm - Entrance:
+Nayru's Silent Realm - Entrance:
   type: entrance
   province: Lanayru Province
   can-start-at: false
   tod: 2
 
-Lanayru Silent Realm - Exit:
+Nayru's Silent Realm - Exit:
   type: exit
   vanilla: Lanayru Desert - Trial Gate Entrance
 
@@ -3762,7 +3762,7 @@ Temple of Time - Temple of Time Statue Entrance:
 
 Temple of Time - Shared Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F300_4
   room: 0
   index: 2
@@ -3915,7 +3915,7 @@ Lanayru Gorge - Statue Entrance:
 
 Lanayru Gorge - Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
 
 ## Lanayru Sand Sea
 
@@ -4030,7 +4030,7 @@ Lanayru Sand Sea Docks - <<Alternate>> Statue Entrance:
 
 Lanayru Sand Sea Docks - Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F301
   room: 0
   index: 3
@@ -4095,7 +4095,7 @@ Skipper's Retreat - Statue Entrance:
 
 Skipper's Retreat - Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F301_3
   room: 0
   index: 1
@@ -4109,7 +4109,7 @@ Skipper's Retreat - Dock Entrance:
   entrance: 0
   tod: 2
 
-Skipper's Retreat - Shack Entrance:
+Skipper's Retreat - Skipper's Retreat Shack Entrance:
   type: entrance
   province: Lanayru Province
   stage: F301_3
@@ -4125,15 +4125,15 @@ Skipper's Retreat - Dock Exit:
   room: 0
   index: 2
 
-Skipper's Retreat - Shack Exit:
+Skipper's Retreat - Skipper's Retreat Shack Exit:
   type: exit
-  vanilla: Skipper's Retreat - Shack - Entrance
+  vanilla: Skipper's Retreat - Skipper's Retreat Shack - Entrance
   stage: F301_3
   room: 0
   index: 3
 
 
-Skipper's Retreat - Shack - Entrance:
+Skipper's Retreat - Skipper's Retreat Shack - Entrance:
   type: entrance
   province: Lanayru Province
   stage: F301_5
@@ -4142,9 +4142,9 @@ Skipper's Retreat - Shack - Entrance:
   entrance: 0
   tod: 2
 
-Skipper's Retreat - Shack - Exit:
+Skipper's Retreat - Skipper's Retreat Shack - Exit:
   type: exit
-  vanilla: Skipper's Retreat - Shack Entrance
+  vanilla: Skipper's Retreat - Skipper's Retreat Shack Entrance
   stage: F301_5
   room: 0
   index: 0
@@ -4168,7 +4168,7 @@ Shipyard - Statue Entrance:
 
 Shipyard - Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F301_4
   room: 0
   index: 1
@@ -4291,7 +4291,7 @@ Pirate Stronghold - Statue Entrance:
 
 Pirate Stronghold - Statue Exit:
   type: exit
-  vanilla: Sky - Lanayru Pillar - Entrance
+  vanilla: The Sky - Lanayru Pillar - Entrance
   stage: F301_6
   room: 0
   index: 3

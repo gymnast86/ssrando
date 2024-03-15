@@ -448,8 +448,8 @@
     - Baby Rattle from Beedle's Shop
     - Sky Keep Entrance Jump
     - Gravestone Jump
-    - Sky - Volcanic Island Dive
-    - Sky - Beedle's Island Cage Chest Dive
+    - The Sky - Volcanic Island Dive
+    - The Sky - Beedle's Island Cage Chest Dive
     - Thunderhead - East Island Dive
     ## Faron
     - Gym's Rope Jump
@@ -472,7 +472,7 @@
     - Skipper's Retreat Fast Clawshots
     - Pirate Stronghold - Beetle Pillar Checks
     ## Skyview
-    - Skyview - Spider Roll
+    - Skyview Temple - Spider Roll
     - Skyview Slingshot Shot
     ## Earth Temple
     - Earth Temple - Keese Yeet
@@ -559,7 +559,7 @@
   command: impa-sot-hint
   type: boolean
   default: true
-  help: "If enabled, Impa in Hylia's Temple to give a hint to the location of the Stone of Trials.
+  help: "If enabled, Impa in Temple of Hylia to give a hint to the location of the Stone of Trials.
         Does not appear if the Stone of Trials is a starting item."
   ui: option_impa_sot_hint
 - name: Tunic Swap
@@ -731,38 +731,38 @@
   type: multichoice
   default: [
     ## Goddess Cubes
-    Central Skyloft - Bazaar Goddess Chest,
+    Bazaar - Goddess Chest,
     Central Skyloft - Shed Goddess Chest,
     Central Skyloft - West Cliff Goddess Chest,
     Central Skyloft - Floating Island Goddess Chest,
     Central Skyloft - Waterfall Goddess Chest,
-    Sky - Lumpy Pumpkin - Outside Goddess Chest,
-    Sky - Lumpy Pumpkin - Goddess Chest on the Roof,
-    Sky - Bamboo Island Goddess Chest,
-    Sky - Goddess Chest on Island next to Bamboo Island,
-    Sky - Goddess Chest in Cave on Island next to Bamboo Island,
-    Sky - Beedle's Island Goddess Chest,
-    Sky - Beedle's Island Cage Goddess Chest,
-    Sky - Northeast Island Goddess Chest behind Bombable Rocks,
-    Sky - Northeast Island Cage Goddess Chest,
-    Sky - Goddess Chest on Island Closest to Faron Pillar,
-    Sky - Goddess Chest outside Volcanic Island,
-    Sky - Goddess Chest inside Volcanic Island,
-    Sky - Goddess Chest under Fun Fun Island,
-    Sky - Southwest Triple Island Upper Goddess Chest,
-    Sky - Southwest Triple Island Lower Goddess Chest,
-    Sky - Southwest Triple Island Cage Goddess Chest,
-    Thunderhead - Goddess Chest outside Isle of Songs,
-    Thunderhead - Goddess Chest on top of Isle of Songs,
-    Thunderhead - East Island Goddess Chest,
-    Thunderhead - Bug Heaven Goddess Chest,
-    Thunderhead - First Goddess Chest on Mogma Mitts Island,
-    Thunderhead - Second Goddess Chest on Mogma Mitts Island,
+    Lumpy Pumpkin - Outside Goddess Chest,
+    Lumpy Pumpkin - Goddess Chest on Roof,
+    Bamboo Island - Goddess Chest,
+    Island near Bamboo Island - Goddess Chest,
+    Island near Bamboo Island - Goddess Chest in Cave,
+    Beedle's Island - Top Goddess Chest,
+    Beedle's Island - Cage Goddess Chest,
+    Northeast Island - Goddess Chest behind Bombable Rocks,
+    Northeast Island - Cage Goddess Chest,
+    Island Closest to Faron Pillar - Goddess Chest,
+    Volcanic Island - Outside Goddess Chest,
+    Volcanic Island - Inside Goddess Chest,
+    Fun Fun Island - Goddess Chest,
+    Triple Island - Upper Goddess Chest,
+    Triple Island - Lower Goddess Chest,
+    Triple Island - Cage Goddess Chest,
+    Isle of Songs - Lower Goddess Chest,
+    Isle of Songs - Top Goddess Chest,
+    Thunderhead East Island - Goddess Chest,
+    Bug Heaven - Goddess Chest,
+    Mogma Mitts Island - First Goddess Chest,
+    Mogma Mitts Island - Second Goddess Chest,
     ## Minigames
     Upper Skyloft - Pumpkin Archery -- 600 Points,
-    Sky - Lumpy Pumpkin - Harp Minigame,
-    Sky - Fun Fun Island Minigame -- 500 Rupees,
-    Thunderhead - Bug Heaven -- 10 Bugs in 3 Minutes,
+    Lumpy Pumpkin - Harp Minigame,
+    Fun Fun Island - Minigame -- 500 Rupees,
+    Bug Heaven -- 10 Bugs in 3 Minutes,
     Lanayru Sand Sea - Rickety Coaster -- Heart Stopping Track in 1'05,
     ## Peatrice
     Central Skyloft - Peater/Peatrice's Crystals,
@@ -912,8 +912,8 @@
     - Triforce of Wisdom
     - Water Dragon's Scale
     - Whip
-    - Skyview Small Key
-    - Skyview Small Key
+    - Skyview Temple Small Key
+    - Skyview Temple Small Key
     - Lanayru Mining Facility Small Key
     - Ancient Cistern Small Key
     - Ancient Cistern Small Key
@@ -931,7 +931,7 @@
     - Sandship Map
     - Fire Sanctuary Map
     - Sky Keep Map
-    - Skyview Boss Key
+    - Skyview Temple Boss Key
     - Earth Temple Boss Key
     - Lanayru Mining Facility Boss Key
     - Ancient Cistern Boss Key

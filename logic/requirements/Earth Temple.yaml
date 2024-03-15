@@ -75,7 +75,7 @@ Main:
         Room with Slopes: Nothing
         Boss Door: Open Boss Door
       locations:
-        Boss Key Chest: Nothing
+        Chest before Boulder Chase: Nothing
         Open Boss Door: Earth Temple Boss Key
         Stamina Fruit before Boulder Chase 1: Nothing
         Stamina Fruit before Boulder Chase 2: Nothing
@@ -102,7 +102,7 @@ Boss Room:
         # Scaldera can be beaten without bombs, see strats here: http://bombch.us/DPu1
       Beat Scaldera:
         (Bomb Bag & Sword) | Bomb Flower Scaldera
-      Heart Container: Beat Scaldera
+      Defeat Boss: Beat Scaldera
 
 Spring:
   exits:

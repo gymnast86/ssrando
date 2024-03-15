@@ -4,10 +4,10 @@ from .logic import Placement
 
 # Single crystals
 SINGLE_CRYSTAL_CHECKS = [
-    "Upper Skyloft - Crystal in Link's Room",
-    "Upper Skyloft - Crystal in Knight Academy Plant",
-    "Upper Skyloft - Crystal in Zelda's Room",
-    "Upper Skyloft - Crystal in Sparring Hall",
+    "Knight Academy - Crystal in Link's Room",
+    "Knight Academy - Crystal in Knight Academy Plant",
+    "Knight Academy - Crystal in Zelda's Room",
+    "Sparring Hall - Crystal",
     "Central Skyloft - Crystal between Wooden Planks",
     "Central Skyloft - Crystal on West Cliff",
     "Central Skyloft - Crystal in Orielle and Parrow's House",
@@ -16,9 +16,9 @@ SINGLE_CRYSTAL_CHECKS = [
     "Central Skyloft - Crystal after Waterfall Cave",
     "Central Skyloft - Crystal in Loftwing Prison",
     "Central Skyloft - Crystal on Waterfall Island",
-    "Sky - Crystal outside Lumpy Pumpkin",
-    "Sky - Crystal inside Lumpy Pumpkin",
-    "Sky - Crystal on Beedle's Ship",
+    "Lumpy Pumpkin - Outside Crystal",
+    "Lumpy Pumpkin - Inside Crystal",
+    "Beedle's Island - Crystal",
 ]
 
 
@@ -80,8 +80,8 @@ BEEDLE_CHECKS = [
 VANILLA_BEEDLE_PLACEMENT = norm_force_vanilla(BEEDLE_CHECKS)
 
 SMALL_KEY_CHECKS = [
-    "Skyview - Chest behind Two Eyes",
-    "Skyview - Chest behind Three Eyes",
+    "Skyview Temple - Chest behind Two Eyes",
+    "Skyview Temple - Chest behind Three Eyes",
     "Lanayru Mining Facility - First Chest in Hub Room",
     "Ancient Cistern - Chest in East Part",
     "Ancient Cistern - Bokoblin",
@@ -115,12 +115,12 @@ CAVES_KEY_RESTRICTION = norm_values({CAVES_KEY: "Lanayru - Caves"})
 
 
 BOSS_KEY_CHECKS = [
-    "Skyview - Boss Key Chest",
-    "Earth Temple - Boss Key Chest",
-    "Lanayru Mining Facility - Boss Key Chest",
-    "Ancient Cistern - Boss Key Chest",
-    "Sandship - Boss Key Chest",
-    "Fire Sanctuary - Boss Key Chest",
+    "Skyview Temple - Chest after Vines",
+    "Earth Temple - Chest before Boulder Chase",
+    "Lanayru Mining Facility - Chest after Double Armos Fight",
+    "Ancient Cistern - Chest under Stone Statue",
+    "Sandship - Chest in Captain's Cabin",
+    "Fire Sanctuary - Chest after Winged Torches",
 ]
 VANILLA_BOSS_KEYS_PLACEMENT = norm_restrict_vanilla(BOSS_KEY_CHECKS)
 
@@ -136,7 +136,7 @@ DUNGEON_BOSS_KEYS_RESTRICTION = norm_values(
 )
 
 MAP_CHECKS = [
-    "Skyview - Chest on Tree Branch",
+    "Skyview Temple - Chest on Tree Branch",
     "Earth Temple - Chest in West Room",
     "Lanayru Mining Facility - Chest after Armos Fight",
     "Ancient Cistern - Chest after Whip Hooks",
@@ -208,46 +208,46 @@ TADTONE_CHECKS = [
 VANILLA_TADTONE_PLACEMENT = norm_restrict_vanilla(TADTONE_CHECKS)
 
 TRIAL_RELIC_CHECKS = [
-    "Skyloft Silent Realm - Relic 1",
-    "Skyloft Silent Realm - Relic 2",
-    "Skyloft Silent Realm - Relic 3",
-    "Skyloft Silent Realm - Relic 4",
-    "Skyloft Silent Realm - Relic 5",
-    "Skyloft Silent Realm - Relic 6",
-    "Skyloft Silent Realm - Relic 7",
-    "Skyloft Silent Realm - Relic 8",
-    "Skyloft Silent Realm - Relic 9",
-    "Skyloft Silent Realm - Relic 10",
-    "Faron Silent Realm - Relic 1",
-    "Faron Silent Realm - Relic 2",
-    "Faron Silent Realm - Relic 3",
-    "Faron Silent Realm - Relic 4",
-    "Faron Silent Realm - Relic 5",
-    "Faron Silent Realm - Relic 6",
-    "Faron Silent Realm - Relic 7",
-    "Faron Silent Realm - Relic 8",
-    "Faron Silent Realm - Relic 9",
-    "Faron Silent Realm - Relic 10",
-    "Lanayru Silent Realm - Relic 1",
-    "Lanayru Silent Realm - Relic 2",
-    "Lanayru Silent Realm - Relic 3",
-    "Lanayru Silent Realm - Relic 4",
-    "Lanayru Silent Realm - Relic 5",
-    "Lanayru Silent Realm - Relic 6",
-    "Lanayru Silent Realm - Relic 7",
-    "Lanayru Silent Realm - Relic 8",
-    "Lanayru Silent Realm - Relic 9",
-    "Lanayru Silent Realm - Relic 10",
-    "Eldin Silent Realm - Relic 1",
-    "Eldin Silent Realm - Relic 2",
-    "Eldin Silent Realm - Relic 3",
-    "Eldin Silent Realm - Relic 4",
-    "Eldin Silent Realm - Relic 5",
-    "Eldin Silent Realm - Relic 6",
-    "Eldin Silent Realm - Relic 7",
-    "Eldin Silent Realm - Relic 8",
-    "Eldin Silent Realm - Relic 9",
-    "Eldin Silent Realm - Relic 10",
+    "The Goddess's Silent Realm - Relic 1",
+    "The Goddess's Silent Realm - Relic 2",
+    "The Goddess's Silent Realm - Relic 3",
+    "The Goddess's Silent Realm - Relic 4",
+    "The Goddess's Silent Realm - Relic 5",
+    "The Goddess's Silent Realm - Relic 6",
+    "The Goddess's Silent Realm - Relic 7",
+    "The Goddess's Silent Realm - Relic 8",
+    "The Goddess's Silent Realm - Relic 9",
+    "The Goddess's Silent Realm - Relic 10",
+    "Farore's Silent Realm - Relic 1",
+    "Farore's Silent Realm - Relic 2",
+    "Farore's Silent Realm - Relic 3",
+    "Farore's Silent Realm - Relic 4",
+    "Farore's Silent Realm - Relic 5",
+    "Farore's Silent Realm - Relic 6",
+    "Farore's Silent Realm - Relic 7",
+    "Farore's Silent Realm - Relic 8",
+    "Farore's Silent Realm - Relic 9",
+    "Farore's Silent Realm - Relic 10",
+    "Nayru's Silent Realm - Relic 1",
+    "Nayru's Silent Realm - Relic 2",
+    "Nayru's Silent Realm - Relic 3",
+    "Nayru's Silent Realm - Relic 4",
+    "Nayru's Silent Realm - Relic 5",
+    "Nayru's Silent Realm - Relic 6",
+    "Nayru's Silent Realm - Relic 7",
+    "Nayru's Silent Realm - Relic 8",
+    "Nayru's Silent Realm - Relic 9",
+    "Nayru's Silent Realm - Relic 10",
+    "Din's Silent Realm - Relic 1",
+    "Din's Silent Realm - Relic 2",
+    "Din's Silent Realm - Relic 3",
+    "Din's Silent Realm - Relic 4",
+    "Din's Silent Realm - Relic 5",
+    "Din's Silent Realm - Relic 6",
+    "Din's Silent Realm - Relic 7",
+    "Din's Silent Realm - Relic 8",
+    "Din's Silent Realm - Relic 9",
+    "Din's Silent Realm - Relic 10",
 ]
 
 

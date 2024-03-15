@@ -52,9 +52,9 @@ global:
     - 80  # Water Dragon in Flooded Faron Cutscene
     ## Silent Realms
     - 70  # First time Light Fruit Cutscene
-    - 94  # Faron Silent Realm Intro Cutscene
-    - 205 # Lanayru Silent Realm Intro Cutscene
-    - 330 # Eldin Silent Realm Intro Cutscene
+    - 94  # Farore's Silent Realm Intro Cutscene
+    - 205 # Nayru's Silent Realm Intro Cutscene
+    - 330 # Din's Silent Realm Intro Cutscene
     - 331 # Hylia's Silent Realm Intro Cutscene
     ## Dungeons
     - 89  # Skyview Intro Cutscene
@@ -124,7 +124,7 @@ global:
       - onlyif: Option "triforce-required" Disabled
         flag: 50 # horde door open
       - onlyif: Option "skip-horde" Enabled
-        flag: 51 # door from Hylia's Realm to Hylia's Temple unlocked (since horde is skipped, this is never set)
+        flag: 51 # door from Hylia's Realm to Temple of Hylia unlocked (since horde is skipped, this is never set)
       - 39 # Log to Behind the Temple pushed down
       - 55 # First time landing cutscene
     Ancient Cistern:
@@ -2417,7 +2417,7 @@ D101: # Ancient Cistern
       flag6: 0
       zero: 0
       saveprompt: 0
-  - name: Move Rupee under Lilypad # So it doesn't get caught up in the water stream
+  - name: Move Rupee under Lilypad after Pipes # So it doesn't get caught up in the water stream
     type: objpatch
     id: 0xFC22
     layer: 0
@@ -5215,7 +5215,7 @@ F400: # Behind the Temple
     layer: 0
     room: 0
     objtype: STAG
-F404: # Hylia's Temple
+F404: # Temple of Hylia
   - name: Layer override
     type: layeroverride
     override:
@@ -5345,7 +5345,7 @@ F407: # Sky Keep beaten CS
   #     room: 0
   #     layer: 0
   #     entrance: 52 # where you spawn after opening sky keep
-S000: # Skyloft Silent Realm
+S000: # The Goddess's Silent Realm
   - name: Trial completed storyflag
     type: objpatch
     id: 0xFC26
@@ -5354,7 +5354,7 @@ S000: # Skyloft Silent Realm
     objtype: OBJ
     object:
       params2: 0xFF7F039A # storyflag 922
-S100: # Faron Silent Realm
+S100: # Farore's Silent Realm
   - name: Fi text near waking water
     type: objdelete
     id: 0xFCDB
@@ -5369,7 +5369,7 @@ S100: # Faron Silent Realm
     objtype: OBJ
     object:
       params2: 0xFF7F0397 # storyflag 919
-S200: # Eldin Silent Realm
+S200: # Din's Silent Realm
   - name: Trial completed storyflag
     type: objpatch
     id: 0xFC37
@@ -5385,7 +5385,7 @@ S200: # Eldin Silent Realm
     objtype: SCEN
     object:
       layer: 0
-S300: # Lanayru Silent Realm
+S300: # Nayru's Silent Realm
   - name: Trial completed storyflag
     type: objpatch
     id: 0xFC18

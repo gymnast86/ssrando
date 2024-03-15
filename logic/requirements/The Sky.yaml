@@ -1,24 +1,28 @@
 # File name is area name (so sky)
 allowed-time-of-day: DayOnly
-hint-region: Sky
+hint-region: The Sky
 
 North East:
   exits:
     Beedle's Island - Top: Nothing
-    Beedle's Island - Cage: Sky - Beedle's Island Cage Chest Dive Trick
+    Beedle's Island - Cage: The Sky - Beedle's Island Cage Chest Dive Trick
     # Getting this Chest during the day is possible but rather difficult
-    Sky - South East: Nothing
-    Sky - Around Skyloft: Nothing
+    The Sky - South East: Nothing
+    The Sky - Around Skyloft: Nothing
   locations:
-    Goddess Chest on Island next to Bamboo Island: Eldin - Goddess Cube near Mogma Turf Entrance
-    Goddess Chest in Cave on Island next to Bamboo Island: Lanayru - Goddess Cube in Secret Passageway & Water Dragon's Scale
-    Northeast Island Goddess Chest behind Bombable Rocks:
-      Lanayru - Goddess Cube at Lanayru Mine Entrance & Bomb Bag # (Bomb Bag | Can RBM 4x01)
-      # Scene Flag 4x01 is "Blow Up rocks on northeastern island"
-    Northeast Island Cage Goddess Chest: Eldin - Goddess Cube East of Earth Temple Entrance
     Form a Squirrel Ring above Volcanic Island: Nothing
     Form a Squirrel Ring above Lumpy Pumpkin: Nothing
     Form a Squirrel Ring above Bamboo Island: Nothing
+
+  Island near Bamboo Island:
+    locations:
+      Goddess Chest: Eldin - Goddess Cube near Mogma Turf Entrance
+      Goddess Chest in Cave: Lanayru - Goddess Cube in Secret Passageway & Water Dragon's Scale
+
+  Northeast Island:
+    locations:
+      Goddess Chest behind Bombable Rocks: Lanayru - Goddess Cube at Lanayru Mine Entrance & Bomb Bag
+      Cage Goddess Chest: Eldin - Goddess Cube East of Earth Temple Entrance
 
   Eldin Pillar:
     entrance: Nothing
@@ -31,64 +35,65 @@ North East:
       Temple Entrance Statue Dive:    Ruby Tablet & Eldin - Volcano - Near Temple Entrance - Unlock Statue
       Inside the Volcano Statue Dive: Ruby Tablet & Eldin - Volcano Summit - Unlock Statue
       Fire Sanctuary Statue Dive:     Ruby Tablet & Fire Sanctuary - Main - Front of Boss Door - Unlock Statue
-      Sky - North East: Nothing
+      The Sky - North East: Nothing
 
-  Bamboo Island:
-    # Outside
-    entrance: Nothing
+Bamboo Island:
+  # Outside
+  entrance: Nothing
+  exits:
+    North East: Day
+    Exit to Bamboo Island Interior: Nothing
+  locations:
+    Goddess Chest: Eldin - Goddess Cube West of Earth Temple Entrance
+    Slingshot Left Lantern: Slingshot
+    Slingshot Middle Lantern: Slingshot
+    Slingshot Right Lantern: Slingshot
+
+Bamboo Island Interior:
+  exits:
+    Exit: Nothing
+  locations:
+    Clean Cut Minigame: Sword
+    Bonk Southwest Sprout: Nothing
+    Bonk West Sprout: Nothing
+    Bonk East Sprout: Nothing
+    Bonk Southeast Sprout: Nothing
+    Gossip Stone: Nothing
+
+Beedle's Island:
+  allowed-time-of-day: Both
+  entrance: Nothing
+  exits:
+    North East: Day
+    Beedle's Ship: Night
+    Cage: Night
+  locations:
+    Crystal: Night & Beetle
+    Beedle's Crystals: Horned Colossus Beetle & Night
+
+  Top:
     exits:
-      North East: Day
-      Exit to Inside: Nothing
+      Beedle's Island: Nothing
     locations:
-      Bamboo Island Goddess Chest: Eldin - Goddess Cube West of Earth Temple Entrance
-      Slingshot Left Lantern: Slingshot
-      Slingshot Middle Lantern: Slingshot
-      Slingshot Right Lantern: Slingshot
+      Top Goddess Chest: Lanayru - Goddess Cube at Ride near Temple of Time
 
-    Inside:
-      exits:
-        Exit: Nothing
-      locations:
-        Clean Cut Minigame: Sword
-        Bonk Southwest Sprout: Nothing
-        Bonk West Sprout: Nothing
-        Bonk East Sprout: Nothing
-        Bonk Southeast Sprout: Nothing
-        Gossip Stone on Bamboo Island: Nothing
-
-  Beedle's Island:
-    allowed-time-of-day: Both
-    entrance: Nothing
+  Cage:
     exits:
-      North East: Day
-      Beedle's Ship: Night
-      Cage: Night
+      Beedle's Island: Nothing
     locations:
-      Crystal on Beedle's Ship: Night & Beetle
-      Beedle's Crystals: Horned Colossus Beetle & Night
+      Cage Goddess Chest: Faron - Goddess Cube on top of Skyview
 
-    Top:
-      exits:
-        Beedle's Island: Nothing
-      locations:
-        Beedle's Island Goddess Chest: Lanayru - Goddess Cube at Ride near Temple of Time
-
-    Cage:
-      exits:
-        Beedle's Island: Nothing
-      locations:
-        Beedle's Island Cage Goddess Chest: Faron - Goddess Cube on top of Skyview
 
 South East:
   exits:
-    Sky - North East: Nothing
-    Sky - South West: Nothing
-    Sky - Around Skyloft: Nothing
+    The Sky - North East: Nothing
+    The Sky - South West: Nothing
+    The Sky - Around Skyloft: Nothing
   locations:
     Chest in Breakable Boulder near Lumpy Pumpkin:
       Spiral Charge #| Can RBM 4x02
       # Scene Flag 4x02 is "Break Boulder near Lumpy Pumpkin with Spiral Charge"
-    Goddess Chest on Island Closest to Faron Pillar: Faron - Goddess Cube in Deep Woods
+    
 
   Faron Pillar:
     entrance: Nothing
@@ -104,8 +109,12 @@ South East:
       Forest Temple Statue Dive:     Emerald Tablet & Faron - Deep Woods - Unlock Forest Temple Statue
       The Great Tree Statue Dive:    Emerald Tablet & Faron - Great Tree - Unlock Statue
       Lake Floria Statue Dive:       Emerald Tablet & Faron - Lake Floria - Below Rock - Unlock Statue
-      Floria Waterfall Statue Dive:  Emerald Tablet & Faron - Lake Floria - Waterfall - Unlock Statue
+      Floria Waterfall Statue Dive:  Emerald Tablet & Faron - Floria Waterfall - Unlock Statue
       South East: Nothing
+
+  Island Closest to Faron Pillar:
+    locations:
+      Goddess Chest: Faron - Goddess Cube in Deep Woods
 
   Lumpy Pumpkin:
     allowed-time-of-day: Both
@@ -118,12 +127,12 @@ South East:
       Main Left Door: Nothing
       Back Door: Nothing
     locations:
-      Crystal outside Lumpy Pumpkin: Night
+      Outside Crystal: Night
       Outside Goddess Chest: Faron - Initial Goddess Cube
-      Goddess Chest on the Roof: Skyview - Goddess Cube in Skyview Spring & Day
+      Goddess Chest on Roof: Skyview Temple - Goddess Cube in Skyview Spring & Day
       Start Kina's Quest: Complete Hot Soup Delivery & Day
       Kina's Crystals: Eldin - Pick up Guld & Day
-      Gossip Stone on Lumpy Pumpkin: Nothing
+      Gossip Stone: Nothing
       Pumpkin Carrying: Complete Hot Soup Delivery & Day
       Slingshot Left Canopy Lantern: Slingshot
       Slingshot Right Canopy Lantern: Slingshot
@@ -139,8 +148,9 @@ South East:
         Back Door: Nothing
       locations:
         Chandelier: Break the Chandelier
-        Crystal inside Lumpy Pumpkin: Night
+        Inside Crystal: Night
         Break the Chandelier: Nothing
+        Pumm and Kina's Closet: Nothing
         Start Hot Soup Delivery: Break the Chandelier & Bottle
         Complete Hot Soup Delivery: Skyloft - Delivered Hot Soup
         Play the Harp with Kina: # Play the harp
@@ -150,8 +160,8 @@ South East:
 
 South West:
   exits:
-    Sky - South East: Nothing
-    Sky - Around Skyloft: Nothing
+    The Sky - South East: Nothing
+    The Sky - Around Skyloft: Nothing
   locations:
     Chest in Breakable Boulder near Fun Fun Island:
       Spiral Charge #| Can RBM 4x04
@@ -169,28 +179,28 @@ South West:
       Temple of Time Statue Dive:     Amber Tablet & Lanayru - Temple of Time - Inside - Unlock Statue
       North Desert Statue Dive:       Amber Tablet & Lanayru - Desert - North Part - Unlock Statue
       Stone Cache Statue Dive:        Amber Tablet & Lanayru - Desert - East - Unlock Statue
-      Ancient Harbour Statue Dive:    Amber Tablet & Lanayru - Lanayru Sand Sea - Ancient Harbour - Unlock Statue
-      Skipper's Retreat Statue Dive:  Amber Tablet & Lanayru - Lanayru Sand Sea - Skipper's Retreat - Unlock Statue
-      Shipyard Statue Dive:           Amber Tablet & Lanayru - Lanayru Sand Sea - Shipyard - Unlock Statue
-      Pirate Stronghold Statue Dive:  Amber Tablet & Lanayru - Lanayru Sand Sea - Pirate Stronghold - Unlock Statue
+      Ancient Harbour Statue Dive:    Amber Tablet & Lanayru - Ancient Harbour - Unlock Statue
+      Skipper's Retreat Statue Dive:  Amber Tablet & Lanayru - Skipper's Retreat - Unlock Statue
+      Shipyard Statue Dive:           Amber Tablet & Lanayru - Shipyard - Unlock Statue
+      Pirate Stronghold Statue Dive:  Amber Tablet & Lanayru - Pirate Stronghold - Unlock Statue
       Lanayru Gorge Statue Dive:      Amber Tablet & Lanayru - Gorge - Unlock Statue
-      Sky - South West: Nothing
+      The Sky - South West: Nothing
 
   Volcanic Island:
     entrance: Nothing
     exits:
       South West: Day
     locations:
-      Goddess Chest outside Volcanic Island: Lanayru - Goddess Cube in Sand Oasis
-      Goddess Chest inside Volcanic Island:
-        Faron - Goddess Cube on East Great Tree with Clawshots Target & (Clawshots | Sky - Volcanic Island Dive Trick)
+      Outside Goddess Chest: Lanayru - Goddess Cube in Sand Oasis
+      Inside Goddess Chest:
+        Faron - Goddess Cube on East Great Tree with Clawshots Target & (Clawshots | The Sky - Volcanic Island Dive Trick)
         # Normally you would need clawshots, but you can skip them with a good dive
-      Gossip Stone on Volcanic Island: Nothing
+      Gossip Stone: Nothing
 
   Orielle's Island:
     entrance: Nothing
     exits:
-      Sky - South West: Day
+      The Sky - South West: Day
     locations:
       Talk to Orielle: Nothing
       Save Orielle: Bottle
@@ -200,29 +210,29 @@ South West:
   Fun Fun Island:
     entrance: Nothing
     exits:
-      Sky - South West: Day
+      The Sky - South West: Day
     locations:
       Start Dodoh's Quest: Nothing
       Dodoh's Crystals: Lanayru - Retrieve Party Wheel
-      Fun Fun Island Minigame -- 500 Rupees: Fun Fun Island Minigame
-      Goddess Chest under Fun Fun Island: Faron - Goddess Cube in Floria Waterfall
+      Minigame -- 500 Rupees: Fun Fun Island Minigame
+      Goddess Chest: Faron - Goddess Cube in Floria Waterfall
       Fun Fun Island Minigame: Lanayru - Retrieve Party Wheel
 
   Triple Island:
     entrance: Nothing
     exits:
-      Sky - South West: Day
+      The Sky - South West: Day
     locations:
-      Southwest Triple Island Upper Goddess Chest: Eldin - Goddess Cube at Eldin Entrance
-      Southwest Triple Island Lower Goddess Chest: Lanayru - Goddess Cube near Caged Robot
-      Southwest Triple Island Cage Goddess Chest: Lanayru - Goddess Cube in Skipper's Retreat & Clawshots
+      Upper Goddess Chest: Eldin - Goddess Cube at Eldin Entrance
+      Lower Goddess Chest: Lanayru - Goddess Cube near Caged Robot
+      Cage Goddess Chest: Lanayru - Goddess Cube in Skipper's Retreat & Clawshots
 
 Around Skyloft: # Also North West minus Thunderhead
   exits:
-    Sky - North East: Nothing
-    Sky - South West: Nothing
-    Sky - South East: Nothing
-    Exit to Thunderhead: Open Thunderhead option | Ballad of the Goddess
+    The Sky - North East: Nothing
+    The Sky - South West: Nothing
+    The Sky - South East: Nothing
+    Exit to The Thunderhead: Open Thunderhead option | Ballad of the Goddess
     Exit to Skyloft: Nothing
     # Bridge to Goddess Statue Landing: Nothing
     # Knight Academy Landing: Nothing
@@ -231,10 +241,10 @@ Around Skyloft: # Also North West minus Thunderhead
     # Village Landing: Nothing
     # others I forgot: null
 
-Thunderhead:
-  hint-region: Thunderhead
+The Thunderhead:
+  hint-region: The Thunderhead
   locations:
-    Song from Levias: Sky - Lumpy Pumpkin - Pick up Levias' Soup & Spiral Charge & Scrapper & Sword
+    Song from Levias: Lumpy Pumpkin - Pick up Levias' Soup & Spiral Charge & Scrapper & Sword
       # Get the soup, fight Bilocyte
   exits:
     Exit: Nothing
@@ -243,11 +253,11 @@ Thunderhead:
     # Outside
     entrance: Nothing
     exits:
-      Thunderhead: Day
+      The Thunderhead: Day
       Exit to Inside: Puzzle Solved
     locations:
-      Goddess Chest outside Isle of Songs: Eldin - Goddess Cube in Mogma Turf
-      Goddess Chest on top of Isle of Songs: Eldin - Goddess Cube near Fire Sanctuary Entrance
+      Lower Goddess Chest: Eldin - Goddess Cube in Mogma Turf
+      Top Goddess Chest: Eldin - Goddess Cube near Fire Sanctuary Entrance
       Puzzle Solved: Nothing
 
     Inside:
@@ -258,31 +268,32 @@ Thunderhead:
         Strike Crest with Longsword: Goddess Longsword
         Strike Crest with White Sword: Goddess White Sword
 
-  East Island:
+Thunderhead East Island:
     entrance: Nothing
     exits:
-      Thunderhead: Day
+      The Thunderhead: Day
     locations:
-      East Island Goddess Chest: Faron - Goddess Cube on East Great Tree with Rope
-      East Island Chest: Digging Mitts | Thunderhead - East Island Dive Trick
+      Goddess Chest: Faron - Goddess Cube on East Great Tree with Rope
+      Chest: Digging Mitts | Thunderhead - East Island Dive Trick
 
-  Mogma Mitts Island:
-    entrance: Nothing
-    exits:
-      Thunderhead: Day
-    locations:
-      First Goddess Chest on Mogma Mitts Island: Eldin - Goddess Cube inside Volcano Summit & Mogma Mitts
-      Second Goddess Chest on Mogma Mitts Island: Lanayru - Goddess Cube in Lanayru Gorge & Mogma Mitts
+Mogma Mitts Island:
+  entrance: Nothing
+  exits:
+    The Thunderhead: Day
+  locations:
+    First Goddess Chest: Eldin - Goddess Cube inside Volcano Summit & Mogma Mitts
+    Second Goddess Chest: Lanayru - Goddess Cube in Lanayru Gorge & Mogma Mitts
 
-  Bug Heaven:
-    entrance: Nothing
-    exits:
-      Thunderhead: Day
-    locations:
-      Bug Heaven -- 10 Bugs in 3 Minutes: Bug Net
-      Bug Heaven Goddess Chest: Eldin - Goddess Cube in Summit Waterfall
-      Gossip Stone near Bug Heaven: Nothing
-      Stamina Fruit near Start: Nothing
-      Stamina Fruit in front of Wooden Plank: Nothing
-      Stamina Fruit in Center Room: Nothing
-      Stamina Fruit on top of Slope: Nothing
+Bug Heaven:
+  hint-region: The Thunderhead
+  entrance: Nothing
+  exits:
+    The Thunderhead: Day
+  locations:
+    Bug Heaven -- 10 Bugs in 3 Minutes: Bug Net
+    Goddess Chest: Eldin - Goddess Cube in Summit Waterfall
+    Nearby Gossip Stone: Nothing
+    Stamina Fruit near Start: Nothing
+    Stamina Fruit in front of Wooden Plank: Nothing
+    Stamina Fruit in Center Room: Nothing
+    Stamina Fruit on top of Slope: Nothing

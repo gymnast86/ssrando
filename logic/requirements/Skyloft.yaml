@@ -10,7 +10,7 @@ Upper Skyloft:
     Knight Academy Chimney Entrance: Clawshots
     Sparring Hall Right Door: Nothing
     Sparring Hall Left Door: Nothing
-    Goddess Statue: Nothing
+    Inside the Statue of the Goddess: Nothing
     Central Skyloft: Nothing
   locations:
     Owlan's Gift: Day
@@ -25,71 +25,75 @@ Upper Skyloft:
     Slingshot Right Lamp outside Upper Academy Doors: Slingshot
     Slingshot Left Lamp outside Sparring Hall Doors: Slingshot
     Slingshot Right Lamp outside Sparring Hall Doors: Slingshot
+    Ring Knight Academy Bell: Distance Activator | (Bomb Bag & Bomb Throws Trick)
 
-  Knight Academy:
+Knight Academy:
+  hint-region: Upper Skyloft
+  can-sleep: true
+  exits:
+    Upper Right Door: Nothing
+    Upper Left Door: Nothing
+    Lower Right Door: Day
+    Lower Left Door: Day
+  locations:
+    Fledge's Gift: Nothing
+    Crystal in Knight Academy Plant: Night
+    Start Owlan's Quest: Faron - Faron Woods - All Kikwis Saved
+    Owlan's Crystals: Faron - Faron Woods - Retrieve Oolo & Day
+    Knock on Toilet Door: Goddess's Harp & Night
+    Item from Cawlin: Day
+    Ghost/Pipit's Crystals: Cawlin's Letter & Day
+    Fledge's Crystals: Bazaar - Endurance Potion & Night
+    Bonk Classroom Bookshelf: Nothing
+    Bonk Headmaster Gaepora's Bookshelf: Nothing
+    In Fledge's Closet: Nothing
+    In Groose's Closet: Nothing
+    In Owlan's Closet: Nothing
+    In Karane's Closet: Nothing
+
+  Link's Room:
     can-sleep: true
+    entrance: Nothing
     exits:
-      Upper Right Door: Nothing
-      Upper Left Door: Nothing
-      Lower Right Door: Day
-      Lower Left Door: Day
+      Start Entrance: Impossible
+      Knight Academy: Nothing
     locations:
-      Fledge's Gift: Nothing
-      Crystal in Knight Academy Plant: Night
-      Start Owlan's Quest: Faron - Faron Woods - All Kikwis Saved
-      Owlan's Crystals: Faron - Faron Woods - Retrieve Oolo & Day
-      Knock on Toilet Door: Goddess's Harp & Night
-      Item from Cawlin: Day
-      Ghost/Pipit's Crystals: Cawlin's Letter & Day
-      Fledge's Crystals: Central Skyloft - Bazaar - Endurance Potion & Night
-      Bonk Classroom Bookshelf: Nothing
-      Bonk Headmaster Gaepora's Bookshelf: Nothing
-      In Fledge's Closet: Nothing
-      In Groose's Closet: Nothing
-      In Owlan's Closet: Nothing
-      In Karane's Closet: Nothing
+      Crystal in Link's Room: Night
+      In Link's Closet: Nothing
 
-    Link's Room:
-      can-sleep: true
-      entrance: Nothing
-      exits:
-        Start Entrance: Impossible
-        Knight Academy: Nothing
-      locations:
-        Crystal in Link's Room: Night
-        In Link's Closet: Nothing
-
-    Zelda's Room:
-      entrance:
-        Unlocked Zelda's Room
-      exits:
-        Chimney: Impossible
-        Knight Academy: Nothing
-      locations:
-        Unlocked Zelda's Room: Nothing
-        Crystal in Zelda's Room: Night
-        In Zelda's Closet: Nothing
-        Rupee in Chimney Crawlspace 1: Nothing
-        Rupee in Chimney Crawlspace 2: Nothing
-        Rupee in Chimney Crawlspace 3: Nothing
-        Rupee in Chimney Crawlspace 4: Nothing
-        Rupee in Chimney Crawlspace 5: Nothing
-
-  Sparring Hall:
+  Zelda's Room:
+    entrance:
+      Unlocked Zelda's Room
     exits:
-      Right Door: Nothing
-      Left Door: Nothing
+      Chimney: Impossible
+      Knight Academy: Nothing
     locations:
-      Crystal in Sparring Hall: Beetle & Night
-      Sparring Hall Chest: Nothing
-      Delivered Hot Soup: Sky - Lumpy Pumpkin - Start Hot Soup Delivery
+      Unlocked Zelda's Room: Nothing
+      Crystal in Zelda's Room: Night
+      In Zelda's Closet: Nothing
+      Rupee in Chimney Crawlspace 1: Nothing
+      Rupee in Chimney Crawlspace 2: Nothing
+      Rupee in Chimney Crawlspace 3: Nothing
+      Rupee in Chimney Crawlspace 4: Nothing
+      Rupee in Chimney Crawlspace 5: Nothing
 
-  Goddess Statue:
-    exits:
-      Exit: Nothing
-    locations:
-      First Goddess Sword Item in Goddess Statue: Nothing
-      Second Goddess Sword Item in Goddess Statue: Nothing
+Sparring Hall:
+  hint-region: Upper Skyloft
+  exits:
+    Right Door: Nothing
+    Left Door: Nothing
+  locations:
+    Crystal: Beetle & Night
+    Chest: Nothing
+    Delivered Hot Soup: Lumpy Pumpkin - Start Hot Soup Delivery
+
+Inside the Statue of the Goddess:
+  hint-region: Upper Skyloft
+  exits:
+    Exit: Nothing
+  locations:
+    First Goddess Sword Item: Nothing
+    Second Goddess Sword Item: Nothing
 
 Central Skyloft:
   hint-region: Central Skyloft
@@ -116,11 +120,11 @@ Central Skyloft:
     Crystal on West Cliff: Night
     Crystal on Light Tower: Night
     West Cliff Goddess Chest: Faron - Goddess Cube on West Great Tree near Exit
-    Parrow's Gift: Sky - Talk to Orielle & Day
-    Parrow's Crystals: Sky - Save Orielle & Day
+    Parrow's Gift: The Sky - Talk to Orielle & Day
+    Parrow's Crystals: The Sky - Save Orielle & Day
     Shed Chest: Water Dragon's Scale
     Shed Goddess Chest: Water Dragon's Scale & Eldin - Goddess Cube on Sand Slide
-    Bird Nest - Item in Bird Nest:
+    Bird Nest - Item in Bird's Nest:
       Baby Rattle from Beedle's Shop Trick & Day & Distance Activator & Gust Bellows & (Beetle | Whip)
     Open Trial Gate: Goddess's Harp & Song of the Hero
     General - Can Collect Water: Nothing
@@ -157,42 +161,12 @@ Central Skyloft:
     exits:
       Central Skyloft: Nothing
     locations:
-      Item in Bird Nest: Gust Bellows
+      Item in Bird's Nest: Gust Bellows
       Central Skyloft - North Rupee in Bird's Nest: Nothing
       Central Skyloft - South Rupee in Bird's Nest: Nothing
       Central Skyloft - East Rupee in Bird's Nest: Nothing
       Central Skyloft - West Rupee in Bird's Nest: Nothing
-
-  Bazaar:
-    allowed-time-of-day: DayOnly
-    exits:
-      North Exit: Nothing
-      West Exit: Nothing
-      South Exit: Nothing
-    locations:
-      Potion Lady's Gift: Nothing
-      # Repair Gondo's Junk: Ancient Flower Farming
-      Bazaar Goddess Chest: Lanayru - Goddess Cube in Ancient Harbour
-      Endurance Potion: Bottle & Lanayru - Raise Lanayru Mining Facility
-      Talk to Peatrice: Nothing
-      Item Check Access: Nothing
-
-    Gondo's Upgrades:
-      entrance: Gondo Upgrades On option
-      exits:
-        Bazaar: Nothing
-      locations:
-        Upgrade to Quick Beetle:
-          $ Hook Beetle &
-          Faron - Deep Woods - Hornet Larvae Farming &
-          General - Ancient Flower Farming &
-          Sky - Clean Cut Minigame # Golden Skull farming
-        Upgrade to Tough Beetle:
-          $ Quick Beetle &
-          Faron - Faron Woods - Amber Relic Farming &
-          General - Ancient Flower Farming &
-          Sky - Clean Cut Minigame # Goddess Plumes / Blue Bird Feathers farming
-
+  
   Orielle and Parrow's House:
     can-sleep: true
     exits:
@@ -200,8 +174,8 @@ Central Skyloft:
     locations:
       Crystal in Orielle and Parrow's House: Nothing
       Orielle and Parrow's Closet: Nothing
-      Central Skyloft - Parrow's Gift: Sky - Talk to Orielle & Night
-      Central Skyloft - Parrow's Crystals: Sky - Save Orielle & Night
+      Central Skyloft - Parrow's Gift: The Sky - Talk to Orielle & Night
+      Central Skyloft - Parrow's Crystals: The Sky - Save Orielle & Night
 
   Peatrice's House:
     can-sleep: true
@@ -267,12 +241,43 @@ Central Skyloft:
       Crystal after Waterfall Cave: Night
       Crystal in Loftwing Prison: Night
 
-Skyloft Silent Realm:
-  hint-region: Skyloft Silent Realm
+Bazaar:
+  hint-region: Central Skyloft
+  allowed-time-of-day: DayOnly
+  exits:
+    North Exit: Nothing
+    West Exit: Nothing
+    South Exit: Nothing
+  locations:
+    Potion Lady's Gift: Nothing
+    # Repair Gondo's Junk: Ancient Flower Farming
+    Goddess Chest: Lanayru - Goddess Cube in Ancient Harbour
+    Endurance Potion: Bottle & Lanayru - Raise Lanayru Mining Facility
+    Talk to Peatrice: Nothing
+    Item Check Access: Nothing
+
+  Gondo's Upgrades:
+    entrance: Gondo Upgrades On option
+    exits:
+      Bazaar: Nothing
+    locations:
+      Upgrade to Quick Beetle:
+        $ Hook Beetle &
+        Faron - Deep Woods - Hornet Larvae Farming &
+        General - Ancient Flower Farming &
+        The Sky - Clean Cut Minigame # Golden Skull farming
+      Upgrade to Tough Beetle:
+        $ Quick Beetle &
+        Faron - Faron Woods - Amber Relic Farming &
+        General - Ancient Flower Farming &
+        The Sky - Clean Cut Minigame # Goddess Plumes / Blue Bird Feathers farming
+
+The Goddess's Silent Realm:
+  hint-region: The Goddess's Silent Realm
   exits:
     Exit: Nothing
   locations:
-    Trial Reward: Nothing
+    Collect all Tears Reward: Nothing
     Stamina Fruit on Knight Academy Ledge: Nothing
     # Relic 1: Nothing
     # Relic 2: Nothing
@@ -343,20 +348,20 @@ Skyloft Village:
     locations:
       Rupin's Closet: Nothing
 
-  Batreaux's House:
-    hint-region: Batreaux's House
-    exits:
-      Exit: Nothing
-    locations:
-      5 Crystals: 5 Gratitude Crystals
-      10 Crystals: 10 Gratitude Crystals
-      30 Crystals: 30 Gratitude Crystals
-      30 Crystals Chest: 30 Gratitude Crystals
-      40 Crystals: 40 Gratitude Crystals
-      50 Crystals: 50 Gratitude Crystals
-      70 Crystals: 70 Gratitude Crystals
-      70 Crystals Second Reward: 70 Gratitude Crystals
-      80 Crystals: 80 Gratitude Crystals
+Batreaux:
+  hint-region: Batreaux's House
+  exits:
+    Exit: Nothing
+  locations:
+    5 Crystals: 5 Gratitude Crystals
+    10 Crystals: 10 Gratitude Crystals
+    30 Crystals: 30 Gratitude Crystals
+    30 Crystals Chest: 30 Gratitude Crystals
+    40 Crystals: 40 Gratitude Crystals
+    50 Crystals: 50 Gratitude Crystals
+    70 Crystals: 70 Gratitude Crystals
+    70 Crystals Second Reward: 70 Gratitude Crystals
+    80 Crystals: 80 Gratitude Crystals
 
 # BEEDLES SHOP
 Beedle's Shop:

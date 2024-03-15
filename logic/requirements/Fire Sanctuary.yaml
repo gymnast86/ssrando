@@ -242,7 +242,7 @@ Main:
     locations:
       Solve Puzzle: Mogma Mitts
       Defeat Moldorm: Solve Puzzle & Mogma Mitts
-      Boss Key Chest: Solve Puzzle & Defeat Moldorm
+      Chest after Winged Torches: Solve Puzzle & Defeat Moldorm
 
 Boss Room:
   exits:
@@ -250,7 +250,7 @@ Boss Room:
     Exit to Flame Room: Beat Ghirahim
   locations:
     Beat Ghirahim: Sword
-    Heart Container: Beat Ghirahim
+    Defeat Boss: Beat Ghirahim
 
 Flame Room:
   exits:

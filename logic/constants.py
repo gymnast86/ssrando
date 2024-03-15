@@ -78,7 +78,7 @@ def entrance_of_exit(exit):
     raise ValueError("No pattern found for the entrance of exit {exit}.")
 
 
-SV = "Skyview"
+SV = "Skyview Temple"
 ET = "Earth Temple"
 LMF = "Lanayru Mining Facility"
 AC = "Ancient Cistern"
@@ -121,10 +121,10 @@ EMERALD_TABLET = "Emerald Tablet"
 RUBY_TABLET = "Ruby Tablet"
 AMBER_TABLET = "Amber Tablet"
 
-SKYLOFT_SILENT_REALM = "Skyloft Silent Realm"
-FARON_SILENT_REALM = "Faron Silent Realm"
-LANAYRU_SILENT_REALM = "Lanayru Silent Realm"
-ELDIN_SILENT_REALM = "Eldin Silent Realm"
+SKYLOFT_SILENT_REALM = "The Goddess's Silent Realm"
+FARON_SILENT_REALM = "Farore's Silent Realm"
+LANAYRU_SILENT_REALM = "Nayru's Silent Realm"
+ELDIN_SILENT_REALM = "Din's Silent Realm"
 
 ALL_SILENT_REALMS = [
     SKYLOFT_SILENT_REALM,
@@ -534,7 +534,7 @@ GOAL_CHECKS = {
 START = "Start"
 START_ITEM = EIN("Start Item")
 UNPLACED_ITEM = EIN("Unplaced Item")
-SONG_IMPA_CHECK = "Sealed Grounds - Song from Impa"
+SONG_IMPA_CHECK = "Sealed Temple - Song from The Old One"
 COMPLETE_TRIFORCE = "Complete Triforce"
 
 trick: Callable[[str], str] = lambda s: s + " Trick"
@@ -547,8 +547,8 @@ SKYLOFT_VILLAGE = "Skyloft Village"
 BATREAUX = "Batreaux's House"
 BEEDLE = "Beedle's Shop"
 
-SKY = "Sky"
-THUNDERHEAD = "Thunderhead"
+SKY = "The Sky"
+THUNDERHEAD = "The Thunderhead"
 
 SEALED_GROUNDS = "Sealed Grounds"
 FARON_WOODS = "Faron Woods"
@@ -685,17 +685,17 @@ TRIAL_GATE_EXITS: dict[str, str] = {
 }
 
 SILENT_REALM_EXITS: dict[str, str] = {
-    SKYLOFT_SILENT_REALM: "Skyloft Silent Realm - Exit",
-    FARON_SILENT_REALM: "Faron Silent Realm - Exit",
-    ELDIN_SILENT_REALM: "Eldin Silent Realm - Exit",
-    LANAYRU_SILENT_REALM: "Lanayru Silent Realm - Exit",
+    SKYLOFT_SILENT_REALM: "The Goddess's Silent Realm - Exit",
+    FARON_SILENT_REALM: "Farore's Silent Realm - Exit",
+    ELDIN_SILENT_REALM: "Din's Silent Realm - Exit",
+    LANAYRU_SILENT_REALM: "Nayru's Silent Realm - Exit",
 }
 
 SILENT_REALM_CHECKS: dict[str, str] = {
-    SKYLOFT_SILENT_REALM: "Skyloft Silent Realm - Trial Reward",
-    FARON_SILENT_REALM: "Faron Silent Realm - Trial Reward",
-    ELDIN_SILENT_REALM: "Eldin Silent Realm - Trial Reward",
-    LANAYRU_SILENT_REALM: "Lanayru Silent Realm - Trial Reward",
+    SKYLOFT_SILENT_REALM: "The Goddess's Silent Realm - Collect all Tears Reward",
+    FARON_SILENT_REALM: "Farore's Silent Realm - Collect all Tears Reward",
+    ELDIN_SILENT_REALM: "Din's Silent Realm - Collect all Tears Reward",
+    LANAYRU_SILENT_REALM: "Nayru's Silent Realm - Collect all Tears Reward",
 }
 
 SILENT_REALM_CHECKS_REV = lambda norm: {
@@ -728,10 +728,10 @@ RUPEE_CHECKS = [
     "Pirate Stronghold - Rupee on West Sea Pillar",
     "Pirate Stronghold - Rupee on East Sea Pillar",
     "Pirate Stronghold - Rupee on Bird Statue Pillar or Nose",
-    "Skyview - Second Hub - Rupee in Southeast Tunnel",
-    "Skyview - Second Hub - Rupee in Southwest Tunnel",
-    "Skyview - Second Hub - Rupee in East Tunnel",
-    "Skyview - Rupee on Spring Pillar",
+    "Skyview Temple - Second Hub - Rupee in Southeast Tunnel",
+    "Skyview Temple - Second Hub - Rupee in Southwest Tunnel",
+    "Skyview Temple - Second Hub - Rupee in East Tunnel",
+    "Skyview Temple - Rupee on Spring Pillar",
     "Earth Temple - Rupee above Drawbridge",
     "Earth Temple - Rupee in Lava Tunnel",
     "Ancient Cistern - Rupee in East Part in Main Tunnel",
@@ -739,7 +739,7 @@ RUPEE_CHECKS = [
     "Ancient Cistern - First Rupee in East Part in Short Tunnel",
     "Ancient Cistern - Second Rupee in East Part in Short Tunnel",
     "Ancient Cistern - Third Rupee in East Part in Short Tunnel",
-    "Ancient Cistern - Rupee under Lilypad",
+    "Ancient Cistern - Rupee under Lilypad after Pipes",
     "Ancient Cistern - Rupee in East Hand",
     "Ancient Cistern - Rupee in West Hand",
     "Sky Keep - Rupee in Fire Sanctuary Room in Alcove",

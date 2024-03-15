@@ -52,8 +52,8 @@ Main:
       Blow Up Rocks:
         Sword | Slingshot | Beetle | Bomb Bag | Gust Bellows | Whip | Clawshots | Bow
         # You need to blow up at least one rock in the maze, pretty much any item will make the Froak explode
-      Raised Chest in Hop across Boxes Room: Blow Up Rocks
-      Lower Chest in Hop across Boxes Room: Blow Up Rocks
+      Hop across Boxes Raised Chest: Blow Up Rocks
+      Hop across Boxes Lower Chest: Blow Up Rocks
 
     Near Exit:
       exits:
@@ -177,7 +177,7 @@ Main:
       Big Hub - Near Boss Key Room Second Exit: Can Beat Room
     locations:
       Can Beat Room: Bomb Bag & Gust Bellows & Sword
-      Boss Key Chest: Can Beat Room
+      Chest after Double Armos Fight: Can Beat Room
       Rupee behind South Statue in Northeast Room: Bomb Bag
       Blow Robot behind Bottom Northwest Statue: Bomb Bag & Gust Bellows
       Blow Robot behind Middle Northwest Statue: Bomb Bag & Gust Bellows
@@ -195,7 +195,7 @@ Boss Room:
       Beat Moldarach:
         (Gust Bellows | LMF - Moldarach without Gust Bellows Trick) & Sword
         # Bow also works instead of sword but you need a LOT of arrows
-      Heart Container: Beat Moldarach
+      Defeat Boss: Beat Moldarach
 
 Hall of Ancient Robots:
   Entry:

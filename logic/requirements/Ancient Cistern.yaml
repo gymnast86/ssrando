@@ -61,7 +61,7 @@ Main:
         Lower Lever: Nothing
         Flip First Lilypad: Water Dragon's Scale & Whip
         Flip Second Lilypad 1: Flip First Lilypad
-        Rupee under Lilypad: Flip Second Lilypad 1 & Water Dragon's Scale
+        Rupee under Lilypad after Pipes: Flip Second Lilypad 1 & Water Dragon's Scale
         Activate Water Geyser: Flip Second Lilypad 1 & Water Dragon's Scale
         Flip Second Lilypad 2: Flip First Lilypad & Activate Water Geyser & Whip
         Slingshot East Lamp after Pipes 1: ((Water Dragon's Scale & Whip) | Clawshots) & Slingshot
@@ -158,7 +158,7 @@ Main:
         Basement: Nothing
       locations:
         Ancient Cistern - Can Lower Statue: Nothing
-        Boss Key Chest: Ancient Cistern - Can Lower Statue
+        Chest under Stone Statue: Ancient Cistern - Can Lower Statue
 
   Inside Statue:
     exits:
@@ -181,7 +181,7 @@ Boss Room:
     Exit to Flame Room: Beat Koloktos
   locations:
     Beat Koloktos: Whip & (Sword | Bomb Bag | Bow)
-    Heart Container: Beat Koloktos
+    Defeat Boss: Beat Koloktos
 
 Flame Room:
   exits:

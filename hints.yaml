@@ -2,31 +2,31 @@ Central Skyloft - Gossip Stone on Waterfall Island:
   textfile: 124-Town6
   textindex: 18
 
-Sky - Gossip Stone on Lumpy Pumpkin:
+Lumpy Pumpkin - Gossip Stone:
   textfile: 004-Object
   textindex: 27
 
-Sky - Gossip Stone on Volcanic Island:
+Volcanic Island - Gossip Stone:
   textfile: 004-Object
   textindex: 30
 
-Sky - Gossip Stone on Bamboo Island:
+Bamboo Island Interior - Gossip Stone:
   textfile: 004-Object
   textindex: 11
 
-Thunderhead - Gossip Stone near Bug Heaven:
+Bug Heaven - Nearby Gossip Stone:
   textfile: 004-Object
   textindex: 12
 
-Sealed Grounds - Gossip Stone behind the Temple:
+Sealed Grounds - Gossip Stone:
   textfile: 004-Object
   textindex: 13
 
-Faron Woods - Gossip Stone in Deep Woods:
+Deep Woods - Gossip Stone:
   textfile: 004-Object
   textindex: 15
 
-Lake Floria - Gossip Stone outside Ancient Cistern:
+Floria Waterfall - Gossip Stone:
   textfile: 004-Object
   textindex: 28
 
@@ -34,15 +34,15 @@ Eldin Volcano - Gossip Stone next to Earth Temple:
   textfile: 004-Object
   textindex: 14
 
-Eldin Volcano - Gossip Stone in Thrill Digger Cave:
+Thrill Digger Cave - Gossip Stone:
   textfile: 004-Object
   textindex: 16
 
-Eldin Volcano - Gossip Stone in Lower Platform Cave:
+Lower Eldin Cave - Gossip Stone:
   textfile: 004-Object
   textindex: 17
 
-Eldin Volcano - Gossip Stone in Upper Platform Cave:
+Upper Eldin Cave - Gossip Stone:
   textfile: 004-Object
   textindex: 21
 
@@ -54,11 +54,11 @@ Volcano Summit - Gossip Stone in Waterfall Area:
   textfile: 004-Object
   textindex: 26
 
-Temple of Time - Gossip Stone in Temple of Time Area:
+Temple of Time - Gossip Stone:
   textfile: 004-Object
   textindex: 25
 
-Lanayru Sand Sea - Gossip Stone in Shipyard:
+Shipyard - Gossip Stone:
   textfile: 004-Object
   textindex: 23
 

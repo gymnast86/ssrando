@@ -37,7 +37,7 @@ Main:
       locations:
         Switch: Bow & Deck - Freely Usable Timeshift Stone
         Bars: Can Defeat Beamos
-        Boss Key Chest: Switch & Bars
+        Chest in Captain's Cabin: Switch & Bars
 
   Before Ship's Bow:
     exits:
@@ -126,5 +126,5 @@ Boss Room:
     Entrance: Impossible
   locations:
     Beat Tentalus: Bow
-    Heart Container: Beat Tentalus
+    Defeat Boss: Beat Tentalus
     Nayru's Flame: Beat Tentalus & Goddess Sword

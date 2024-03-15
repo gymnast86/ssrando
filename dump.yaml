@@ -1851,7 +1851,6 @@ items:
 - \Skyview Temple\Main\Last Room\Near Boss Key Chest\Chest after Vines
 - \Skyview Temple\Boss Room\Beat Ghirahim
 - \Skyview Temple\Boss Room\Defeat Boss
-- \Skyview Temple\Spring\Goddess Cube in Skyview Spring
 - \Skyview Temple\Skyview Spring\Slingshot top of Door
 - \Skyview Temple\Skyview Spring\Bonk Broken Left Pillar
 - \Skyview Temple\Skyview Spring\Bonk Broken Right Pillar
@@ -1859,6 +1858,7 @@ items:
 - \Skyview Temple\Skyview Spring\Slingshot Post Left of Goddess Crest
 - \Skyview Temple\Skyview Spring\Slingshot Post Right of Goddess Crest
 - \Skyview Temple\Skyview Spring\Strike Crest
+- \Skyview Temple\Skyview Spring\Goddess Cube in Skyview Spring
 - \Skyview Temple\Skyview Spring\Sacred Water
 - \The Sky\North East\Form a Squirrel Ring above Volcanic Island
 - \The Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin
@@ -2277,7 +2277,6 @@ items:
 - \Skyview Temple\Main\Last Room
 - \Skyview Temple\Main
 - \Skyview Temple\Boss Room
-- \Skyview Temple\Spring
 - \Skyview Temple\Skyview Spring
 - \Skyview Temple
 - \The Sky\North East\Island near Bamboo Island
@@ -9252,25 +9251,11 @@ areas:
           exits:
             Exit to Dungeon: \Skyview Temple\Boss Room\Beat Ghirahim
             Exit to Skyview Spring: \Skyview Temple\Boss Room\Beat Ghirahim
-            \Skyview Temple\Spring: \Skyview Temple\Boss Room\Beat Ghirahim
           hint_region: Skyview Temple
           locations:
             Beat Ghirahim: \Sword
             Defeat Boss: \Skyview Temple\Boss Room\Beat Ghirahim
           name: \Skyview Temple\Boss Room
-          sub_areas: {}
-          toplevel_alias: null
-        Spring:
-          abstract: false
-          allowed_time_of_day: 1
-          can_save: false
-          can_sleep: false
-          entrances: []
-          exits: {}
-          hint_region: Skyview Temple
-          locations:
-            Goddess Cube in Skyview Spring: \Goddess Sword
-          name: \Skyview Temple\Spring
           sub_areas: {}
           toplevel_alias: null
         Skyview Spring:
@@ -9291,6 +9276,7 @@ areas:
             Slingshot Post Left of Goddess Crest: \Slingshot
             Slingshot Post Right of Goddess Crest: \Slingshot
             Strike Crest: \Goddess Sword
+            Goddess Cube in Skyview Spring: \Goddess Sword
             Sacred Water: "\\Bottle & \\Skyview Temple\\Skyview 2"
           name: \Skyview Temple\Skyview Spring
           sub_areas: {}
@@ -9564,8 +9550,8 @@ areas:
                 Outside Crystal: Night
                 Outside Goddess Chest: \Faron\Faron Woods\Deep Woods\Initial Goddess
                   Cube
-                Goddess Chest on Roof: "\\Skyview Temple\\Spring\\Goddess Cube in\
-                  \ Skyview Spring & Day"
+                Goddess Chest on Roof: "\\Skyview Temple\\Skyview Spring\\Goddess\
+                  \ Cube in Skyview Spring & Day"
                 Start Kina's Quest: "\\The Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
                   \ Building\\Complete Hot Soup Delivery & Day"
                 Kina's Crystals: "\\Eldin\\Mogma Turf\\Pre Vent\\Pick up Guld & Day"

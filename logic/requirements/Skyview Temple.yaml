@@ -186,9 +186,14 @@ Boss Room:
   exits:
     Exit to Dungeon: Beat Ghirahim
     Exit to Skyview Spring: Beat Ghirahim
+    Spring: Beat Ghirahim
   locations:
     Beat Ghirahim: Sword
     Defeat Boss: Beat Ghirahim
+
+Spring:
+  locations:
+    Goddess Cube in Skyview Spring: Goddess Sword
 
 Skyview Spring:
   toplevel-alias: Skyview Spring
@@ -204,5 +209,4 @@ Skyview Spring:
     Slingshot Post Left of Goddess Crest: Slingshot
     Slingshot Post Right of Goddess Crest: Slingshot
     Strike Crest: Goddess Sword
-    Goddess Cube in Skyview Spring: Goddess Sword
     Sacred Water: Bottle & Skyview 2

@@ -13733,12 +13733,12 @@ exits:
     short_name: Skyview Temple - Boss Room - Exit to Dungeon
   \Skyview Temple\Boss Room\Exit to Skyview Spring:
     type: exit
-    vanilla: Skyview Spring - Entrance
+    vanilla: Skyview Temple - Skyview Spring - Entrance
     short_name: Skyview Temple - Boss Room - Exit to Skyview Spring
   \Skyview Temple\Skyview Spring\Exit:
     type: exit
     vanilla: Skyview Temple - Boss Room - Entrance from Skyview Spring
-    short_name: Skyview Spring - Exit
+    short_name: Skyview Temple - Skyview Spring - Exit
   \Ancient Cistern\Main\Main Room\Main Exit:
     type: exit
     vanilla: Floria Waterfall - Entrance from Ancient Cistern
@@ -14993,7 +14993,7 @@ entrances:
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Spring - Entrance
+    short_name: Skyview Temple - Skyview Spring - Entrance
   \Ancient Cistern\Main\Main Room\Main Entrance:
     type: entrance
     province: Faron Province

@@ -13297,7 +13297,7 @@ exits:
     short_name: Bamboo Island Interior - Exit
   \The Sky\Bamboo Island\Exit to Bamboo Island Interior:
     type: exit
-    vanilla: Bamboo Island - Bamboo Island Interior - Entrance
+    vanilla: Bamboo Island Interior - Entrance
     stage: F020
     short_name: Bamboo Island - Exit to Bamboo Island Interior
   \The Sky\Beedle's Island\Beedle's Ship Exit:

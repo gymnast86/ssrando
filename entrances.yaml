@@ -1004,7 +1004,7 @@ Bamboo Island - Entrance from Bamboo Island Interior:
 
 Bamboo Island - Exit to Bamboo Island Interior:
   type: exit
-  vanilla: Bamboo Island - Bamboo Island Interior - Entrance
+  vanilla: Bamboo Island Interior - Entrance
   stage: F020
   room: 0
   index: 13

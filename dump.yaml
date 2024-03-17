@@ -10902,6 +10902,7 @@ checks:
     short_name: Great Tree - Blow Tall Blue Mushroom after Swinging Platforms South
   \Faron\Faron Woods\Great Tree\Upper Area\Blow Tree Spiral on Highest Pathway:
     original item: Red Rupee
+    type: Hidden Items, Custom Flag
     short_name: Great Tree - Blow Tree Spiral on Highest Pathway
   \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Chest:
     original item: Gold Rupee

@@ -784,7 +784,7 @@
              <item>
               <widget class="QCheckBox" name="option_shopsanity">
                <property name="text">
-                <string>Shuffle Beedle's Shop</string>
+                <string>Shuffle Beedle's Airshop</string>
                </property>
               </widget>
              </item>

@@ -464,7 +464,7 @@ Bazaar West Exit:
 
 ## Beedle
 
-Beedle's Shop - Day Entrance:
+Beedle's Airshop - Day Entrance:
   type: entrance
   province: The Sky
   stage: F002r
@@ -474,7 +474,7 @@ Beedle's Shop - Day Entrance:
   tod: 2
 
 # night only so prevent problems here
-Beedle's Shop - Night Entrance:
+Beedle's Airshop - Night Entrance:
   type: entrance
   province: The Sky
   allowed-time-of-day: NightOnly
@@ -485,22 +485,22 @@ Beedle's Shop - Night Entrance:
   tod: 1
 
 
-Beedle's Shop - Day Exit:
+Beedle's Airshop - Day Exit:
   type: exit
-  vanilla: Skyloft - Entrance from Beedle's Shop
+  vanilla: Skyloft - Entrance from Beedle's Airshop
   stage: F002r
   room: 0
   index: 0
 
-Beedle's Shop - Trapdoor Exit:
+Beedle's Airshop - Trapdoor Exit:
   type: exit
-  vanilla: Skyloft - Entrance from Beedle's Shop
+  vanilla: Skyloft - Entrance from Beedle's Airshop
   disabled: true
   stage: F002r
   room: 0
   index: 1
 
-Beedle's Shop - Night Exit:
+Beedle's Airshop - Night Exit:
   type: exit
   vanilla: The Sky - Beedle's Island - Beedle's Ship Entrance
   allowed-time-of-day: NightOnly
@@ -509,7 +509,7 @@ Beedle's Shop - Night Exit:
   index: 2
 
 
-Skyloft - Entrance from Beedle's Shop:
+Skyloft - Entrance from Beedle's Airshop:
   type: entrance
   province: The Sky
   stage: F000
@@ -518,9 +518,9 @@ Skyloft - Entrance from Beedle's Shop:
   entrance: 0
   tod: 2
 
-Skyloft - Exit to Beedle's Shop:
+Skyloft - Exit to Beedle's Airshop:
   type: exit
-  vanilla: Beedle's Shop - Day Entrance
+  vanilla: Beedle's Airshop - Day Entrance
   stage: F000
   room: 0
   index: 26
@@ -1023,7 +1023,7 @@ The Sky - Beedle's Island - Beedle's Ship Entrance:
 # night only so prevent problems here
 The Sky - Beedle's Island - Beedle's Ship Exit:
   type: exit
-  vanilla: Beedle's Shop - Night Entrance
+  vanilla: Beedle's Airshop - Night Entrance
   allowed-time-of-day: NightOnly
   stage: F020
   room: 0
@@ -1293,7 +1293,7 @@ The Sky - Faron Pillar - Viewing Platform Statue Dive:
 
 The Sky - Faron Pillar - The Great Tree Statue Dive:
   type: exit
-  vanilla: Great Tree - The Great Tree Statue Entrance
+  vanilla: Inside the Great Tree - The Great Tree Statue Entrance
   stage: F020
   room: 0
   index: 44
@@ -1473,7 +1473,7 @@ The Sky - Groosenator <<F020/30>> Entrance:
 
 ## Thunderhead
 
-The Sky - Entrance from The Thunderhead:
+The Sky - Entrance from Inside the Thunderhead:
   type: entrance
   province: The Sky
   can-start-at: false
@@ -1483,15 +1483,15 @@ The Sky - Entrance from The Thunderhead:
   entrance: 28
   tod: 2
 
-The Sky - Exit to The Thunderhead:
+The Sky - Exit to Inside the Thunderhead:
   type: exit
-  vanilla: The Thunderhead - Entrance
+  vanilla: Inside the Thunderhead - Entrance
   stage: F020
   room: 0
   index: 25
 
 
-The Thunderhead - Entrance:
+Inside the Thunderhead - Entrance:
   type: entrance
   province: The Sky
   can-start-at: false
@@ -1501,9 +1501,9 @@ The Thunderhead - Entrance:
   entrance: 1
   tod: 2
 
-The Thunderhead - Exit:
+Inside the Thunderhead - Exit:
   type: exit
-  vanilla: The Sky - Entrance from The Thunderhead
+  vanilla: The Sky - Entrance from Inside the Thunderhead
   stage: F023
   room: 0
   index: 1
@@ -1862,7 +1862,7 @@ Faron Woods - Viewing Platform Statue Entrance:
   flag-space: Story
   flag: 0x322
 
-Great Tree - The Great Tree Statue Entrance:
+Inside the Great Tree - The Great Tree Statue Entrance:
   type: entrance
   subtype: bird-statue-entrance
   province: Faron Province
@@ -1983,7 +1983,7 @@ Farore's Silent Realm - Exit:
 
 ## Great Tree
 
-Great Tree - Platforms - Lower Entrance from Great Tree:
+Inside the Great Tree - Platforms - Lower Entrance from Great Tree:
   type: entrance
   province: Faron Province
   stage: F100
@@ -1992,7 +1992,7 @@ Great Tree - Platforms - Lower Entrance from Great Tree:
   entrance: 4
   tod: 2
 
-Great Tree - Platforms - Upper Entrance from Great Tree:
+Inside the Great Tree - Platforms - Upper Entrance from Great Tree:
   type: entrance
   province: Faron Province
   stage: F100
@@ -2001,7 +2001,7 @@ Great Tree - Platforms - Upper Entrance from Great Tree:
   entrance: 5
   tod: 2
 
-Great Tree - Top Entrance from Great Tree:
+Inside the Great Tree - Top Entrance from Great Tree:
   type: entrance
   province: Faron Province
   stage: F100
@@ -2010,7 +2010,7 @@ Great Tree - Top Entrance from Great Tree:
   entrance: 6
   tod: 2
 
-Great Tree - Underwater Hole Entrance:
+Inside the Great Tree - Underwater Hole Entrance:
   type: entrance
   province: Faron Province
   can-start-at: false
@@ -2021,37 +2021,37 @@ Great Tree - Underwater Hole Entrance:
   tod: 2
 
 
-Great Tree - Platforms - Lower Exit to Great Tree:
+Inside the Great Tree - Platforms - Lower Exit to Great Tree:
   type: exit
-  vanilla: Great Tree - Lower Entrance from Platforms
+  vanilla: Inside the Great Tree - Lower Entrance from Platforms
   stage: F100
   room: 0
   index: 3
 
-Great Tree - Platforms - Upper Exit to Great Tree:
+Inside the Great Tree - Platforms - Upper Exit to Great Tree:
   type: exit
-  vanilla: Great Tree - Upper Entrance from Platforms
+  vanilla: Inside the Great Tree - Upper Entrance from Platforms
   stage: F100
   room: 0
   index: 4
 
-Great Tree - Top Exit to Great Tree:
+Inside the Great Tree - Top Exit to Great Tree:
   type: exit
-  vanilla: Great Tree - Entrance from Top
+  vanilla: Inside the Great Tree - Entrance from Top
   stage: F100
   room: 0
   index: 5
 
-Great Tree - Underwater Hole Exit:
+Inside the Great Tree - Underwater Hole Exit:
   type: exit
-  vanilla: Great Tree - Underwater Tunnel Entrance
+  vanilla: Inside the Great Tree - Underwater Tunnel Entrance
   stage: F100
   room: 0
   index: 6
 
 
 
-Great Tree - Lower Entrance from Platforms:
+Inside the Great Tree - Lower Entrance from Platforms:
   type: entrance
   province: Faron Province
   stage: F100_1
@@ -2060,7 +2060,7 @@ Great Tree - Lower Entrance from Platforms:
   entrance: 1
   tod: 2
 
-Great Tree - Upper Entrance from Platforms:
+Inside the Great Tree - Upper Entrance from Platforms:
   type: entrance
   province: Faron Province
   stage: F100_1
@@ -2069,7 +2069,7 @@ Great Tree - Upper Entrance from Platforms:
   entrance: 2
   tod: 2
 
-Great Tree - Entrance from Top:
+Inside the Great Tree - Entrance from Top:
   type: entrance
   province: Faron Province
   stage: F100_1
@@ -2078,7 +2078,7 @@ Great Tree - Entrance from Top:
   entrance: 3
   tod: 2
 
-Great Tree - Underwater Tunnel Entrance:
+Inside the Great Tree - Underwater Tunnel Entrance:
   type: entrance
   province: Faron Province
   can-start-at: false
@@ -2090,41 +2090,41 @@ Great Tree - Underwater Tunnel Entrance:
 
 
 
-Great Tree - Lower Exit to Platforms:
+Inside the Great Tree - Lower Exit to Platforms:
   type: exit
-  vanilla: Great Tree - Platforms - Lower Entrance from Great Tree
+  vanilla: Inside the Great Tree - Platforms - Lower Entrance from Great Tree
   stage: F100_1
   room: 0
   index: 1
 
-Great Tree - Upper Exit to Platforms:
+Inside the Great Tree - Upper Exit to Platforms:
   type: exit
-  vanilla: Great Tree - Platforms - Upper Entrance from Great Tree
+  vanilla: Inside the Great Tree - Platforms - Upper Entrance from Great Tree
   stage: F100_1
   room: 0
   index: 2
 
-Great Tree - Exit to Top:
+Inside the Great Tree - Exit to Top:
   type: exit
-  vanilla: Great Tree - Top Entrance from Great Tree
+  vanilla: Inside the Great Tree - Top Entrance from Great Tree
   stage: F100_1
   room: 0
   index: 3
 
-Great Tree - Underwater Tunnel Exit:
+Inside the Great Tree - Underwater Tunnel Exit:
   type: exit
-  vanilla: Great Tree - Underwater Hole Entrance
+  vanilla: Inside the Great Tree - Underwater Hole Entrance
   stage: F100_1
   room: 0
   index: 4
 
 
 
-Great Tree - Exit to Flooded Great Tree:
+Inside the Great Tree - Exit to Flooded Great Tree:
   type: exit
-  vanilla: Flooded Great Tree - Entrance from Great Tree
+  vanilla: Flooded Inside the Great Tree - Entrance from Great Tree
 
-Great Tree - Entrance from Flooded Great Tree:
+Inside the Great Tree - Entrance from Flooded Great Tree:
   type: entrance
   province: Faron Province
   can-start-at: false
@@ -2132,22 +2132,22 @@ Great Tree - Entrance from Flooded Great Tree:
 
 
 # Via Water Dragon
-Flooded Great Tree - Exit to Great Tree:
+Flooded Inside the Great Tree - Exit to Great Tree:
   type: exit
-  vanilla: Great Tree - Entrance from Flooded Great Tree
+  vanilla: Inside the Great Tree - Entrance from Flooded Great Tree
 
-Flooded Great Tree - Entrance from Great Tree:
+Flooded Inside the Great Tree - Entrance from Great Tree:
   type: entrance
   province: Faron Province
   can-start-at: false
   tod: 2
 
 # GT Upper
-Flooded Great Tree - Exit to Upper Flooded Faron Woods:
+Flooded Inside the Great Tree - Exit to Upper Flooded Faron Woods:
   type: exit
   vanilla: Flooded Faron Woods - Entrance from Upper Flooded Great Tree
 
-Flooded Great Tree - Entrance from Upper Flooded Faron Woods:
+Flooded Inside the Great Tree - Entrance from Upper Flooded Faron Woods:
   type: entrance
   province: Faron Province
   stage: F103_1
@@ -2157,11 +2157,11 @@ Flooded Great Tree - Entrance from Upper Flooded Faron Woods:
   tod: 2
 
 # GT Lower
-Flooded Great Tree - Underwater Tunnel Exit:
+Flooded Inside the Great Tree - Underwater Tunnel Exit:
   type: exit
   vanilla: Flooded Faron Woods - Underwater Hole Entrance
 
-Flooded Great Tree - Underwater Tunnel Entrance:
+Flooded Inside the Great Tree - Underwater Tunnel Entrance:
   type: entrance
   province: Faron Province
   can-start-at: false
@@ -2174,7 +2174,7 @@ Flooded Great Tree - Underwater Tunnel Entrance:
 # FW Upper
 Flooded Faron Woods - Exit to Upper Flooded Great Tree:
   type: exit
-  vanilla: Flooded Great Tree - Entrance from Upper Flooded Faron Woods
+  vanilla: Flooded Inside the Great Tree - Entrance from Upper Flooded Faron Woods
 
 Flooded Faron Woods - Entrance from Upper Flooded Great Tree:
   type: entrance
@@ -2188,7 +2188,7 @@ Flooded Faron Woods - Entrance from Upper Flooded Great Tree:
 # FW Lower
 Flooded Faron Woods - Underwater Hole Exit:
   type: exit
-  vanilla: Flooded Great Tree - Underwater Tunnel Entrance
+  vanilla: Flooded Inside the Great Tree - Underwater Tunnel Entrance
 
 Flooded Faron Woods - Underwater Hole Entrance:
   type: entrance

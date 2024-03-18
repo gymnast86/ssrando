@@ -7,7 +7,7 @@ Main:
       Bottom Exit: Nothing
       Puzzle Solving Meta Room: Nothing
     locations:
-      First Chest: Nothing
+      Chest in First Room: Nothing
       Right Exit: Nothing
 
   Skyview Room:
@@ -51,7 +51,7 @@ Main:
       exits:
         From Left: Unlock Door
       locations:
-        Chest after Dreadfuse: Nothing
+        Chest after Dreadfuse Fight: Nothing
         Unlock Door: From Bottom - Defeat Dreadfuse
 
     From Left:

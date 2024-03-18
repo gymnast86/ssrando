@@ -29,7 +29,7 @@ Main:
         Deck: Clawshots
         # Deathwarp possible
       locations:
-        Chest at the Stern: Nothing
+        Chest at Ship's Stern: Nothing
 
     Captain's Cabin:
       exits:

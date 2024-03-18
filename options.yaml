@@ -444,8 +444,8 @@
     - Precise Beetle Flying
     ## Skyloft / Sky
     - Waterfall Cave Jump
-    - Beedle's Shop With Bombs
-    - Baby Rattle from Beedle's Shop
+    - Beedle's Airshop With Bombs
+    - Baby Rattle from Beedle's Airshop
     - Sky Keep Entrance Jump
     - Gravestone Jump
     - The Sky - Volcanic Island Dive
@@ -732,40 +732,40 @@
   default: [
     ## Goddess Cubes
     Bazaar - Goddess Chest,
-    Central Skyloft - Shed Goddess Chest,
-    Central Skyloft - West Cliff Goddess Chest,
-    Central Skyloft - Floating Island Goddess Chest,
-    Central Skyloft - Waterfall Goddess Chest,
-    Lumpy Pumpkin - Outside Goddess Chest,
+    Central Skyloft - Goddess Chest in Shed,
+    Central Skyloft - Goddess Chest on West Cliff Island,
+    Central Skyloft - Goddess Chest on Island near Waterfall,
+    Central Skyloft - Goddess Chest on Waterfall Island,
+    Lumpy Pumpkin - Goddess Chest near Gossip Stone,
     Lumpy Pumpkin - Goddess Chest on Roof,
-    Bamboo Island - Goddess Chest,
-    Island near Bamboo Island - Goddess Chest,
-    Island near Bamboo Island - Goddess Chest in Cave,
+    Bamboo Island - Goddess Chest behind Entrance,
+    Island near Bamboo Island - Top Goddess Chest,
+    Island near Bamboo Island - Top Goddess Chest in Cave,
     Beedle's Island - Top Goddess Chest,
-    Beedle's Island - Cage Goddess Chest,
+    Beedle's Island - Goddess Chest in Cage,
     Northeast Island - Goddess Chest behind Bombable Rocks,
-    Northeast Island - Cage Goddess Chest,
+    Northeast Island - Goddess Chest in Cage,
     Island Closest to Faron Pillar - Goddess Chest,
     Volcanic Island - Outside Goddess Chest,
     Volcanic Island - Inside Goddess Chest,
-    Fun Fun Island - Goddess Chest,
+    Fun Fun Island - Goddess Chest below Island,
     Triple Island - Upper Goddess Chest,
     Triple Island - Lower Goddess Chest,
-    Triple Island - Cage Goddess Chest,
+    Triple Island - Goddess Chest in Cage,
     Isle of Songs - Lower Goddess Chest,
     Isle of Songs - Top Goddess Chest,
-    Thunderhead East Island - Goddess Chest,
+    Inside the Thunderhead - Goddess Chest on East Island,
     Bug Heaven - Goddess Chest,
-    Mogma Mitts Island - First Goddess Chest,
-    Mogma Mitts Island - Second Goddess Chest,
+    Inside the Thunderhead - Mogma Mitts Island First Goddess Chest,
+    Inside the Thunderhead - Mogma Mitts Island Second Goddess Chest,
     ## Minigames
-    Upper Skyloft - Pumpkin Archery -- 600 Points,
-    Lumpy Pumpkin - Harp Minigame,
-    Fun Fun Island - Minigame -- 500 Rupees,
+    Upper Skyloft - 600 Points in Pumpkin Pull,
+    Harp Duet with Kina,
+    Fun Fun Island - 500 Rupees in Dodoh's High Dive,
     Bug Heaven -- 10 Bugs in 3 Minutes,
-    Lanayru Sand Sea - Rickety Coaster -- Heart Stopping Track in 1'05,
+    Lanayru Sand Sea - Heart Stopping Rickety Coaster Track in 1'05,
     ## Peatrice
-    Central Skyloft - Peater/Peatrice's Crystals,
+    Central Skyloft - Peatrice's Love,
   ]
   help: "Determines the locations to be excluded from the progress pool.
         The item found in these locations will still be shuffled but will never be an item required to beat the game."

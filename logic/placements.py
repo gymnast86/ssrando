@@ -7,7 +7,7 @@ SINGLE_CRYSTAL_CHECKS = [
     "Knight Academy - Crystal in Link's Room",
     "Knight Academy - Crystal in Knight Academy Plant",
     "Knight Academy - Crystal in Zelda's Room",
-    "Sparring Hall - Crystal",
+    "Sparring Hall - Crystal on Roof Beam",
     "Central Skyloft - Crystal between Wooden Planks",
     "Central Skyloft - Crystal on West Cliff",
     "Central Skyloft - Crystal in Orielle and Parrow's House",
@@ -18,7 +18,7 @@ SINGLE_CRYSTAL_CHECKS = [
     "Central Skyloft - Crystal on Waterfall Island",
     "Lumpy Pumpkin - Outside Crystal",
     "Lumpy Pumpkin - Inside Crystal",
-    "Beedle's Island - Crystal",
+    "Beedle's Island - Crystal on Airshop Propeller",
 ]
 
 
@@ -66,31 +66,31 @@ def norm_values(dict: Dict[EIN, str]):
 HARDCODED_PLACEMENT = norm_keys({})
 
 BEEDLE_CHECKS = [
-    "Beedle's Shop - 300 Rupee Item",
-    "Beedle's Shop - 600 Rupee Item",
-    "Beedle's Shop - 1200 Rupee Item",
-    "Beedle's Shop - 800 Rupee Item",
-    "Beedle's Shop - 1600 Rupee Item",
-    "Beedle's Shop - First 100 Rupee Item",
-    "Beedle's Shop - Second 100 Rupee Item",
-    "Beedle's Shop - Third 100 Rupee Item",
-    "Beedle's Shop - 50 Rupee Item",
-    "Beedle's Shop - 1000 Rupee Item",
+    "Beedle's Airshop - 300 Rupee Item",
+    "Beedle's Airshop - 600 Rupee Item",
+    "Beedle's Airshop - 1200 Rupee Item",
+    "Beedle's Airshop - 800 Rupee Item",
+    "Beedle's Airshop - 1600 Rupee Item",
+    "Beedle's Airshop - First 100 Rupee Item",
+    "Beedle's Airshop - Second 100 Rupee Item",
+    "Beedle's Airshop - Third 100 Rupee Item",
+    "Beedle's Airshop - 50 Rupee Item",
+    "Beedle's Airshop - 1000 Rupee Item",
 ]
 VANILLA_BEEDLE_PLACEMENT = norm_force_vanilla(BEEDLE_CHECKS)
 
 SMALL_KEY_CHECKS = [
     "Skyview Temple - Chest behind Two Eyes",
     "Skyview Temple - Chest behind Three Eyes",
-    "Lanayru Mining Facility - First Chest in Hub Room",
-    "Ancient Cistern - Chest in East Part",
-    "Ancient Cistern - Bokoblin",
+    "Lanayru Mining Facility - Chest after Breakable Boxes in Hub Room",
+    "Ancient Cistern - Chest in East Room",
+    "Ancient Cistern - Whip Item from Bokoblin between Pipes",
     "Sandship - Chest behind Combination Lock",
     "Sandship - Robot in Brig's Reward",
     "Fire Sanctuary - Chest in First Room",
     "Fire Sanctuary - Chest near First Trapped Mogma",
     "Fire Sanctuary - Chest after Bombable Wall",
-    "Sky Keep - Chest after Dreadfuse",
+    "Sky Keep - Chest after Dreadfuse Fight",
     "Lanayru Caves - Golo's Gift",
 ]
 VANILLA_SMALL_KEYS_PLACEMENT = norm_restrict_vanilla(SMALL_KEY_CHECKS)
@@ -141,8 +141,8 @@ MAP_CHECKS = [
     "Lanayru Mining Facility - Chest after Armos Fight",
     "Ancient Cistern - Chest after Whip Hooks",
     "Sandship - Chest before 4-Door Corridor",
-    "Fire Sanctuary - Rescue Second Trapped Mogma Chest",
-    "Sky Keep - First Chest",
+    "Fire Sanctuary - Chest from Second Trapped Mogma",
+    "Sky Keep - Chest in First Room",
 ]
 VANILLA_MAPS_PLACEMENT = norm_restrict_vanilla(MAP_CHECKS)
 

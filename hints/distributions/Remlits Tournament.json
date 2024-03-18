@@ -3,31 +3,31 @@
   "hints_per_stone": 0,
   "banned_stones": [],
   "added_locations": [
-    {"location": "Knight Academy - Fledge's Crystals",                     "type": "always"},
+    {"location": "Knight Academy - Help Fledge Workout",                     "type": "always"},
     {"location": "Skipper's Retreat Shack - Chest under Sand", "type": "always"},
     {"location": "Faron Woods - Item behind Bombable Rock",         "type": "sometimes"},
-    {"location": "Earth Temple - Rupee in Lava Tunnel",                   "type": "sometimes"},
+    {"location": "Earth Temple - Rupee in Dragon's Mouth in Lava Tunnel",                   "type": "sometimes"},
     {"location": "Ancient Cistern - Rupee under Lilypad after Pipes",                 "type": "sometimes"},
-    {"location": "Fire Sanctuary - Rescue Second Trapped Mogma Chest",          "type": "sometimes"},
+    {"location": "Fire Sanctuary - Chest from Second Trapped Mogma",          "type": "sometimes"},
     {"location": "Lanayru Mining Facility - Chest after Double Armos Fight",              "type": "sometimes"},
-    {"location": "Lanayru Gorge - Digging Spot",                          "type": "sometimes"}
+    {"location": "Lanayru Gorge - Life Tree Digging Spot",                          "type": "sometimes"}
   ],
   "removed_locations": [
     "Isle of Songs - Strike Crest with White Sword",
-    "Great Tree - Chest",
-    "Lake Floria - Chest",
+    "Inside the Great Tree - Chest guarded by Deku Baba",
+    "Lake Floria - Chest near Bird Statue",
     "Eldin Volcano - Digging Spot behind Boulder on Sandy Slope",
     "Lanayru Desert - Chest on top of Lanayru Mining Facility",
     "Skyview Temple - Chest behind Three Eyes",
     "Earth Temple - Chest in West Room",
-    "Ancient Cistern - Chest in East Part",
+    "Ancient Cistern - Chest in East Room",
     "Sandship - Chest in Captain's Cabin",
     "Lanayru Gorge - Thunder Dragon's Reward",
     "Fire Sanctuary - Chest after Bombable Wall",
     "Sandship - Heart Container",
-    "Fire Node - Shortcut Chest",
-    "Lanayru Desert - Secret Passageway Chest",
-    "Batreaux - 50 Crystals"
+    "Fire Node - Raised Chest",
+    "Lanayru Desert - Chest in Northeast Secret Passageway",
+    "Batreaux's House - 50 Gratitude Crystals Reward"
   ],
   "added_items": [
     {"name": "Triforce of Courage", "amount": 1},

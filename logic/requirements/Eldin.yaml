@@ -56,7 +56,7 @@ Volcano:
       First Room - Blow up Rock to East: Bomb Bag # There's a beetle void plane
       Unlock Statue: Nothing
       Goddess Cube near Mogma Turf Entrance: Goddess Sword
-      Chest after Crawlspace: Nothing
+      Chest after Blocked Crawlspace: Nothing
       Underground Rupee before Bone Bridge 1: Mogma Mitts
       Underground Rupee before Bone Bridge 2: Mogma Mitts
       Chest behind Bombable Wall near Cliff: Nothing
@@ -169,7 +169,7 @@ Volcano:
       Gossip Stone next to Earth Temple: Digging Mitts
       Goddess Cube East of Earth Temple Entrance: Goddess Sword
       Digging Spot in front of Earth Temple: Digging Mitts
-      Digging Spot below Tower: Digging Mitts
+      Digging Spot below Tower West of Earth Temple: Digging Mitts
       Digging Spot behind Boulder on Sandy Slope: Digging Mitts
       Blow Closest Torch West of Earth Temple: Gust Bellows
       Blow Farthest Torch West of Earth Temple: Gust Bellows
@@ -212,7 +212,7 @@ Volcano:
       Past Slide: Nothing
     locations:
       Goddess Cube on Sand Slide: Goddess Sword
-      Digging Spot after Vents: Digging Mitts
+      Digging Spot after Sand Slide Vents: Digging Mitts
       Left Rupee on Sand Slide 1: Nothing
       Left Rupee on Sand Slide 2: Nothing
       Left Rupee on Sand Slide 3: Nothing
@@ -266,7 +266,7 @@ Mogma Turf: # when randomizing this, need to find a way to force the skydiving a
     exits:
       Pre Vent: Nothing
     locations:
-      Sand Slide Chest: Nothing
+      Chest after Sand Slide: Nothing
       Bonk Campfire above Sand Slide: Nothing
       Slingshot Skull on Hut above Sand Slide: Slingshot
       Bonk Dusty Bag in Right Hut above Sand Slide: Nothing
@@ -355,7 +355,7 @@ Volcano Summit:
         Before Thirsty Frogs: Before Thirsty Frogs - Hydrate First Frog
         Outside Fire Sanctuary: Hydrate Second Frog
       locations:
-        Item behind Digging: Mogma Mitts
+        Item after Underground Tunnel near Gossip Stone: Mogma Mitts
         Underground Rupee 1: Mogma Mitts
         Underground Rupee 2: Mogma Mitts
         Gossip Stone near Second Thirsty Frog: Nothing

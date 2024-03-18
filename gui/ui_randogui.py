@@ -2077,7 +2077,7 @@ class Ui_MainWindow(object):
         self.label_for_option_open_lmf.setText(QCoreApplication.translate("MainWindow", u"Open Lanayru Mining Facility", None))
         self.label_for_option_open_lake_floria.setText(QCoreApplication.translate("MainWindow", u"Open Lake Floria", None))
         self.box_shuffles.setTitle(QCoreApplication.translate("MainWindow", u"Shuffles", None))
-        self.option_shopsanity.setText(QCoreApplication.translate("MainWindow", u"Shuffle Beedle's Shop", None))
+        self.option_shopsanity.setText(QCoreApplication.translate("MainWindow", u"Shuffle Beedle's Airshop", None))
         self.option_rupeesanity.setText(QCoreApplication.translate("MainWindow", u"Rupeesanity", None))
         self.option_tadtonesanity.setText(QCoreApplication.translate("MainWindow", u"Tadtonesanity", None))
         self.box_entrance_rando.setTitle(QCoreApplication.translate("MainWindow", u"Entrance Randomization", None))

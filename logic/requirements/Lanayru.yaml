@@ -191,7 +191,7 @@ Desert:
       Sand Oasis: Nothing
       West Part: Nothing
     locations:
-      Chest near Sand Oasis: Nothing
+      Chest on Sand Oasis Wall: Nothing
       Near Caged Robot - Goddess Cube near Caged Robot: Goddess Sword
       Push Minecart: Nothing
 
@@ -236,7 +236,7 @@ Desert:
       exits:
         North Part: Nothing
       locations:
-        Secret Passageway Chest: Nothing
+        Chest in Northeast Secret Passageway: Nothing
         Goddess Cube in Secret Passageway: Clawshots & Goddess Sword
 
     Lightning Node:
@@ -254,8 +254,8 @@ Desert:
           Present: Projectile Item
           Present from afar: Beetle | Bow | (Lightning Node End with Bombs Trick & Bomb Bag)
         locations:
-          First Chest: Nothing
-          Second Chest: Nothing
+          Front Chest: Nothing
+          Middle Chest: Nothing
           Bonk Lightning Node Power Supply: Nothing
           Bonk Lightning Node Generator: Nothing
           Lightning Node: Sword
@@ -296,7 +296,7 @@ Desert:
           Past after Void: Present - Timeshift Stone & Projectile Item
           Present: Nothing
         locations:
-          Shortcut Chest: Nothing
+          Raised Chest: Nothing
           Push Box: Nothing
 
       Past:
@@ -418,7 +418,7 @@ Caves:
     Exit to Mine: Nothing
     Exit to Desert: Nothing
   locations:
-    Chest: Nothing
+    Chest near Golo: Nothing
     Golo's Gift: Nothing
     Gossip Stone in Center: Nothing
 
@@ -471,9 +471,9 @@ Lanayru Sand Sea:
       locations:
         Slingshot Left Nostril of Entrance Robot: Slingshot
         Slingshot Right Nostril of Entrance Robot: Slingshot
-        Rupee on First Pillar: Beetle
-        Left Rupee on Entrance Crown: Quick Beetle
-        Right Rupee on Entrance Crown: Quick Beetle
+        Rupee on Highest Clawshot Pillar: Beetle
+        North Rupee on Entrance Crown: Quick Beetle
+        South Rupee on Entrance Crown: Quick Beetle
 
   Skipper's Retreat:
     exits:
@@ -489,7 +489,7 @@ Lanayru Sand Sea:
         Skipper's Retreat: Nothing
         Top Part: Clawshots & Whip Peahat & Deal with Deku Baba
       locations:
-        Chest after Moblin: Nothing
+        Chest guarded by Quadro Baba: Nothing
         Goddess Cube in Skipper's Retreat: Clawshots & Goddess Sword
         Whip Peahat: Clawshots & Whip
         Deal with Deku Baba: Projectile Item | (Skipper's Retreat Fast Clawshots Trick & Clawshots)
@@ -500,7 +500,7 @@ Lanayru Sand Sea:
         Past Rock: Nothing
         Skydive Platform: Nothing
       locations:
-        Chest on top of Cacti Pillar: Clawshots
+        Chest on Cacti Pillar: Clawshots
         Slingshot Left Eye of Shack: Slingshot
         Slingshot Right Eye of Shack: Slingshot
         Slingshot Nose of Shack: Slingshot
@@ -539,7 +539,7 @@ Lanayru Sand Sea:
       Bonk Sign before Gortram the Rickety Coaster Operator: Nothing
       Bonk Sign before Second Minecart Track: Nothing
       Bonk Sign after Second Minecart Track: Nothing
-      Rickety Coaster -- Heart Stopping Track in 1'05:
+      Heart Stopping Rickety Coaster Track in 1'05:
         # Roller Coaster Minigame
         Construction Bay - Defeat Moldarach
 
@@ -589,9 +589,9 @@ Pirate Stronghold Interior:
     Second Door: Finish Minidungeon
   locations:
     # You can run past the Beamos without killing it. You can also run past the boko baba (in logic?) #UNSURE
-    First Chest: Nothing
-    Second Chest: Nothing
-    Third Chest: Nothing
+    Chest behind Electric Fence: Nothing
+    Chest before Deku Babas: Nothing
+    Chest before Double Armos Fight: Nothing
     # Technically this is possible without beating a Beamos but it's hard
     Finish Minidungeon: Can Defeat Beamos & Can Defeat Armos
     General - Ancient Flower Farming: Nothing
@@ -601,7 +601,7 @@ Gorge:
   hint-region: Lanayru Gorge
   locations:
     Unlock Statue: Nothing
-    Item on Pillar: Beetle
+    Item on Pillar below Dragon: Beetle
     Activate Timeshift Stone: Can Hit Timeshift Stone in Minecart
     Thunder Dragon's Reward: Activate Timeshift Stone & Life Tree Fruit
     Boss Rush -- 4 Bosses: Thunder Dragon's Reward & Impossible
@@ -625,12 +625,12 @@ Gorge:
     locations:
       Activate Timeshift Stone: Gust Bellows & Can Hit Timeshift Stone
       Goddess Cube in Lanayru Gorge: Goddess Sword
-      Digging Spot: Activate Timeshift Stone & Digging Mitts
+      Life Tree Digging Spot: Activate Timeshift Stone & Digging Mitts
       General - Ancient Flower Farming: Activate Timeshift Stone
-      Slingshot Left Sandfall Source: Slingshot
-      Slingshot Right Sandfall Source: Slingshot
-      Rupee in High Tunnel after Bridge 1: Beetle
-      Rupee in High Tunnel after Bridge 2: Beetle
-      Rupee in High Tunnel after Bridge 3: Beetle
-      Rupee in High Tunnel after Bridge 4: Beetle
-      Rupee in High Tunnel after Bridge 5: Beetle
+      Slingshot Left Sandfall Source near Life Tree: Slingshot
+      Slingshot Right Sandfall Source near Life Tree: Slingshot
+      Rupee in Sandfall Tunnel near Life Tree 1: Beetle
+      Rupee in Sandfall Tunnel near Life Tree 2: Beetle
+      Rupee in Sandfall Tunnel near Life Tree 3: Beetle
+      Rupee in Sandfall Tunnel near Life Tree 4: Beetle
+      Rupee in Sandfall Tunnel near Life Tree 5: Beetle

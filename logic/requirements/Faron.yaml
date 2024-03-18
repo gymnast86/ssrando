@@ -60,7 +60,7 @@ Sealed Grounds:
       Side Exit: Nothing
       Gate of Time: Open Gate of Time
     locations:
-      Chest: Nothing
+      Chest near The Old One: Nothing
       Song from The Old One: Goddess's Harp
       Raise Gate of Time: GoT Raising Requirement & Ballad of the Goddess
       Start Imprisoned 2: Raise Gate of Time & GoT Opening Requirement
@@ -111,8 +111,8 @@ Faron Woods:
     Viewing Platform Statue Entrance: Impossible
     Shared Statue Exit: Unlock In the Woods Statue | Unlock Viewing Platform Statue
     Trial Gate: Open Trial Gate
-    Great Tree - Near Underwater Hole: Water Dragon's Scale
-    Great Tree - Platforms: Clawshots
+    Inside the Great Tree - Near Underwater Hole: Water Dragon's Scale
+    Inside the Great Tree - Platforms: Clawshots
     Clawshot Target Branch: Clawshots
     Lake Floria Dive: (Open Door to Lake Floria | Early Lake Floria Tricks) & (Bomb Bag | Sword | Beetle | Bow)
   locations:
@@ -122,13 +122,13 @@ Faron Woods:
     Amber Relic Farming: Nothing
     Hit Vine to Deep Woods: Distance Activator
     Open Trial Gate: Goddess's Harp & Farore's Courage
-    Open Door to Lake Floria: ((Open Lake Floria option & Water Dragon's Scale) | (Great Tree - Top - Talk to Yerbal & (Goddess Sword | Talk to Yerbal option)))
+    Open Door to Lake Floria: ((Open Lake Floria option & Water Dragon's Scale) | (Inside the Great Tree - Top - Talk to Yerbal & (Goddess Sword | Talk to Yerbal option)))
     Rupee on Hollow Tree Root: Nothing
     Rupee on Hollow Tree Branch: Beetle
     Rupee on Platform near Floria Door: Beetle
     All Kikwis Saved: (Sword | Beetle) & Can Defeat Bokoblins
     Kikwi Elder's Reward: All Kikwis Saved
-    Item on Tree: Nothing
+    Item on Great Tree: Nothing
     Item behind Bombable Rock: Bomb Bag
     Chest behind Bombable Rocks near Erla: Bomb Bag
     Stamina Fruit on Vines below First Log: Nothing
@@ -227,7 +227,7 @@ Faron Woods:
           Lower Area: Nothing
           Near Exit: Nothing
         locations:
-          Chest: Sword | Bow | Bomb Bag | Beetle | Slingshot
+          Chest guarded by Deku Baba: Sword | Bow | Bomb Bag | Beetle | Slingshot
           Blow Red Mushroom after Swinging Platforms West: Gust Bellows
           Blow Tall Blue Mushroom after Swinging Platforms South: Gust Bellows
 
@@ -274,7 +274,7 @@ Faron Woods:
   Deep Woods:
     hint-region: Faron Woods
     locations:
-      Chest: Nothing
+      Chest on High Ledge: Nothing
       Stamina Fruit on Hanging Ledge: Nothing
       Bonk Tree with Rope: Nothing
       Bonk Tree near Gossip Stone 1: Nothing
@@ -390,7 +390,7 @@ Lake Floria:
         Statue: Unlock Statue
         Below Rock: Water Dragon's Scale
       locations:
-        Chest: Nothing
+        Chest near Bird Statue: Nothing
         Goddess Cube in Lake Floria: Goddess Sword
         Unlock Statue: Nothing
 

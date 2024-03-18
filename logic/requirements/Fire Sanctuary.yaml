@@ -41,7 +41,7 @@ Main:
       exits:
         Second Room: Defeat Magmanos
       locations:
-        Chest on Balcony: Nothing
+        Chest on Balcony after Single Magmanos Fight: Nothing
 
 
   First Bridge:
@@ -87,7 +87,7 @@ Main:
         Magmanos Fight Room - Upper Part: Magmanos Fight Room - Magmanos Fight
         Magmanos Fight Room - Lower Part: Mogma Mitts & Blow up Rock in Tunnel
       locations:
-        Rescue First Trapped Mogma Chest: Nothing
+        Chest from First Trapped Mogma: Nothing
         Blow up Rock in Tunnel: Mogma Mitts
         Underground Rupee beneath Double Magmanos Room 1: Mogma Mitts
         Underground Rupee beneath Double Magmanos Room 2: Mogma Mitts
@@ -101,8 +101,8 @@ Main:
         Room with Water Plant - Unlock Key Door
       After Frog: Hydrate Frog
     locations:
-      First Chest in Water Fruit Room: Nothing
-      Second Chest in Water Fruit Room: Nothing
+      Lower Chest in Water Fruit Room: Nothing
+      Raised Chest in Water Fruit Room: Nothing
       Hydrate Frog: Sword
       Room with Water Plant - Unlock Key Door:
         Fire Sanctuary Small Key x 2  # Would need better key logic to be exact
@@ -163,7 +163,7 @@ Main:
       Move Sliding Doors Correctly: Mogma Mitts
       Hydrate Frog: Move Sliding Doors Correctly & Sword
       Rescue Mogma: Hydrate Frog
-      Rescue Second Trapped Mogma Chest: Rescue Mogma
+      Chest from Second Trapped Mogma: Rescue Mogma
       Blow up Wall: Hydrate Frog & Bomb Bag # & Fire Sanctuary - Map
 
     Past Bombable Wall:

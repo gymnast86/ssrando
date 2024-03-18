@@ -545,10 +545,10 @@ UPPER_SKYLOFT = "Upper Skyloft"
 CENTRAL_SKYLOFT = "Central Skyloft"
 SKYLOFT_VILLAGE = "Skyloft Village"
 BATREAUX = "Batreaux's House"
-BEEDLE = "Beedle's Shop"
+BEEDLE = "Beedle's Airshop"
 
 SKY = "The Sky"
-THUNDERHEAD = "The Thunderhead"
+THUNDERHEAD = "Inside the Thunderhead"
 
 SEALED_GROUNDS = "Sealed Grounds"
 FARON_WOODS = "Faron Woods"
@@ -705,8 +705,8 @@ SILENT_REALM_CHECKS_REV = lambda norm: {
 
 RUPEE_CHECKS = [
     "Skyloft - Central Skyloft - Rupee Waterfall Cave Crawlspace",
-    "Great Tree - Rupee on Great Tree North Branch",
-    "Great Tree - Rupee on Great Tree West Branch",
+    "Inside the Great Tree - Rupee on Great Tree North Branch",
+    "Inside the Great Tree - Rupee on Great Tree West Branch",
     "Faron Woods - Rupee on Platform near Floria Door",
     "Faron Woods - Rupee on Hollow Tree Root",
     "Faron Woods - Rupee on Hollow Tree Branch",
@@ -722,9 +722,9 @@ RUPEE_CHECKS = [
     "Eldin Volcano - North Rupee above Mogma Turf Entrance",
     "Eldin Volcano - Left Rupee behind Bombable Wall on First Slope",
     "Eldin Volcano - Right Rupee behind Bombable Wall on First Slope",
-    "Ancient Harbour - Rupee on First Pillar",
-    "Ancient Harbour - Left Rupee on Entrance Crown",
-    "Ancient Harbour - Right Rupee on Entrance Crown",
+    "Ancient Harbour - Rupee on Highest Clawshot Pillar",
+    "Ancient Harbour - North Rupee on Entrance Crown",
+    "Ancient Harbour - South Rupee on Entrance Crown",
     "Pirate Stronghold - Rupee on West Sea Pillar",
     "Pirate Stronghold - Rupee on East Sea Pillar",
     "Pirate Stronghold - Rupee on Bird Statue Pillar or Nose",
@@ -732,13 +732,13 @@ RUPEE_CHECKS = [
     "Skyview Temple - Second Hub - Rupee in Southwest Tunnel",
     "Skyview Temple - Second Hub - Rupee in East Tunnel",
     "Skyview Temple - Rupee on Spring Pillar",
-    "Earth Temple - Rupee above Drawbridge",
-    "Earth Temple - Rupee in Lava Tunnel",
-    "Ancient Cistern - Rupee in East Part in Main Tunnel",
-    "Ancient Cistern - Rupee in East Part in Cubby",
-    "Ancient Cistern - First Rupee in East Part in Short Tunnel",
-    "Ancient Cistern - Second Rupee in East Part in Short Tunnel",
-    "Ancient Cistern - Third Rupee in East Part in Short Tunnel",
+    "Earth Temple - Rupee above First Drawbridge",
+    "Earth Temple - Rupee in Dragon's Mouth in Lava Tunnel",
+    "Ancient Cistern - Rupee in East Room in Main Tunnel",
+    "Ancient Cistern - Rupee in East Room in Cubby",
+    "Ancient Cistern - First Rupee in East Room in Short Tunnel",
+    "Ancient Cistern - Second Rupee in East Room in Short Tunnel",
+    "Ancient Cistern - Third Rupee in East Room in Short Tunnel",
     "Ancient Cistern - Rupee under Lilypad after Pipes",
     "Ancient Cistern - Rupee in East Hand",
     "Ancient Cistern - Rupee in West Hand",
@@ -746,8 +746,8 @@ RUPEE_CHECKS = [
 ]
 
 QUICK_BEETLE_CHECKS = [
-    "Ancient Harbour - Left Rupee on Entrance Crown",
-    "Ancient Harbour - Right Rupee on Entrance Crown",
+    "Ancient Harbour - North Rupee on Entrance Crown",
+    "Ancient Harbour - South Rupee on Entrance Crown",
     "Pirate Stronghold - Rupee on West Sea Pillar",
     "Pirate Stronghold - Rupee on East Sea Pillar",
 ]
@@ -926,10 +926,10 @@ LOCATION_FILTER_TYPES = (
     "Sand Sea Goddess Chests",
     "Combat",
     "Minigames",
-    "Beedle's Shop Purchases",
-    "Beedle's Shop Purchase (Cheap)",
-    "Beedle's Shop Purchase (Medium)",
-    "Beedle's Shop Purchase (Expensive)",
+    "Beedle's Airshop Purchases",
+    "Beedle's Airshop Purchase (Cheap)",
+    "Beedle's Airshop Purchase (Medium)",
+    "Beedle's Airshop Purchase (Expensive)",
     "Batreaux's Rewards",
     "Loose Crystals",
     "Gratitude Crystal Sidequests",

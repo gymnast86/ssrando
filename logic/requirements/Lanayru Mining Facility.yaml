@@ -95,7 +95,7 @@ Main:
         Entry: Nothing
         Near Exit to Hop Across Boxes Room: Near Exit to Hop Across Boxes Room - Push Box
       locations:
-        First Chest in Hub Room: Nothing
+        Chest after Breakable Boxes in Hub Room: Nothing
 
     Near Exit to Hop Across Boxes Room:
       exits:
@@ -150,7 +150,7 @@ Main:
         Near Boss Door: Gust Bellows | (LMF - Minecart Jump Trick & Sword & (Bomb Bag | Beetle))
       locations:
         Push Box: Nothing
-        Shortcut Chest in Main Hub: Nothing
+        Raised Chest in Hub Room after Minecart: Nothing
 
     Between Wind Gates:
       exits:

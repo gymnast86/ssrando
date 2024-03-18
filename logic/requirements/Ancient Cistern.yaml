@@ -48,7 +48,7 @@ Main:
       exits:
         Basement Gutters: Toilet Flush
       locations:
-        Chest behind the Waterfall: Nothing
+        Chest behind Waterfall: Nothing
         First Lever: Whip
         Second Lever: First Lever & Whip
         Toilet Flush: First Lever & Second Lever & Whip
@@ -100,17 +100,17 @@ Main:
       locations:
         Flip Side Lilypad: Nothing
         Flip Main Lilypad: Nothing
-        Rupee in East Part in Cubby: Flip Side Lilypad & Water Dragon's Scale
-        First Rupee in East Part in Short Tunnel: Water Dragon's Scale
-        Second Rupee in East Part in Short Tunnel: Water Dragon's Scale
-        Third Rupee in East Part in Short Tunnel: Water Dragon's Scale
-        Rupee in East Part in Main Tunnel: Flip Main Lilypad & Water Dragon's Scale
+        Rupee in East Room in Cubby: Flip Side Lilypad & Water Dragon's Scale
+        First Rupee in East Room in Short Tunnel: Water Dragon's Scale
+        Second Rupee in East Room in Short Tunnel: Water Dragon's Scale
+        Third Rupee in East Room in Short Tunnel: Water Dragon's Scale
+        Rupee in East Room in Main Tunnel: Flip Main Lilypad & Water Dragon's Scale
 
     Chest Ledge:
       exits:
         Main Room: Nothing
       locations:
-        Chest in East Part: Nothing
+        Chest in East Room: Nothing
 
   Basement Gutters:
     exits:
@@ -124,7 +124,7 @@ Main:
         Basement Gutters: Water Dragon's Scale
         Main Room - After Gutters: Ancient Cistern Small Key x 2
       locations:
-        Bokoblin: Whip
+        Whip Item from Bokoblin between Pipes: Whip
 
   # Implies statue is lowered
   Basement:

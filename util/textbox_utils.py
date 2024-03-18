@@ -46,7 +46,7 @@ if __name__ == "__main__":
     print(test_separator)
     print(break_lines("Hey, you look like you have a Questions?"))
     print(test_separator)
-    print(break_lines("Skyloft Peater/Peatrice's Crystals has Bug Net"))
+    print(break_lines("Skyloft Peatrice's Love has Bug Net"))
     print(test_separator)
     print(
         make_mutliple_textboxes(
@@ -62,13 +62,13 @@ if __name__ == "__main__":
     print(test_separator)
     print(
         break_lines(
-            "<r<Knight Academy - Owlan's Crystals>> has <y<Eldin Song of the Hero Part>>"
+            "<r<Knight Academy - Deliver Kikwi to Owlan>> has <y<Eldin Song of the Hero Part>>"
         )
     )
     print(
         break_and_make_multiple_textboxes(
             [
-                "<y<Progressive Sword>> can be found at <r<Sealed Temple - Chest>> at Noon in the after noon at 1235 <y<Progressive Sword>> can be found somewhere",
+                "<y<Progressive Sword>> can be found at <r<Sealed Temple - Chest near The Old One>> at Noon in the after noon at 1235 <y<Progressive Sword>> can be found somewhere",
                 "<r<Sandship - Bow>> has <y<Sandship Map>>",
             ]
         )

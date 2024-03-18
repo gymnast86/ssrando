@@ -9321,6 +9321,8 @@ areas:
               Chest Dive Trick
             \The Sky\South East: 'True'
             \The Sky\Around Skyloft: 'True'
+            \The Sky\North East\Island near Bamboo Island: 'True'
+            \The Sky\North East\Northeast Island: 'True'
             \The Sky\North East\Eldin Pillar: 'True'
             \The Sky\North East\Bamboo Island: 'True'
             \The Sky\North East\Beedle's Island: 'True'
@@ -9490,6 +9492,7 @@ areas:
             \The Sky\South West: 'True'
             \The Sky\Around Skyloft: 'True'
             \The Sky\South East\Faron Pillar: 'True'
+            \The Sky\South East\Island Closest to Faron Pillar: 'True'
             \The Sky\South East\Lumpy Pumpkin: 'True'
           hint_region: The Sky
           locations:

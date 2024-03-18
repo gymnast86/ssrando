@@ -9922,7 +9922,7 @@ checks:
     short_name: Knight Academy - Karane's Closet
   \Skyloft\Knight Academy\Zelda's Room\Zelda's Closet:
     original item: Heart Piece
-    type: null
+    type: Closets
     short_name: Knight Academy - Zelda's Closet
   \Skyloft\Knight Academy\Zelda's Room\Rupee in Chimney Crawlspace 1:
     original item: Green Rupee

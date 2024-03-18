@@ -50,7 +50,7 @@ Knight Academy - Karane's Closet:
     - stage/F001r/r6/l0/chest/0xFC06
 Knight Academy - Zelda's Closet:
   original item: Heart Piece
-  type:
+  type: Closets
   Paths:
     - stage/F001r/r6/l0/chest/32 #sceneflag
 Knight Academy - Rupee in Chimney Crawlspace 1:

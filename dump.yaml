@@ -9491,8 +9491,8 @@ areas:
             \The Sky\North East: 'True'
             \The Sky\South West: 'True'
             \The Sky\Around Skyloft: 'True'
-            \The Sky\South East\Faron Pillar: 'True'
             \The Sky\South East\Island Closest to Faron Pillar: 'True'
+            \The Sky\South East\Faron Pillar: 'True'
             \The Sky\South East\Lumpy Pumpkin: 'True'
           hint_region: The Sky
           locations:

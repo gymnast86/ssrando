@@ -9,19 +9,19 @@ North East:
     # Getting this Chest during the day is possible but rather difficult
     The Sky - South East: Nothing
     The Sky - Around Skyloft: Nothing
+    Island near Bamboo Island: Nothing
+    Northeast Island: Nothing
   locations:
     Form a Squirrel Ring above Volcanic Island: Nothing
     Form a Squirrel Ring above Lumpy Pumpkin: Nothing
     Form a Squirrel Ring above Bamboo Island: Nothing
 
   Island near Bamboo Island:
-    entrance: Nothing
     locations:
       Top Goddess Chest: Eldin - Goddess Cube near Mogma Turf Entrance
       Goddess Chest in Cave: Lanayru - Goddess Cube in Secret Passageway & Water Dragon's Scale
 
   Northeast Island:
-    entrance: Nothing
     locations:
       Goddess Chest behind Bombable Rocks: Lanayru - Goddess Cube at Lanayru Mine Entrance & Bomb Bag
       Goddess Chest in Cage: Eldin - Goddess Cube East of Earth Temple Entrance
@@ -91,6 +91,7 @@ South East:
     The Sky - North East: Nothing
     The Sky - South West: Nothing
     The Sky - Around Skyloft: Nothing
+    Island Closest to Faron Pillar: Nothing
   locations:
     Chest in Breakable Boulder near Lumpy Pumpkin:
       Spiral Charge #| Can RBM 4x02
@@ -115,7 +116,6 @@ South East:
       South East: Nothing
 
   Island Closest to Faron Pillar:
-    entrance: Nothing
     locations:
       Goddess Chest: Faron - Goddess Cube in Deep Woods
 

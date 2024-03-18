@@ -785,7 +785,7 @@ Lumpy Pumpkin - Item on Chandelier:
   Paths:
     - stage/F011r/r0/l0/Chandel
   text: <r<angering a bartender>> dislodges
-Harp Duet with Kina:
+Lumpy Pumpkin - Harp Duet with Kina:
   original item: Heart Piece
   type: Minigames
   Paths:
@@ -876,7 +876,7 @@ Island near Bamboo Island - Top Goddess Chest:
   Paths:
     - stage/F020/r0/l0/TBox/71
   cube_region: Eldin Volcano
-Island near Bamboo Island - Top Goddess Chest in Cave:
+Island near Bamboo Island - Goddess Chest in Cave:
   original item: Heart Medal
   type: goddess, Lanayru Desert Goddess Chests
   Paths:

@@ -760,7 +760,8 @@ items:
 - \Ancient Cistern\Main\East Part\Second Room\Rupee in East Room in Main Tunnel
 - \Ancient Cistern\Main\East Part\Chest Ledge\Chest in East Room
 - \Ancient Cistern\Main\Basement Gutters\Can Get Past Skulltula
-- \Ancient Cistern\Main\Basement Gutters\Past Skulltula\Bokoblin
+- \Ancient Cistern\Main\Basement Gutters\Past Skulltula\Whip Item from Bokoblin between
+  Pipes
 - \Ancient Cistern\Main\Basement\Stop Cursed Waterfall
 - \Ancient Cistern\Main\Basement\Blow Rock
 - \Ancient Cistern\Main\Basement\Rupee in Basement Demon's Right Eye
@@ -782,7 +783,7 @@ items:
 - \Earth Temple\Main\First Room\Lower Drawbridge
 - \Earth Temple\Main\First Room\Dislodge Boulder
 - \Earth Temple\Main\Hub Room\Access to Boulder
-- \Earth Temple\Main\Hub Room\Chest behind Bombable Rock
+- \Earth Temple\Main\Hub Room\Chest behind Southwest Bombable Rock
 - \Earth Temple\Main\Hub Room\Northwest Chest Main Room
 - \Earth Temple\Main\Hub Room\Ledd's Gift
 - \Earth Temple\Main\Hub Room\Rock to West Room
@@ -988,7 +989,8 @@ items:
   Sanctuary
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Before Thirsty Frogs\Hydrate First
   Frog
-- \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Item after Underground Tunnel near Gossip Stone
+- \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Item after Underground
+  Tunnel near Gossip Stone
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Underground Rupee
   1
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Between Thirsty Frogs\Underground Rupee
@@ -1042,7 +1044,7 @@ items:
 - \Faron\Sealed Grounds\Spiral\Spiral Stamina Fruit 24
 - \Faron\Sealed Grounds\Spiral\Upper Part\Unlock Statue
 - \Faron\Sealed Grounds\Spiral\Upper Part\Bonk Wall between Pillars near Bird Statue
-- \Faron\Sealed Grounds\Sealed Temple\Chest
+- \Faron\Sealed Grounds\Sealed Temple\Chest near The Old One
 - \Faron\Sealed Grounds\Sealed Temple\Song from The Old One
 - \Faron\Sealed Grounds\Sealed Temple\Raise Gate of Time
 - \Faron\Sealed Grounds\Sealed Temple\Start Imprisoned 2
@@ -1115,20 +1117,24 @@ items:
   Target
 - \Faron\Faron Woods\Rope Branch\Goddess Cube on East Great Tree with Rope
 - \Faron\Faron Woods\Rope Branch\Blow Wooden Spiral near Goddess Cube near Rope
-- \Faron\Faron Woods\Great Tree\Lower Area\Blow Small Yellow Mushroom after Vines
-- \Faron\Faron Woods\Great Tree\Lower Area\Blow Large Yellow Mushroom after Vines
-- \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Chest
-- \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Blow Red Mushroom after Swinging
-  Platforms West
-- \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Blow Tall Blue Mushroom after
-  Swinging Platforms South
-- \Faron\Faron Woods\Great Tree\Upper Area\Remove Void Plane
-- \Faron\Faron Woods\Great Tree\Upper Area\Blow Tree Spiral on Highest Pathway
-- \Faron\Faron Woods\Great Tree\Top\Unlock Statue
-- \Faron\Faron Woods\Great Tree\Top\Rupee on Great Tree North Branch
-- \Faron\Faron Woods\Great Tree\Top\Rupee on Great Tree West Branch
-- \Faron\Faron Woods\Great Tree\Top\Talk to Yerbal
-- \Faron\Faron Woods\Deep Woods\Chest
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Blow Small Yellow Mushroom after
+  Vines
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Blow Large Yellow Mushroom after
+  Vines
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Chest guarded
+  by Deku Baba
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Blow Red Mushroom
+  after Swinging Platforms West
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Blow Tall Blue
+  Mushroom after Swinging Platforms South
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Remove Void Plane
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Blow Tree Spiral on Highest
+  Pathway
+- \Faron\Faron Woods\Inside the Great Tree\Top\Unlock Statue
+- \Faron\Faron Woods\Inside the Great Tree\Top\Rupee on Great Tree North Branch
+- \Faron\Faron Woods\Inside the Great Tree\Top\Rupee on Great Tree West Branch
+- \Faron\Faron Woods\Inside the Great Tree\Top\Talk to Yerbal
+- \Faron\Faron Woods\Deep Woods\Chest on High Ledge
 - \Faron\Faron Woods\Deep Woods\Stamina Fruit on Hanging Ledge
 - \Faron\Faron Woods\Deep Woods\Bonk Tree with Rope
 - \Faron\Faron Woods\Deep Woods\Bonk Tree near Gossip Stone 1
@@ -1157,7 +1163,7 @@ items:
 - \Faron\Lake Floria\Above Rock\Right Rupee behind Northwest Boulder
 - \Faron\Lake Floria\Above Rock\Rupee under Central Boulder
 - \Faron\Lake Floria\Above Rock\Blow Rock
-- \Faron\Lake Floria\Below Rock\Emerged Area\Chest
+- \Faron\Lake Floria\Below Rock\Emerged Area\Chest near Bird Statue
 - \Faron\Lake Floria\Below Rock\Emerged Area\Goddess Cube in Lake Floria
 - \Faron\Lake Floria\Below Rock\Emerged Area\Unlock Statue
 - \Faron\Lake Floria\Farore's Lair\Dragon Lair South Chest
@@ -1187,7 +1193,8 @@ items:
 - \Fire Sanctuary\Main\Second Room\Chest in Second Room
 - \Fire Sanctuary\Main\Second Room\Open Doors to Water Fruit
 - \Fire Sanctuary\Main\Second Room\Defeat Magmanos
-- \Fire Sanctuary\Main\Second Room\Balcony\Chest on Balcony after Single Magmanos Fight
+- \Fire Sanctuary\Main\Second Room\Balcony\Chest on Balcony after Single Magmanos
+  Fight
 - \Fire Sanctuary\Main\First Bridge\Lizalfos Fight
 - \Fire Sanctuary\Main\Room with Water Plant\Blow up Rock
 - \Fire Sanctuary\Main\Room with Water Plant\Hit Water Plant
@@ -1202,8 +1209,8 @@ items:
   Lava Source
 - \Fire Sanctuary\Main\Room with Water Plant\Past Lava\Unlock Key Door
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Chest near First Trapped Mogma
-- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Rescue First Trapped Mogma
-  Chest
+- \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Chest from First Trapped
+  Mogma
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Blow up Rock in Tunnel
 - \Fire Sanctuary\Main\First Trapped Mogma Room\Lower Area\Underground Rupee beneath
   Double Magmanos Room 1
@@ -1281,7 +1288,8 @@ items:
 - \Lanayru Mining Facility\Main\Armos Fight Room\Defeat Armos
 - \Lanayru Mining Facility\Main\Armos Fight Room\Chest after Armos Fight
 - \Lanayru Mining Facility\Main\Big Hub\Entry\Blow Up Boxes
-- \Lanayru Mining Facility\Main\Big Hub\After Wooden Boxes\Chest after Breakable Boxes in Hub Room
+- \Lanayru Mining Facility\Main\Big Hub\After Wooden Boxes\Chest after Breakable Boxes
+  in Hub Room
 - \Lanayru Mining Facility\Main\Big Hub\Near Exit to Hop Across Boxes Room\Push Box
 - \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Blow Off Pile for First Crawlspace
 - \Lanayru Mining Facility\Main\Big Hub\Past West Gate\Blow Off Pile for Second Crawlspace
@@ -1317,7 +1325,7 @@ items:
 - \Lanayru Mining Facility\Main\Big Hub\Sand Spike Maze\Northeast Rupee in Spike Maze
 - \Lanayru Mining Facility\Main\Big Hub\Near Boss Key Room Second Exit\Push Box
 - \Lanayru Mining Facility\Main\Big Hub\Near Boss Key Room Second Exit\Raised Chest
-  in Main Hub
+  in Hub Room after Minecart
 - \Lanayru Mining Facility\Main\Big Hub\Between Wind Gates\Get Minecart
 - \Lanayru Mining Facility\Main\Big Hub\Between Wind Gates\Open First Wind Gate
 - \Lanayru Mining Facility\Main\Big Hub\Between Wind Gates\Activate Minecart Stone
@@ -1433,8 +1441,8 @@ items:
 - \Lanayru\Desert\North Part\Secret Passageway\Goddess Cube in Secret Passageway
 - \Lanayru\Desert\North Part\Lightning Node\Present\Blow up Rock for Timeshift Stone
 - \Lanayru\Desert\North Part\Lightning Node\Present\Timeshift Stone
-- \Lanayru\Desert\North Part\Lightning Node\Past\First Chest
-- \Lanayru\Desert\North Part\Lightning Node\Past\Second Chest
+- \Lanayru\Desert\North Part\Lightning Node\Past\Front Chest
+- \Lanayru\Desert\North Part\Lightning Node\Past\Middle Chest
 - \Lanayru\Desert\North Part\Lightning Node\Past\Bonk Lightning Node Power Supply
 - \Lanayru\Desert\North Part\Lightning Node\Past\Bonk Lightning Node Generator
 - \Lanayru\Desert\North Part\Lightning Node\Past\Lightning Node
@@ -1477,7 +1485,7 @@ items:
 - \Lanayru\Nayru's Silent Realm\Stamina Fruit near Minecart
 - \Lanayru\Nayru's Silent Realm\Stamina Fruit between Watchers
 - \Lanayru\Nayru's Silent Realm\Stamina Fruit near Tree
-- \Lanayru\Caves\Chest
+- \Lanayru\Caves\Chest near Golo
 - \Lanayru\Caves\Golo's Gift
 - \Lanayru\Caves\Gossip Stone in Center
 - \Lanayru\Caves\Past Crawlspace\Gossip Stone towards Lanayru Gorge
@@ -1496,10 +1504,11 @@ items:
   of Entrance Robot
 - \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Slingshot Right Nostril
   of Entrance Robot
-- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Rupee on Highest Clawshot Pillar
-- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Left Rupee on Entrance
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Rupee on Highest Clawshot
+  Pillar
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\North Rupee on Entrance
   Crown
-- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\Right Rupee on Entrance
+- \Lanayru\Lanayru Sand Sea\Ancient Harbour\Near Exit to Caves\South Rupee on Entrance
   Crown
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Unlock Statue
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Blow up Rock
@@ -1552,9 +1561,9 @@ items:
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Stamina Fruit on Lower Right Side
 - \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside the Shark Head\Goddess Cube in
   Pirate Stronghold
-- \Lanayru\Pirate Stronghold Interior\First Chest
-- \Lanayru\Pirate Stronghold Interior\Second Chest
-- \Lanayru\Pirate Stronghold Interior\Third Chest
+- \Lanayru\Pirate Stronghold Interior\Chest behind Electric Fence
+- \Lanayru\Pirate Stronghold Interior\Chest before Deku Babas
+- \Lanayru\Pirate Stronghold Interior\Chest before Double Armos Fight
 - \Lanayru\Pirate Stronghold Interior\Finish Minidungeon
 - \Lanayru\Gorge\Unlock Statue
 - \Lanayru\Gorge\Item on Pillar below Dragon
@@ -1572,7 +1581,7 @@ items:
 - \Lanayru\Gorge\Bonk Right Machine after Locked Door
 - \Lanayru\Gorge\Beyond Bridge\Activate Timeshift Stone
 - \Lanayru\Gorge\Beyond Bridge\Goddess Cube in Lanayru Gorge
-- \Lanayru\Gorge\Beyond Bridge\Digging Spot
+- \Lanayru\Gorge\Beyond Bridge\Life Tree Digging Spot
 - \Lanayru\Gorge\Beyond Bridge\Slingshot Left Sandfall Source near Life Tree
 - \Lanayru\Gorge\Beyond Bridge\Slingshot Right Sandfall Source near Life Tree
 - \Lanayru\Gorge\Beyond Bridge\Rupee in Sandfall Tunnel near Life Tree 1
@@ -1614,7 +1623,7 @@ items:
 - \Sandship\Boss Room\Beat Tentalus
 - \Sandship\Boss Room\Defeat Boss
 - \Sandship\Boss Room\Nayru's Flame
-- \Sky Keep\Main\First Room\First Chest
+- \Sky Keep\Main\First Room\Chest in First Room
 - \Sky Keep\Main\First Room\Right Exit
 - \Sky Keep\Main\Skyview Room\Beginning\Free Rope
 - \Sky Keep\Main\Skyview Room\Beginning\Kill Pyrups
@@ -1686,8 +1695,8 @@ items:
 - \Skyloft\Knight Academy\Zelda's Room\Rupee in Chimney Crawlspace 3
 - \Skyloft\Knight Academy\Zelda's Room\Rupee in Chimney Crawlspace 4
 - \Skyloft\Knight Academy\Zelda's Room\Rupee in Chimney Crawlspace 5
-- \Skyloft\Sparring Hall\Crystal
-- \Skyloft\Sparring Hall\Chest
+- \Skyloft\Sparring Hall\Crystal on Roof Beam
+- \Skyloft\Sparring Hall\Chest in Back Room
 - \Skyloft\Sparring Hall\Delivered Hot Soup
 - \Skyloft\Inside the Statue of the Goddess\First Goddess Sword Item
 - \Skyloft\Inside the Statue of the Goddess\Second Goddess Sword Item
@@ -1767,15 +1776,15 @@ items:
 - \Skyloft\Skyloft Village\Mallara's House\Mallara's Closet
 - \Skyloft\Skyloft Village\Gondo's House\Gondo's Closet
 - \Skyloft\Skyloft Village\Rupin's House\Rupin's Closet
-- \Skyloft\Batreaux\5 Crystals
-- \Skyloft\Batreaux\10 Crystals
-- \Skyloft\Batreaux\30 Crystals
-- \Skyloft\Batreaux\30 Crystals Chest
-- \Skyloft\Batreaux\40 Crystals
-- \Skyloft\Batreaux\50 Crystals
-- \Skyloft\Batreaux\70 Crystals
-- \Skyloft\Batreaux\70 Crystals Second Reward
-- \Skyloft\Batreaux\80 Crystals
+- \Skyloft\Batreaux's House\5 Gratitude Crystals Reward
+- \Skyloft\Batreaux's House\10 Gratitude Crystals Reward
+- \Skyloft\Batreaux's House\30 Gratitude Crystals Reward
+- \Skyloft\Batreaux's House\30 Gratitude Crystals Reward Chest
+- \Skyloft\Batreaux's House\40 Gratitude Crystals Reward
+- \Skyloft\Batreaux's House\50 Gratitude Crystals Reward
+- \Skyloft\Batreaux's House\70 Gratitude Crystals First Reward
+- \Skyloft\Batreaux's House\70 Gratitude Crystals Second Reward
+- \Skyloft\Batreaux's House\80 Gratitude Crystals Reward
 - \Skyloft\Beedle's Airshop\Stall\300 Rupee Item
 - \Skyloft\Beedle's Airshop\Stall\600 Rupee Item
 - \Skyloft\Beedle's Airshop\Stall\1200 Rupee Item
@@ -1863,11 +1872,11 @@ items:
 - \The Sky\North East\Form a Squirrel Ring above Volcanic Island
 - \The Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin
 - \The Sky\North East\Form a Squirrel Ring above Bamboo Island
-- \The Sky\North East\Island near Bamboo Island\Goddess Chest
+- \The Sky\North East\Island near Bamboo Island\Top Goddess Chest
 - \The Sky\North East\Island near Bamboo Island\Goddess Chest in Cave
 - \The Sky\North East\Northeast Island\Goddess Chest behind Bombable Rocks
-- \The Sky\North East\Northeast Island\Cage Goddess Chest
-- \The Sky\Bamboo Island\Goddess Chest
+- \The Sky\North East\Northeast Island\Goddess Chest in Cage
+- \The Sky\Bamboo Island\Goddess Chest behind Entrance
 - \The Sky\Bamboo Island\Slingshot Left Lantern
 - \The Sky\Bamboo Island\Slingshot Middle Lantern
 - \The Sky\Bamboo Island\Slingshot Right Lantern
@@ -1877,14 +1886,14 @@ items:
 - \The Sky\Bamboo Island Interior\Bonk East Sprout
 - \The Sky\Bamboo Island Interior\Bonk Southeast Sprout
 - \The Sky\Bamboo Island Interior\Gossip Stone
-- \The Sky\Beedle's Island\Crystal
+- \The Sky\Beedle's Island\Crystal on Airshop Propeller
 - \The Sky\Beedle's Island\Deliver Beedle's Insect Cage
 - \The Sky\Beedle's Island\Top\Top Goddess Chest
-- \The Sky\Beedle's Island\Cage\Cage Goddess Chest
+- \The Sky\Beedle's Island\Cage\Goddess Chest in Cage
 - \The Sky\South East\Chest in Breakable Boulder near Lumpy Pumpkin
 - \The Sky\South East\Island Closest to Faron Pillar\Goddess Chest
 - \The Sky\South East\Lumpy Pumpkin\Outside Crystal
-- \The Sky\South East\Lumpy Pumpkin\Outside Goddess Chest
+- \The Sky\South East\Lumpy Pumpkin\Goddess Chest near Gossip Stone
 - \The Sky\South East\Lumpy Pumpkin\Goddess Chest on Roof
 - \The Sky\South East\Lumpy Pumpkin\Start Kina's Quest
 - \The Sky\South East\Lumpy Pumpkin\Deliver Mogma to Kina
@@ -1895,14 +1904,14 @@ items:
 - \The Sky\South East\Lumpy Pumpkin\Slingshot Lantern Left of Main Door
 - \The Sky\South East\Lumpy Pumpkin\Slingshot Lantern Right of Main Door
 - \The Sky\South East\Lumpy Pumpkin\Slingshot Lantern next to Back Door
-- \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Chandelier
+- \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Item on Chandelier
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Inside Crystal
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Break the Chandelier
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Pumm and Kina's Closet
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Start Hot Soup Delivery
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Complete Hot Soup Delivery
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Play the Harp with Kina
-- \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Harp Minigame
+- \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Harp Duet with Kina
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Pick up Levias' Soup
 - \The Sky\South West\Chest in Breakable Boulder near Fun Fun Island
 - \The Sky\South West\Volcanic Island\Outside Goddess Chest
@@ -1914,11 +1923,11 @@ items:
 - \The Sky\South West\Fun Fun Island\Start Dodoh's Quest
 - \The Sky\South West\Fun Fun Island\Deliver Party Wheel to Dodoh
 - \The Sky\South West\Fun Fun Island\500 Rupees in Dodoh's High Dive
-- \The Sky\South West\Fun Fun Island\Goddess Chest
+- \The Sky\South West\Fun Fun Island\Goddess Chest below Island
 - \The Sky\South West\Fun Fun Island\Fun Fun Island Minigame
 - \The Sky\South West\Triple Island\Upper Goddess Chest
 - \The Sky\South West\Triple Island\Lower Goddess Chest
-- \The Sky\South West\Triple Island\Cage Goddess Chest
+- \The Sky\South West\Triple Island\Goddess Chest in Cage
 - \The Sky\Inside the Thunderhead\Song from Levias
 - \The Sky\Inside the Thunderhead\Isle of Songs\Lower Goddess Chest
 - \The Sky\Inside the Thunderhead\Isle of Songs\Top Goddess Chest
@@ -1926,17 +1935,19 @@ items:
 - \The Sky\Inside the Thunderhead\Isle of Songs\Inside\Strike Crest with Goddess Sword
 - \The Sky\Inside the Thunderhead\Isle of Songs\Inside\Strike Crest with Longsword
 - \The Sky\Inside the Thunderhead\Isle of Songs\Inside\Strike Crest with White Sword
-- \The Sky\Thunderhead East Island\Goddess Chest
-- \The Sky\Thunderhead East Island\Chest
-- \The Sky\Mogma Mitts Island\First Goddess Chest
-- \The Sky\Mogma Mitts Island\Second Goddess Chest
-- \The Sky\Bug Heaven\10 Bugs in 3 Minutes
-- \The Sky\Bug Heaven\Goddess Chest
-- \The Sky\Bug Heaven\Nearby Gossip Stone
-- \The Sky\Bug Heaven\Stamina Fruit near Start
-- \The Sky\Bug Heaven\Stamina Fruit in front of Wooden Plank
-- \The Sky\Bug Heaven\Stamina Fruit in Center Room
-- \The Sky\Bug Heaven\Stamina Fruit on top of Slope
+- \The Sky\Inside the Thunderhead\East Island\Goddess Chest on East Island
+- \The Sky\Inside the Thunderhead\East Island\Chest on East Island
+- \The Sky\Inside the Thunderhead\Mogma Mitts Island\Mogma Mitts Island First Goddess
+  Chest
+- \The Sky\Inside the Thunderhead\Mogma Mitts Island\Mogma Mitts Island Second Goddess
+  Chest
+- \The Sky\Inside the Thunderhead\Bug Heaven\10 Bugs in 3 Minutes
+- \The Sky\Inside the Thunderhead\Bug Heaven\Goddess Chest
+- \The Sky\Inside the Thunderhead\Bug Heaven\Gossip Stone near Bug Heaven
+- \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit near Start
+- \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit in front of Wooden Plank
+- \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit in Center Room
+- \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit on top of Slope
 - \Ancient Cistern\Main\Main Room\After Whip Hooks
 - \Ancient Cistern\Main\Main Room\Vines Area
 - \Ancient Cistern\Main\Main Room\Behind the Waterfall
@@ -2024,14 +2035,14 @@ items:
 - \Faron\Faron Woods\West Branch
 - \Faron\Faron Woods\Clawshot Target Branch
 - \Faron\Faron Woods\Rope Branch
-- \Faron\Faron Woods\Great Tree\Near Underwater Hole
-- \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest
-- \Faron\Faron Woods\Great Tree\Lower Area\Near Exit
-- \Faron\Faron Woods\Great Tree\Lower Area
-- \Faron\Faron Woods\Great Tree\Platforms
-- \Faron\Faron Woods\Great Tree\Upper Area
-- \Faron\Faron Woods\Great Tree\Top
-- \Faron\Faron Woods\Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area
+- \Faron\Faron Woods\Inside the Great Tree\Platforms
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area
+- \Faron\Faron Woods\Inside the Great Tree\Top
+- \Faron\Faron Woods\Inside the Great Tree
 - \Faron\Faron Woods\Deep Woods\Entry
 - \Faron\Faron Woods\Deep Woods
 - \Faron\Faron Woods
@@ -2248,8 +2259,8 @@ items:
 - \Skyloft\Skyloft Village\Rupin's House_NIGHT
 - \Skyloft\Skyloft Village_DAY
 - \Skyloft\Skyloft Village_NIGHT
-- \Skyloft\Batreaux_DAY
-- \Skyloft\Batreaux_NIGHT
+- \Skyloft\Batreaux's House_DAY
+- \Skyloft\Batreaux's House_NIGHT
 - \Skyloft\Beedle's Airshop\Stall_DAY
 - \Skyloft\Beedle's Airshop\Stall_NIGHT
 - \Skyloft\Beedle's Airshop_DAY
@@ -2307,10 +2318,10 @@ items:
 - \The Sky\Around Skyloft
 - \The Sky\Inside the Thunderhead\Isle of Songs\Inside
 - \The Sky\Inside the Thunderhead\Isle of Songs
+- \The Sky\Inside the Thunderhead\East Island
+- \The Sky\Inside the Thunderhead\Mogma Mitts Island
+- \The Sky\Inside the Thunderhead\Bug Heaven
 - \The Sky\Inside the Thunderhead
-- \The Sky\Thunderhead East Island
-- \The Sky\Mogma Mitts Island
-- \The Sky\Bug Heaven
 - \The Sky
 - _DAY
 - _NIGHT
@@ -2358,7 +2369,7 @@ items:
 - \Skyloft\Skyloft Village\Sparrot's House Exit
 - \Skyloft\Skyloft Village\Mallara's House Exit
 - \Skyloft\Skyloft Village\Mallara's House\Exit
-- \Skyloft\Batreaux\Exit
+- \Skyloft\Batreaux's House\Exit
 - \Skyloft\Skyloft Village\Batreaux's House Exit
 - \Skyloft\Skyloft Village\Gondo's House\Exit
 - \Skyloft\Skyloft Village\Gondo's House Exit
@@ -2431,15 +2442,15 @@ items:
 - \Faron\Faron Woods\Ledge to Lake Floria\Shortcut Exit to Floria Waterfall
 - \Faron\Faron Woods\Trial Gate Exit
 - \Faron\Farore's Silent Realm\Exit
-- \Faron\Faron Woods\Great Tree\Platforms\Lower Exit to Great Tree
-- \Faron\Faron Woods\Great Tree\Platforms\Upper Exit to Great Tree
-- \Faron\Faron Woods\Great Tree\Top\Top Exit to Great Tree
-- \Faron\Faron Woods\Great Tree\Near Underwater Hole\Underwater Hole Exit
-- \Faron\Faron Woods\Great Tree\Lower Area\Near Exit\Lower Exit to Platforms
-- \Faron\Faron Woods\Great Tree\Upper Area\Upper Exit to Platforms
-- \Faron\Faron Woods\Great Tree\Upper Area\Exit to Top
-- \Faron\Faron Woods\Great Tree\Lower Area\Underwater Tunnel Exit
-- \Faron\Faron Woods\Great Tree\Upper Area\Exit to Flooded Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Platforms\Lower Exit to Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Platforms\Upper Exit to Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Top\Top Exit to Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole\Underwater Hole Exit
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit\Lower Exit to Platforms
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Upper Exit to Platforms
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Exit to Top
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Underwater Tunnel Exit
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Exit to Flooded Great Tree
 - \Faron\Flooded Faron Woods\Flooded Great Tree\Exit to Great Tree
 - \Faron\Flooded Faron Woods\Flooded Great Tree\Exit to Upper Flooded Faron Woods
 - \Faron\Flooded Faron Woods\Flooded Great Tree\Underwater Tunnel Exit
@@ -2651,8 +2662,8 @@ items:
 - \Skyloft\Skyloft Village\Mallara's House Entrance_NIGHT
 - \Skyloft\Skyloft Village\Mallara's House\Entrance_DAY
 - \Skyloft\Skyloft Village\Mallara's House\Entrance_NIGHT
-- \Skyloft\Batreaux\Entrance_DAY
-- \Skyloft\Batreaux\Entrance_NIGHT
+- \Skyloft\Batreaux's House\Entrance_DAY
+- \Skyloft\Batreaux's House\Entrance_NIGHT
 - \Skyloft\Skyloft Village\Batreaux's House Entrance_DAY
 - \Skyloft\Skyloft Village\Batreaux's House Entrance_NIGHT
 - \Skyloft\Skyloft Village\Gondo's House\Entrance_DAY
@@ -2707,21 +2718,23 @@ items:
 - \Faron\Faron Woods\Entry\Faron Woods Entry Statue Entrance
 - \Faron\Faron Woods\In the Woods Statue Entrance
 - \Faron\Faron Woods\Viewing Platform Statue Entrance
-- \Faron\Faron Woods\Great Tree\Top\The Great Tree Statue Entrance
+- \Faron\Faron Woods\Inside the Great Tree\Top\The Great Tree Statue Entrance
 - \Faron\Faron Woods\Entry\Entrance from Behind the Temple
 - \Faron\Faron Woods\Ledge to Lake Floria\Shortcut Entrance from Floria Waterfall
 - \Faron\Faron Woods\Ledge To Deep Woods\Entrance from Deep Woods
 - \Faron\Faron Woods\Trial Gate Entrance
 - \Faron\Farore's Silent Realm\Entrance
-- \Faron\Faron Woods\Great Tree\Platforms\Lower Entrance from Great Tree
-- \Faron\Faron Woods\Great Tree\Platforms\Upper Entrance from Great Tree
-- \Faron\Faron Woods\Great Tree\Top\Top Entrance from Great Tree
-- \Faron\Faron Woods\Great Tree\Near Underwater Hole\Underwater Hole Entrance
-- \Faron\Faron Woods\Great Tree\Lower Area\Near Exit\Lower Entrance from Platforms
-- \Faron\Faron Woods\Great Tree\Upper Area\Upper Entrance from Platforms
-- \Faron\Faron Woods\Great Tree\Upper Area\Entrance from Top
-- \Faron\Faron Woods\Great Tree\Lower Area\Underwater Tunnel Entrance
-- \Faron\Faron Woods\Great Tree\Upper Area\Entrance from Flooded Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Platforms\Lower Entrance from Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Platforms\Upper Entrance from Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Top\Top Entrance from Great Tree
+- \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole\Underwater Hole Entrance
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit\Lower Entrance from
+  Platforms
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Upper Entrance from Platforms
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Entrance from Top
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Underwater Tunnel Entrance
+- \Faron\Faron Woods\Inside the Great Tree\Upper Area\Entrance from Flooded Great
+  Tree
 - \Faron\Flooded Faron Woods\Flooded Great Tree\Entrance from Great Tree
 - \Faron\Flooded Faron Woods\Flooded Great Tree\Entrance from Upper Flooded Faron
   Woods
@@ -3270,7 +3283,7 @@ areas:
                       Small Key x 2
                   hint_region: Ancient Cistern
                   locations:
-                    Bokoblin: Whip
+                    Whip Item from Bokoblin between Pipes: Whip
                   name: \Ancient Cistern\Main\Basement Gutters\Past Skulltula
                   sub_areas: {}
                   toplevel_alias: null
@@ -3487,16 +3500,15 @@ areas:
               locations:
                 Access to Boulder: \Earth Temple\Main\First Room\Dislodge Boulder
                 \Earth Temple\Main\First Room\Rupee above First Drawbridge: \Beetle
-                Chest behind Bombable Rock: \Earth Temple\Main\Hub Room\Access to
-                  Boulder
-                Northwest Chest Main Room: \Earth Temple\Main\Hub Room\Access
+                Chest behind Southwest Bombable Rock: \Earth Temple\Main\Hub Room\Access
                   to Boulder
+                Northwest Chest Main Room: \Earth Temple\Main\Hub Room\Access to Boulder
                 Ledd's Gift: \Can Defeat Lizalfos
                 Rock to West Room: "Bomb Bag | \\Hook Beetle"
                 Wall to Lava Section: "Bomb Bag | (\\Hook Beetle & \\Earth Temple\\\
                   Main\\Hub Room\\Access to Boulder)"
-                Rupee in Dragon's Mouth in Lava Tunnel: "\\Earth Temple\\Main\\Hub Room\\Wall to Lava\
-                  \ Section & \\Beetle"
+                Rupee in Dragon's Mouth in Lava Tunnel: "\\Earth Temple\\Main\\Hub\
+                  \ Room\\Wall to Lava Section & \\Beetle"
                 Lower Lava Section Portcullis: "\\Earth Temple\\Main\\Hub Room\\Wall\
                   \ to Lava Section & \\Beetle"
                 Left Peg: \Earth Temple\Main\Hub Room\Access to Boulder
@@ -4575,7 +4587,7 @@ areas:
                   Time
               hint_region: Sealed Grounds
               locations:
-                Chest: 'True'
+                Chest near The Old One: 'True'
                 Song from The Old One: Goddess's Harp
                 Raise Gate of Time: "GoT Raising Requirement & Ballad of the Goddess"
                 Start Imprisoned 2: "\\Faron\\Sealed Grounds\\Sealed Temple\\Raise\
@@ -4671,8 +4683,9 @@ areas:
             Shared Statue Exit: "\\Faron\\Faron Woods\\Unlock In the Woods Statue\
               \ | \\Faron\\Faron Woods\\Unlock Viewing Platform Statue"
             Trial Gate Exit: \Faron\Faron Woods\Open Trial Gate
-            \Faron\Faron Woods\Great Tree\Near Underwater Hole: Water Dragon's Scale
-            \Faron\Faron Woods\Great Tree\Platforms: Clawshots
+            \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole: Water Dragon's
+              Scale
+            \Faron\Faron Woods\Inside the Great Tree\Platforms: Clawshots
             \Faron\Faron Woods\Clawshot Target Branch: Clawshots
             Lake Floria Dive: "(\\Faron\\Faron Woods\\Open Door to Lake Floria | \\\
               Early Lake Floria Tricks) & (Bomb Bag | \\Sword | \\Beetle | \\Bow)"
@@ -4691,8 +4704,8 @@ areas:
             Hit Vine to Deep Woods: \Distance Activator
             Open Trial Gate: "Goddess's Harp & Farore's Courage"
             Open Door to Lake Floria: "(Open Lake Floria option & Water Dragon's Scale)\
-              \ | (\\Faron\\Faron Woods\\Great Tree\\Top\\Talk to Yerbal & (\\Goddess\
-              \ Sword | Talk to Yerbal option))"
+              \ | (\\Faron\\Faron Woods\\Inside the Great Tree\\Top\\Talk to Yerbal\
+              \ & (\\Goddess Sword | Talk to Yerbal option))"
             Rupee on Hollow Tree Root: 'True'
             Rupee on Hollow Tree Branch: \Beetle
             Rupee on Platform near Floria Door: \Beetle
@@ -4834,7 +4847,7 @@ areas:
               name: \Faron\Faron Woods\Rope Branch
               sub_areas: {}
               toplevel_alias: null
-            Great Tree:
+            Inside the Great Tree:
               abstract: false
               allowed_time_of_day: 1
               can_save: false
@@ -4843,7 +4856,7 @@ areas:
               exits: {}
               hint_region: Faron Woods
               locations: {}
-              name: \Faron\Faron Woods\Great Tree
+              name: \Faron\Faron Woods\Inside the Great Tree
               sub_areas:
                 Near Underwater Hole:
                   abstract: false
@@ -4857,7 +4870,7 @@ areas:
                     Underwater Hole Exit: Water Dragon's Scale
                   hint_region: Faron Woods
                   locations: {}
-                  name: \Faron\Faron Woods\Great Tree\Near Underwater Hole
+                  name: \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole
                   sub_areas: {}
                   toplevel_alias: null
                 Lower Area:
@@ -4869,13 +4882,15 @@ areas:
                   - Underwater Tunnel Entrance
                   exits:
                     Underwater Tunnel Exit: Water Dragon's Scale
-                    \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest: Gust Bellows
-                    \Faron\Faron Woods\Great Tree\Lower Area\Near Exit: Gust Bellows
+                    \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest: Gust
+                      Bellows
+                    \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit: Gust
+                      Bellows
                   hint_region: Faron Woods
                   locations:
                     Blow Small Yellow Mushroom after Vines: Gust Bellows
                     Blow Large Yellow Mushroom after Vines: Gust Bellows
-                  name: \Faron\Faron Woods\Great Tree\Lower Area
+                  name: \Faron\Faron Woods\Inside the Great Tree\Lower Area
                   sub_areas:
                     Path to Chest:
                       abstract: false
@@ -4884,15 +4899,17 @@ areas:
                       can_sleep: false
                       entrances: []
                       exits:
-                        \Faron\Faron Woods\Great Tree\Lower Area: 'True'
-                        \Faron\Faron Woods\Great Tree\Lower Area\Near Exit: 'True'
+                        \Faron\Faron Woods\Inside the Great Tree\Lower Area: 'True'
+                        \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit: 'True'
                       hint_region: Faron Woods
                       locations:
-                        Chest: "\\Sword | \\Bow | Bomb Bag | \\Beetle | \\Slingshot"
+                        Chest guarded by Deku Baba: "\\Sword | \\Bow | Bomb Bag |\
+                          \ \\Beetle | \\Slingshot"
                         Blow Red Mushroom after Swinging Platforms West: Gust Bellows
                         Blow Tall Blue Mushroom after Swinging Platforms South: Gust
                           Bellows
-                      name: \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest
+                      name: \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path
+                        to Chest
                       sub_areas: {}
                       toplevel_alias: null
                     Near Exit:
@@ -4903,11 +4920,12 @@ areas:
                       entrances:
                       - Lower Entrance from Platforms
                       exits:
-                        \Faron\Faron Woods\Great Tree\Lower Area: 'True'
+                        \Faron\Faron Woods\Inside the Great Tree\Lower Area: 'True'
                         Lower Exit to Platforms: 'True'
                       hint_region: Faron Woods
                       locations: {}
-                      name: \Faron\Faron Woods\Great Tree\Lower Area\Near Exit
+                      name: \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near
+                        Exit
                       sub_areas: {}
                       toplevel_alias: null
                   toplevel_alias: null
@@ -4927,7 +4945,7 @@ areas:
                   hint_region: Faron Woods
                   locations:
                     \Faron\Faron Woods\Stamina Fruit on Vines on Great Tree: 'True'
-                  name: \Faron\Faron Woods\Great Tree\Platforms
+                  name: \Faron\Faron Woods\Inside the Great Tree\Platforms
                   sub_areas: {}
                   toplevel_alias: null
                 Upper Area:
@@ -4940,10 +4958,10 @@ areas:
                   - Upper Entrance from Platforms
                   - Entrance from Top
                   exits:
-                    \Faron\Faron Woods\Great Tree\Lower Area: \Faron\Faron Woods\Great
-                      Tree\Upper Area\Remove Void Plane
-                    \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest: \Faron\Faron
-                      Woods\Great Tree\Upper Area\Remove Void Plane
+                    \Faron\Faron Woods\Inside the Great Tree\Lower Area: \Faron\Faron
+                      Woods\Inside the Great Tree\Upper Area\Remove Void Plane
+                    \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest: \Faron\Faron
+                      Woods\Inside the Great Tree\Upper Area\Remove Void Plane
                     Exit to Flooded Great Tree: 'True'
                     Upper Exit to Platforms: 'True'
                     Exit to Top: 'True'
@@ -4951,7 +4969,7 @@ areas:
                   locations:
                     Remove Void Plane: \Can Defeat Moblins
                     Blow Tree Spiral on Highest Pathway: Gust Bellows
-                  name: \Faron\Faron Woods\Great Tree\Upper Area
+                  name: \Faron\Faron Woods\Inside the Great Tree\Upper Area
                   sub_areas: {}
                   toplevel_alias: null
                 Top:
@@ -4963,10 +4981,10 @@ areas:
                   - The Great Tree Statue Entrance
                   - Top Entrance from Great Tree
                   exits:
-                    \Faron\Faron Woods\Shared Statue Exit: \Faron\Faron Woods\Great
-                      Tree\Top\Unlock Statue
+                    \Faron\Faron Woods\Shared Statue Exit: \Faron\Faron Woods\Inside
+                      the Great Tree\Top\Unlock Statue
                     Top Exit to Great Tree: 'True'
-                    \Faron\Faron Woods\Great Tree\Platforms: 'True'
+                    \Faron\Faron Woods\Inside the Great Tree\Platforms: 'True'
                     \Faron\Faron Woods\Rope Branch: 'True'
                     \Faron\Faron Woods\Clawshot Target Branch: 'True'
                   hint_region: Faron Woods
@@ -4975,7 +4993,7 @@ areas:
                     Rupee on Great Tree North Branch: \Beetle
                     Rupee on Great Tree West Branch: \Beetle
                     Talk to Yerbal: "Water Dragon's Scale & (\\Slingshot | \\Beetle)"
-                  name: \Faron\Faron Woods\Great Tree\Top
+                  name: \Faron\Faron Woods\Inside the Great Tree\Top
                   sub_areas: {}
                   toplevel_alias: null
               toplevel_alias: null
@@ -4994,7 +5012,7 @@ areas:
                 Exit to Skyview Temple: \Distance Activator
               hint_region: Faron Woods
               locations:
-                Chest: 'True'
+                Chest on High Ledge: 'True'
                 Stamina Fruit on Hanging Ledge: 'True'
                 Bonk Tree with Rope: 'True'
                 Bonk Tree near Gossip Stone 1: 'True'
@@ -5145,7 +5163,7 @@ areas:
                     \Faron\Lake Floria\Below Rock: Water Dragon's Scale
                   hint_region: Lake Floria
                   locations:
-                    Chest: 'True'
+                    Chest near Bird Statue: 'True'
                     Goddess Cube in Lake Floria: \Goddess Sword
                     Unlock Statue: 'True'
                   name: \Faron\Lake Floria\Below Rock\Emerged Area
@@ -6815,8 +6833,8 @@ areas:
                           \ Bomb Bag)"
                       hint_region: Lanayru Desert
                       locations:
-                        First Chest: 'True'
-                        Second Chest: 'True'
+                        Front Chest: 'True'
+                        Middle Chest: 'True'
                         Bonk Lightning Node Power Supply: 'True'
                         Bonk Lightning Node Generator: 'True'
                         Lightning Node: \Sword
@@ -7125,7 +7143,7 @@ areas:
             Exit to Desert: 'True'
           hint_region: Lanayru Caves
           locations:
-            Chest: 'True'
+            Chest near Golo: 'True'
             Golo's Gift: 'True'
             Gossip Stone in Center: 'True'
           name: \Lanayru\Caves
@@ -7358,8 +7376,8 @@ areas:
                 Bonk Sign before Gortram the Rickety Coaster Operator: 'True'
                 Bonk Sign before Second Minecart Track: 'True'
                 Bonk Sign after Second Minecart Track: 'True'
-                Heart Stopping Rickety Coaster Track in 1'05: \Lanayru\Lanayru
-                  Sand Sea\Shipyard\Construction Bay\Defeat Moldarach
+                Heart Stopping Rickety Coaster Track in 1'05: \Lanayru\Lanayru Sand
+                  Sea\Shipyard\Construction Bay\Defeat Moldarach
               name: \Lanayru\Lanayru Sand Sea\Shipyard
               sub_areas:
                 Construction Bay:
@@ -7451,9 +7469,9 @@ areas:
             Second Door Exit: \Lanayru\Pirate Stronghold Interior\Finish Minidungeon
           hint_region: Lanayru Sand Sea
           locations:
-            First Chest: 'True'
-            Second Chest: 'True'
-            Third Chest: 'True'
+            Chest behind Electric Fence: 'True'
+            Chest before Deku Babas: 'True'
+            Chest before Double Armos Fight: 'True'
             Finish Minidungeon: "\\Can Defeat Beamos & \\Can Defeat Armos"
             \Ancient Flower Farming: 'True'
           name: \Lanayru\Pirate Stronghold Interior
@@ -7504,8 +7522,8 @@ areas:
               locations:
                 Activate Timeshift Stone: "Gust Bellows & \\Can Hit Timeshift Stone"
                 Goddess Cube in Lanayru Gorge: \Goddess Sword
-                Digging Spot: "\\Lanayru\\Gorge\\Beyond Bridge\\Activate Timeshift\
-                  \ Stone & \\Digging Mitts"
+                Life Tree Digging Spot: "\\Lanayru\\Gorge\\Beyond Bridge\\Activate\
+                  \ Timeshift Stone & \\Digging Mitts"
                 \Ancient Flower Farming: \Lanayru\Gorge\Beyond Bridge\Activate Timeshift
                   Stone
                 Slingshot Left Sandfall Source near Life Tree: \Slingshot
@@ -7644,7 +7662,7 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Sandship\Main\Before Ship's Bow: \Lanayru\Caves\Chest
+                \Sandship\Main\Before Ship's Bow: Chest
               hint_region: Sandship
               locations:
                 Chest after Scervo Fight: \Can Defeat Scervo/Dreadfuse
@@ -7836,7 +7854,7 @@ areas:
                 \Sky Keep\Main\Puzzle Solving Meta Room: 'True'
               hint_region: Sky Keep
               locations:
-                First Chest: 'True'
+                Chest in First Room: 'True'
                 Right Exit: 'True'
               name: \Sky Keep\Main\First Room
               sub_areas: {}
@@ -8258,8 +8276,8 @@ areas:
             Fledge's Gift: 'True'
             Crystal in Knight Academy Plant: Night
             Start Owlan's Quest: \Faron\Faron Woods\All Kikwis Saved
-            Deliver Kikwi to Owlan: "\\Faron\\Faron Woods\\Behind the Crawlspace and Rope\\\
-              Retrieve Oolo & Day"
+            Deliver Kikwi to Owlan: "\\Faron\\Faron Woods\\Behind the Crawlspace and\
+              \ Rope\\Retrieve Oolo & Day"
             Knock on Toilet Door: "Goddess's Harp & Night"
             Item from Cawlin: Day
             Deliver Cawlin's Letter: "Cawlin's Letter & Day"
@@ -8324,8 +8342,8 @@ areas:
             Left Door Exit: 'True'
           hint_region: Upper Skyloft
           locations:
-            Crystal: "\\Beetle & Night"
-            Chest: 'True'
+            Crystal on Roof Beam: "\\Beetle & Night"
+            Chest in Back Room: 'True'
             Delivered Hot Soup: \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Start
               Hot Soup Delivery
           name: \Skyloft\Sparring Hall
@@ -8365,8 +8383,8 @@ areas:
           - Entrance from Sky
           - Waterfall Cave Upper Entrance
           exits:
-            Exit to Beedle's Airshop: "Day & (\\Distance Activator | (Beedle's Airshop With\
-              \ Bombs Trick & Bomb Bag))"
+            Exit to Beedle's Airshop: "Day & (\\Distance Activator | (Beedle's Airshop\
+              \ With Bombs Trick & Bomb Bag))"
             Bazaar North Exit: Day
             Bazaar West Exit: Day
             Bazaar South Exit: Day
@@ -8386,18 +8404,18 @@ areas:
             Crystal between Wooden Planks: Night
             Crystal on West Cliff: Night
             Crystal on Light Tower: Night
-            Goddess Chest on West Cliff Island: \Faron\Faron Woods\West Branch\Goddess Cube
-              on West Great Tree near Exit
+            Goddess Chest on West Cliff Island: \Faron\Faron Woods\West Branch\Goddess
+              Cube on West Great Tree near Exit
             Parrow's Gift: "\\The Sky\\South West\\Orielle's Island\\Talk to Orielle\
               \ & Day"
             Parrow's Gratitude: "\\The Sky\\South West\\Orielle's Island\\Save Orielle\
               \ & Day"
             Chest in Shed: Water Dragon's Scale
-            Goddess Chest in Shed: "Water Dragon's Scale & \\Eldin\\Volcano\\Sand Slide\\\
-              Goddess Cube on Sand Slide"
+            Goddess Chest in Shed: "Water Dragon's Scale & \\Eldin\\Volcano\\Sand\
+              \ Slide\\Goddess Cube on Sand Slide"
             \Skyloft\Central Skyloft\Bird Nest\Item in Bird's Nest: "Baby Rattle from\
-              \ Beedle's Airshop Trick & Day & \\Distance Activator & Gust Bellows &\
-              \ (\\Beetle | Whip)"
+              \ Beedle's Airshop Trick & Day & \\Distance Activator & Gust Bellows\
+              \ & (\\Beetle | Whip)"
             Open Trial Gate: "Goddess's Harp & \\Song of the Hero"
             \Can Collect Water: 'True'
             Waterfall Cave Crystals from above: \Beetle
@@ -8483,8 +8501,7 @@ areas:
                 Exit: 'True'
               hint_region: Central Skyloft
               locations:
-                Peatrice's Love: "\\Skyloft\\Bazaar\\Talk to Peatrice &\
-                  \ Night"
+                Peatrice's Love: "\\Skyloft\\Bazaar\\Talk to Peatrice & Night"
                 Peater's Closet: 'True'
                 Peatrice's Closet: 'True'
               name: \Skyloft\Central Skyloft\Peatrice's House
@@ -8548,8 +8565,8 @@ areas:
               hint_region: Central Skyloft
               locations:
                 Crystal on Waterfall Island: Night
-                Goddess Chest on Waterfall Island: \Lanayru\Lanayru Sand Sea\Pirate Stronghold\Inside
-                  the Shark Head\Goddess Cube in Pirate Stronghold
+                Goddess Chest on Waterfall Island: \Lanayru\Lanayru Sand Sea\Pirate
+                  Stronghold\Inside the Shark Head\Goddess Cube in Pirate Stronghold
                 Goddess Chest on Island near Waterfall: \Faron\Lake Floria\Below Rock\Emerged
                   Area\Goddess Cube in Lake Floria
                 Gossip Stone on Waterfall Island: 'True'
@@ -8714,8 +8731,8 @@ areas:
               hint_region: Skyloft Village
               locations:
                 Start Sparrot's Quest: 'True'
-                Deliver Crystal Ball to Sparrot: \Eldin\Volcano\Near Temple Entrance\Retrieve Crystal
-                  Ball
+                Deliver Crystal Ball to Sparrot: \Eldin\Volcano\Near Temple Entrance\Retrieve
+                  Crystal Ball
                 Sparrot's Closet: 'True'
                 Bonk Sparrot's Valuables: 'True'
               name: \Skyloft\Skyloft Village\Sparrot's House
@@ -8768,7 +8785,7 @@ areas:
               sub_areas: {}
               toplevel_alias: null
           toplevel_alias: null
-        Batreaux:
+        Batreaux's House:
           abstract: false
           allowed_time_of_day: 3
           can_save: false
@@ -8779,16 +8796,16 @@ areas:
             Exit: 'True'
           hint_region: Batreaux's House
           locations:
-            5 Crystals: \5 Gratitude Crystals
-            10 Crystals: \10 Gratitude Crystals
-            30 Crystals: \30 Gratitude Crystals
-            30 Crystals Chest: \30 Gratitude Crystals
-            40 Crystals: \40 Gratitude Crystals
-            50 Crystals: \50 Gratitude Crystals
-            70 Crystals: \70 Gratitude Crystals
-            70 Crystals Second Reward: \70 Gratitude Crystals
-            80 Crystals: \80 Gratitude Crystals
-          name: \Skyloft\Batreaux
+            5 Gratitude Crystals Reward: \5 Gratitude Crystals
+            10 Gratitude Crystals Reward: \10 Gratitude Crystals
+            30 Gratitude Crystals Reward: \30 Gratitude Crystals
+            30 Gratitude Crystals Reward Chest: \30 Gratitude Crystals
+            40 Gratitude Crystals Reward: \40 Gratitude Crystals
+            50 Gratitude Crystals Reward: \50 Gratitude Crystals
+            70 Gratitude Crystals First Reward: \70 Gratitude Crystals
+            70 Gratitude Crystals Second Reward: \70 Gratitude Crystals
+            80 Gratitude Crystals Reward: \80 Gratitude Crystals
+          name: \Skyloft\Batreaux's House
           sub_areas: {}
           toplevel_alias: null
         Beedle's Airshop:
@@ -9290,9 +9307,6 @@ areas:
       exits:
         \The Sky\Bamboo Island: 'True'
         \The Sky\Beedle's Island: 'True'
-        \The Sky\Thunderhead East Island: 'True'
-        \The Sky\Mogma Mitts Island: 'True'
-        \The Sky\Bug Heaven: 'True'
       hint_region: The Sky
       locations: {}
       name: \The Sky
@@ -9326,7 +9340,8 @@ areas:
               exits: {}
               hint_region: The Sky
               locations:
-                Goddess Chest: \Eldin\Volcano\East\Goddess Cube near Mogma Turf Entrance
+                Top Goddess Chest: \Eldin\Volcano\East\Goddess Cube near Mogma Turf
+                  Entrance
                 Goddess Chest in Cave: "\\Lanayru\\Desert\\North Part\\Secret Passageway\\\
                   Goddess Cube in Secret Passageway & Water Dragon's Scale"
               name: \The Sky\North East\Island near Bamboo Island
@@ -9343,8 +9358,8 @@ areas:
               locations:
                 Goddess Chest behind Bombable Rocks: "\\Lanayru\\Mine\\Entry\\Goddess\
                   \ Cube at Lanayru Mine Entrance & Bomb Bag"
-                Cage Goddess Chest: \Eldin\Volcano\Near Temple Entrance\Goddess Cube
-                  East of Earth Temple Entrance
+                Goddess Chest in Cage: \Eldin\Volcano\Near Temple Entrance\Goddess
+                  Cube East of Earth Temple Entrance
               name: \The Sky\North East\Northeast Island
               sub_areas: {}
               toplevel_alias: null
@@ -9388,8 +9403,8 @@ areas:
             Exit to Bamboo Island Interior: 'True'
           hint_region: The Sky
           locations:
-            Goddess Chest: \Eldin\Volcano\Near Temple Entrance\Goddess Cube West of
-              Earth Temple Entrance
+            Goddess Chest behind Entrance: \Eldin\Volcano\Near Temple Entrance\Goddess
+              Cube West of Earth Temple Entrance
             Slingshot Left Lantern: \Slingshot
             Slingshot Middle Lantern: \Slingshot
             Slingshot Right Lantern: \Slingshot
@@ -9429,7 +9444,7 @@ areas:
             \The Sky\Beedle's Island\Cage: Night
           hint_region: The Sky
           locations:
-            Crystal: "Night & \\Beetle"
+            Crystal on Airshop Propeller: "Night & \\Beetle"
             Deliver Beedle's Insect Cage: "Horned Colossus Beetle & Night"
           name: \The Sky\Beedle's Island
           sub_areas:
@@ -9458,8 +9473,8 @@ areas:
                 \The Sky\Beedle's Island: 'True'
               hint_region: The Sky
               locations:
-                Cage Goddess Chest: \Faron\Faron Woods\Deep Woods\Goddess Cube on
-                  top of Skyview Temple
+                Goddess Chest in Cage: \Faron\Faron Woods\Deep Woods\Goddess Cube
+                  on top of Skyview Temple
               name: \The Sky\Beedle's Island\Cage
               sub_areas: {}
               toplevel_alias: null
@@ -9505,7 +9520,7 @@ areas:
                 Forest Temple Statue Dive: "Emerald Tablet & \\Faron\\Faron Woods\\\
                   Deep Woods\\Unlock Forest Temple Statue"
                 The Great Tree Statue Dive: "Emerald Tablet & \\Faron\\Faron Woods\\\
-                  Great Tree\\Top\\Unlock Statue"
+                  Inside the Great Tree\\Top\\Unlock Statue"
                 Lake Floria Statue Dive: "Emerald Tablet & \\Faron\\Lake Floria\\\
                   Below Rock\\Emerged Area\\Unlock Statue"
                 Floria Waterfall Statue Dive: "Emerald Tablet & \\Faron\\Floria Waterfall\\\
@@ -9547,13 +9562,14 @@ areas:
               hint_region: The Sky
               locations:
                 Outside Crystal: Night
-                Outside Goddess Chest: \Faron\Faron Woods\Deep Woods\Initial Goddess
-                  Cube
+                Goddess Chest near Gossip Stone: \Faron\Faron Woods\Deep Woods\Initial
+                  Goddess Cube
                 Goddess Chest on Roof: "\\Skyview Temple\\Skyview Spring\\Goddess\
                   \ Cube in Skyview Spring & Day"
                 Start Kina's Quest: "\\The Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
                   \ Building\\Complete Hot Soup Delivery & Day"
-                Deliver Mogma to Kina: "\\Eldin\\Mogma Turf\\Pre Vent\\Pick up Guld & Day"
+                Deliver Mogma to Kina: "\\Eldin\\Mogma Turf\\Pre Vent\\Pick up Guld\
+                  \ & Day"
                 Gossip Stone: 'True'
                 Pumpkin Carrying: "\\The Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
                   \ Building\\Complete Hot Soup Delivery & Day"
@@ -9579,8 +9595,8 @@ areas:
                     Back Door Exit: 'True'
                   hint_region: The Sky
                   locations:
-                    Chandelier: \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Break
-                      the Chandelier
+                    Item on Chandelier: \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin
+                      Building\Break the Chandelier
                     Inside Crystal: Night
                     Break the Chandelier: 'True'
                     Pumm and Kina's Closet: 'True'
@@ -9590,7 +9606,7 @@ areas:
                       Soup
                     Play the Harp with Kina: "\\The Sky\\South East\\Lumpy Pumpkin\\\
                       Pumpkin Carrying & Goddess's Harp & Night"
-                    Harp Minigame: \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin
+                    Harp Duet with Kina: \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin
                       Building\Play the Harp with Kina
                     Pick up Levias' Soup: Spiral Charge
                   name: \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building
@@ -9687,7 +9703,8 @@ areas:
               locations:
                 Talk to Orielle: 'True'
                 Save Orielle: \Bottle
-                Heal Orielle's Loftwing: \The Sky\South West\Orielle's Island\Save Orielle
+                Heal Orielle's Loftwing: \The Sky\South West\Orielle's Island\Save
+                  Orielle
               name: \The Sky\South West\Orielle's Island
               sub_areas: {}
               toplevel_alias: null
@@ -9702,11 +9719,12 @@ areas:
               hint_region: The Sky
               locations:
                 Start Dodoh's Quest: 'True'
-                Deliver Party Wheel to Dodoh: \Lanayru\Desert\Entry\High Ledge after Vines\Retrieve
-                  Party Wheel
-                500 Rupees in Dodoh's High Dive: \The Sky\South West\Fun Fun Island\Fun Fun
-                  Island Minigame
-                Goddess Chest: \Faron\Floria Waterfall\Goddess Cube in Floria Waterfall
+                Deliver Party Wheel to Dodoh: \Lanayru\Desert\Entry\High Ledge after
+                  Vines\Retrieve Party Wheel
+                500 Rupees in Dodoh's High Dive: \The Sky\South West\Fun Fun Island\Fun
+                  Fun Island Minigame
+                Goddess Chest below Island: \Faron\Floria Waterfall\Goddess Cube in
+                  Floria Waterfall
                 Fun Fun Island Minigame: \Lanayru\Desert\Entry\High Ledge after Vines\Retrieve
                   Party Wheel
               name: \The Sky\South West\Fun Fun Island
@@ -9725,7 +9743,7 @@ areas:
                 Upper Goddess Chest: \Eldin\Volcano\Entry\Goddess Cube at Eldin Entrance
                 Lower Goddess Chest: \Lanayru\Desert\Near Caged Robot\Goddess Cube
                   near Caged Robot
-                Cage Goddess Chest: "\\Lanayru\\Lanayru Sand Sea\\Skipper's Retreat\\\
+                Goddess Chest in Cage: "\\Lanayru\\Lanayru Sand Sea\\Skipper's Retreat\\\
                   Past Rock\\Goddess Cube in Skipper's Retreat & Clawshots"
               name: \The Sky\South West\Triple Island
               sub_areas: {}
@@ -9743,7 +9761,8 @@ areas:
             \The Sky\North East: 'True'
             \The Sky\South West: 'True'
             \The Sky\South East: 'True'
-            Exit to Inside the Thunderhead: "Open Thunderhead option | Ballad of the Goddess"
+            Exit to Inside the Thunderhead: "Open Thunderhead option | Ballad of the\
+              \ Goddess"
             Exit to Skyloft: 'True'
           hint_region: The Sky
           locations: {}
@@ -9760,6 +9779,9 @@ areas:
           exits:
             Exit: 'True'
             \The Sky\Inside the Thunderhead\Isle of Songs: 'True'
+            \The Sky\Inside the Thunderhead\East Island: 'True'
+            \The Sky\Inside the Thunderhead\Mogma Mitts Island: 'True'
+            \The Sky\Inside the Thunderhead\Bug Heaven: 'True'
           hint_region: Inside the Thunderhead
           locations:
             Song from Levias: "\\The Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
@@ -9775,7 +9797,8 @@ areas:
               - Entrance from Inside
               exits:
                 \The Sky\Inside the Thunderhead: Day
-                Exit to Inside: \The Sky\Inside the Thunderhead\Isle of Songs\Puzzle Solved
+                Exit to Inside: \The Sky\Inside the Thunderhead\Isle of Songs\Puzzle
+                  Solved
               hint_region: Inside the Thunderhead
               locations:
                 Lower Goddess Chest: \Eldin\Mogma Turf\Pre Vent\Goddess Cube in Mogma
@@ -9803,60 +9826,61 @@ areas:
                   sub_areas: {}
                   toplevel_alias: null
               toplevel_alias: null
-          toplevel_alias: null
-        Thunderhead East Island:
-          abstract: false
-          allowed_time_of_day: 1
-          can_save: false
-          can_sleep: false
-          entrances: []
-          exits:
-            \The Sky\Inside the Thunderhead: Day
-          hint_region: The Sky
-          locations:
-            Goddess Chest: \Faron\Faron Woods\Rope Branch\Goddess Cube on East Great
-              Tree with Rope
-            Chest: "\\Digging Mitts | Thunderhead - East Island Dive Trick"
-          name: \The Sky\Thunderhead East Island
-          sub_areas: {}
-          toplevel_alias: null
-        Mogma Mitts Island:
-          abstract: false
-          allowed_time_of_day: 1
-          can_save: false
-          can_sleep: false
-          entrances: []
-          exits:
-            \The Sky\Inside the Thunderhead: Day
-          hint_region: The Sky
-          locations:
-            First Goddess Chest: "\\Eldin\\Volcano Summit\\Goddess Cube inside Volcano\
-              \ Summit & \\Mogma Mitts"
-            Second Goddess Chest: "\\Lanayru\\Gorge\\Beyond Bridge\\Goddess Cube in\
-              \ Lanayru Gorge & \\Mogma Mitts"
-          name: \The Sky\Mogma Mitts Island
-          sub_areas: {}
-          toplevel_alias: null
-        Bug Heaven:
-          abstract: false
-          allowed_time_of_day: 1
-          can_save: false
-          can_sleep: false
-          entrances: []
-          exits:
-            \The Sky\Inside the Thunderhead: Day
-          hint_region: Inside the Thunderhead
-          locations:
-            10 Bugs in 3 Minutes: \Bug Net
-            Goddess Chest: \Eldin\Volcano Summit\Waterfall\Goddess Cube in Summit
-              Waterfall
-            Nearby Gossip Stone: 'True'
-            Stamina Fruit near Start: 'True'
-            Stamina Fruit in front of Wooden Plank: 'True'
-            Stamina Fruit in Center Room: 'True'
-            Stamina Fruit on top of Slope: 'True'
-          name: \The Sky\Bug Heaven
-          sub_areas: {}
+            East Island:
+              abstract: false
+              allowed_time_of_day: 1
+              can_save: false
+              can_sleep: false
+              entrances: []
+              exits:
+                \The Sky\Inside the Thunderhead: Day
+              hint_region: Inside the Thunderhead
+              locations:
+                Goddess Chest on East Island: \Faron\Faron Woods\Rope Branch\Goddess
+                  Cube on East Great Tree with Rope
+                Chest on East Island: "\\Digging Mitts | Thunderhead - East Island\
+                  \ Dive Trick"
+              name: \The Sky\Inside the Thunderhead\East Island
+              sub_areas: {}
+              toplevel_alias: null
+            Mogma Mitts Island:
+              abstract: false
+              allowed_time_of_day: 1
+              can_save: false
+              can_sleep: false
+              entrances: []
+              exits:
+                \The Sky\Inside the Thunderhead: Day
+              hint_region: Inside the Thunderhead
+              locations:
+                Mogma Mitts Island First Goddess Chest: "\\Eldin\\Volcano Summit\\\
+                  Goddess Cube inside Volcano Summit & \\Mogma Mitts"
+                Mogma Mitts Island Second Goddess Chest: "\\Lanayru\\Gorge\\Beyond\
+                  \ Bridge\\Goddess Cube in Lanayru Gorge & \\Mogma Mitts"
+              name: \The Sky\Inside the Thunderhead\Mogma Mitts Island
+              sub_areas: {}
+              toplevel_alias: null
+            Bug Heaven:
+              abstract: false
+              allowed_time_of_day: 1
+              can_save: false
+              can_sleep: false
+              entrances: []
+              exits:
+                \The Sky\Inside the Thunderhead: Day
+              hint_region: Inside the Thunderhead
+              locations:
+                10 Bugs in 3 Minutes: \Bug Net
+                Goddess Chest: \Eldin\Volcano Summit\Waterfall\Goddess Cube in Summit
+                  Waterfall
+                Gossip Stone near Bug Heaven: 'True'
+                Stamina Fruit near Start: 'True'
+                Stamina Fruit in front of Wooden Plank: 'True'
+                Stamina Fruit in Center Room: 'True'
+                Stamina Fruit on top of Slope: 'True'
+              name: \The Sky\Inside the Thunderhead\Bug Heaven
+              sub_areas: {}
+              toplevel_alias: null
           toplevel_alias: null
       toplevel_alias: null
   toplevel_alias: null
@@ -9937,7 +9961,7 @@ checks:
     original item: Wooden Shield
     type: null
     short_name: Upper Skyloft - Owlan's Gift
-  \Skyloft\Sparring Hall\Chest:
+  \Skyloft\Sparring Hall\Chest in Back Room:
     original item: Progressive Sword
     type: null
     short_name: Sparring Hall - Chest in Back Room
@@ -10208,39 +10232,39 @@ checks:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Skyloft Village - Stamina Fruit above Mallara's House
-  \Skyloft\Batreaux\5 Crystals:
+  \Skyloft\Batreaux's House\5 Gratitude Crystals Reward:
     original item: Progressive Wallet
     type: Batreaux's Rewards
     short_name: Batreaux's House - 5 Gratitude Crystals Reward
-  \Skyloft\Batreaux\10 Crystals:
+  \Skyloft\Batreaux's House\10 Gratitude Crystals Reward:
     original item: Heart Piece
     type: Batreaux's Rewards
     short_name: Batreaux's House - 10 Gratitude Crystals Reward
-  \Skyloft\Batreaux\30 Crystals:
+  \Skyloft\Batreaux's House\30 Gratitude Crystals Reward:
     original item: Progressive Wallet
     type: Batreaux's Rewards
     short_name: Batreaux's House - 30 Gratitude Crystals Reward
-  \Skyloft\Batreaux\30 Crystals Chest:
+  \Skyloft\Batreaux's House\30 Gratitude Crystals Reward Chest:
     original item: Cursed Medal
     type: Batreaux's Rewards
     short_name: Batreaux's House - 30 Gratitude Crystals Reward Chest
-  \Skyloft\Batreaux\40 Crystals:
+  \Skyloft\Batreaux's House\40 Gratitude Crystals Reward:
     original item: Gold Rupee
     type: Batreaux's Rewards
     short_name: Batreaux's House - 40 Gratitude Crystals Reward
-  \Skyloft\Batreaux\50 Crystals:
+  \Skyloft\Batreaux's House\50 Gratitude Crystals Reward:
     original item: Progressive Wallet
     type: Batreaux's Rewards
     short_name: Batreaux's House - 50 Gratitude Crystals Reward
-  \Skyloft\Batreaux\70 Crystals:
+  \Skyloft\Batreaux's House\70 Gratitude Crystals First Reward:
     original item: Gold Rupee
     type: Batreaux's Rewards
     short_name: Batreaux's House - 70 Gratitude Crystals First Reward
-  \Skyloft\Batreaux\70 Crystals Second Reward:
+  \Skyloft\Batreaux's House\70 Gratitude Crystals Second Reward:
     original item: Gold Rupee
     type: Batreaux's Rewards
     short_name: Batreaux's House - 70 Gratitude Crystals Second Reward
-  \Skyloft\Batreaux\80 Crystals:
+  \Skyloft\Batreaux's House\80 Gratitude Crystals Reward:
     original item: Progressive Wallet
     type: Batreaux's Rewards
     short_name: Batreaux's House - 80 Gratitude Crystals Reward
@@ -10296,7 +10320,7 @@ checks:
     original item: 'Gratitude Crystal #11'
     type: Loose Crystals
     short_name: Knight Academy - Crystal in Zelda's Room
-  \Skyloft\Sparring Hall\Crystal:
+  \Skyloft\Sparring Hall\Crystal on Roof Beam:
     original item: 'Gratitude Crystal #9'
     type: Loose Crystals
     short_name: Sparring Hall - Crystal on Roof Beam
@@ -10340,7 +10364,7 @@ checks:
     original item: 'Gratitude Crystal #13'
     type: Loose Crystals
     short_name: Lumpy Pumpkin - Inside Crystal
-  \The Sky\Beedle's Island\Crystal:
+  \The Sky\Beedle's Island\Crystal on Airshop Propeller:
     original item: 'Gratitude Crystal #14'
     type: Loose Crystals
     short_name: Beedle's Island - Crystal on Airshop Propeller
@@ -10392,14 +10416,14 @@ checks:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lumpy Pumpkin - Slingshot Lantern next to Back Door
-  \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Chandelier:
+  \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Item on Chandelier:
     original item: Heart Piece
     type: null
     short_name: Lumpy Pumpkin - Item on Chandelier
-  \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Harp Minigame:
+  \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Harp Duet with Kina:
     original item: Heart Piece
     type: Minigames
-    short_name: Harp Duet with Kina
+    short_name: Lumpy Pumpkin - Harp Duet with Kina
   \The Sky\South East\Lumpy Pumpkin\Deliver Mogma to Kina:
     original item: Gratitude Crystal Pack
     type: Scrapper Deliveries, Gratitude Crystal Sidequests
@@ -10444,23 +10468,23 @@ checks:
     original item: Red Rupee
     type: Squirrel
     short_name: The Sky - Form a Squirrel Ring above Bamboo Island
-  \The Sky\Bamboo Island\Goddess Chest:
+  \The Sky\Bamboo Island\Goddess Chest behind Entrance:
     original item: Gold Rupee
     type: goddess, Eldin Volcano Goddess Chests
     short_name: Bamboo Island - Goddess Chest behind Entrance
-  \The Sky\North East\Island near Bamboo Island\Goddess Chest:
+  \The Sky\North East\Island near Bamboo Island\Top Goddess Chest:
     original item: Silver Rupee
     type: goddess, Eldin Volcano Goddess Chests
     short_name: Island near Bamboo Island - Top Goddess Chest
   \The Sky\North East\Island near Bamboo Island\Goddess Chest in Cave:
     original item: Heart Medal
     type: goddess, Lanayru Desert Goddess Chests
-    short_name: Island near Bamboo Island - Top Goddess Chest in Cave
+    short_name: Island near Bamboo Island - Goddess Chest in Cave
   \The Sky\Beedle's Island\Top\Top Goddess Chest:
     original item: Heart Piece
     type: goddess, Lanayru Desert Goddess Chests, Combat
     short_name: Beedle's Island - Top Goddess Chest
-  \The Sky\Beedle's Island\Cage\Cage Goddess Chest:
+  \The Sky\Beedle's Island\Cage\Goddess Chest in Cage:
     original item: Rupee Medal
     type: goddess, Faron Woods Goddess Chests
     short_name: Beedle's Island - Goddess Chest in Cage
@@ -10468,7 +10492,7 @@ checks:
     original item: Silver Rupee
     type: goddess, Lanayru Desert Goddess Chests
     short_name: Northeast Island - Goddess Chest behind Bombable Rocks
-  \The Sky\North East\Northeast Island\Cage Goddess Chest:
+  \The Sky\North East\Northeast Island\Goddess Chest in Cage:
     original item: Treasure Medal
     type: goddess, Eldin Volcano Goddess Chests
     short_name: Northeast Island - Goddess Chest in Cage
@@ -10476,7 +10500,7 @@ checks:
     original item: Gold Rupee
     type: goddess, Faron Woods Goddess Chests
     short_name: Lumpy Pumpkin - Goddess Chest on Roof
-  \The Sky\South East\Lumpy Pumpkin\Outside Goddess Chest:
+  \The Sky\South East\Lumpy Pumpkin\Goddess Chest near Gossip Stone:
     original item: Progressive Pouch
     type: goddess, Faron Woods Goddess Chests
     short_name: Lumpy Pumpkin - Goddess Chest near Gossip Stone
@@ -10492,7 +10516,7 @@ checks:
     original item: Heart Piece
     type: goddess, Faron Woods Goddess Chests
     short_name: Volcanic Island - Inside Goddess Chest
-  \The Sky\South West\Fun Fun Island\Goddess Chest:
+  \The Sky\South West\Fun Fun Island\Goddess Chest below Island:
     original item: Gold Rupee
     type: goddess, Lake Floria Goddess Chests
     short_name: Fun Fun Island - Goddess Chest below Island
@@ -10504,7 +10528,7 @@ checks:
     original item: Life Medal
     type: goddess, Lanayru Desert Goddess Chests
     short_name: Triple Island - Lower Goddess Chest
-  \The Sky\South West\Triple Island\Cage Goddess Chest:
+  \The Sky\South West\Triple Island\Goddess Chest in Cage:
     original item: Potion Medal
     type: goddess, Sand Sea Goddess Chests
     short_name: Triple Island - Goddess Chest in Cage
@@ -10524,31 +10548,31 @@ checks:
     original item: Song of the Hero
     type: Scrapper Deliveries, Combat
     short_name: Inside the Thunderhead - Song from Levias
-  \The Sky\Bug Heaven\10 Bugs in 3 Minutes:
+  \The Sky\Inside the Thunderhead\Bug Heaven\10 Bugs in 3 Minutes:
     original item: Horned Colossus Beetle
     type: Minigames
     short_name: Bug Heaven - 10 Bugs in 3 Minutes
-  \The Sky\Bug Heaven\Stamina Fruit near Start:
+  \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit near Start:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Bug Heaven - Stamina Fruit near Start
-  \The Sky\Bug Heaven\Stamina Fruit in front of Wooden Plank:
+  \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit in front of Wooden Plank:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Bug Heaven - Stamina Fruit in front of Wooden Plank
-  \The Sky\Bug Heaven\Stamina Fruit in Center Room:
+  \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit in Center Room:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Bug Heaven - Stamina Fruit in Center Room
-  \The Sky\Bug Heaven\Stamina Fruit on top of Slope:
+  \The Sky\Inside the Thunderhead\Bug Heaven\Stamina Fruit on top of Slope:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Bug Heaven - Stamina Fruit on top of Slope
-  \The Sky\Thunderhead East Island\Chest:
+  \The Sky\Inside the Thunderhead\East Island\Chest on East Island:
     original item: Evil Crystal
     type: null
     short_name: Inside the Thunderhead - Chest on East Island
-  \The Sky\Thunderhead East Island\Goddess Chest:
+  \The Sky\Inside the Thunderhead\East Island\Goddess Chest on East Island:
     original item: Rupee Medal
     type: goddess, Faron Woods Goddess Chests
     short_name: Inside the Thunderhead - Goddess Chest on East Island
@@ -10560,15 +10584,15 @@ checks:
     original item: Gold Rupee
     type: goddess, Eldin Volcano Goddess Chests
     short_name: Isle of Songs - Lower Goddess Chest
-  \The Sky\Mogma Mitts Island\First Goddess Chest:
+  \The Sky\Inside the Thunderhead\Mogma Mitts Island\Mogma Mitts Island First Goddess Chest:
     original item: Bottle
     type: goddess, Volcano Summit Goddess Chests
     short_name: Inside the Thunderhead - Mogma Mitts Island First Goddess Chest
-  \The Sky\Mogma Mitts Island\Second Goddess Chest:
+  \The Sky\Inside the Thunderhead\Mogma Mitts Island\Mogma Mitts Island Second Goddess Chest:
     original item: Small Quiver
     type: goddess, Sand Sea Goddess Chests
     short_name: Inside the Thunderhead - Mogma Mitts Island Second Goddess Chest
-  \The Sky\Bug Heaven\Goddess Chest:
+  \The Sky\Inside the Thunderhead\Bug Heaven\Goddess Chest:
     original item: Heart Piece
     type: goddess, Volcano Summit Goddess Chests
     short_name: Bug Heaven - Goddess Chest
@@ -10688,7 +10712,7 @@ checks:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Sealed Grounds - Spiral Stamina Fruit 24
-  \Faron\Sealed Grounds\Sealed Temple\Chest:
+  \Faron\Sealed Grounds\Sealed Temple\Chest near The Old One:
     original item: Revitalizing Potion
     type: null
     short_name: Sealed Temple - Chest near The Old One
@@ -10852,11 +10876,11 @@ checks:
     original item: 5 Deku Seeds
     type: Hidden Items, Custom Flag
     short_name: Faron Woods - Bonk Tree after Shortcut from Entry Bird Statue 2
-  \Faron\Faron Woods\Great Tree\Top\Rupee on Great Tree North Branch:
+  \Faron\Faron Woods\Inside the Great Tree\Top\Rupee on Great Tree North Branch:
     original item: 'Blue Rupee #4'
     type: Rupees (No Quick Beetle)
     short_name: Faron Woods - Rupee on Great Tree North Branch
-  \Faron\Faron Woods\Great Tree\Top\Rupee on Great Tree West Branch:
+  \Faron\Faron Woods\Inside the Great Tree\Top\Rupee on Great Tree West Branch:
     original item: 'Blue Rupee #5'
     type: Rupees (No Quick Beetle)
     short_name: Faron Woods - Rupee on Great Tree West Branch
@@ -10884,27 +10908,29 @@ checks:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Faron Woods - Stamina Fruit on Vines on Great Tree
-  \Faron\Faron Woods\Great Tree\Lower Area\Blow Small Yellow Mushroom after Vines:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Blow Small Yellow Mushroom after Vines:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Inside the Great Tree - Blow Small Yellow Mushroom after Vines
-  \Faron\Faron Woods\Great Tree\Lower Area\Blow Large Yellow Mushroom after Vines:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Blow Large Yellow Mushroom after Vines:
     original item: 5 Deku Seeds
     type: Hidden Items, Custom Flag
     short_name: Inside the Great Tree - Blow Large Yellow Mushroom after Vines
-  \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Blow Red Mushroom after Swinging Platforms West:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Blow Red Mushroom after Swinging Platforms West:
     original item: Heart
     type: Hidden Items, Custom Flag
-    short_name: Inside the Great Tree - Blow Red Mushroom after Swinging Platforms West
-  \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Blow Tall Blue Mushroom after Swinging Platforms South:
+    short_name: Inside the Great Tree - Blow Red Mushroom after Swinging Platforms
+      West
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Blow Tall Blue Mushroom after Swinging Platforms South:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
-    short_name: Inside the Great Tree - Blow Tall Blue Mushroom after Swinging Platforms South
-  \Faron\Faron Woods\Great Tree\Upper Area\Blow Tree Spiral on Highest Pathway:
+    short_name: Inside the Great Tree - Blow Tall Blue Mushroom after Swinging Platforms
+      South
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Blow Tree Spiral on Highest Pathway:
     original item: Red Rupee
     type: Hidden Items, Custom Flag
     short_name: Inside the Great Tree - Blow Tree Spiral on Highest Pathway
-  \Faron\Faron Woods\Great Tree\Lower Area\Path to Chest\Chest:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Chest guarded by Deku Baba:
     original item: Gold Rupee
     type: null
     short_name: Inside the Great Tree - Chest guarded by Deku Baba
@@ -10920,7 +10946,7 @@ checks:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Deep Woods - Bonk Tree with Rope
-  \Faron\Faron Woods\Deep Woods\Chest:
+  \Faron\Faron Woods\Deep Woods\Chest on High Ledge:
     original item: Red Rupee
     type: null
     short_name: Deep Woods - Chest on High Ledge
@@ -10976,7 +11002,7 @@ checks:
     original item: Red Rupee
     type: Freestanding Rupees, Intermediate Rupees
     short_name: Lake Floria - Right Rupee behind Northwest Boulder
-  \Faron\Lake Floria\Below Rock\Emerged Area\Chest:
+  \Faron\Lake Floria\Below Rock\Emerged Area\Chest near Bird Statue:
     original item: Goddess Plume
     type: null
     short_name: Lake Floria - Chest near Bird Statue
@@ -11891,11 +11917,11 @@ checks:
     original item: Blue Rupee
     type: null
     short_name: Fire Node - Right Ending Chest
-  \Lanayru\Desert\North Part\Lightning Node\Past\First Chest:
+  \Lanayru\Desert\North Part\Lightning Node\Past\Front Chest:
     original item: Red Rupee
     type: null
     short_name: Lightning Node - Front Chest
-  \Lanayru\Desert\North Part\Lightning Node\Past\Second Chest:
+  \Lanayru\Desert\North Part\Lightning Node\Past\Middle Chest:
     original item: Blue Rupee
     type: null
     short_name: Lightning Node - Middle Chest
@@ -11911,7 +11937,7 @@ checks:
     original item: Rare Treasure
     type: null
     short_name: Lightning Node - Raised Chest near Generator
-  \Lanayru\Caves\Chest:
+  \Lanayru\Caves\Chest near Golo:
     original item: Golden Skull
     type: null
     short_name: Lanayru Caves - Chest near Golo
@@ -11947,7 +11973,7 @@ checks:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Lanayru Gorge - Bonk Wall Right of Stairs
-  \Lanayru\Gorge\Beyond Bridge\Digging Spot:
+  \Lanayru\Gorge\Beyond Bridge\Life Tree Digging Spot:
     original item: Life Tree Seedling
     type: null
     short_name: Lanayru Gorge - Life Tree Digging Spot
@@ -12160,15 +12186,15 @@ checks:
     original item: Stamina Fruit
     type: Stamina Fruits, Custom Flag
     short_name: Pirate Stronghold - Stamina Fruit on Lower Right Side
-  \Lanayru\Pirate Stronghold Interior\First Chest:
+  \Lanayru\Pirate Stronghold Interior\Chest behind Electric Fence:
     original item: Silver Rupee
     type: null
     short_name: Pirate Stronghold Interior - Chest behind Electric Fence
-  \Lanayru\Pirate Stronghold Interior\Second Chest:
+  \Lanayru\Pirate Stronghold Interior\Chest before Deku Babas:
     original item: Semi Rare Treasure
     type: null
     short_name: Pirate Stronghold Interior - Chest before Deku Babas
-  \Lanayru\Pirate Stronghold Interior\Third Chest:
+  \Lanayru\Pirate Stronghold Interior\Chest before Double Armos Fight:
     original item: Semi Rare Treasure
     type: null
     short_name: Pirate Stronghold Interior - Chest before Double Armos Fight
@@ -12372,7 +12398,7 @@ checks:
     original item: Red Rupee
     type: Freestanding Rupees, Intermediate Rupees
     short_name: Earth Temple - Rupee above First Drawbridge
-  \Earth Temple\Main\Hub Room\Chest behind Bombable Rock:
+  \Earth Temple\Main\Hub Room\Chest behind Southwest Bombable Rock:
     original item: Golden Skull
     type: null
     short_name: Earth Temple - Chest behind Southwest Bombable Rock
@@ -12663,7 +12689,7 @@ checks:
     original item: Red Rupee
     type: null
     short_name: Ancient Cistern - Chest behind Waterfall
-  \Ancient Cistern\Main\Basement Gutters\Past Skulltula\Bokoblin:
+  \Ancient Cistern\Main\Basement Gutters\Past Skulltula\Whip Item from Bokoblin between Pipes:
     original item: 'Ancient Cistern Small Key #1'
     type: null
     short_name: Ancient Cistern - Whip Item from Bokoblin between Pipes
@@ -12915,7 +12941,7 @@ checks:
     original item: Progressive Sword
     type: null
     short_name: Fire Sanctuary - Din's Flame
-  \Sky Keep\Main\First Room\First Chest:
+  \Sky Keep\Main\First Room\Chest in First Room:
     original item: Sky Keep Map
     type: null
     short_name: Sky Keep - Chest in First Room
@@ -13005,7 +13031,8 @@ gossip_stones:
   \The Sky\South East\Lumpy Pumpkin\Gossip Stone: Lumpy Pumpkin - Gossip Stone
   \The Sky\South West\Volcanic Island\Gossip Stone: Volcanic Island - Gossip Stone
   \The Sky\Bamboo Island Interior\Gossip Stone: Bamboo Island Interior - Gossip Stone
-  \The Sky\Bug Heaven\Nearby Gossip Stone: Inside the Thunderhead - Gossip Stone near Bug Heaven
+  \The Sky\Inside the Thunderhead\Bug Heaven\Gossip Stone near Bug Heaven: Inside
+    the Thunderhead - Gossip Stone near Bug Heaven
   \Faron\Sealed Grounds\Behind the Temple\Gossip Stone: Sealed Grounds - Gossip Stone
   \Faron\Faron Woods\Deep Woods\Gossip Stone: Deep Woods - Gossip Stone
   \Faron\Floria Waterfall\Gossip Stone: Floria Waterfall - Gossip Stone
@@ -13242,14 +13269,14 @@ exits:
     vanilla: Mallara's House Entrance
     stage: F016r
     short_name: Mallara's House - Exit
-  \Skyloft\Batreaux\Exit:
+  \Skyloft\Batreaux's House\Exit:
     type: exit
     vanilla: Batreaux's House Entrance
     stage: F012r
-    short_name: Batreaux - Exit
+    short_name: Batreaux's House - Exit
   \Skyloft\Skyloft Village\Batreaux's House Exit:
     type: exit
-    vanilla: Batreaux - Entrance
+    vanilla: Batreaux's House - Entrance
     stage: F000
     short_name: Batreaux's House Exit
   \Skyloft\Skyloft Village\Gondo's House\Exit:
@@ -13600,69 +13627,69 @@ exits:
     type: exit
     vanilla: Faron Woods - Trial Gate Entrance
     short_name: Farore's Silent Realm - Exit
-  \Faron\Faron Woods\Great Tree\Platforms\Lower Exit to Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Platforms\Lower Exit to Great Tree:
     type: exit
     vanilla: Inside the Great Tree - Lower Entrance from Platforms
     stage: F100
     short_name: Inside the Great Tree - Platforms - Lower Exit to Great Tree
-  \Faron\Faron Woods\Great Tree\Platforms\Upper Exit to Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Platforms\Upper Exit to Great Tree:
     type: exit
     vanilla: Inside the Great Tree - Upper Entrance from Platforms
     stage: F100
     short_name: Inside the Great Tree - Platforms - Upper Exit to Great Tree
-  \Faron\Faron Woods\Great Tree\Top\Top Exit to Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Top\Top Exit to Great Tree:
     type: exit
     vanilla: Inside the Great Tree - Entrance from Top
     stage: F100
     short_name: Inside the Great Tree - Top Exit to Great Tree
-  \Faron\Faron Woods\Great Tree\Near Underwater Hole\Underwater Hole Exit:
+  \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole\Underwater Hole Exit:
     type: exit
     vanilla: Inside the Great Tree - Underwater Tunnel Entrance
     stage: F100
     short_name: Inside the Great Tree - Underwater Hole Exit
-  \Faron\Faron Woods\Great Tree\Lower Area\Near Exit\Lower Exit to Platforms:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit\Lower Exit to Platforms:
     type: exit
     vanilla: Inside the Great Tree - Platforms - Lower Entrance from Great Tree
     stage: F100_1
     short_name: Inside the Great Tree - Lower Exit to Platforms
-  \Faron\Faron Woods\Great Tree\Upper Area\Upper Exit to Platforms:
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Upper Exit to Platforms:
     type: exit
     vanilla: Inside the Great Tree - Platforms - Upper Entrance from Great Tree
     stage: F100_1
     short_name: Inside the Great Tree - Upper Exit to Platforms
-  \Faron\Faron Woods\Great Tree\Upper Area\Exit to Top:
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Exit to Top:
     type: exit
     vanilla: Inside the Great Tree - Top Entrance from Great Tree
     stage: F100_1
     short_name: Inside the Great Tree - Exit to Top
-  \Faron\Faron Woods\Great Tree\Lower Area\Underwater Tunnel Exit:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Underwater Tunnel Exit:
     type: exit
     vanilla: Inside the Great Tree - Underwater Hole Entrance
     stage: F100_1
     short_name: Inside the Great Tree - Underwater Tunnel Exit
-  \Faron\Faron Woods\Great Tree\Upper Area\Exit to Flooded Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Exit to Flooded Great Tree:
     type: exit
-    vanilla: Flooded Inside the Great Tree - Entrance from Great Tree
+    vanilla: Flooded Great Tree - Entrance from Great Tree
     short_name: Inside the Great Tree - Exit to Flooded Great Tree
   \Faron\Flooded Faron Woods\Flooded Great Tree\Exit to Great Tree:
     type: exit
     vanilla: Inside the Great Tree - Entrance from Flooded Great Tree
-    short_name: Flooded Inside the Great Tree - Exit to Great Tree
+    short_name: Flooded Great Tree - Exit to Great Tree
   \Faron\Flooded Faron Woods\Flooded Great Tree\Exit to Upper Flooded Faron Woods:
     type: exit
     vanilla: Flooded Faron Woods - Entrance from Upper Flooded Great Tree
-    short_name: Flooded Inside the Great Tree - Exit to Upper Flooded Faron Woods
+    short_name: Flooded Great Tree - Exit to Upper Flooded Faron Woods
   \Faron\Flooded Faron Woods\Flooded Great Tree\Underwater Tunnel Exit:
     type: exit
     vanilla: Flooded Faron Woods - Underwater Hole Entrance
-    short_name: Flooded Inside the Great Tree - Underwater Tunnel Exit
+    short_name: Flooded Great Tree - Underwater Tunnel Exit
   \Faron\Flooded Faron Woods\Exit to Upper Flooded Great Tree:
     type: exit
-    vanilla: Flooded Inside the Great Tree - Entrance from Upper Flooded Faron Woods
+    vanilla: Flooded Great Tree - Entrance from Upper Flooded Faron Woods
     short_name: Flooded Faron Woods - Exit to Upper Flooded Great Tree
   \Faron\Flooded Faron Woods\Underwater Hole Exit:
     type: exit
-    vanilla: Flooded Inside the Great Tree - Underwater Tunnel Entrance
+    vanilla: Flooded Great Tree - Underwater Tunnel Entrance
     short_name: Flooded Faron Woods - Underwater Hole Exit
   \Faron\Faron Woods\Deep Woods\Shared Statue Exit:
     type: exit
@@ -14500,12 +14527,12 @@ entrances:
     stage: F016r
     allowed_time_of_day: 3
     short_name: Mallara's House - Entrance
-  \Skyloft\Batreaux\Entrance:
+  \Skyloft\Batreaux's House\Entrance:
     type: entrance
     province: The Sky
     stage: F012r
     allowed_time_of_day: 3
-    short_name: Batreaux - Entrance
+    short_name: Batreaux's House - Entrance
   \Skyloft\Skyloft Village\Batreaux's House Entrance:
     type: entrance
     province: The Sky
@@ -14752,7 +14779,7 @@ entrances:
     stage: F100
     allowed_time_of_day: 1
     short_name: Faron Woods - Viewing Platform Statue Entrance
-  \Faron\Faron Woods\Great Tree\Top\The Great Tree Statue Entrance:
+  \Faron\Faron Woods\Inside the Great Tree\Top\The Great Tree Statue Entrance:
     type: entrance
     subtype: bird-statue-entrance
     province: Faron Province
@@ -14789,57 +14816,57 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: Farore's Silent Realm - Entrance
-  \Faron\Faron Woods\Great Tree\Platforms\Lower Entrance from Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Platforms\Lower Entrance from Great Tree:
     type: entrance
     province: Faron Province
     stage: F100
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Platforms - Lower Entrance from Great Tree
-  \Faron\Faron Woods\Great Tree\Platforms\Upper Entrance from Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Platforms\Upper Entrance from Great Tree:
     type: entrance
     province: Faron Province
     stage: F100
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Platforms - Upper Entrance from Great Tree
-  \Faron\Faron Woods\Great Tree\Top\Top Entrance from Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Top\Top Entrance from Great Tree:
     type: entrance
     province: Faron Province
     stage: F100
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Top Entrance from Great Tree
-  \Faron\Faron Woods\Great Tree\Near Underwater Hole\Underwater Hole Entrance:
+  \Faron\Faron Woods\Inside the Great Tree\Near Underwater Hole\Underwater Hole Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     stage: F100
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Underwater Hole Entrance
-  \Faron\Faron Woods\Great Tree\Lower Area\Near Exit\Lower Entrance from Platforms:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit\Lower Entrance from Platforms:
     type: entrance
     province: Faron Province
     stage: F100_1
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Lower Entrance from Platforms
-  \Faron\Faron Woods\Great Tree\Upper Area\Upper Entrance from Platforms:
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Upper Entrance from Platforms:
     type: entrance
     province: Faron Province
     stage: F100_1
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Upper Entrance from Platforms
-  \Faron\Faron Woods\Great Tree\Upper Area\Entrance from Top:
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Entrance from Top:
     type: entrance
     province: Faron Province
     stage: F100_1
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Entrance from Top
-  \Faron\Faron Woods\Great Tree\Lower Area\Underwater Tunnel Entrance:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Underwater Tunnel Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     stage: F100_1
     allowed_time_of_day: 1
     short_name: Inside the Great Tree - Underwater Tunnel Entrance
-  \Faron\Faron Woods\Great Tree\Upper Area\Entrance from Flooded Great Tree:
+  \Faron\Faron Woods\Inside the Great Tree\Upper Area\Entrance from Flooded Great Tree:
     type: entrance
     province: Faron Province
     can-start-at: false
@@ -14850,20 +14877,20 @@ entrances:
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Flooded Inside the Great Tree - Entrance from Great Tree
+    short_name: Flooded Great Tree - Entrance from Great Tree
   \Faron\Flooded Faron Woods\Flooded Great Tree\Entrance from Upper Flooded Faron Woods:
     type: entrance
     province: Faron Province
     stage: F103_1
     allowed_time_of_day: 1
-    short_name: Flooded Inside the Great Tree - Entrance from Upper Flooded Faron Woods
+    short_name: Flooded Great Tree - Entrance from Upper Flooded Faron Woods
   \Faron\Flooded Faron Woods\Flooded Great Tree\Underwater Tunnel Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     stage: F103_1
     allowed_time_of_day: 1
-    short_name: Flooded Inside the Great Tree - Underwater Tunnel Entrance
+    short_name: Flooded Great Tree - Underwater Tunnel Entrance
   \Faron\Flooded Faron Woods\Entrance from Upper Flooded Great Tree:
     type: entrance
     province: Faron Province

@@ -155,7 +155,7 @@ South East:
         Complete Hot Soup Delivery: Skyloft - Delivered Hot Soup
         Play the Harp with Kina: # Play the harp
           Pumpkin Carrying & Goddess's Harp & Night
-        Harp Minigame: Play the Harp with Kina
+        Harp Duet with Kina: Play the Harp with Kina
         Pick up Levias' Soup: Spiral Charge
 
 South West:
@@ -268,32 +268,32 @@ Inside the Thunderhead:
         Strike Crest with Longsword: Goddess Longsword
         Strike Crest with White Sword: Goddess White Sword
 
-Thunderhead East Island:
+  East Island:
+      entrance: Nothing
+      exits:
+        Inside the Thunderhead: Day
+      locations:
+        Goddess Chest on East Island: Faron - Goddess Cube on East Great Tree with Rope
+        Chest on East Island: Digging Mitts | Thunderhead - East Island Dive Trick
+
+  Mogma Mitts Island:
     entrance: Nothing
     exits:
       Inside the Thunderhead: Day
     locations:
-      Goddess Chest on East Island: Faron - Goddess Cube on East Great Tree with Rope
-      Chest on East Island: Digging Mitts | Thunderhead - East Island Dive Trick
+      Mogma Mitts Island First Goddess Chest: Eldin - Goddess Cube inside Volcano Summit & Mogma Mitts
+      Mogma Mitts Island Second Goddess Chest: Lanayru - Goddess Cube in Lanayru Gorge & Mogma Mitts
 
-Mogma Mitts Island:
-  entrance: Nothing
-  exits:
-    Inside the Thunderhead: Day
-  locations:
-    Mogma Mitts Island First Goddess Chest: Eldin - Goddess Cube inside Volcano Summit & Mogma Mitts
-    Mogma Mitts Island Second Goddess Chest: Lanayru - Goddess Cube in Lanayru Gorge & Mogma Mitts
-
-Bug Heaven:
-  hint-region: Inside the Thunderhead
-  entrance: Nothing
-  exits:
-    Inside the Thunderhead: Day
-  locations:
-    10 Bugs in 3 Minutes: Bug Net
-    Goddess Chest: Eldin - Goddess Cube in Summit Waterfall
-    Gossip Stone near Bug Heaven: Nothing
-    Stamina Fruit near Start: Nothing
-    Stamina Fruit in front of Wooden Plank: Nothing
-    Stamina Fruit in Center Room: Nothing
-    Stamina Fruit on top of Slope: Nothing
+  Bug Heaven:
+    hint-region: Inside the Thunderhead
+    entrance: Nothing
+    exits:
+      Inside the Thunderhead: Day
+    locations:
+      10 Bugs in 3 Minutes: Bug Net
+      Goddess Chest: Eldin - Goddess Cube in Summit Waterfall
+      Gossip Stone near Bug Heaven: Nothing
+      Stamina Fruit near Start: Nothing
+      Stamina Fruit in front of Wooden Plank: Nothing
+      Stamina Fruit in Center Room: Nothing
+      Stamina Fruit on top of Slope: Nothing

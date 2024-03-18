@@ -7662,7 +7662,7 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Sandship\Main\Before Ship's Bow: Chest
+                \Sandship\Main\Before Ship's Bow: \Can Defeat Scervo/Dreadfuse
               hint_region: Sandship
               locations:
                 Chest after Scervo Fight: \Can Defeat Scervo/Dreadfuse

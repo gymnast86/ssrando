@@ -49,7 +49,7 @@ Main:
 
   Ship's Bow:
     exits:
-      Before Ship's Bow: Chest
+      Before Ship's Bow: Can Defeat Scervo/Dreadfuse
     locations:
       Chest after Scervo Fight: Can Defeat Scervo/Dreadfuse
 

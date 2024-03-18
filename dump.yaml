@@ -1876,20 +1876,20 @@ items:
 - \The Sky\North East\Island near Bamboo Island\Goddess Chest in Cave
 - \The Sky\North East\Northeast Island\Goddess Chest behind Bombable Rocks
 - \The Sky\North East\Northeast Island\Goddess Chest in Cage
-- \The Sky\Bamboo Island\Goddess Chest behind Entrance
-- \The Sky\Bamboo Island\Slingshot Left Lantern
-- \The Sky\Bamboo Island\Slingshot Middle Lantern
-- \The Sky\Bamboo Island\Slingshot Right Lantern
-- \The Sky\Bamboo Island Interior\Clean Cut Minigame
-- \The Sky\Bamboo Island Interior\Bonk Southwest Sprout
-- \The Sky\Bamboo Island Interior\Bonk West Sprout
-- \The Sky\Bamboo Island Interior\Bonk East Sprout
-- \The Sky\Bamboo Island Interior\Bonk Southeast Sprout
-- \The Sky\Bamboo Island Interior\Gossip Stone
-- \The Sky\Beedle's Island\Crystal on Airshop Propeller
-- \The Sky\Beedle's Island\Deliver Beedle's Insect Cage
-- \The Sky\Beedle's Island\Top\Top Goddess Chest
-- \The Sky\Beedle's Island\Cage\Goddess Chest in Cage
+- \The Sky\North East\Bamboo Island\Goddess Chest behind Entrance
+- \The Sky\North East\Bamboo Island\Slingshot Left Lantern
+- \The Sky\North East\Bamboo Island\Slingshot Middle Lantern
+- \The Sky\North East\Bamboo Island\Slingshot Right Lantern
+- \The Sky\North East\Bamboo Island Interior\Clean Cut Minigame
+- \The Sky\North East\Bamboo Island Interior\Bonk Southwest Sprout
+- \The Sky\North East\Bamboo Island Interior\Bonk West Sprout
+- \The Sky\North East\Bamboo Island Interior\Bonk East Sprout
+- \The Sky\North East\Bamboo Island Interior\Bonk Southeast Sprout
+- \The Sky\North East\Bamboo Island Interior\Gossip Stone
+- \The Sky\North East\Beedle's Island\Crystal on Airshop Propeller
+- \The Sky\North East\Beedle's Island\Deliver Beedle's Insect Cage
+- \The Sky\North East\Beedle's Island\Top\Top Goddess Chest
+- \The Sky\North East\Beedle's Island\Cage\Goddess Chest in Cage
 - \The Sky\South East\Chest in Breakable Boulder near Lumpy Pumpkin
 - \The Sky\South East\Island Closest to Faron Pillar\Goddess Chest
 - \The Sky\South East\Lumpy Pumpkin\Outside Crystal
@@ -2293,15 +2293,15 @@ items:
 - \The Sky\North East\Island near Bamboo Island
 - \The Sky\North East\Northeast Island
 - \The Sky\North East\Eldin Pillar
+- \The Sky\North East\Bamboo Island
+- \The Sky\North East\Bamboo Island Interior
+- \The Sky\North East\Beedle's Island\Top_DAY
+- \The Sky\North East\Beedle's Island\Top_NIGHT
+- \The Sky\North East\Beedle's Island\Cage_DAY
+- \The Sky\North East\Beedle's Island\Cage_NIGHT
+- \The Sky\North East\Beedle's Island_DAY
+- \The Sky\North East\Beedle's Island_NIGHT
 - \The Sky\North East
-- \The Sky\Bamboo Island
-- \The Sky\Bamboo Island Interior
-- \The Sky\Beedle's Island\Top_DAY
-- \The Sky\Beedle's Island\Top_NIGHT
-- \The Sky\Beedle's Island\Cage_DAY
-- \The Sky\Beedle's Island\Cage_NIGHT
-- \The Sky\Beedle's Island_DAY
-- \The Sky\Beedle's Island_NIGHT
 - \The Sky\South East\Faron Pillar
 - \The Sky\South East\Island Closest to Faron Pillar
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building_DAY
@@ -2379,9 +2379,9 @@ items:
 - \Skyloft\Central Skyloft\Piper's House Exit
 - \Skyloft\Central Skyloft\Exit to Sky
 - \The Sky\Around Skyloft\Exit to Skyloft
-- \The Sky\Bamboo Island Interior\Exit
-- \The Sky\Bamboo Island\Exit to Bamboo Island Interior
-- \The Sky\Beedle's Island\Beedle's Ship Exit
+- \The Sky\North East\Bamboo Island Interior\Exit
+- \The Sky\North East\Bamboo Island\Exit to Bamboo Island Interior
+- \The Sky\North East\Beedle's Island\Beedle's Ship Exit
 - \The Sky\North East\Eldin Pillar\First Time Dive
 - \The Sky\North East\Eldin Pillar\Temple Entrance Statue Dive
 - \The Sky\North East\Eldin Pillar\Inside the Volcano Statue Dive
@@ -2681,9 +2681,9 @@ items:
 - \Skyloft\Central Skyloft\Entrance from Sky_DAY
 - \Skyloft\Central Skyloft\Entrance from Sky_NIGHT
 - \The Sky\Around Skyloft\Entrance from Skyloft
-- \The Sky\Bamboo Island Interior\Entrance
-- \The Sky\Bamboo Island\Entrance from Bamboo Island Interior
-- \The Sky\Beedle's Island\Beedle's Ship Entrance
+- \The Sky\North East\Bamboo Island Interior\Entrance
+- \The Sky\North East\Bamboo Island\Entrance from Bamboo Island Interior
+- \The Sky\North East\Beedle's Island\Beedle's Ship Entrance
 - \The Sky\North East\Eldin Pillar\Entrance
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Main Right Door Entrance_DAY
 - \The Sky\South East\Lumpy Pumpkin\Lumpy Pumpkin Building\Main Right Door Entrance_NIGHT
@@ -2926,8 +2926,8 @@ areas:
       \ Wallet)"
     Can Afford 1600 Rupees: "\\Can High Rupee Farm & ((\\Big Wallet & \\2 Extra Wallets)\
       \ | \\Giant Wallet)"
-    Can Medium Rupee Farm: "\\The Sky\\Bamboo Island Interior\\Clean Cut Minigame\
-      \ | \\Can High Rupee Farm"
+    Can Medium Rupee Farm: "\\The Sky\\North East\\Bamboo Island Interior\\Clean Cut\
+      \ Minigame | \\Can High Rupee Farm"
     Can High Rupee Farm: "\\The Sky\\South West\\Fun Fun Island\\Fun Fun Island Minigame\
       \ | \\Eldin\\Volcano\\Thrill Digger Cave\\Thrill Digger Minigame"
     Song of the Hero: "Faron Song of the Hero Part & Eldin Song of the Hero Part &\
@@ -8647,10 +8647,10 @@ areas:
               locations:
                 Upgrade to Quick Beetle: "\\Hook Beetle & \\Faron\\Faron Woods\\Deep\
                   \ Woods\\Entry\\Hornet Larvae Farming & \\Ancient Flower Farming\
-                  \ & \\The Sky\\Bamboo Island Interior\\Clean Cut Minigame"
+                  \ & \\The Sky\\North East\\Bamboo Island Interior\\Clean Cut Minigame"
                 Upgrade to Tough Beetle: "\\Quick Beetle & \\Faron\\Faron Woods\\\
-                  Amber Relic Farming & \\Ancient Flower Farming & \\The Sky\\Bamboo\
-                  \ Island Interior\\Clean Cut Minigame"
+                  Amber Relic Farming & \\Ancient Flower Farming & \\The Sky\\North\
+                  \ East\\Bamboo Island Interior\\Clean Cut Minigame"
               name: \Skyloft\Bazaar\Gondo's Upgrades
               sub_areas: {}
               toplevel_alias: null
@@ -9304,9 +9304,7 @@ areas:
       can_save: false
       can_sleep: false
       entrances: []
-      exits:
-        \The Sky\Bamboo Island: 'True'
-        \The Sky\Beedle's Island: 'True'
+      exits: {}
       hint_region: The Sky
       locations: {}
       name: \The Sky
@@ -9318,12 +9316,14 @@ areas:
           can_sleep: false
           entrances: []
           exits:
-            \The Sky\Beedle's Island\Top: 'True'
-            \The Sky\Beedle's Island\Cage: The Sky - Beedle's Island Cage Chest Dive
-              Trick
+            \The Sky\North East\Beedle's Island\Top: 'True'
+            \The Sky\North East\Beedle's Island\Cage: The Sky - Beedle's Island Cage
+              Chest Dive Trick
             \The Sky\South East: 'True'
             \The Sky\Around Skyloft: 'True'
             \The Sky\North East\Eldin Pillar: 'True'
+            \The Sky\North East\Bamboo Island: 'True'
+            \The Sky\North East\Beedle's Island: 'True'
           hint_region: The Sky
           locations:
             Form a Squirrel Ring above Volcanic Island: 'True'
@@ -9390,93 +9390,93 @@ areas:
               name: \The Sky\North East\Eldin Pillar
               sub_areas: {}
               toplevel_alias: null
-          toplevel_alias: null
-        Bamboo Island:
-          abstract: false
-          allowed_time_of_day: 1
-          can_save: false
-          can_sleep: false
-          entrances:
-          - Entrance from Bamboo Island Interior
-          exits:
-            \The Sky\North East: Day
-            Exit to Bamboo Island Interior: 'True'
-          hint_region: The Sky
-          locations:
-            Goddess Chest behind Entrance: \Eldin\Volcano\Near Temple Entrance\Goddess
-              Cube West of Earth Temple Entrance
-            Slingshot Left Lantern: \Slingshot
-            Slingshot Middle Lantern: \Slingshot
-            Slingshot Right Lantern: \Slingshot
-          name: \The Sky\Bamboo Island
-          sub_areas: {}
-          toplevel_alias: null
-        Bamboo Island Interior:
-          abstract: false
-          allowed_time_of_day: 1
-          can_save: false
-          can_sleep: false
-          entrances:
-          - Entrance
-          exits:
-            Exit: 'True'
-          hint_region: The Sky
-          locations:
-            Clean Cut Minigame: \Sword
-            Bonk Southwest Sprout: 'True'
-            Bonk West Sprout: 'True'
-            Bonk East Sprout: 'True'
-            Bonk Southeast Sprout: 'True'
-            Gossip Stone: 'True'
-          name: \The Sky\Bamboo Island Interior
-          sub_areas: {}
-          toplevel_alias: null
-        Beedle's Island:
-          abstract: false
-          allowed_time_of_day: 3
-          can_save: false
-          can_sleep: false
-          entrances:
-          - Beedle's Ship Entrance
-          exits:
-            \The Sky\North East: Day
-            Beedle's Ship Exit: Night
-            \The Sky\Beedle's Island\Cage: Night
-          hint_region: The Sky
-          locations:
-            Crystal on Airshop Propeller: "Night & \\Beetle"
-            Deliver Beedle's Insect Cage: "Horned Colossus Beetle & Night"
-          name: \The Sky\Beedle's Island
-          sub_areas:
-            Top:
+            Bamboo Island:
               abstract: false
-              allowed_time_of_day: 3
+              allowed_time_of_day: 1
               can_save: false
               can_sleep: false
-              entrances: []
+              entrances:
+              - Entrance from Bamboo Island Interior
               exits:
-                \The Sky\Beedle's Island: 'True'
+                \The Sky\North East: Day
+                Exit to Bamboo Island Interior: 'True'
               hint_region: The Sky
               locations:
-                Top Goddess Chest: \Lanayru\Temple of Time\Near Goddess Cube\Goddess
-                  Cube at Ride near Temple of Time
-              name: \The Sky\Beedle's Island\Top
+                Goddess Chest behind Entrance: \Eldin\Volcano\Near Temple Entrance\Goddess
+                  Cube West of Earth Temple Entrance
+                Slingshot Left Lantern: \Slingshot
+                Slingshot Middle Lantern: \Slingshot
+                Slingshot Right Lantern: \Slingshot
+              name: \The Sky\North East\Bamboo Island
               sub_areas: {}
               toplevel_alias: null
-            Cage:
+            Bamboo Island Interior:
+              abstract: false
+              allowed_time_of_day: 1
+              can_save: false
+              can_sleep: false
+              entrances:
+              - Entrance
+              exits:
+                Exit: 'True'
+              hint_region: The Sky
+              locations:
+                Clean Cut Minigame: \Sword
+                Bonk Southwest Sprout: 'True'
+                Bonk West Sprout: 'True'
+                Bonk East Sprout: 'True'
+                Bonk Southeast Sprout: 'True'
+                Gossip Stone: 'True'
+              name: \The Sky\North East\Bamboo Island Interior
+              sub_areas: {}
+              toplevel_alias: null
+            Beedle's Island:
               abstract: false
               allowed_time_of_day: 3
               can_save: false
               can_sleep: false
-              entrances: []
+              entrances:
+              - Beedle's Ship Entrance
               exits:
-                \The Sky\Beedle's Island: 'True'
+                \The Sky\North East: Day
+                Beedle's Ship Exit: Night
+                \The Sky\North East\Beedle's Island\Cage: Night
               hint_region: The Sky
               locations:
-                Goddess Chest in Cage: \Faron\Faron Woods\Deep Woods\Goddess Cube
-                  on top of Skyview Temple
-              name: \The Sky\Beedle's Island\Cage
-              sub_areas: {}
+                Crystal on Airshop Propeller: "Night & \\Beetle"
+                Deliver Beedle's Insect Cage: "Horned Colossus Beetle & Night"
+              name: \The Sky\North East\Beedle's Island
+              sub_areas:
+                Top:
+                  abstract: false
+                  allowed_time_of_day: 3
+                  can_save: false
+                  can_sleep: false
+                  entrances: []
+                  exits:
+                    \The Sky\North East\Beedle's Island: 'True'
+                  hint_region: The Sky
+                  locations:
+                    Top Goddess Chest: \Lanayru\Temple of Time\Near Goddess Cube\Goddess
+                      Cube at Ride near Temple of Time
+                  name: \The Sky\North East\Beedle's Island\Top
+                  sub_areas: {}
+                  toplevel_alias: null
+                Cage:
+                  abstract: false
+                  allowed_time_of_day: 3
+                  can_save: false
+                  can_sleep: false
+                  entrances: []
+                  exits:
+                    \The Sky\North East\Beedle's Island: 'True'
+                  hint_region: The Sky
+                  locations:
+                    Goddess Chest in Cage: \Faron\Faron Woods\Deep Woods\Goddess Cube
+                      on top of Skyview Temple
+                  name: \The Sky\North East\Beedle's Island\Cage
+                  sub_areas: {}
+                  toplevel_alias: null
               toplevel_alias: null
           toplevel_alias: null
         South East:
@@ -10364,35 +10364,35 @@ checks:
     original item: 'Gratitude Crystal #13'
     type: Loose Crystals
     short_name: Lumpy Pumpkin - Inside Crystal
-  \The Sky\Beedle's Island\Crystal on Airshop Propeller:
+  \The Sky\North East\Beedle's Island\Crystal on Airshop Propeller:
     original item: 'Gratitude Crystal #14'
     type: Loose Crystals
     short_name: Beedle's Island - Crystal on Airshop Propeller
-  \The Sky\Bamboo Island Interior\Bonk Southwest Sprout:
+  \The Sky\North East\Bamboo Island Interior\Bonk Southwest Sprout:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island Interior - Bonk Southwest Sprout
-  \The Sky\Bamboo Island Interior\Bonk West Sprout:
+  \The Sky\North East\Bamboo Island Interior\Bonk West Sprout:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island Interior - Bonk West Sprout
-  \The Sky\Bamboo Island Interior\Bonk East Sprout:
+  \The Sky\North East\Bamboo Island Interior\Bonk East Sprout:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island Interior - Bonk East Sprout
-  \The Sky\Bamboo Island Interior\Bonk Southeast Sprout:
+  \The Sky\North East\Bamboo Island Interior\Bonk Southeast Sprout:
     original item: Fairy
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island Interior - Bonk Southeast Sprout
-  \The Sky\Bamboo Island\Slingshot Left Lantern:
+  \The Sky\North East\Bamboo Island\Slingshot Left Lantern:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island - Slingshot Left Lantern
-  \The Sky\Bamboo Island\Slingshot Middle Lantern:
+  \The Sky\North East\Bamboo Island\Slingshot Middle Lantern:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island - Slingshot Middle Lantern
-  \The Sky\Bamboo Island\Slingshot Right Lantern:
+  \The Sky\North East\Bamboo Island\Slingshot Right Lantern:
     original item: Green Rupee
     type: Hidden Items, Custom Flag
     short_name: Bamboo Island - Slingshot Right Lantern
@@ -10436,7 +10436,7 @@ checks:
     original item: Gratitude Crystal Pack
     type: Gratitude Crystal Sidequests
     short_name: Orielle's Island - Heal Orielle's Loftwing
-  \The Sky\Beedle's Island\Deliver Beedle's Insect Cage:
+  \The Sky\North East\Beedle's Island\Deliver Beedle's Insect Cage:
     original item: Gratitude Crystal Pack
     type: Gratitude Crystal Sidequests
     short_name: Beedle's Island - Deliver Beedle's Insect Cage
@@ -10468,7 +10468,7 @@ checks:
     original item: Red Rupee
     type: Squirrel
     short_name: The Sky - Form a Squirrel Ring above Bamboo Island
-  \The Sky\Bamboo Island\Goddess Chest behind Entrance:
+  \The Sky\North East\Bamboo Island\Goddess Chest behind Entrance:
     original item: Gold Rupee
     type: goddess, Eldin Volcano Goddess Chests
     short_name: Bamboo Island - Goddess Chest behind Entrance
@@ -10480,11 +10480,11 @@ checks:
     original item: Heart Medal
     type: goddess, Lanayru Desert Goddess Chests
     short_name: Island near Bamboo Island - Goddess Chest in Cave
-  \The Sky\Beedle's Island\Top\Top Goddess Chest:
+  \The Sky\North East\Beedle's Island\Top\Top Goddess Chest:
     original item: Heart Piece
     type: goddess, Lanayru Desert Goddess Chests, Combat
     short_name: Beedle's Island - Top Goddess Chest
-  \The Sky\Beedle's Island\Cage\Goddess Chest in Cage:
+  \The Sky\North East\Beedle's Island\Cage\Goddess Chest in Cage:
     original item: Rupee Medal
     type: goddess, Faron Woods Goddess Chests
     short_name: Beedle's Island - Goddess Chest in Cage
@@ -13030,7 +13030,8 @@ gossip_stones:
     Skyloft - Gossip Stone on Waterfall Island
   \The Sky\South East\Lumpy Pumpkin\Gossip Stone: Lumpy Pumpkin - Gossip Stone
   \The Sky\South West\Volcanic Island\Gossip Stone: Volcanic Island - Gossip Stone
-  \The Sky\Bamboo Island Interior\Gossip Stone: Bamboo Island Interior - Gossip Stone
+  \The Sky\North East\Bamboo Island Interior\Gossip Stone: Bamboo Island Interior
+    - Gossip Stone
   \The Sky\Inside the Thunderhead\Bug Heaven\Gossip Stone near Bug Heaven: Inside
     the Thunderhead - Gossip Stone near Bug Heaven
   \Faron\Sealed Grounds\Behind the Temple\Gossip Stone: Sealed Grounds - Gossip Stone
@@ -13317,17 +13318,17 @@ exits:
     type: exit
     vanilla: Skyloft - Entrance from Sky
     short_name: The Sky - Exit to Skyloft
-  \The Sky\Bamboo Island Interior\Exit:
+  \The Sky\North East\Bamboo Island Interior\Exit:
     type: exit
     vanilla: Bamboo Island - Entrance from Bamboo Island Interior
     stage: F019r
     short_name: Bamboo Island Interior - Exit
-  \The Sky\Bamboo Island\Exit to Bamboo Island Interior:
+  \The Sky\North East\Bamboo Island\Exit to Bamboo Island Interior:
     type: exit
     vanilla: Bamboo Island Interior - Entrance
     stage: F020
     short_name: Bamboo Island - Exit to Bamboo Island Interior
-  \The Sky\Beedle's Island\Beedle's Ship Exit:
+  \The Sky\North East\Beedle's Island\Beedle's Ship Exit:
     type: exit
     vanilla: Beedle's Airshop - Night Entrance
     stage: F020
@@ -14587,19 +14588,19 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: The Sky - Entrance from Skyloft
-  \The Sky\Bamboo Island Interior\Entrance:
+  \The Sky\North East\Bamboo Island Interior\Entrance:
     type: entrance
     province: The Sky
     stage: F019r
     allowed_time_of_day: 1
     short_name: Bamboo Island Interior - Entrance
-  \The Sky\Bamboo Island\Entrance from Bamboo Island Interior:
+  \The Sky\North East\Bamboo Island\Entrance from Bamboo Island Interior:
     type: entrance
     province: The Sky
     stage: F020
     allowed_time_of_day: 1
     short_name: Bamboo Island - Entrance from Bamboo Island Interior
-  \The Sky\Beedle's Island\Beedle's Ship Entrance:
+  \The Sky\North East\Beedle's Island\Beedle's Ship Entrance:
     type: entrance
     province: The Sky
     stage: F020

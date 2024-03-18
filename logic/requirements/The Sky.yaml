@@ -37,51 +37,51 @@ North East:
       Fire Sanctuary Statue Dive:     Ruby Tablet & Fire Sanctuary - Main - Front of Boss Door - Unlock Statue
       The Sky - North East: Nothing
 
-Bamboo Island:
-  # Outside
-  entrance: Nothing
-  exits:
-    North East: Day
-    Exit to Bamboo Island Interior: Nothing
-  locations:
-    Goddess Chest behind Entrance: Eldin - Goddess Cube West of Earth Temple Entrance
-    Slingshot Left Lantern: Slingshot
-    Slingshot Middle Lantern: Slingshot
-    Slingshot Right Lantern: Slingshot
-
-Bamboo Island Interior:
-  exits:
-    Exit: Nothing
-  locations:
-    Clean Cut Minigame: Sword
-    Bonk Southwest Sprout: Nothing
-    Bonk West Sprout: Nothing
-    Bonk East Sprout: Nothing
-    Bonk Southeast Sprout: Nothing
-    Gossip Stone: Nothing
-
-Beedle's Island:
-  allowed-time-of-day: Both
-  entrance: Nothing
-  exits:
-    North East: Day
-    Beedle's Ship: Night
-    Cage: Night
-  locations:
-    Crystal on Airshop Propeller: Night & Beetle
-    Deliver Beedle's Insect Cage: Horned Colossus Beetle & Night
-
-  Top:
+  Bamboo Island:
+    # Outside
+    entrance: Nothing
     exits:
-      Beedle's Island: Nothing
+      North East: Day
+      Exit to Bamboo Island Interior: Nothing
     locations:
-      Top Goddess Chest: Lanayru - Goddess Cube at Ride near Temple of Time
+      Goddess Chest behind Entrance: Eldin - Goddess Cube West of Earth Temple Entrance
+      Slingshot Left Lantern: Slingshot
+      Slingshot Middle Lantern: Slingshot
+      Slingshot Right Lantern: Slingshot
 
-  Cage:
+  Bamboo Island Interior:
     exits:
-      Beedle's Island: Nothing
+      Exit: Nothing
     locations:
-      Goddess Chest in Cage: Faron - Goddess Cube on top of Skyview Temple
+      Clean Cut Minigame: Sword
+      Bonk Southwest Sprout: Nothing
+      Bonk West Sprout: Nothing
+      Bonk East Sprout: Nothing
+      Bonk Southeast Sprout: Nothing
+      Gossip Stone: Nothing
+
+  Beedle's Island:
+    allowed-time-of-day: Both
+    entrance: Nothing
+    exits:
+      North East: Day
+      Beedle's Ship: Night
+      Cage: Night
+    locations:
+      Crystal on Airshop Propeller: Night & Beetle
+      Deliver Beedle's Insect Cage: Horned Colossus Beetle & Night
+
+    Top:
+      exits:
+        Beedle's Island: Nothing
+      locations:
+        Top Goddess Chest: Lanayru - Goddess Cube at Ride near Temple of Time
+
+    Cage:
+      exits:
+        Beedle's Island: Nothing
+      locations:
+        Goddess Chest in Cage: Faron - Goddess Cube on top of Skyview Temple
 
 
 South East:

@@ -1360,12 +1360,12 @@ Faron Woods - Kikwi Elder's Reward:
   text: the <r<Kikwi relic>> is
 Faron Woods - Rupee on Hollow Tree Root:
   original item: "Blue Rupee #6"
-  type: Rupees (No Quick Beetle)
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F100/r0/l0/Item/42
 Faron Woods - Rupee on Hollow Tree Branch:
   original item: "Red Rupee #27"
-  type: Rupees (No Quick Beetle)
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F100/r0/l0/Item/41
 Faron Woods - Bonk Tree next to Shortcut Rope to Floria Gates:
@@ -1385,7 +1385,7 @@ Faron Woods - Slingshot Floria Gates Archway:
     - stage/F100/r0/l0/TgReact/0xFD65
 Faron Woods - Rupee on Platform near Floria Door:
   original item: "Red Rupee #26"
-  type: Rupees (No Quick Beetle)
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F100/r0/l0/Item/40
 Faron Woods - Bonk Raised Tree near Crooked Archway:
@@ -1435,12 +1435,12 @@ Faron Woods - Bonk Tree after Shortcut from Entry Bird Statue 2:
     - stage/F100/r0/l0/TgReact/0xFD5E
 Faron Woods - Rupee on Great Tree North Branch:
   original item: "Blue Rupee #4"
-  type: Rupees (No Quick Beetle)
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F100/r0/l0/Item/43
 Faron Woods - Rupee on Great Tree West Branch:
   original item: "Blue Rupee #5"
-  type: Rupees (No Quick Beetle)
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F100/r0/l0/Item/44
 Faron Woods - Blow Wooden Spiral near Goddess Cube near Rope:
@@ -1795,7 +1795,7 @@ Eldin Volcano - Chest behind Bombable Wall in First Room:
     - stage/F200/r1/l0/TBox/72
 Eldin Volcano - Rupee behind Bombable Wall in First Room:
   original item: "Blue Rupee #8"
-  type: Rupees (No Quick Beetle)
+  type: Freestanding Rupees, Beginner Rupees
   Paths:
     - stage/F200/r1/l0/Item/13
 Eldin Volcano - Rupee in Crawlspace in First Room:

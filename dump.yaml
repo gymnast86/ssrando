@@ -10821,11 +10821,11 @@ checks:
     short_name: Faron Woods - Kikwi Elder's Reward
   \Faron\Faron Woods\Rupee on Hollow Tree Root:
     original item: 'Blue Rupee #6'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Faron Woods - Rupee on Hollow Tree Root
   \Faron\Faron Woods\Rupee on Hollow Tree Branch:
     original item: 'Red Rupee #27'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Faron Woods - Rupee on Hollow Tree Branch
   \Faron\Faron Woods\Bonk Tree next to Shortcut Rope to Floria Gates:
     original item: Green Rupee
@@ -10841,7 +10841,7 @@ checks:
     short_name: Faron Woods - Slingshot Floria Gates Archway
   \Faron\Faron Woods\Rupee on Platform near Floria Door:
     original item: 'Red Rupee #26'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Faron Woods - Rupee on Platform near Floria Door
   \Faron\Faron Woods\Bonk Raised Tree near Crooked Archway:
     original item: Blue Rupee
@@ -10881,11 +10881,11 @@ checks:
     short_name: Faron Woods - Bonk Tree after Shortcut from Entry Bird Statue 2
   \Faron\Faron Woods\Inside the Great Tree\Top\Rupee on Great Tree North Branch:
     original item: 'Blue Rupee #4'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Faron Woods - Rupee on Great Tree North Branch
   \Faron\Faron Woods\Inside the Great Tree\Top\Rupee on Great Tree West Branch:
     original item: 'Blue Rupee #5'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Faron Woods - Rupee on Great Tree West Branch
   \Faron\Faron Woods\Rope Branch\Blow Wooden Spiral near Goddess Cube near Rope:
     original item: Red Rupee
@@ -11075,7 +11075,7 @@ checks:
     short_name: Eldin Volcano - Chest behind Bombable Wall in First Room
   \Eldin\Volcano\First Room\Rupee behind Bombable Wall in First Room:
     original item: 'Blue Rupee #8'
-    type: Rupees (No Quick Beetle)
+    type: Freestanding Rupees, Beginner Rupees
     short_name: Eldin Volcano - Rupee behind Bombable Wall in First Room
   \Eldin\Volcano\First Room\Rupee in Crawlspace in First Room:
     original item: Blue Rupee

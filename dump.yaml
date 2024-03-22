@@ -1869,9 +1869,9 @@ items:
 - \Skyview Temple\Skyview Spring\Strike Crest
 - \Skyview Temple\Skyview Spring\Goddess Cube in Skyview Spring
 - \Skyview Temple\Skyview Spring\Sacred Water
-- \The Sky\North East\Form a Squirrel Ring above Volcanic Island
-- \The Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin
-- \The Sky\North East\Form a Squirrel Ring above Bamboo Island
+- \The Sky\North East\Form a Swirrell Ring above Volcanic Island
+- \The Sky\North East\Form a Swirrell Ring above Lumpy Pumpkin
+- \The Sky\North East\Form a Swirrell Ring above Bamboo Island
 - \The Sky\North East\Island near Bamboo Island\Top Goddess Chest
 - \The Sky\North East\Island near Bamboo Island\Goddess Chest in Cave
 - \The Sky\North East\Northeast Island\Goddess Chest behind Bombable Rocks
@@ -9328,9 +9328,9 @@ areas:
             \The Sky\North East\Beedle's Island: 'True'
           hint_region: The Sky
           locations:
-            Form a Squirrel Ring above Volcanic Island: 'True'
-            Form a Squirrel Ring above Lumpy Pumpkin: 'True'
-            Form a Squirrel Ring above Bamboo Island: 'True'
+            Form a Swirrell Ring above Volcanic Island: 'True'
+            Form a Swirrell Ring above Lumpy Pumpkin: 'True'
+            Form a Swirrell Ring above Bamboo Island: 'True'
           name: \The Sky\North East
           sub_areas:
             Island near Bamboo Island:
@@ -10459,18 +10459,18 @@ checks:
     original item: Silver Rupee
     type: null
     short_name: The Sky - Chest in Breakable Boulder near Lumpy Pumpkin
-  \The Sky\North East\Form a Squirrel Ring above Volcanic Island:
+  \The Sky\North East\Form a Swirrell Ring above Volcanic Island:
     original item: Red Rupee
-    type: Squirrel
-    short_name: The Sky - Form a Squirrel Ring above Volcanic Island
-  \The Sky\North East\Form a Squirrel Ring above Lumpy Pumpkin:
+    type: Swirrell
+    short_name: The Sky - Form a Swirrell Ring above Volcanic Island
+  \The Sky\North East\Form a Swirrell Ring above Lumpy Pumpkin:
     original item: Red Rupee
-    type: Squirrel
-    short_name: The Sky - Form a Squirrel Ring above Lumpy Pumpkin
-  \The Sky\North East\Form a Squirrel Ring above Bamboo Island:
+    type: Swirrell
+    short_name: The Sky - Form a Swirrell Ring above Lumpy Pumpkin
+  \The Sky\North East\Form a Swirrell Ring above Bamboo Island:
     original item: Red Rupee
-    type: Squirrel
-    short_name: The Sky - Form a Squirrel Ring above Bamboo Island
+    type: Swirrell
+    short_name: The Sky - Form a Swirrell Ring above Bamboo Island
   \The Sky\North East\Bamboo Island\Goddess Chest behind Entrance:
     original item: Gold Rupee
     type: goddess, Eldin Volcano Goddess Chests

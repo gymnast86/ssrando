@@ -943,7 +943,7 @@ Can Talk to Yerbal:
   Can Access Upper Great Tree & (Slingshot | Beetle)
   # Bow and Clawshots don't work to hit Yerbal
 
-Inside the Great Tree - Chest guarded by Deku Baba:
+Inside the Great Tree - Chest Guarded by Deku Baba:
   Can Swing Great Tree Platforms | (Can Access Upper Great Tree & Can Defeat Moblins)
   # You can jump to the Chest from above AFTER you defeat the Moblin to remove the void
   # Advanced: Include the logic where beating AC removes the void
@@ -1697,7 +1697,7 @@ Can Get Past Skipper's Rock:
   # You can whip the bomb on the cactus by first slashing it to make it swing
   # Scene Flag 2x02 is "Blow Up Rock in Skipper's Retreat"
 
-Skipper's Retreat - Chest guarded by Quadro Baba:
+Skipper's Retreat - Chest Guarded by Quadro Baba:
   Can Get Past Skipper's Rock
 
 Goddess Cube in Skipper's Retreat:

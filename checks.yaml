@@ -1498,7 +1498,7 @@ Inside the Great Tree - Blow Tree Spiral on Highest Pathway:
   type: Hidden Items, Custom Flag
   Paths:
     - stage/F100_1/r0/l0/TgReact/0xFC54
-Inside the Great Tree - Chest guarded by Deku Baba:
+Inside the Great Tree - Chest Guarded by Deku Baba:
   original item: Gold Rupee
   type:
   Paths:
@@ -3085,7 +3085,7 @@ Ancient Harbour - Slingshot South Box Robot Eye:
   Paths:
     - stage/F301/r0/l0/TgReact/0xFC41
 ## Skipper's Retreat
-Skipper's Retreat - Chest guarded by Quadro Baba:
+Skipper's Retreat - Chest Guarded by Quadro Baba:
   original item: Red Rupee
   type:
   Paths:

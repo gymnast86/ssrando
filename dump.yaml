@@ -1121,7 +1121,7 @@ items:
   Vines
 - \Faron\Faron Woods\Inside the Great Tree\Lower Area\Blow Large Yellow Mushroom after
   Vines
-- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Chest guarded
+- \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Chest Guarded
   by Deku Baba
 - \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Blow Red Mushroom
   after Swinging Platforms West
@@ -1512,7 +1512,7 @@ items:
   Crown
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Unlock Statue
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Blow up Rock
-- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Chest guarded by Quadro Baba
+- \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Chest Guarded by Quadro Baba
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Goddess Cube in Skipper's
   Retreat
 - \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Whip Peahat
@@ -4903,7 +4903,7 @@ areas:
                         \Faron\Faron Woods\Inside the Great Tree\Lower Area\Near Exit: 'True'
                       hint_region: Faron Woods
                       locations:
-                        Chest guarded by Deku Baba: "\\Sword | \\Bow | Bomb Bag |\
+                        Chest Guarded by Deku Baba: "\\Sword | \\Bow | Bomb Bag |\
                           \ \\Beetle | \\Slingshot"
                         Blow Red Mushroom after Swinging Platforms West: Gust Bellows
                         Blow Tall Blue Mushroom after Swinging Platforms South: Gust
@@ -6754,7 +6754,7 @@ areas:
               hint_region: Lanayru Desert
               locations:
                 Slingshot Right Robot Eye above Temple of Time Exit: \Slingshot
-                Bonk Water Node Generator: 'True'
+                Bonk Water Node Generator: "Bomb Bag | \\Hook Beetle"
                 Bonk Main Node Generator: 'True'
                 Water Node: "(Bomb Bag | \\Hook Beetle) & \\Sword"
                 Blow up Main Node Timeshift Stone Rock: "Bomb Bag | \\Hook Beetle"
@@ -7284,7 +7284,7 @@ areas:
                       Past Rock\\Deal with Deku Baba"
                   hint_region: Lanayru Sand Sea
                   locations:
-                    Chest guarded by Quadro Baba: 'True'
+                    Chest Guarded by Quadro Baba: 'True'
                     Goddess Cube in Skipper's Retreat: "Clawshots & \\Goddess Sword"
                     Whip Peahat: "Clawshots & Whip"
                     Deal with Deku Baba: "\\Projectile Item | (Skipper's Retreat Fast\
@@ -10933,10 +10933,10 @@ checks:
     original item: Red Rupee
     type: Hidden Items, Custom Flag
     short_name: Inside the Great Tree - Blow Tree Spiral on Highest Pathway
-  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Chest guarded by Deku Baba:
+  \Faron\Faron Woods\Inside the Great Tree\Lower Area\Path to Chest\Chest Guarded by Deku Baba:
     original item: Gold Rupee
     type: null
-    short_name: Inside the Great Tree - Chest guarded by Deku Baba
+    short_name: Inside the Great Tree - Chest Guarded by Deku Baba
   \Faron\Faron Woods\Deep Woods\Entry\Blow Flowers at Entrance:
     original item: Heart
     type: Hidden Items, Custom Flag
@@ -12065,10 +12065,10 @@ checks:
     original item: Blue Rupee
     type: Hidden Items, Custom Flag
     short_name: Ancient Harbour - Slingshot South Box Robot Eye
-  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Chest guarded by Quadro Baba:
+  \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Past Rock\Chest Guarded by Quadro Baba:
     original item: Red Rupee
     type: null
-    short_name: Skipper's Retreat - Chest guarded by Quadro Baba
+    short_name: Skipper's Retreat - Chest Guarded by Quadro Baba
   \Lanayru\Lanayru Sand Sea\Skipper's Retreat\Top Part\Chest on Cacti Pillar:
     original item: Semi Rare Treasure
     type: null

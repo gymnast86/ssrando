@@ -57,5 +57,5 @@ jobs:
           field: "tool.poetry.version"
       - uses: actions/upload-artifact@v4
         with:
-          name: SSR Season 3 ${{ matrix.os }}
+          name: SSR Co-op Season 2 ${{ matrix.os }}
           path: dist

@@ -31,14 +31,14 @@ main.dol:
   allow_set_respawn_info: 0x80679314
   get_glow_color: 0x8067933C
   game_update_hook: 0x80679398
-  has_upgraded_skyward_strike: 0x80679484
-  has_fast_air_meter_drain: 0x80679494
-  has_heart_drops_enabled: 0x806794A4
-  add_ammo_drops: 0x806794B4
-  drop_nothing: 0x8067959C
-  get_tablet_keyframe_count: 0x806795DC
-  FORCE_MOGMA_CAVE_DIVE: 0x80679742
-  HERO_MODE_OPTIONS: 0x80679743
+  has_upgraded_skyward_strike: 0x806793A0
+  has_fast_air_meter_drain: 0x806793B0
+  has_heart_drops_enabled: 0x806793C0
+  add_ammo_drops: 0x806793D0
+  drop_nothing: 0x806794B8
+  get_tablet_keyframe_count: 0x806794F8
+  FORCE_MOGMA_CAVE_DIVE: 0x80679656
+  HERO_MODE_OPTIONS: 0x80679657
 d_t_D3_scene_changeNP.rel:
   trigger_exit_one: 0x804
   trigger_exit_one_lbl: 0x340

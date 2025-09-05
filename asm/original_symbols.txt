@@ -24,6 +24,7 @@ main.dol:
     LINK_PTR: 0x8057578C
     EQUIPPED_SWORD: 0x80571C74
     # --------------- MISC   STUFF ----------------------------
+    dAcObjBase__create: 0x8002e630
     FontMgr__GetFont: 0x80053f30
     allocOnCurrentHeap: 0x80054ec0
     getModelDataFromOarc: 0x80069b30

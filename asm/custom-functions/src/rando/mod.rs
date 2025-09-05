@@ -506,6 +506,43 @@ extern "C" fn get_glow_color(item_id: u32) -> u32 {
 #[no_mangle]
 extern "C" fn game_update_hook() -> u32 {
     // This gets called everytime the game actor updates
+    static mut demise_spawned: i32 = 0;
+    unsafe {
+        let spawn = reloader::get_spawn_slave();
+        if spawn.name.starts_with(b"B400")
+            && spawn.layer == 1
+            && !actor::find_actor_by_type(333, ptr::null()).is_null()
+        {
+            if is_down(C) && is_down(Z) && demise_spawned == 0 {
+                demise_spawned = 1;
+                // spawn actor
+                let params1: u32 = 0xFFFFFFC0;
+                let params2: u32 = 0xFFFFFFFF;
+                let pos = Vec3f {
+                    x: 0.0,
+                    y: 1000.0,
+                    z: -500.0,
+                };
+                let rot = Vec3s { x: 0, y: 0, z: 0 };
+                let scale = Vec3f {
+                    x: 1.0,
+                    y: 1.0,
+                    z: 1.0,
+                };
+                actor::spawn_actor(
+                    actor::ActorID::B_LASTBOSS as i32,
+                    0,
+                    params1,
+                    &pos,
+                    &rot,
+                    &scale,
+                    params2,
+                );
+            }
+        } else {
+            demise_spawned = 0;
+        }
+    }
     1
 }
 

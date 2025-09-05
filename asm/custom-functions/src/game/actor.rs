@@ -1,3 +1,4 @@
+use crate::system::math::*;
 use core::ffi::c_void;
 
 // This is also known as Profile name for decomp purposes
@@ -713,6 +714,29 @@ pub enum ActorID {
 
 extern "C" {
     fn findActorByActorType(actor_type: i32, start_actor: *const c_void) -> *mut c_void;
+    fn dAcObjBase__create(
+        actor_type: i32,
+        room_id: i32,
+        params1: u32,
+        pos: *const Vec3f,
+        rot: *const Vec3s,
+        scale: *const Vec3f,
+        params2: u32,
+    );
+}
+
+pub fn spawn_actor(
+    actor_type: i32,
+    room_id: i32,
+    params1: u32,
+    pos: *const Vec3f,
+    rot: *const Vec3s,
+    scale: *const Vec3f,
+    params2: u32,
+) {
+    unsafe {
+        dAcObjBase__create(actor_type, room_id, params1, pos, rot, scale, params2);
+    }
 }
 
 pub fn find_actor_by_type(actor_type: i32, start_actor: *const c_void) -> *mut c_void {
